@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mikeautomations.github.io/sitemap.xml
