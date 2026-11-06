@@ -21,5 +21,20 @@ We build it. It runs. Then you pay. Workflow automation and custom internal syst
 - [Client document collection for bookkeepers](https://mikeautomations.github.io/en/bookkeeper-document-collection/): A step-by-step client document collection workflow for bookkeepers: checklists, reminders, one upload link and a daily status list. Automated and live in 14 days.
 - [Privacy policy](https://mikeautomations.github.io/en/privacy/)
 
+## Blog
+- [All articles](https://mikeautomations.github.io/en/blog/)
+- [MTD for Income Tax: Quarterly Update Workflow for Practices](https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/): MTD for Income Tax turns one annual chase into four. How UK practices can organise records, reminders and quarterly updates without the scramble.
+- [Client Onboarding Checklist for Accounting Firms](https://mikeautomations.github.io/en/blog/accounting-client-onboarding-checklist/): A step-by-step client onboarding checklist for small accounting firms: engagement letter, ID checks, access and first documents. Plus what to automate.
+- [How to Get Clients to Send Documents on Time](https://mikeautomations.github.io/en/blog/get-clients-to-send-documents-on-time/): How accountants and bookkeepers can get clients to send records on time: personal lists, one upload link, a reminder schedule and clear deadlines.
+- [Email Templates for Chasing Client Documents](https://mikeautomations.github.io/en/blog/document-chasing-email-templates/): Five copy-and-paste email templates for chasing client documents: first request, friendly reminder, deadline reminder, final notice and thank-you.
+- [1099 Season Checklist for Bookkeepers (2026 Tax Year)](https://mikeautomations.github.io/en/blog/1099-season-checklist-bookkeepers/): A practical 1099-NEC checklist for bookkeepers: collect W-9s early, track who crosses the threshold, and meet the January deadline without the scramble.
+- [What to Automate First in a Small Service Business](https://mikeautomations.github.io/en/blog/what-to-automate-first-small-business/): A simple way to choose your first automation: find the process that repeats every week, follows the same steps, and costs you most when it's forgotten.
+- [Zapier vs Make vs n8n for a Small Business](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/): Zapier, Make or n8n? A plain-English comparison for small service businesses: ease of use, complex workflows, hosting and who each one suits.
+- [Estimate Follow-Up Email Templates for Contractors](https://mikeautomations.github.io/en/blog/estimate-follow-up-email-templates-contractors/): Copy-and-paste follow-up emails and texts for contractors who send estimates and hear nothing back. Polite, short, and timed to win more jobs.
+- [How to Reduce No-Shows for Service Appointments](https://mikeautomations.github.io/en/blog/reduce-appointment-no-shows/): Practical ways for service businesses to cut no-shows: confirmations, timed reminders, easy rescheduling and a clear policy. Plus what to automate.
+- [How to Ask Every Customer for a Google Review](https://mikeautomations.github.io/en/blog/ask-for-google-reviews-automatically/): A simple, policy-safe way for service businesses to ask every customer for a Google review after the job, and why you shouldn't filter who gets asked.
+- [AI in a Small Accounting Firm: What to Automate](https://mikeautomations.github.io/en/blog/ai-in-accounting-firms-what-to-automate/): Where AI genuinely helps a small accounting or bookkeeping firm today, where it doesn't, and how to keep a person in control of every client-facing step.
+- [How Much Does Business Automation Cost?](https://mikeautomations.github.io/en/blog/business-automation-cost/): What workflow automation really costs a small business: the build, software and support. Honest pricing, and what drives the price up or down.
+
 ## Hebrew (Israel)
 - [האתר בעברית](https://mikeautomations.github.io/he/)
