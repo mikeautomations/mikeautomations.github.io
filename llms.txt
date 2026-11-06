@@ -17,6 +17,8 @@ We build it. It runs. Then you pay. Workflow automation and custom internal syst
 - [Home](https://mikeautomations.github.io/en/)
 - [Bookkeepers & tax preparers](https://mikeautomations.github.io/en/bookkeepers/): Stop chasing clients for W-2s, 1099s and receipts. Your whole document workflow, automated end to end. Live in 14 days, and you pay only if it works.
 - [Home service contractors](https://mikeautomations.github.io/en/contractors/): Follow up on every estimate, remind customers before appointments and cut no-shows. Your whole follow-up workflow, automated end to end. Live in 14 days, pay only if it works.
+- [Self Assessment document chasing](https://mikeautomations.github.io/en/self-assessment-document-chasing/): Stop chasing Self Assessment clients for P60s, rental figures and receipts before 31 January. An automated chasing workflow, live in 14 days. Pay only if it works.
+- [Client document collection for bookkeepers](https://mikeautomations.github.io/en/bookkeeper-document-collection/): A step-by-step client document collection workflow for bookkeepers: checklists, reminders, one upload link and a daily status list. Automated and live in 14 days.
 - [Privacy policy](https://mikeautomations.github.io/en/privacy/)
 
 ## Hebrew (Israel)
