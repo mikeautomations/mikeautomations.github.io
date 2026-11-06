@@ -13,7 +13,10 @@
     mail: { color: "106, 168, 255", bin: 2 },
   };
   const KIND_LIST = ["wa", "mail", "form", "file", "wa", "mail"];
-  const FONT = '"IBM Plex Sans Hebrew", system-ui, sans-serif';
+  // Words and reading direction come from the page (copy.ts → data-flow on .as), so every language animates natively.
+  const cfg = Object.assign({ bins: ["תיק לקוח", "מסמכים", "הצעת מחיר"], hub: "קורא וממיין", pause: "השהה", play: "הפעל", dir: "rtl" }, JSON.parse(document.querySelector(".as")?.dataset.flow || "{}"));
+  const LTR = cfg.dir === "ltr";
+  const FONT = LTR ? '"Geist", system-ui, sans-serif' : '"IBM Plex Sans Hebrew", system-ui, sans-serif';
   const pick = () => KIND_LIST[Math.floor(Math.random() * KIND_LIST.length)];
 
   function roundRect(ctx, x, y, w, h, r) {
@@ -106,7 +109,7 @@
         d.y += d.vy * dt;
         if (d.x < -40) { d.x = s.w + 40; d.y = Math.random() * s.h; d.kind = pick(); }
         const y = ((d.y - scrollY * 0.08 * d.depth) % (s.h + 80) + s.h + 80) % (s.h + 80) - 40;
-        chip(ctx, d.kind, d.x, y, 22 + d.depth * 12, 0.22 * d.depth);
+        chip(ctx, d.kind, LTR ? s.w - d.x : d.x, y, 22 + d.depth * 12, 0.22 * d.depth);
       }
     };
   }
@@ -116,23 +119,24 @@
     const box = canvas.parentElement;
     const s = surface(canvas, () => [box.clientWidth, box.clientHeight]);
     const { ctx } = s;
-    const bins = [{ label: "תיק לקוח", n: 12 }, { label: "מסמכים", n: 31 }, { label: "הצעת מחיר", n: 7 }];
+    const bins = [{ label: cfg.bins[0], n: 12 }, { label: cfg.bins[1], n: 31 }, { label: cfg.bins[2], n: 7 }];
     const tokens = [], sparks = [];
     let pulse = 0, spin = 0, dash = 0, sinceSpawn = 0;
     addEventListener("resize", s.resize);
 
     const narrow = () => s.w < 560;
     const hub = () => (narrow() ? { x: s.w * 0.5, y: s.h * 0.4, r: 44 } : { x: s.w * 0.5, y: s.h * 0.46, r: 60 });
-    // RTL reading: requests arrive from the right, sorted results leave to the left.
+    // Requests arrive from the reading start (right in Hebrew, left in English) and leave sorted to the other side.
+    const mx = (x) => (LTR ? s.w - x : x);
     const binPos = (i) => {
-      if (narrow()) return { x: s.w * (0.8 - i * 0.3), y: s.h - 92, w: Math.min(104, s.w * 0.29), h: 40 };
+      if (narrow()) return { x: mx(s.w * (0.8 - i * 0.3)), y: s.h - 92, w: Math.min(104, s.w * 0.29), h: 40 };
       const h = hub();
-      return { x: Math.max(100, h.x - h.r - 230), y: h.y + (i - 1) * 84, w: 160, h: 48 };
+      return { x: mx(Math.max(100, h.x - h.r - 230)), y: h.y + (i - 1) * 84, w: 160, h: 48 };
     };
 
     function spawn() {
       const h = hub();
-      const x = narrow() ? s.w * (0.1 + Math.random() * 0.8) : s.w + 30;
+      const x = narrow() ? s.w * (0.1 + Math.random() * 0.8) : mx(s.w + 30);
       const y = narrow() ? -30 : s.h * (0.08 + Math.random() * 0.8);
       tokens.push({ kind: pick(), x0: x, y0: y, cx: (x + h.x) / 2 + (Math.random() - 0.5) * 160, cy: (y + h.y) / 2 + (Math.random() - 0.5) * 160, t: 0, dur: 1.8 + Math.random() * 0.9 });
     }
@@ -206,16 +210,17 @@
         roundRect(ctx, b.x - b.w / 2, b.y - b.h / 2, b.w, b.h, 12);
         ctx.fill();
         ctx.stroke();
-        ctx.direction = "rtl";
-        ctx.textAlign = "right";
+        // Label at the reading start of the tray, count at its end.
+        ctx.direction = cfg.dir;
+        ctx.textAlign = LTR ? "left" : "right";
         ctx.font = `600 ${narrow() ? 12 : 14.5}px ${FONT}`;
         ctx.fillStyle = "rgba(243, 246, 255, 0.92)";
-        ctx.fillText(bin.label, b.x + b.w / 2 - 12, b.y);
+        ctx.fillText(bin.label, LTR ? b.x - b.w / 2 + 12 : b.x + b.w / 2 - 12, b.y);
         ctx.direction = "ltr";
-        ctx.textAlign = "left";
+        ctx.textAlign = LTR ? "right" : "left";
         ctx.font = `700 ${narrow() ? 12 : 14.5}px ${FONT}`;
         ctx.fillStyle = `rgba(${ACCENT}, 1)`;
-        ctx.fillText(String(bin.n), b.x - b.w / 2 + 12, b.y);
+        ctx.fillText(String(bin.n), LTR ? b.x + b.w / 2 - 12 : b.x - b.w / 2 + 12, b.y);
       }
 
       // the AI hub
@@ -245,10 +250,10 @@
       ctx.fillStyle = `rgba(${ACCENT}, 1)`;
       ctx.font = `700 ${narrow() ? 24 : 32}px ${FONT}`;
       ctx.fillText("AI", h.x, h.y - (narrow() ? 5 : 7));
-      ctx.direction = "rtl";
+      ctx.direction = cfg.dir;
       ctx.fillStyle = "rgba(170, 182, 210, 1)";
       ctx.font = `500 ${narrow() ? 10.5 : 12.5}px ${FONT}`;
-      ctx.fillText("קורא וממיין", h.x, h.y + (narrow() ? 15 : 19));
+      ctx.fillText(cfg.hub, h.x, h.y + (narrow() ? 15 : 19));
     }
 
     let visible = false, paused = false;
@@ -257,7 +262,7 @@
     if (btn) btn.addEventListener("click", () => {
       paused = !paused;
       btn.setAttribute("aria-pressed", String(paused));
-      btn.textContent = paused ? "הפעל" : "השהה";
+      btn.textContent = paused ? cfg.play : cfg.pause;
     });
     for (let i = 0; i < 3; i++) { spawn(); tokens[i].t = 0.15 + i * 0.25; }
     return (dt) => {
