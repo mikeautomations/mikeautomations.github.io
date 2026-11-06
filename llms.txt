@@ -1,39 +1,23 @@
-# מייק מערכות ואוטומציות (Mike Automations)
+# Mike Automations
 
-> מייק מערכות ואוטומציות: אוטומציות לעסקים, מערכות פנימיות וסוכני AI לעסקי שירות בישראל. פניות, מסמכים, חשבוניות ותזכורות שקורים לבד. שיחת מיפוי של 15 דקות בחינם.
+> We automate document requests, reminders and follow-ups for small accounting and bookkeeping firms. Live in 14 days. You pay only if it works.
 
-עסק ישראלי שבונה אוטומציות, מערכות ייחודיות לעסק וסוכני AI לעסקי שירות: משרדים, סוכנויות, קליניקות וחברות ניהול. מתחילים בשיחת מיפוי של 15 דקות בחינם.
+We build it. It runs. Then you pay. Workflow automation and custom internal systems for small service businesses in the UK and US. Payment only after 14 days of the system running, and only if it works. It starts with a free 15-minute call.
 
-## מחירים
-- יצירת פעולות אוטומטיות (תהליך אחד): החל מ-5,500 ₪, חד-פעמי, מוכן תוך יום-יומיים
-- יצירת מערכת ייחודית לעסק: החל מ-9,000 ₪, חד-פעמי, שלב ראשון תוך 3-4 שבועות
-- ליווי חודשי (לא חובה): החל מ-900 ₪ לחודש
+## Pricing (US dollars)
+- Workflow automation (one process): $2,000 one-off. Founding price for the first 3 clients: $1,500
+- Custom system: from $5,000 one-off
+- Maintenance (optional): $150 a month
 
-## יצירת קשר
-- אתר: https://mikeautomations.github.io/
-- וואטסאפ: +972546980558
-- מייל: mikelgershman@gmail.com
+## Contact
+- Website: https://mikeautomations.github.io/en/
+- Email: mikelgershman@gmail.com
 
-## עמודים
-- [דף ראשי](https://mikeautomations.github.io/)
-- [כל המדריכים](https://mikeautomations.github.io/guides/)
-- [אוטומציה למשרד רואי חשבון](https://mikeautomations.github.io/automation-accountants/): איסוף מסמכים מלקוחות, תזכורות אוטומטיות, תיוק קבלות ומעקב אחרי דוחות. אוטומציה למשרד רואי חשבון שחוסכת רדיפה אחרי לקוחות.
-- [אוטומציה לסוכנות ביטוח](https://mikeautomations.github.io/automation-insurance-agency/): קליטת לידים, תזכורות לחידוש פוליסות, איסוף מסמכים לתביעות ומעקב משימות. אוטומציה לסוכנות ביטוח שעובדת עם הכלים הקיימים.
-- [אוטומציה לקליניקה](https://mikeautomations.github.io/automation-clinic/): תזכורות לתורים, טפסי קליטה דיגיטליים, מענה לפניות ומעקב אחרי מטופלים. אוטומציה לקליניקה ולמטפלים שמפנה זמן לטיפול עצמו.
-- [אוטומציה לחברת ניהול נכסים](https://mikeautomations.github.io/automation-property-management/): פתיחת קריאות שירות, עדכון ספקים ודיירים, מעקב תשלומים ודוחות. אוטומציה לחברות ניהול נכסים ובניינים שעובדות בוואטסאפ ובאקסל.
-- [איסוף מסמכים מלקוחות אוטומטי](https://mikeautomations.github.io/document-collection-automation/): איך מפסיקים לרדוף אחרי לקוחות בשביל מסמכים: רשימה אישית, תזכורות אוטומטיות ותיוק לבד. מתאים למשרדים, סוכנויות ונותני שירות.
-- [אוטומציה לוואטסאפ עסקי](https://mikeautomations.github.io/whatsapp-business-automation/): מענה ראשוני לכל פנייה, תזכורות ללקוחות וחיבור הוואטסאפ לרשימת הלקוחות. אוטומציה לוואטסאפ עסקי בדרך הרשמית של Meta.
-- [אוטומציה למשרד עורכי דין](https://mikeautomations.github.io/automation-law-office/): קליטת לקוח חדש, איסוף מסמכים, תזכורות למועדים ועדכון לקוחות על סטטוס התיק. אוטומציה למשרד עורכי דין, בלי לשנות את דרך העבודה.
-- [אוטומציה ליועצי משכנתאות](https://mikeautomations.github.io/automation-mortgage-advisors/): איסוף מסמכים מלווים, מעקב אחרי שלבי התיק מול הבנקים ועדכון לקוחות. אוטומציה ליועצי משכנתאות שמקצרת את הדרך לאישור.
-- [אוטומציה למתווכי נדל"ן](https://mikeautomations.github.io/automation-real-estate-agents/): מענה מיידי לכל פנייה על נכס, תיאום סיורים, תזכורות ומעקב אחרי מתעניינים. אוטומציה למתווכים ולמשרדי תיווך שלא מפספסים לקוחות.
-- [אוטומציה לקבלני שיפוצים](https://mikeautomations.github.io/automation-renovation-contractors/): מענה לכל פנייה, תיאום ביקור באתר, הצעת מחיר שיוצאת מהר, עדכוני שלבים ללקוח ותזכורות תשלום. אוטומציה לקבלני שיפוצים ובעלי מקצוע.
-- [אוטומציה לסטודיו כושר ומאמנים](https://mikeautomations.github.io/automation-fitness-studio/): מענה לפניות, מעקב אחרי שיעור ניסיון, תזכורת לפני שמנוי נגמר והודעה למי שהפסיק להגיע. אוטומציה לסטודיו כושר, פילאטיס ומאמנים.
-- [כמה עולה אוטומציה לעסק](https://mikeautomations.github.io/automation-cost/): כמה עולה אוטומציה לעסק בישראל: מחירים אמיתיים לתהליך אחד, למערכת ייחודית ולליווי חודשי, מה משפיע על המחיר ואילו עלויות יש אחרי ההקמה.
-- [חשבוניות ותזכורות תשלום אוטומטיות](https://mikeautomations.github.io/invoice-payment-reminders/): הפקת חשבונית אוטומטית בסיום עבודה, תזכורת ללקוח שלא שילם ועדכון כשהכסף נכנס. גבייה מסודרת בלי לרדוף ובלי מבוכה.
-- [מערכת לניהול לקוחות לעסק קטן](https://mikeautomations.github.io/crm-small-business/): מתי מספיקה מערכת CRM מוכנה, ומתי כדאי מערכת לניהול לקוחות שבנויה בשביל העסק. השוואה כנה, בלי לדחוף לפתרון יקר.
-- [סוכן AI לעסק: מתי כן ומתי לא](https://mikeautomations.github.io/ai-agent-for-business/): מה זה סוכן AI לעסק, מה הוא יודע לעשות היום, ומתי אוטומציה רגילה עדיפה. הסבר פשוט, בלי הבטחות מוגזמות.
-- [מעקב אוטומטי אחרי הצעות מחיר](https://mikeautomations.github.io/quote-follow-up/): הצעת מחיר שנשלחה ונשכחה היא עסקה שהלכה. מעקב אוטומטי מזכיר ללקוח ולכם בזמן, ומראה אילו הצעות עדיין פתוחות.
-- [Make, n8n או Zapier: מה לבחור](https://mikeautomations.github.io/make-n8n-zapier/): ההבדלים בין Make, n8n ו-Zapier בשפה פשוטה: למי כל כלי מתאים, מי מתחזק, ומתי בכלל לא צריך אף אחד מהם.
-- [ניהול לידים אוטומטי](https://mikeautomations.github.io/lead-management-automation/): איך לקלוט לידים מהאתר, מפייסבוק, מוואטסאפ ומהטלפון למקום אחד, לענות מיד ולעקוב עד סגירה. ניהול לידים אוטומטי לעסקי שירות.
-- [טפסים וחתימה דיגיטלית לעסק](https://mikeautomations.github.io/digital-forms-signature/): איך לשלוח ללקוח טופס או הסכם לחתימה בטלפון, לקבל אותו חתום ולשמור אותו בתיק לבד. טפסים דיגיטליים וחתימה דיגיטלית לעסקי שירות.
-- [בקשת ביקורות בגוגל מלקוחות](https://mikeautomations.github.io/google-reviews-requests/): איך לבקש מכל לקוח ביקורת בגוגל בסוף השירות, בהודעה קצרה עם קישור ישיר, בלי להפר את הכללים של גוגל. תהליך פשוט לעסקי שירות.
+## Pages
+- [Home](https://mikeautomations.github.io/en/)
+- [Bookkeepers & tax preparers](https://mikeautomations.github.io/en/bookkeepers/): Stop chasing clients for W-2s, 1099s and receipts. Your whole document workflow, automated end to end. Live in 14 days, and you pay only if it works.
+- [Home service contractors](https://mikeautomations.github.io/en/contractors/): Follow up on every estimate, remind customers before appointments and cut no-shows. Your whole follow-up workflow, automated end to end. Live in 14 days, pay only if it works.
+- [Privacy policy](https://mikeautomations.github.io/en/privacy/)
+
+## Hebrew (Israel)
+- [האתר בעברית](https://mikeautomations.github.io/he/)
