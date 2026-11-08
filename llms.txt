@@ -68,6 +68,9 @@ We build it. It runs. Then you pay. Workflow automation and custom internal syst
 - [Client Portal vs Email: How Should Clients Send Documents?](https://mikeautomations.github.io/en/blog/client-portal-vs-email-document-collection/): Portal, email, shared folder or upload link? The honest trade-offs for small accounting firms collecting documents, and how to get clients to use it.
 - [How to Reply to Every New Enquiry Within Minutes](https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/): Enquiries go cold while you're busy. How to acknowledge every enquiry within minutes, keep them in one list and follow up without forgetting.
 - [How Bookkeepers Can Collect Payroll Inputs on Time](https://mikeautomations.github.io/en/blog/collect-payroll-inputs-from-clients/): Timesheets, starters, leavers and changes arriving late every pay run? A simple workflow for bookkeepers to collect payroll inputs on time.
+- [Xero Automation Ideas for Small Accounting Practices](https://mikeautomations.github.io/en/blog/xero-practice-automation-ideas/): Automation ideas around Xero for small practices: bank feed queries, missing receipts, invoice chasing and month-end checklists, with a person in control.
+- [How to Brief an Automation Project (Free Template)](https://mikeautomations.github.io/en/blog/how-to-brief-an-automation-project/): What to tell whoever builds your automation: the process today, the tools, what done looks like and what stays manual. With a copy-and-paste template.
+- [ChatGPT Prompts for Accountants, Without Client Data](https://mikeautomations.github.io/en/blog/chatgpt-prompts-for-accountants/): Useful ChatGPT prompts for small accounting firms: client emails, checklists and explanations, plus simple rules for keeping client data out of AI chats.
 
 ## Hebrew (Israel)
 - [האתר בעברית](https://mikeautomations.github.io/he/)

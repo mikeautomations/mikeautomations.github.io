@@ -967,3 +967,90 @@ No. A simple form link works on any phone or computer, and the answers come to y
 ### Does this replace payroll software?
 No. Payroll is still run in your payroll software. The workflow makes sure the inputs arrive on time and complete.
 
+## Xero automation ideas for small accounting practices
+Source: https://mikeautomations.github.io/en/blog/xero-practice-automation-ideas/ (2026-11-08)
+
+Xero already automates a lot inside the books: bank feeds, rules, recurring invoices. The time sink is usually around it: asking clients about transactions, chasing missing receipts, and keeping track of who's ready for month end. That's where workflow automation helps most.
+What can be connected depends on your Xero plan, the apps you use and what Xero's integrations allow, so treat these as ideas to check, not promises.
+
+### Ideas that save the most time
+- Uncategorised bank lines: send each client a short list of the transactions you need explained, instead of a long email thread
+- Missing receipts: ask for the receipt for a specific transaction, with one upload link, and remind until it's in
+- Overdue invoices for your clients' customers: friendly reminders on a schedule your client approves
+- Month-end checklist: one list per client of what's done and what's waiting, ready each morning
+- New client set-up: create the client folder and first requests once the engagement letter is signed
+
+### How to decide what to automate first
+1. Pick the task you repeat for most clients every month.
+2. Write down the steps as they happen today, including who asks whom and how.
+3. Define "done" in one sentence, for example "every client with uncategorised lines gets one clear list on the 3rd".
+4. Automate the requests and reminders first. Leave the judgement calls with your team.
+
+### Where to be careful
+- Only give the automation the access it needs, and keep client data in your own accounts
+- Never let anything post to the ledger without a person reviewing it
+- If AI suggests a category or reads a receipt, show it as a suggestion for a person to approve
+
+### For illustration
+For illustration: on the 3rd of each month, every client with uncategorised bank lines gets one email listing them, with a simple form to explain each one. Answers come back into a single sheet for the bookkeeper to review and post. Clients with nothing outstanding get nothing.
+
+### Does this replace Xero rules or apps like Dext?
+No. Those handle what happens inside the books. The workflow handles the conversation with the client around them: questions, reminders and status.
+
+### Does it need a paid Xero add-on?
+Not always. It depends on what you want to connect. On a call we check what your current plan and apps already allow.
+
+## How to brief an automation project (with a free template)
+Source: https://mikeautomations.github.io/en/blog/how-to-brief-an-automation-project/ (2026-11-08)
+
+Most automation projects that disappoint weren't built badly. They were briefed vaguely. "Automate our onboarding" can mean ten different things. A one-page brief fixes that, and it costs you about twenty minutes.
+
+### What a good brief covers
+- The process as it happens today, step by step, including the messy parts
+- Who does each step, and how often it happens
+- The tools involved, and which accounts the automation may use
+- What "done" looks like, in one or two sentences you could test
+- What must stay manual, such as advice, pricing or anything that needs judgement
+- Anything that goes to clients, and who approves the wording
+
+### A brief template
+
+### Questions to ask whoever builds it
+- What happens when something fails, and who gets told?
+- Whose accounts does it run in, and what happens if we stop working together?
+- How will we test it on real work before paying?
+- How do we pause it?
+
+### Do I need to know which tool to use?
+No. Describe the process and the tools you already use. Choosing the automation platform is the builder's job.
+
+### How long should the brief be?
+One page is enough. The "done means" line matters most, because it's how you'll judge the result.
+
+## ChatGPT prompts for accountants, without risking client data
+Source: https://mikeautomations.github.io/en/blog/chatgpt-prompts-for-accountants/ (2026-11-08)
+
+AI chat tools are good at drafting: emails, checklists, plain-English explanations. Used carefully, they save time on the writing that surrounds the real work. The rule that matters most is simple: the prompt shouldn't contain anything you couldn't put on a postcard.
+
+### Rules before any prompt
+- No client names, addresses, tax references, bank details or figures in a general AI chat
+- Use placeholders like [client name] and fill them in yourself afterwards
+- Check your firm's policy and the AI tool's data settings before using it for work
+- Read every draft. You're responsible for anything sent in your name
+
+### Prompt: a friendly document request
+
+### Prompt: explain something simply
+
+### Prompt: turn a process into a checklist
+The checklist you get back is also a good starting point for automating the process later.
+
+### Where prompts stop and automation starts
+Copying drafts between a chat window and your email still takes time, and it's easy to slip client details into the chat. A workflow can use the same kind of drafting inside your own systems, fill in client details itself, and put every draft in a queue for a person to approve before it's sent.
+
+### Is it safe to paste client documents into ChatGPT?
+Not into a general chat. Keep client data in tools your firm has approved for it, with data settings you've checked.
+
+### Can AI give tax advice to clients?
+It shouldn't. Use it for drafting and explaining general ideas. Advice stays with a qualified person.
+
