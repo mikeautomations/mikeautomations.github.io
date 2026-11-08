@@ -15,6 +15,18 @@ We build it. It runs. Then you pay. Workflow automation and custom internal syst
 
 ## Pages
 - [Home](https://mikeautomations.github.io/en/)
+- [Services](https://mikeautomations.github.io/en/services/): We automate the admin that eats your week: chasing documents, reminders, follow-ups and data entry. Fixed price, live in 14 days, paid only if it works.
+- [Pricing](https://mikeautomations.github.io/en/pricing/): Workflow automation $2,000 ($1,500 founding offer). Custom systems from $5,000. Optional support $150/month. Nothing is due until it has run for 14 days.
+- [How it works](https://mikeautomations.github.io/en/how-it-works/): A 15-minute call, a written plan with a fixed price within 48 hours, a build of a few days, then 14 days live in your firm. You pay only if it works.
+- [About](https://mikeautomations.github.io/en/about/): Mike Automations is Michael, a native English speaker who automates admin for small firms in the UK, Europe and the US.
+- [FAQ](https://mikeautomations.github.io/en/faq/): How "pay only if it works" works, what it costs, data and GDPR, which tools it connects to, and how long it takes.
+- [Contact](https://mikeautomations.github.io/en/contact/): Book a 15-minute call or email Michael. Calls Monday to Thursday, 2-6 PM UK time.
+- [Accountants (UK)](https://mikeautomations.github.io/en/accountants/): Stop chasing clients for records before 31 January. Personal checklists, automatic reminders and a morning list of who's outstanding. Paid only if it works.
+- [Agencies](https://mikeautomations.github.io/en/agencies/): Automate the chasing for logins, content, feedback and sign-offs. Every client gets a checklist, reminders go out, and you see who's holding up which project.
+- [Service businesses](https://mikeautomations.github.io/en/service-businesses/): Quotes that follow themselves up, appointment reminders, review requests and enquiries that never go cold. Fixed price, live in 14 days, paid only if it works.
+- [Examples](https://mikeautomations.github.io/en/examples/): What an automation build looks like, step by step: document chasing for an accounting practice, onboarding for an agency, quote follow-ups for a contractor.
+- [Terms](https://mikeautomations.github.io/en/terms/): The terms for using this website and for automation work by Mike Automations.
+- [Cookies](https://mikeautomations.github.io/en/cookies/): This site uses no advertising or analytics cookies.
 - [Bookkeepers & tax preparers](https://mikeautomations.github.io/en/bookkeepers/): Stop chasing clients for W-2s, 1099s and receipts. Your whole document workflow, automated end to end. Live in 14 days, and you pay only if it works.
 - [Home service contractors](https://mikeautomations.github.io/en/contractors/): Follow up on every estimate, remind customers before appointments and cut no-shows. Your whole follow-up workflow, automated end to end. Live in 14 days, pay only if it works.
 - [Self Assessment document chasing](https://mikeautomations.github.io/en/self-assessment-document-chasing/): Stop chasing Self Assessment clients for P60s, rental figures and receipts before 31 January. An automated chasing workflow, live in 14 days. Pay only if it works.
