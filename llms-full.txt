@@ -1,0 +1,969 @@
+# Mike Automations: full text
+
+> We automate document requests, reminders and follow-ups for small accounting and bookkeeping firms. Live in 2-3 days. You pay once it's running and you're happy with it.
+
+## Frequently asked questions
+### What does "pay when you're happy" mean?
+We write down what the workflow has to do, such as "every new client gets a checklist and reminders until their documents are in." It goes live in your firm, you check it, and if it does that and you're happy with it, you pay. If not, you don't.
+
+### How much does it cost?
+Workflow automation is $2,000. The first 3 firms get it for $1,500. Custom systems start at $5,000, and optional monthly support is $150. Prices are in US dollars, invoiced in £/€ at the equivalent rate.
+
+### How long does it take?
+The written plan comes within 48 hours of the call. The build usually takes 2-3 days. From the call to live is usually under a week, and you pay once you're happy with it.
+
+### Do I need to be technical?
+No. You show me how you do it today, and I build it. The walkthrough is in plain English, and you get a one-page guide.
+
+### Will this replace Xero, QuickBooks or our portal?
+No. It works with what you have, including portals like Karbon or TaxDome. It just does the chasing and the copying.
+
+### Which tools does it work with?
+Xero, QuickBooks, FreeAgent, Sage, Gmail, Outlook, Google Drive, OneDrive, Dropbox, Karbon, TaxDome, Slack and more. If yours isn't listed, ask. Most tools have a way in.
+
+### What about client data and GDPR?
+It stays in your accounts: your email, your drive, your tools. I only get the access the workflow needs, and I don't use the data for anything else. Details in the privacy policy.
+
+### Will my clients know it's automated?
+They'll see friendly emails written in your voice and sent from your address. You approve the wording before anything goes out.
+
+### What if something breaks?
+In the first weeks live, I'm watching it closely and fix anything straight away. Small fixes for 60 days are included. After that, support is optional at $150/mo, or I quote any fix before doing it.
+
+### Can I pause or turn it off?
+Yes. Every build has a simple off switch, and the one-page guide shows where it is.
+
+### Who owns what you build?
+You do. It runs in your accounts. If we stop working together, it keeps running, and I hand over everything you need.
+
+### Where are you based?
+Our UK mailing address is in Sheffield. I work remotely with clients across the UK, Europe and the US, on UK hours. Calls are Monday to Thursday, 2-6 PM UK time (9 AM-1 PM in New York). Everything else is by email.
+
+### Can it be ready before the January deadline?
+Yes. The build takes 2-3 days. Start in November and it's chasing records well before 31 January.
+
+### Do you work with firms outside the UK?
+Yes: the UK, Europe and the US. Everything is in English, and invoices are in £, € or $.
+
+### What happens on the 15-minute call?
+You tell me what eats your week. I ask a few questions and tell you straight whether it's worth automating. No pitch. If it fits, the written plan follows within 48 hours.
+
+## The admin that eats your week, done for you.
+Source: https://mikeautomations.github.io/en/services/
+
+We automate the repetitive work in small service firms: chasing clients, reminders, follow-ups and copying data between tools. We build it. It runs. Then you pay.
+
+### Workflow automation: $2,000
+A whole process, automated end to end, from the first request to done.
+- Document collection each client gets a personal checklist, reminders go out until it's in, and files land in the right folder.
+- Client onboarding engagement letter, ID checks, first documents and welcome email, all in order.
+- Follow-ups quotes, invoices and approvals get a polite nudge until someone answers.
+- Morning summary one short list of who's still missing what.
+- Paid once it's running, does what the written plan says, and you're happy with it.
+
+### Custom system: from $5,000
+When spreadsheets and email threads stop being enough. Clients, jobs, documents and tasks in one place, and everyone sees what's due today.
+- A web app with a login per person. Works on your phone.
+- Your existing spreadsheets moved over.
+- First version live in 3-4 weeks, plus 60 days of fixes.
+- AI only where it helps, and a person always signs off.
+
+### Monthly support: $150/mo, optional
+Hosting, monitoring and small changes, by the person who built it. Cancel with 30 days' notice.
+
+### Works with what you already use
+Nothing to replace. If a tool isn't on the list, ask. Most have a way in.
+
+### Who it's for
+
+## Fixed prices. Nothing due until you're happy.
+Source: https://mikeautomations.github.io/en/pricing/
+
+Prices in US dollars, invoiced in £/€ at the equivalent rate. Your exact price is in the written plan, after the call.
+
+### Plans
+
+### How "pay when you're happy" works
+1. We agree in writing what the workflow must do. For example: "every new client gets a checklist and reminders until their documents are in."
+2. It goes live in your firm on real work, and you check it.
+3. If it does what the plan says and you're happy with it, you pay. If not, you owe nothing.
+
+### What's not included
+- Licences for third-party tools you choose to add, such as a paid Zapier plan. We tell you about any of these before you agree, and most builds use tools you already pay for.
+- New work beyond the written plan. Anything extra is quoted separately, and only goes ahead with your OK.
+
+### Payment
+Invoice in GBP, EUR or USD. Pay by bank transfer.
+
+## From call to live in under a week.
+Source: https://mikeautomations.github.io/en/how-it-works/
+
+We build it. It runs. Then you pay.
+
+### The steps
+- 1. A 15-minute call. You show me what eats your week. I ask how it's done today, what tools you use, and what "done" looks like. No preparation needed.
+- 2. A written plan within 48 hours. What gets automated and what stays manual, which tools it connects to, how we'll know it works, and a fixed price. Nothing starts until you say yes.
+- 3. The build, usually 2-3 days. I build it with your accounts and your tools. You get read-only access to see it take shape. Nothing goes out to clients until you've approved the wording.
+- 4. A 30-minute walkthrough. A short session in plain English, plus a one-page guide: what it does, where to look, and how to pause it.
+- 5. Live. It runs on real work. I watch it closely and fix anything that needs fixing.
+- 6. You pay, when you're happy. If it does what the plan said and you're happy with it, you pay the fixed price. If not, you owe nothing.
+
+### What you need to do
+- Join one 15-minute call and one 30-minute walkthrough.
+- Give access to the tools the workflow needs, and only those.
+- Approve the wording of any message that goes to your clients.
+
+### Your data
+It stays in your accounts: your email, your drive, your tools. I only get the access the workflow needs, and I don't use the data for anything else.
+
+## Hi, I'm Michael.
+Source: https://mikeautomations.github.io/en/about/
+
+I automate the admin that small firms do by hand every week.
+
+### The short version
+I'm a native English speaker, and I work with small firms in the UK, Europe and the US. Mike Automations is me: no account managers and no hand-offs. The person you talk to on the first call is the person who builds your workflow and looks after it.
+
+### Why I do this
+Most small firms don't need new software. They need the repetitive part done for them: the chasing, the reminders, the copying from one tool to another. Those jobs are dull, they eat hours every week, and they are exactly what automation is good at.
+
+### How I work
+- Fixed price, agreed in writing. No hourly billing and no surprise invoices.
+- Live in 2-3 days, and you pay when you're happy. You see it running in your firm first.
+- Your tools, your data. I build on top of what you already use, and I only get the access the workflow needs.
+- Plain English. No jargon, and a one-page guide for every build.
+
+### Working hours
+Calls Monday to Thursday, 2-6 PM UK time (9 AM-1 PM in New York). Email any time, and you'll usually hear back the same working day.
+
+### Details
+- Business Mike Automations
+- Email mikelgershman@gmail.com
+- UK mailing address Flat 87, Wayne Grove, Sheffield S35 4FX, United Kingdom
+
+## Let's talk.
+Source: https://mikeautomations.github.io/en/contact/
+
+The quickest way is a 15-minute call. No pitch. You'll know if it's worth building.
+
+## Deadline season, minus the chasing.
+Source: https://mikeautomations.github.io/en/accountants/
+
+Live in 2-3 days. For small UK accounting and bookkeeping practices. Every client gets a personal list of what's missing, reminders go out on their own, and you get a morning list of who's still outstanding. We build it. It runs. Then you pay.
+
+### The problem
+Every January, someone at your practice spends hours emailing clients for the same P60s, bank statements and receipts. Then the same again for VAT every quarter, and soon for MTD quarterly updates too. Nobody trained as an accountant to send "just a gentle reminder" forty times.
+
+### What gets automated
+- Checklists per client built from what each client needs: Self Assessment, VAT, year-end or payroll.
+- Reminders until it's in friendly emails in your voice, from your address, at sensible intervals. They stop as soon as the upload arrives.
+- Files in the right folder each upload lands in the client's folder and gets checked off.
+- Morning list who's still outstanding, and what for. One email, before you start.
+- Optional extras engagement letters drafted from what came in, AML ID checks requested and tracked, and MTD quarterly reminders.
+
+### Works with
+Already using a portal? It stays. This adds the chasing on top.
+
+### Price
+$2,000, or $1,500 for the first 3 firms. Invoiced in £ at the equivalent rate. Paid once it's running and you're happy with it.
+
+### Timing
+Start in November, and it's chasing records well before 31 January.
+
+### Useful reading
+
+## Less waiting on clients. More actual work.
+Source: https://mikeautomations.github.io/en/agencies/
+
+Live in 2-3 days. For small marketing, design, web and creative agencies. We build it. It runs. Then you pay.
+
+### The problem
+Most agencies lose more time waiting on clients than doing the work. The logins, the brand assets, the copy, the feedback round, the final sign-off. Then a project manager spends half the week sending "just checking in" emails, and deadlines slip anyway.
+
+### What gets automated
+- Onboarding checklist each new client gets a short list of exactly what you need, such as logins, assets, brand guide and access, with one place to upload.
+- Reminders until it's in polite nudges in your voice. They stop when the item arrives.
+- Approvals and sign-offs a draft goes out, a reminder follows if there's no answer, and the approval is logged.
+- "Waiting on client" board one morning list of who's holding up which project, and for how long.
+- Hand-offs when a client delivers, the right person is told, in Slack, email or your project tool.
+
+### Works with
+
+### Price
+$2,000, or $1,500 for the first 3 firms. Invoiced in £/€ at the equivalent rate. Paid once it's running and you're happy with it.
+
+### Useful reading
+
+## Stop losing jobs to "I'll get back to them."
+Source: https://mikeautomations.github.io/en/service-businesses/
+
+For trades, home services, clinics, studios and other small service businesses. We build it. It runs. Then you pay.
+
+### The problem
+An enquiry comes in while you're on a job. A quote goes out and nobody follows up. A customer forgets the appointment. A happy customer never leaves a review. None of these takes long, but they all slip when you're busy, and every one costs money.
+
+### What gets automated
+- Enquiries answered fast every web form, email or message gets a reply within minutes and is logged in one list.
+- Quote follow-ups day 2 and day 5, a short friendly follow-up in your name. It stops the moment they reply.
+- Appointment reminders the day before, by email or text, with an easy way to reschedule.
+- Review requests after the job, a polite ask with a direct link to your Google reviews.
+- Weekly summary quotes sent, won and still open.
+
+### Works with
+
+### Price
+$2,000, or $1,500 for the first 3 firms. Invoiced in £/€/$ at the equivalent rate. Paid once it's running and you're happy with it.
+
+### Useful reading
+
+## What a build looks like.
+Source: https://mikeautomations.github.io/en/examples/
+
+These are example builds, made with demo data, to show what gets automated and how. They are not client stories. Names, numbers and firms are invented for illustration.
+
+### Example 1: Year-end records chase (accounting practice, UK)
+The situation (illustrative): a five-person practice with around 300 Self Assessment clients, chasing records by hand from October to January.
+- What stays manual: reviewing the documents and preparing the return.
+1. On 1 October, every client gets a personal checklist: P60, bank statements, rental income and so on, depending on their file.
+2. Reminders go out every 7 days, then every 3 days in January. They stop when the upload arrives.
+3. Each upload is filed to Clients/{Name}/2025-26/ and ticked off.
+4. Every morning at 8:30, the partners get one email: who's outstanding, what's missing, and how many days are left.
+
+### Example 2: New-client onboarding (digital agency)
+The situation (illustrative): a small web agency where each new project stalls for one to two weeks waiting for logins and assets.
+1. The contract is signed, and the client gets a welcome email with a short checklist: domain login, brand files, copy and access to analytics.
+2. One upload link. Each item is ticked off as it arrives.
+3. A reminder goes out after 3 days, and another after 6. On day 8 the account manager gets a heads-up.
+4. When everything is in, the project moves to "Ready to start" in the project tool, and the team is told in Slack.
+
+### Example 3: Quote follow-up (home services contractor)
+The situation (illustrative): a three-van plumbing business that sends 20-30 quotes a month and rarely follows up.
+1. Every quote sent is logged automatically.
+2. On day 2 and day 5, a short friendly follow-up goes out in the owner's name. It stops the moment the customer replies.
+3. Replies go straight to the owner's phone.
+4. Every Monday: quotes sent, won and still open.
+
+### Example 4: VAT quarter paperwork (bookkeeping firm)
+The situation (illustrative): a bookkeeper with 60 VAT-registered clients on quarterly returns.
+1. Two weeks before each quarter end, every VAT client gets a request for invoices, receipts and bank statements.
+2. If the bank feed in Xero shows uncategorised transactions, the client gets a short list to explain.
+3. The bookkeeper gets a dashboard: ready to file, waiting on client, or overdue.
+
+## 25 AI Automations for Accountants & Small Firms
+Source: https://mikeautomations.github.io/en/guide/
+
+A free 12-page guide in plain English. Ideas you can switch on with the tools you already use.
+
+### What's inside
+- 25 automations, from the first enquiry to getting paid
+- Which tools can do each one, and what to watch out for
+- A worked example: the January records chase, start to finish
+- How to use AI safely with client data
+- A one-page shortlist to pick your first three
+
+### The first five
+1. Instant reply to every enquiry
+2. Intake form that creates the client record
+3. Engagement letter drafted from the intake
+4. ID and AML checks requested and tracked
+5. Onboarding sequence
+
+## Stop chasing clients for documents before tax season
+Source: https://mikeautomations.github.io/en/bookkeepers/
+
+Most of a small firm's busy season isn't spent on the books. It goes to emailing clients for missing W-2s and 1099s, digging receipts out of texts, and keeping a mental list of who still owes you what. That part can run on its own.
+
+### What an automated document workflow takes off your plate
+- A personal checklist for every client: exactly which documents you still need from them this year
+- Friendly reminders by email (and text, if you want it) until everything is in, so you stop writing "just following up"
+- A simple upload link: every file lands in the right client folder and gets checked off
+- New-client intake: engagement letter, info form and first document request, without retyping anything
+- A morning summary of who's complete and who's still missing what
+
+### How it works
+We start with a free 15-minute call about how documents come in today and where the chasing happens. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". The workflow is built on the tools you already use (QuickBooks, Gmail or Outlook, Google Drive or Dropbox), so your team doesn't learn a new system. It goes live in your firm, and you pay once it does what we agreed and you're happy with it.
+
+### What stays with you
+Everything that needs your judgment. The workflow requests, collects, files and reminds. You review the return, make the calls and sign off. If AI drafts anything, a person always approves it before it goes out.
+
+### Can it be ready before tax season?
+Yes. The workflow is built in 2-3 days. If we start in November or December, it's live well before January.
+
+### Does it work with QuickBooks?
+It connects to the tools you already have. On the call we check exactly what can be connected in your setup, and what's better left manual.
+
+### What about my clients' data?
+It stays in your accounts: your email, your drive, your tools. I only get the access the workflow needs, and the data is never used for anything else.
+
+## Follow up on every estimate without lifting a finger
+Source: https://mikeautomations.github.io/en/contractors/
+
+You send an estimate, the customer says they'll think about it, and then nobody calls back. Meanwhile appointments get forgotten and someone drives across town to an empty house. An automated workflow can follow up, remind and confirm for you, from estimate to booked job.
+
+### What an automated workflow does for a remodeling, HVAC or cleaning business
+- Every estimate gets a polite follow-up after a few days, and another one later, until you get a yes or a no
+- Appointment reminders the day before, with an easy way to confirm or reschedule
+- New leads from your website, email or phone get logged in one list, with nothing left in someone's head
+- After the job: a thank-you, the invoice link and a request for a review
+- A daily list of open estimates and who needs a call from you
+
+### How it works
+A free 15-minute call to see where jobs slip today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your email, calendar, Google Sheets or your field software), so there's nothing new to learn. It goes live in your business, and you pay once you're happy with it.
+
+### What stays with you
+The pricing, the customer relationship and the work itself. The workflow does the remembering and the follow-up. You decide what to quote and who to call.
+
+### Do reminders go out by text?
+They can. Business texting in the US needs a one-time A2P 10DLC registration on your account (usually $20-50), which I set up with you. Email works from day one.
+
+### We already use field service software. Does this replace it?
+No. It connects to what you have and fills the gaps, like follow-up on estimates that your software doesn't chase.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## How UK accountants automate Self Assessment document chasing
+Source: https://mikeautomations.github.io/en/self-assessment-document-chasing/
+
+Every January the same thing happens: the returns aren't hard, but half your Self Assessment clients still haven't sent their P60, their rental figures or their pension statements. The chasing eats the weeks you need for the actual work. That chasing is a process, and a process can run on its own.
+
+### Why Self Assessment chasing piles up in January
+- Every client needs a different list: P60s and P11Ds for employees, income and expenses for sole traders, rent and mortgage interest for landlords
+- Requests go out once in the autumn and then live in someone's head and inbox
+- Documents arrive by email, WhatsApp and post, so nobody can see at a glance who is complete
+- The 31 January online filing deadline doesn't move, and late filing brings an automatic penalty for your client
+
+### What an automated chasing workflow does
+- Sends each client their own checklist of what's still missing for this tax year, worked out from last year's return and your notes
+- Follows up on a schedule you set (for example every 10 days from October, then weekly in January) and stops as soon as everything is in
+- Gives each client one secure upload link, so every file lands in their folder and is ticked off
+- Flags clients who haven't opened a single email, so a person can pick up the phone
+- Sends you a short morning list: who's complete, who's missing what, and who is getting close to the deadline
+
+### How it works
+We start with a free 15-minute call about how you request documents today and where the chasing happens. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools your practice already uses (your email, your practice management software or a shared drive, and your client list), so nobody learns a new system. It goes live in your practice, and you pay once it does what we agreed and you're happy with it.
+
+### What stays with you
+The return, the advice and every judgment call. The workflow requests, reminds and files. You decide what counts as complete, and anything written to a client in your name follows wording you approved.
+
+### Is it too late to start before 31 January?
+The workflow is built in 2-3 days. Starting in November or December gives you most of January with it running. Starting later still helps with the last batch of stragglers.
+
+### Does it work with our practice management software?
+It connects to the tools you already have where they allow it. On the call we check exactly what can be connected in your setup, and what is better left manual.
+
+### What about client data and UK GDPR?
+The data stays in your accounts: your email, your drive, your software. I only get the access the workflow needs, and the data is never used for anything else.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## A client document collection workflow for bookkeepers
+Source: https://mikeautomations.github.io/en/bookkeeper-document-collection/
+
+Month end, quarter end and year end all start the same way: waiting for bank statements, receipts and invoices from clients. A good collection workflow decides what to ask for, when to ask again and where every file goes, so you're not running it from memory.
+
+### The five steps of a document collection workflow
+- Define the list: for each client, which documents you need every month, every quarter and once a year
+- Request: send each client their own list on a fixed day, not one generic email to everyone
+- Collect in one place: a single upload link per client instead of email attachments, texts and photos
+- Follow up: reminders on a schedule until the list is complete, then stop
+- Report: one view of who's complete, who's partial and who hasn't responded
+
+### Where it usually breaks
+Most firms have the first step right and the rest done by hand. Requests go out late because someone has to write them. Files arrive in five different places. Follow-ups depend on whoever remembers. And there's no list of who is still missing what until someone builds one in a spreadsheet the night before a deadline.
+
+### What automating it changes
+- Requests go out on the same day every period without anyone writing them
+- Each file is named, saved in the right client folder and ticked off the list
+- Reminders stop automatically when a client is complete, so nobody gets chased for something they already sent
+- You start the day with a short list of who needs a personal call
+
+### How it works
+A free 15-minute call about how documents come in today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (QuickBooks or Xero, Gmail or Outlook, Google Drive or Dropbox), so your team doesn't learn a new system. It goes live in your firm, and you pay once you're happy with it.
+
+### Do my clients need to install anything or create an account?
+No. They get an email with their list and an upload link that works on a phone or a computer.
+
+### Can it pull bank statements automatically?
+Where your clients' bank feeds already come into QuickBooks or Xero, the workflow skips asking for those. For everything else, it asks for exactly what is missing.
+
+### What if a client sends the wrong document?
+You mark it on the list and the workflow asks again for the right one. A person always decides what counts as complete.
+
+## Automated invoice payment reminders for service firms
+Source: https://mikeautomations.github.io/en/invoice-payment-reminders/
+
+Most late invoices aren't disputes. The client meant to pay, the email got buried, and nobody followed up because chasing money feels awkward. A payment reminder workflow does the polite, repetitive part on a schedule, so you only step in when a real conversation is needed.
+
+### Why invoices go unpaid longer than they should
+- Reminders depend on someone noticing an invoice is overdue and finding time to write
+- The first nudge goes out weeks late, when the invoice is already old news
+- Clients who have paid sometimes get chased anyway, because the payment hasn't been matched yet
+- Nobody has one list of what's overdue, by how long, and who has already been asked
+- The built-in reminders in invoicing software are often switched off, or send the same message every time
+
+### What a payment reminder workflow does
+- Sends a friendly note a few days before the due date, with the invoice and a payment link
+- Follows up after the due date on a schedule you set, with wording that gets firmer step by step
+- Checks your accounting software before each message and stops as soon as the invoice is paid
+- Hands long-overdue invoices to a person with a short summary, instead of sending yet another email
+- Sends you a weekly list: what's due, what's overdue and what came in
+
+### How it works
+A free 15-minute call about how you invoice today and where payments stall. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (Xero or QuickBooks, Stripe if you take card payments, and your email), so clients get messages from your own address. It goes live in your business, and you pay once you're happy with it.
+
+### What stays with you
+The client relationship. You approve every message template before anything goes out, you decide when a reminder becomes a phone call, and you agree any payment plan or extension yourself. If AI drafts a reply to a client, a person always approves it first.
+
+### Will clients find automated reminders pushy?
+The wording and timing are yours. You can start with a courteous note before the due date and keep later reminders short and polite.
+
+### My invoicing software already sends reminders. Why add this?
+If its reminders do what you need, keep them. The workflow helps when you want a schedule tied to your own rules, messages from your address, a handover to a person, or one list across tools.
+
+### Can it handle retainers and recurring invoices?
+Yes. Recurring invoices follow the same schedule, and the workflow can skip clients who pay by direct debit or card on file.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Getting year-end records from limited company clients, on time
+Source: https://mikeautomations.github.io/en/limited-company-year-end-records/
+
+Limited company clients don't all have a 31 March year end, so the chasing never stops. Each client has their own date, their accounts are generally due at Companies House nine months later, and records drift in whenever the director finds time. A workflow tied to each client's year end turns that rolling calendar into something that runs on its own.
+
+### Why year-end records arrive late
+- Year ends are spread across the calendar, so requests depend on someone checking dates every month
+- Directors get one long checklist and put it off, rather than a short list of what's actually missing
+- Bank statements, loan statements, stock figures and director's loan details arrive in different places
+- Work starts late, so files bunch up in the last months before the filing deadline
+- There's no single view of which clients are complete, partial or silent
+
+### What an automated year-end workflow does
+- Reads each client's year end from your client list and starts the request automatically once the year closes
+- Sends each director their own list, based on last year's file: bank and loan statements, sales and purchase records, stock, fixed asset purchases
+- Gives one upload link per client, so files are named and saved in the right year-end folder
+- Follows up on a schedule you choose and stops when the client is complete
+- Warns you about clients still missing records a set number of months before their filing deadline, so a person can call
+
+### How it works
+A free 15-minute call about how you request year-end records today and where they stall. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools your practice already uses (Xero or QuickBooks, your practice management software, your email and shared drive), so nobody learns a new system. It goes live in your practice, and you pay once it does what we agreed and you're happy with it.
+
+### What stays with you
+The accounts, the tax and every judgement call. The workflow requests, reminds and files. You decide what counts as complete, and anything written to a client in your name follows wording you've approved.
+
+### Does it work if clients use Xero with bank feeds?
+Yes. Where transactions already come in through the feed, the workflow skips asking for statements and requests only what's missing, such as loan balances or stock.
+
+### Can it handle sole traders and Self Assessment clients too?
+Yes. Different client types can have different lists and schedules from the same client list.
+
+### What about client data and UK GDPR?
+The data stays in your accounts: your email, your drive, your software. I only get the access the workflow needs, and the data is never used for anything else.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Making Tax Digital for Income Tax: building a practice workflow for quarterly updates
+Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-06)
+
+Making Tax Digital for Income Tax (MTD for ITSA) started on 6 April 2026 for sole traders and landlords with qualifying income over £50,000. For most practices the hard part isn't the software. It's that one annual chase for records has become four quarterly ones, for every client in scope.
+This article is about the workflow around the rules: who needs what from whom, and when, so quarterly updates don't land on your team as a pile of last-minute emails.
+
+### Who is in scope, and when
+MTD for Income Tax applies to self-employment and property income. HMRC uses qualifying income, which is gross income from those sources before expenses, from an earlier tax return to decide when each person joins.
+- From April 2026: qualifying income over £50,000
+- From April 2027: over £30,000
+- From April 2028: over £20,000
+
+### What changes for the practice
+Clients in scope keep digital records and send HMRC a cumulative quarterly update from compatible software, then complete a final declaration after the year ends. For standard quarters, updates are due on 7 August, 7 November, 7 February and 7 May. Always check the current dates and any penalty rules on GOV.UK before you build them into client letters.
+In practice this means four moments a year when every in-scope client must have their income and expenses in order. If records only arrive when you chase, you'll be chasing four times as often.
+
+### A quarterly workflow that runs itself
+1. Segment your list: tag every client by MTD start date (2026, 2027, 2028 or not in scope), so each one gets the right messages.
+2. Pick one way in for records: bank feeds into the software where possible, and one upload link per client for everything else. No attachments scattered across inboxes.
+3. Send a short reminder about two weeks before each quarter ends: what to record, and where to send anything that doesn't come through the bank feed.
+4. After the quarter ends, send each client a personal list of what's still missing, with the upload link. Repeat on a fixed schedule until it's complete, then stop.
+5. Give the team one daily view: who is complete, who is partial, who hasn't responded, and how many days until the deadline.
+6. Flag clients who haven't opened anything for a phone call, a week before the deadline. A person decides what happens next.
+
+### Where automation helps, and where it shouldn't
+The repeatable parts (reminders, checklists, filing documents into the right folder, the daily status list) are exactly what a workflow does well. The judgement calls stay with you: what counts as complete, how to categorise an odd expense, and when to pick up the phone.
+Anything a workflow drafts in your name should follow wording you approved. If AI is used to read or sort documents, a person reviews the result before anything is filed or sent.
+
+### Start with the clients already in
+If you have clients who joined in April 2026, you already know which of them were late with the first quarter. Build the workflow around them first, then add the 2027 group before their year starts. The cost of setting this up once is the same whether you have twenty clients in scope or two hundred.
+
+### Do quarterly updates replace the Self Assessment return?
+Clients in MTD send quarterly updates and then a final declaration after the tax year, through compatible software. Check GOV.UK for the current details for each client's situation.
+
+### Is the quarterly update a full set of accounts?
+No. It's a cumulative summary of income and expenses for the year so far. That's why regular, complete records matter more than a big year-end tidy-up.
+
+### Can the workflow send the update to HMRC?
+The update itself is sent from MTD-compatible software by you or the client. The workflow handles everything around it: reminders, collecting records and tracking who's ready.
+
+## A client onboarding checklist for small accounting firms
+Source: https://mikeautomations.github.io/en/blog/accounting-client-onboarding-checklist/ (2026-11-06)
+
+A new client says yes, and then the real work starts: letters, forms, ID checks, software access and the first batch of documents. Done by hand, onboarding is where details slip, and where a good first impression turns into three weeks of back-and-forth.
+Here's a checklist you can adapt, and a note on which steps can run without anyone typing.
+
+### The checklist
+1. Send the engagement letter for e-signature, with the scope and fees agreed on the call.
+2. Send one intake form: contact details, business details, tax references, year end, software used, and who to talk to about what.
+3. Run your identity and anti-money-laundering checks (in the UK, your supervisory body's requirements apply). Ask for documents through a secure link, not email attachments.
+4. Get authorisation to act with the tax authority (agent authorisation with HMRC, or the relevant IRS forms in the US).
+5. Request access to the accounting software and bank feeds, or set them up.
+6. Send a first document request: prior-year returns, last accounts, open letters from the tax authority, and anything specific to the client.
+7. Create the client in your practice management system with the right deadlines and recurring tasks.
+8. Send a short welcome: who their contact is, how to send documents, and what happens next.
+
+### Where onboarding usually goes wrong
+- The same details get typed into three systems, with three chances for a typo
+- Nobody owns the follow-up, so a missing ID document is noticed a month later
+- The client gets five separate emails and isn't sure which one matters
+- Deadlines aren't set up until the first one is close
+
+### What to automate
+Almost everything except the decisions. When the engagement letter is signed, a workflow can send the intake form; when the form is in, it can create the client record, set up their folder and send the document request; and it can remind them until each item arrives.
+Your team keeps the checks that need judgement: reviewing ID, reading the prior-year return, and deciding whether anything needs a conversation. You get a single list of onboardings in progress and what each one is waiting for.
+
+### For illustration
+For illustration: a new client signs the engagement letter on Monday morning. Within minutes they get one email with an intake form and an upload link for their ID and last year's return. On Thursday, the two items still missing get a polite reminder. On Friday your team sees the client marked "ready for review", with everything in one folder.
+
+### Do we need a client portal for this?
+No. A portal helps, but a workflow can run on your email, your drive and your practice software. If you already use a portal, it can send clients there instead.
+
+### Can the ID check itself be automated?
+Collecting the documents and reminding clients can. Many firms use a specialist ID verification service for the check. The decision to accept a client stays with a person.
+
+## How to get clients to send their documents on time
+Source: https://mikeautomations.github.io/en/blog/get-clients-to-send-documents-on-time/ (2026-11-06)
+
+Late documents are rarely about bad clients. Usually the request was vague, it arrived at a busy moment, and sending the files was more effort than putting it off. Fix those three things and most of the chasing goes away.
+
+### 1. Send a personal list, not a generic request
+"Please send your documents for the year" is easy to postpone because nobody knows where to start. "We still need your P60, the rental statement from your letting agent and the mortgage interest certificate" can be done in ten minutes. Build the list from last year's file, and update it as items arrive.
+
+### 2. Make sending the easy part
+One link per client, that works on a phone, with no account to create. A photo of a receipt should be enough. Every extra step (log in, find the folder, rename the file) is a reason to do it later.
+
+### 3. Remind on a schedule, and stop when it's done
+Clients don't mind reminders; they mind irrelevant ones. Reminders should list only what's still missing, come at a steady rhythm (say every 7 to 10 days, then weekly near the deadline) and stop the moment the list is complete.
+
+### 4. Give them a reason and a date
+Put your internal deadline in every message, a few weeks before the official one, and say what it protects them from: a rushed return, a late filing penalty, or a bigger bill for urgent work. Many firms put a late-records fee in the engagement letter and mention it only when needed.
+
+### 5. Know who's missing what, every morning
+If the only record of who still owes you documents is someone's memory, the chasing will always be late. A daily list of complete, partial and silent clients lets the team spend their calls on the people who actually need one.
+
+### Putting it together
+Each of these is simple; doing all of them by hand for every client is not. This is the point where a document collection workflow pays off: it builds the lists, sends the reminders, files what arrives and gives you the morning list. You keep the conversations.
+
+## Email templates for chasing client documents (copy and paste)
+Source: https://mikeautomations.github.io/en/blog/document-chasing-email-templates/ (2026-11-06)
+
+Good chasing emails are short, specific and polite, and they always say exactly what's missing. Below are five templates for a typical request cycle. Replace the parts in [brackets], and keep each one to what the client needs to do.
+
+### 1. The first request
+
+### 2. The friendly reminder (7-10 days later)
+
+### 3. The deadline reminder
+
+### 4. The final notice
+
+### 5. The thank-you (when everything is in)
+
+### Tips that make templates work
+Sending these by hand works for a handful of clients. For dozens, a workflow can fill in each client's list, send on schedule and stop on its own, using exactly the wording you approved.
+- Always list only what's still missing. A reminder that asks for things already sent loses trust fast.
+- Keep the same upload link in every email, so clients never wonder where to send things.
+- Use an internal deadline a few weeks before the official one.
+- Stop all reminders the moment a client is complete, then send the thank-you.
+
+## A 1099 season checklist for bookkeepers
+Source: https://mikeautomations.github.io/en/blog/1099-season-checklist-bookkeepers/ (2026-11-06)
+
+Every January, bookkeepers discover which clients paid contractors all year without collecting a W-9. The forms aren't hard. The missing names, addresses and tax IDs are. Most of that can be fixed in November and December.
+
+### Key dates and rules to confirm
+- Form 1099-NEC goes to both the IRS and the contractor by January 31. For the 2026 tax year, January 31, 2027 is a Sunday, so the deadline moves to Monday, February 1, 2027.
+- For payments made from January 1, 2026, the reporting threshold for 1099-NEC is $2,000 (it was $600 before). Confirm the current rules in the IRS instructions for each client.
+- If a business files 10 or more information returns in a year (W-2s and 1099s counted together), it must file electronically.
+
+### The checklist
+1. In November, pull a list of every vendor each client paid this year, with totals.
+2. Mark the ones likely to need a 1099-NEC: unincorporated contractors paid for services, above the threshold.
+3. Check which of them have a W-9 on file. For the rest, send a W-9 request now, while people still answer email.
+4. Remind the missing ones every week until the W-9 arrives.
+5. In early January, update totals with December payments and confirm the final list with the client.
+6. Prepare, review and file. Send copies to contractors by the deadline.
+7. Set up W-9 collection at the point of first payment for next year, so January is lighter.
+
+### What to automate
+The W-9 chase is the perfect job for a workflow: a request to each vendor with a secure form, reminders until it's back, and a list for you of who's still missing. You stay responsible for deciding who needs a form and for checking the numbers.
+
+### For illustration
+For illustration: on November 15 each client gets a short list of vendors without a W-9. With the client's OK, every one of those vendors gets a request with a secure link. By mid-December you have a list of the three who never answered, and the client calls them.
+
+### Does the $2,000 threshold apply to 2025 payments?
+No. Based on the change in law, the $2,000 threshold applies to payments made on or after January 1, 2026. Check the current IRS instructions before filing.
+
+### Can clients collect W-9s themselves?
+They can, but they usually forget until January. A workflow can do it on their behalf, from your address or theirs, with wording you approve.
+
+## What should a small service business automate first?
+Source: https://mikeautomations.github.io/en/blog/what-to-automate-first-small-business/ (2026-11-06)
+
+Most small businesses don't need "AI transformation". They need one annoying, repetitive job to stop depending on someone remembering it. Picking the right first process matters more than picking the right tool.
+
+### Three questions to find the first process
+1. Does it happen every week? If it's monthly or rarer, the savings are small.
+2. Does it follow the same steps each time? If every case needs judgement, automate only the parts around the judgement.
+3. What does it cost when it's forgotten? A lost estimate, a late filing or an angry client is worth more than a few saved minutes.
+
+### Common first automations that pass the test
+- Collecting documents from clients, with reminders until everything is in
+- Following up on estimates and quotes that went quiet
+- Appointment reminders and confirmations
+- Logging every new enquiry in one list, and answering it quickly
+- Asking every customer for a review after the job
+- Sending invoices and reminding about unpaid ones
+
+### What not to automate first
+- Anything that happens a few times a year
+- A process nobody can describe step by step yet (fix the process before you automate it)
+- Decisions that need your judgement: pricing, advice, hiring
+
+### Define "working" before you build
+Write one sentence that says what the automation must do, for example: "every estimate gets two follow-ups, and I get a list of the ones still open". It keeps the build focused and gives you a clear test. That sentence is also how we check, together, that a workflow does what you paid for.
+
+## Zapier vs Make vs n8n: which one suits a small business?
+Source: https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/ (2026-11-06)
+
+All three connect your apps and move information between them. The difference is how much they ask of you, how they handle complicated workflows, and where they run. Prices change often, so compare plans on each vendor's site; this article sticks to the differences that last.
+
+### Zapier
+- The easiest to start with, and the largest library of ready connections
+- Best for simple "when this happens, do that" steps
+- Costs can grow with the number of tasks it runs
+
+### Make
+- A visual canvas that handles branching, loops and data shaping well
+- Good for workflows with several paths and conditions
+- A steeper learning curve than Zapier
+
+### n8n
+- Can run in the cloud or on your own server
+- Flexible, and comfortable with custom code when needed
+- Needs more technical care, especially if you host it yourself
+
+### How to choose
+Start from the process, not the tool. Write down the steps, what triggers them and which apps are involved. If it's a straight line between two popular apps, Zapier is usually enough. If it has many conditions, Make or n8n will be cleaner. If data must stay on infrastructure you control, n8n self-hosted is the usual answer.
+The tool is rarely what makes an automation reliable. What matters is handling the cases that go wrong: a missing field, a duplicate, an email that bounces. Whichever you choose, make sure someone gets told when a run fails.
+
+### Or skip choosing
+If you'd rather not learn any of them, a done-for-you workflow is built on whichever tool fits the process, in your accounts, and documented so you're never locked in.
+
+## Estimate follow-up templates for contractors (that don't sound pushy)
+Source: https://mikeautomations.github.io/en/blog/estimate-follow-up-email-templates-contractors/ (2026-11-06)
+
+Many estimates don't get a "no". They get silence. The customer got busy, compared quotes, or lost your email. A short, well-timed follow-up is often the difference, and most contractors never send one because there's no time between jobs.
+
+### When to follow up
+1. Two or three days after sending: check they received it and offer to answer questions.
+2. About a week later: a short nudge with one useful detail (availability, a material lead time).
+3. Two to three weeks later: a polite close-out that makes it easy to say yes or no.
+
+### Follow-up 1: did you get it?
+
+### Follow-up 2: one helpful detail
+
+### Follow-up 3: the polite close-out
+
+### A short text version
+In the US, business texting at scale requires registering your number (A2P 10DLC), and customers should agree to receive texts. Email works from day one.
+
+### Make it automatic
+A workflow can send these on schedule for every estimate, stop the moment the customer replies or books, and give you a daily list of open estimates worth a phone call. You still decide what to quote; it just makes sure no estimate is forgotten.
+
+## How to reduce no-shows for service appointments
+Source: https://mikeautomations.github.io/en/blog/reduce-appointment-no-shows/ (2026-11-06)
+
+A no-show costs a contractor or a clinic the whole slot: the drive, the prep and the job that could have been booked instead. Most no-shows aren't rude; people forget, or something came up and cancelling felt awkward. Both are fixable.
+
+### What works
+1. Confirm right after booking, with the date, time, address and what to prepare.
+2. Remind the day before, and again a couple of hours before for early appointments.
+3. Make rescheduling one tap. A customer who can move the slot easily won't just disappear.
+4. Ask for a quick confirmation ("Reply YES to confirm"), so you know who to call.
+5. State your policy kindly, once, in the confirmation: how much notice you need to change a booking.
+6. Call the unconfirmed ones. A short list each morning is enough.
+
+### Email or text?
+Texts are read faster, so they work well for the same-day reminder. Email is fine for the confirmation and longer instructions. In the US, sending business texts needs number registration (A2P 10DLC) and the customer's consent; in the UK, follow the usual consent rules for marketing, though appointment reminders are service messages.
+
+### What to automate
+Everything above except the phone call. The workflow sends the confirmation and reminders, handles reschedule links, updates your calendar and gives you a list of who hasn't confirmed. If you already use booking or field service software, it fills the gaps rather than replacing it.
+
+### For illustration
+For illustration: a customer books a boiler service for Thursday at 9 AM. They get a confirmation at once, a reminder on Wednesday afternoon asking them to reply YES, and a link to move the slot. On Wednesday evening you see two unconfirmed appointments and call them.
+
+## How to ask every customer for a Google review (and stay within the rules)
+Source: https://mikeautomations.github.io/en/blog/ask-for-google-reviews-automatically/ (2026-11-06)
+
+Reviews matter for local search, and most happy customers are glad to leave one. They just need to be asked at the right moment, with a link that works. The trick is to ask consistently, and to ask everyone.
+
+### Don't filter who you ask
+Google's policies for reviews don't allow businesses to discourage negative reviews or to selectively ask only happy customers. That practice is often called "review gating", and it can get reviews removed. In the US, the FTC also treats review practices that skew results as potentially deceptive. The safe approach: send the same request to every customer.
+You can still invite feedback privately ("tell us how we did"), as long as the public review link goes to everyone the same way.
+
+### When and how to ask
+1. Ask shortly after the job is finished and paid, while it's fresh.
+2. Use your direct review link from your Google Business Profile, so it opens the review form in one tap.
+3. Keep it short and personal: name the job, thank them, one line with the link.
+4. Send one reminder a few days later if they haven't opened it, then stop.
+5. Reply to every review, good or bad, politely and quickly.
+
+### A template
+
+### What to automate
+Trigger the request when a job is marked complete or an invoice is paid, send the reminder if needed, and log who was asked. Replies to reviews are better written by you, though a draft can be prepared for you to approve.
+
+### Can I offer a discount for a review?
+No. Google's policies don't allow incentives for reviews, and it can also break consumer protection rules. Just ask.
+
+### What if a customer was unhappy?
+Ask them the same way as everyone else, and fix the problem directly. A calm, helpful reply to a critical review often reassures future customers more than another five stars.
+
+## AI in a small accounting firm: what to automate, and what to keep
+Source: https://mikeautomations.github.io/en/blog/ai-in-accounting-firms-what-to-automate/ (2026-11-06)
+
+AI is good at reading, sorting and drafting. It's not a substitute for professional judgement, and in a regulated profession it shouldn't send anything to a client unchecked. Used that way, it removes a lot of dull work.
+
+### Where AI helps today
+- Reading uploaded documents and suggesting what they are (a P60, a bank statement, a receipt) and which client folder they belong in
+- Pulling key fields from documents for a person to check
+- Drafting replies to routine client questions, in your tone, for you to approve
+- Summarising a long email thread before you call a client
+- Spotting what's missing from a client's set of documents against their checklist
+
+### Where it doesn't belong
+- Giving tax advice or deciding a treatment
+- Sending anything to a client or tax authority without a person reviewing it
+- Anywhere you can't explain what it did and why
+
+### Keep a person in the loop
+The safe pattern is simple: AI prepares, a person approves. Drafts wait in a queue; classifications show their confidence so low-confidence items get a closer look; and nothing leaves the firm without a click from someone qualified.
+
+### Data protection
+Client data should stay in your systems, and any AI service used should be one whose terms you've checked for data use and storage. Under UK GDPR and similar rules, you remain responsible for how client data is processed, so keep a record of which tools touch which data.
+
+### Start with the boring part
+The biggest gains usually come before AI: requests, reminders and filing that run on a schedule. Add AI where it removes a manual sorting or drafting step, with approval built in.
+
+## How much does business process automation cost for a small business?
+Source: https://mikeautomations.github.io/en/blog/business-automation-cost/ (2026-11-06)
+
+Automation costs come in three parts: building the workflow, the software it runs on, and keeping it running. Here's what drives each one, and what we charge, so you can compare like with like.
+
+### 1. The build
+This is the work of mapping the process, connecting the tools, writing the messages and testing the cases that go wrong. What drives the price is the number of steps and conditions, how many tools are involved, and whether the data is clean. A single process (for example, document collection with reminders) is a very different job from a full internal system.
+
+### 2. Software subscriptions
+Most workflows run on tools you may already pay for: email, cloud storage, your accounting or job software, plus an automation platform. Some steps add small costs, like registering a number for business texting in the US. These are paid directly by you, in your accounts, so you're never locked in.
+
+### 3. Keeping it running
+Apps change, passwords expire and processes evolve. Either someone in your team learns to maintain the workflow, or you pay for support. Ask any provider what happens when something breaks.
+
+### Our pricing
+Prices are in US dollars, invoiced in pounds or euros at the equivalent rate. You get the exact scope and a fixed price in a written plan after a free 15-minute call.
+- Workflow automation (one process, end to end): $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500.
+- Custom system (clients, jobs, documents and tasks in one place): from $5,000, by scope.
+- Optional monthly support: $150 a month.
+
+### How to judge whether it's worth it
+Estimate the hours the process takes each month and what it costs when it's forgotten: a late filing, a lost job, a client who leaves. If those add up to more than the build within a year, it's usually worth doing. If not, start with a smaller process.
+
+## How to stop chasing clients for VAT records every quarter
+Source: https://mikeautomations.github.io/en/blog/vat-quarter-records-chasing/ (2026-11-08)
+
+VAT is the chase that never ends. For quarterly filers it comes round four times a year, and each time the same clients send their invoices and receipts at the last minute. The work isn't the return. It's getting everything in, early enough to check it.
+
+### The deadline you're working back from
+For most VAT-registered businesses, the return and the payment are due one calendar month and seven days after the end of the VAT period. A quarter ending 31 March is due by 7 May. Returns go through Making Tax Digital compatible software. Schemes such as annual accounting work differently, so check each client's set-up on GOV.UK.
+Your real deadline is earlier: the date by which you need the records to prepare, query and file without a rush.
+
+### A quarterly records workflow
+1. Tag every VAT client with their quarter-end (stagger groups are common), so requests go out on the right dates.
+2. About two weeks before each quarter ends, send a short heads-up: what you'll need, and where to send it.
+3. The day after the quarter ends, send each client their own list of what's still missing, with one upload link.
+4. Where bank feeds already come into the accounting software, ask only about what's unclear, such as uncategorised transactions, instead of asking for everything again.
+5. Remind on a fixed rhythm until the list is complete, then stop.
+6. Keep one daily view for the team: ready to prepare, waiting on client, or close to the deadline.
+
+### What makes clients send records on time
+- A personal list, not a generic "please send your VAT records"
+- One upload link that works on a phone
+- Reminders that list only what's still missing
+- Your internal deadline in every message, well before the HMRC one
+
+### For illustration
+For illustration: a bookkeeper has 60 clients on quarterly VAT. On 1 April each one gets a list for the March quarter. Clients with uncategorised bank lines get those lines to explain instead of a full request. By 15 April the bookkeeper sees 12 clients still waiting, and calls the 3 who haven't opened anything.
+
+### Does this replace our accounting software?
+No. The returns are still prepared and filed in your MTD-compatible software. The workflow handles the requests, reminders and the list of who's ready.
+
+### Can it work with Xero bank feeds?
+Often, yes. Where the software allows it, the workflow can check what's uncategorised and ask the client only about those items. On a call we check what your set-up allows.
+
+## How to automate engagement letters in a small accounting firm
+Source: https://mikeautomations.github.io/en/blog/engagement-letter-automation/ (2026-11-08)
+
+An engagement letter is mostly the same every time: the client's details, the services, the fee and your standard terms. Yet in many small firms it's still copied from last year's letter, edited by hand and emailed as an attachment. That's slow, and it's where mistakes creep in.
+
+### What can be automated
+1. Collect the client's details and the agreed services once, through an intake form.
+2. Fill your approved template with those details: names, services, fee and start date.
+3. Put the draft in a queue for a person to check. Nothing goes out unchecked.
+4. Send it for e-signature with one click.
+5. Remind the client politely until it's signed.
+6. When it's signed, file the PDF in the client's folder and start onboarding.
+
+### What stays with you
+- The template itself, and any professional body requirements for its content
+- The scope and the fee
+- The final check before anything is sent
+
+### Why it's worth doing
+A letter that goes out the same day the client says yes keeps momentum. A letter that takes a week often means the client starts sending documents before the terms are agreed. Automating the draft and the chase removes the delay without taking the decision away from you.
+
+### For illustration
+For illustration: a new client fills in the intake form on Tuesday morning. By lunchtime a draft letter is waiting in the partner's queue. The partner checks the fee, clicks approve, and the client gets it for e-signature. It's signed on Thursday, filed, and the first document request goes out the same day.
+
+### Can AI write the engagement letter?
+AI isn't needed for most of it. A template filled from the intake form is more reliable. AI can help with an unusual scope, but a person always reviews the letter before it goes out.
+
+### Which e-signature tools work?
+Most common e-signature services can be connected. On the call we check what you already use.
+
+## AML client ID checks: a simple workflow for small UK firms
+Source: https://mikeautomations.github.io/en/blog/aml-client-id-checks-workflow/ (2026-11-08)
+
+Every UK accountancy firm has to carry out customer due diligence: checking who the client is, who owns or controls the business, and what the relationship is for. The rules come from the Money Laundering Regulations and your supervisor's guidance. The admin around the checks is where firms lose time.
+
+### Start from your supervisor's guidance
+Firms supervised by a professional body (such as ICAEW, ACCA or AAT) follow that body's requirements and the accountancy sector guidance; firms not supervised by a professional body are supervised by HMRC. The guidance also expects a firm-wide risk assessment, which shapes how deep each check goes. This article is about organising the work, not about what evidence is enough. That's your call, under your supervisor's rules.
+
+### Where the admin goes wrong
+- ID documents arrive by email attachment and sit in an inbox
+- Nobody tracks which new clients are still missing something
+- Re-checks for existing clients are forgotten until a review
+- Records of what was checked, and when, are scattered
+
+### A workflow that keeps it tidy
+1. When a new client is accepted, send one secure link for the documents you ask for, never email attachments.
+2. If you use a digital identity verification service, send the client its link at the same time.
+3. Remind the client until everything is in, and flag the file to a person once it's complete.
+4. A person reviews the evidence and records the decision. The workflow never approves a client.
+5. Store the record in the client's file, with the date, and set a reminder for the next review based on the client's risk.
+
+### For illustration
+For illustration: a client signs the engagement letter. Within minutes they get a secure upload link for their documents and a link to a verification service. Two days later, one item is still missing and a reminder goes out. When it's complete, the partner gets a short note to review the file. The review date for next year is set automatically.
+
+### Can the workflow decide whether a client passes?
+No. It collects, reminds and records. The decision to accept a client, and any judgement about risk, stays with a person in your firm.
+
+### Is it safe to collect ID documents this way?
+Use a secure upload link into storage you control, with access limited to the people who need it. Avoid email attachments for ID documents.
+
+## Client portal vs email: how should clients send you documents?
+Source: https://mikeautomations.github.io/en/blog/client-portal-vs-email-document-collection/ (2026-11-08)
+
+Every firm eventually asks the same question: should we make clients use a portal? The honest answer depends less on the software and more on whether your clients will actually use it.
+
+### The options
+- Email attachments: zero effort for clients, but files scatter across inboxes and are hard to track
+- A shared folder per client: tidy for you, but clients forget where it is and what goes where
+- A client portal (often part of practice software): one place for everything, but some clients never log in
+- A simple upload link per client: no account to create, works on a phone, and files land in the right folder
+
+### What actually decides it
+Clients send documents the easiest way they know. If the portal needs a password they've forgotten, they'll email it. So the best set-up is the one with the fewest steps for the client, and the most order for you behind the scenes.
+
+### A combination that works
+1. Keep your portal if you have one, and send clients straight to the right place in it.
+2. For clients who never log in, offer a plain upload link that files into the same place.
+3. Whatever arrives by email anyway, file it automatically into the client's folder.
+4. Track everything against the client's checklist, wherever it came from.
+
+### For illustration
+For illustration: most clients upload through the firm's portal, but a handful always reply by email with photos. Those attachments are saved to the right client folder and ticked off the checklist, so nobody has to sort the inbox by hand.
+
+### Do we need to replace our portal?
+No. A workflow can sit around the portal you already have and catch what arrives elsewhere.
+
+### Is email safe for client documents?
+It's common, but for sensitive documents such as ID, a secure upload link into storage you control is the better habit.
+
+## How to reply to every new enquiry within minutes (even when you're busy)
+Source: https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/ (2026-11-08)
+
+Most small businesses don't lose enquiries because they say no. They lose them because the reply comes the next day, after the customer has already called someone else. The fix isn't working faster. It's making the first reply automatic.
+
+### Why the first reply matters
+Someone who has just filled in your form is thinking about the job right now. A quick, friendly reply that says what happens next keeps you in the running. A reply tomorrow often reaches someone who has already booked elsewhere.
+
+### An enquiry workflow
+1. Every enquiry, from your website form, email or messages, lands in one list.
+2. Within minutes, the customer gets a short, human reply: thanks, what happens next, and a link to book a call or visit.
+3. You get a notification with the details, so you can call back when you're between jobs.
+4. If nobody has replied personally by the next morning, it goes on your list for that day.
+5. Enquiries that go quiet get one polite follow-up a few days later, then stop.
+
+### What the auto-reply should sound like
+Keep it short and honest. It's an acknowledgement, not a sales pitch, and it should never pretend to be a person typing live.
+
+### For illustration
+For illustration: a homeowner fills in the form at 10:40 while you're on a roof. At 10:41 they get a reply with a booking link. At lunch you see the enquiry in your list and call back. By then they've already picked a slot for a visit.
+
+### Will customers mind an automatic reply?
+Not if it's honest and useful: it confirms you got the message and says when you'll be in touch. Pretending to be a live person is what annoys people.
+
+### Can replies go out by text?
+Yes, where you have the customer's consent. In the US, business texting needs number registration (A2P 10DLC); email works from day one.
+
+## How bookkeepers can collect payroll inputs on time, every pay run
+Source: https://mikeautomations.github.io/en/blog/collect-payroll-inputs-from-clients/ (2026-11-08)
+
+Running payroll for clients has a fixed deadline every period, and it depends on information only the client has: hours, new starters, leavers, bonuses and changes. When those arrive late, the pay run is rushed. When they arrive incomplete, it's wrong.
+
+### What usually goes wrong
+- The request goes out late, or only to some clients
+- Changes arrive in a text or a call and never reach the payroll file
+- New starter details are missing on the day they're needed
+- Nobody knows which clients have confirmed "no changes this month"
+
+### A pay-run inputs workflow
+1. A few days before each cut-off, every payroll client gets the same short form: hours or timesheets, starters, leavers, changes, or "no changes".
+2. New starters trigger a separate request for the details you need from the employee.
+3. Reminders go out until each client has submitted, then stop.
+4. On cut-off day you see one list: complete, partial, or nothing received.
+5. Everything submitted is saved with the pay period, so you have a record of what the client told you and when.
+
+### What stays with you
+Running the payroll, checking anything unusual and making the filings. The workflow collects and organises. A person reviews it and runs the pay.
+
+### For illustration
+For illustration: payroll cut-off is the 20th. On the 15th each client gets a one-page form. By the 18th, 9 of 12 have answered, including 2 "no changes". On the morning of the 20th you call the last client, and the pay run starts on time.
+
+### Do clients need to log in anywhere?
+No. A simple form link works on any phone or computer, and the answers come to you in one place.
+
+### Does this replace payroll software?
+No. Payroll is still run in your payroll software. The workflow makes sure the inputs arrive on time and complete.
+

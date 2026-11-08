@@ -9,9 +9,21 @@ We build it. It runs. Then you pay. Workflow automation and custom internal syst
 - Custom system: from $5,000 one-off
 - Maintenance (optional): $150 a month
 
+## Key facts
+- Who: Michael, trading as Mike Automations. One person builds and supports every workflow; no account managers.
+- What: workflow automation for small service firms (accountants, bookkeepers, agencies, trades): document chasing, client onboarding, reminders, quote and invoice follow-ups.
+- Speed: live in 2-3 days after a written plan with a fixed price (sent within 48 hours of a free 15-minute call).
+- Payment: fixed price, paid once it's running and the client is happy with it. No deposit, no hourly billing.
+- Tools: builds on what the firm already uses (Xero, QuickBooks, FreeAgent, Sage, Gmail, Outlook, Google Drive, OneDrive, Karbon, TaxDome and similar). A person always approves anything AI prepares.
+- Markets: UK, Europe and US. Calls Monday to Thursday, 2-6 PM UK time.
+
 ## Contact
 - Website: https://mikeautomations.github.io/en/
 - Email: mikelgershman@gmail.com
+- Book a call: https://mikeautomations.github.io/call/
+- UK mailing address: Flat 87, Wayne Grove, Sheffield S35 4FX, United Kingdom
+- LinkedIn: https://www.linkedin.com/in/mikel-gershman-1a91a6163/
+- Full text for AI tools: https://mikeautomations.github.io/llms-full.txt
 
 ## Pages
 - [Home](https://mikeautomations.github.io/en/)
