@@ -465,6 +465,39 @@ The data stays in your accounts: your email, your drive, your software. I only g
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Missed call text back for contractors, and what comes after the text
+Source: https://mikeautomations.github.io/en/missed-call-text-back-contractors/
+
+When you're on a ladder or under a sink, you can't answer the phone. A missed call text back sends the caller a quick message so they don't just call the next company on the list. The text is the easy part. What matters is what happens after it: who logs the lead, who asks about the job, and who makes sure it turns into a booked estimate.
+
+### When a simple text-back tool is enough
+If you mostly need an instant "Sorry we missed you, how can we help?" text, a standalone text-back app from your phone provider or a low-cost service may be all you need. Try that first. A full workflow makes sense when the text is only the start, and leads still slip after the reply comes in.
+
+### What a full missed-call workflow does
+- Texts the caller within a minute, from your business number, with wording you approved
+- Asks a few short questions about the job: what it is, the address and how soon
+- Logs every missed call and reply in one lead list, so nothing lives in someone's phone
+- Offers estimate times from your calendar, or flags the lead for you to call back
+- Follows up if the caller goes quiet, and stops when they book or say no
+
+### Before you turn on business texting
+Business texting in the US needs a one-time A2P 10DLC registration on your account (usually $20-50), which I set up with you. Callers can always reply STOP, and the workflow respects it. Until registration is approved, the same follow-up can run by email.
+
+### How it works
+A free 15-minute call about how calls come in today and where leads drop off. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your business phone line, calendar, Google Sheets or your field service software), so there's nothing new to learn. Live in 2-3 days. You pay once it's running and you're happy with it.
+
+### Will the texts sound like a robot?
+The wording is yours. You approve every message before it goes live. If AI drafts a reply to a customer, a person always approves it first.
+
+### Do I need a new phone number?
+Usually not. On the call we check what your current phone provider supports, and what's the simplest way to connect it.
+
+### Does it work with my field service software?
+It connects to the tools you already have where they allow it, so leads can go straight into your job list.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## Making Tax Digital for Income Tax: building a practice workflow for quarterly updates
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-06)
 

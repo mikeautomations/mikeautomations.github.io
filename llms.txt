@@ -46,6 +46,7 @@ We build it. It runs. Then you pay. Workflow automation and custom internal syst
 - [Client document collection for bookkeepers](https://mikeautomations.github.io/en/bookkeeper-document-collection/): A step-by-step client document collection workflow for bookkeepers: checklists, reminders, one upload link and a daily status list. Automated and live in 2-3 days.
 - [Automated invoice payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/): Set up invoice payment reminders that go out on schedule, stop the moment a client pays, and hand you a short list of who needs a personal call.
 - [Year-end records from limited company clients](https://mikeautomations.github.io/en/limited-company-year-end-records/): A workflow for UK accountants to collect year-end records from limited company clients on a rolling calendar, with reminders tied to each year end.
+- [Missed call text back for contractors](https://mikeautomations.github.io/en/missed-call-text-back-contractors/): Missed call text back for contractors, plus what happens next: log the lead, ask the right questions, book the estimate and follow up until it's done.
 - [Privacy policy](https://mikeautomations.github.io/en/privacy/)
 
 ## Blog
