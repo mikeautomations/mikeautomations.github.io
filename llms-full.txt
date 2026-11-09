@@ -498,6 +498,117 @@ It connects to the tools you already have where they allow it, so leads can go s
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Subcontractor COI tracking for general contractors, without the spreadsheet
+Source: https://mikeautomations.github.io/en/subcontractor-coi-tracking/
+
+Every sub on your jobs is supposed to have a current certificate of insurance on file. In practice the COIs sit in an inbox, the expiration dates live in a spreadsheet nobody updates, and you find out a policy lapsed when someone asks for it. Tracking COIs is a repeatable process, so it can run on its own.
+
+### Why COI tracking slips
+- Certificates arrive as email attachments and photos, and get saved in different places
+- Expiration dates are typed into a spreadsheet by hand, and a spreadsheet doesn't send reminders
+- Reminders, when they happen, are set from the date a COI arrived instead of the date it expires
+- Nobody has one list of which subs are current, which expire soon and which are missing a certificate
+- Renewals get chased the week a sub is due on site, when there's no time left
+
+### What an automated COI tracking workflow does
+- Sends each new sub a request for their COI (and W-9, if you collect it) with one upload link
+- Saves every certificate in the sub's folder and logs the policy expiration dates in one list
+- Emails the sub to send a renewed certificate on a schedule you choose, for example 60, 30 and 7 days before expiration
+- Stops reminding as soon as a new certificate comes in
+- Sends you a weekly list: who's current, who expires soon and who still owes you a certificate
+
+### When dedicated COI software makes more sense
+If you manage hundreds of subs across many projects and need coverage limits checked against each contract, dedicated COI tracking software may fit better. A workflow built on your own tools suits a smaller contractor who mostly needs every certificate collected, every date tracked and every renewal chased on time.
+
+### How it works
+A free 15-minute call about how you collect COIs today and where it breaks. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your email, Google Drive or Dropbox, Google Sheets or your project management software), so there's nothing new to learn. Live in 2-3 days. You pay once it's running and you're happy with it.
+
+### Does the workflow check whether the coverage is enough?
+A person does. The workflow collects the certificate and tracks the dates. You or your insurance agent decide whether the coverage meets what your contract requires.
+
+### Can it read the expiration dates from the certificate?
+AI can pull the dates from a standard certificate and fill in the list for you. A person always confirms them before they're used for reminders.
+
+### Will my subs need to create an account?
+No. They get an email with an upload link that works on a phone or a computer.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## A maintenance request workflow for letting agents
+Source: https://mikeautomations.github.io/en/letting-agent-maintenance-requests/
+
+A dripping tap turns into a dozen emails: the tenant reports it, you ask for a photo, you ask the landlord, you chase a quote, you book a contractor, and the tenant asks for an update twice along the way. Most of those steps are the same every time, which is why they can run as a workflow while you keep the decisions.
+
+### Where repair requests get stuck
+- Reports arrive by phone, email and text, often without a photo, an address or access details
+- The landlord's approval sits in someone's inbox while the tenant waits
+- Contractors get the job without the photos and access notes, so they ring the office
+- Tenants chase for updates because nobody tells them what's happening
+- There's no single list of open jobs, who's waiting on whom and for how long
+
+### What an automated maintenance workflow does
+- Gives tenants one simple form to report a repair, with photos, a description and access times
+- Logs every request against the property in one list, with a status anyone in the office can see
+- Sends the landlord the details and asks for approval, within any spending limit they've agreed with you
+- Sends the approved contractor the job details, photos and access notes, and asks them to confirm a date
+- Updates the tenant at each step, and sends you a daily list of jobs that are waiting too long
+
+### What stays with you
+Anything urgent or safety related goes straight to a person, never into a queue. You decide which contractor to use, what counts as urgent and when to step in. If AI drafts a message to a tenant or landlord, a person always approves it before it's sent.
+
+### How it works
+A free 15-minute call about how repairs are reported today and where they stall. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools your agency already uses (your email, your property management software where it allows a connection, and a shared spreadsheet or drive), so nobody learns a new system. Live in 2-3 days. You pay once it's running and you're happy with it.
+
+### Do tenants need to download an app?
+No. They use a link to a simple form that works on a phone or a computer.
+
+### We already use property management software. Does this replace it?
+No. It connects to what you have where the software allows it, and fills the gaps, such as chasing approvals and keeping tenants updated.
+
+### What about emergencies?
+You decide what counts as an emergency. Those requests skip the queue and go straight to a person in the office or on call.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Client intake automation for small law firms
+Source: https://mikeautomations.github.io/en/law-firm-client-intake/
+
+A new enquiry comes in, and then the same steps start: call back, ask the same questions, check for conflicts, book a consultation, send the engagement letter, chase the signature and the documents. When that runs from memory, enquiries wait and some go elsewhere. Intake is a process, and most of it can run on its own while your lawyers keep every decision.
+
+### Where intake slows down
+- Enquiries come in by phone, email and web form, and each gets written up by hand
+- Basic details, including the other parties, are asked for again on the first call
+- The conflict check depends on someone remembering to run it before the consultation is booked
+- Engagement letters go out late, and signatures and ID documents need chasing
+- Nobody has one list of enquiries, where each one stands and who is following up
+
+### What an automated intake workflow does
+- Replies to every new enquiry within minutes with one short form: contact details, the matter type and the other parties involved
+- Logs each enquiry in one list and passes the names to whoever runs your conflict check
+- Offers a consultation time only after a person has cleared the conflict check
+- Sends your engagement letter for e-signature, plus a request for the ID and documents you need
+- Follows up on anything unsigned or missing, and sends you a daily list of where each enquiry stands
+
+### What stays with you
+Every legal judgment. A person decides whether a conflict exists, whether to take the matter and what goes into the engagement letter. The workflow collects, reminds and files. If AI drafts a reply to a prospective client, a person always approves it before it goes out.
+
+### How it works
+A free 15-minute call about how enquiries come in today and where they wait. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools your firm already uses (your email, calendar, e-signature tool and practice management software where it allows a connection), so nobody learns a new system. Live in 2-3 days. You pay once it's running and you're happy with it.
+
+### Does the workflow run the conflict check?
+It gathers the names and passes them to the person who checks them, in your practice software or your own records. A person always decides whether there's a conflict.
+
+### Can it work with our practice management software?
+It connects to the tools you already have where they allow it. On the call we check exactly what can be connected in your setup, and what's better left manual.
+
+### What about client confidentiality?
+The data stays in your accounts: your email, your drive, your software. I only get the access the workflow needs, and the data is never used for anything else.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## Making Tax Digital for Income Tax: building a practice workflow for quarterly updates
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-06)
 

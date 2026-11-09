@@ -47,6 +47,9 @@ We build it. It runs. Then you pay. Workflow automation and custom internal syst
 - [Automated invoice payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/): Set up invoice payment reminders that go out on schedule, stop the moment a client pays, and hand you a short list of who needs a personal call.
 - [Year-end records from limited company clients](https://mikeautomations.github.io/en/limited-company-year-end-records/): A workflow for UK accountants to collect year-end records from limited company clients on a rolling calendar, with reminders tied to each year end.
 - [Missed call text back for contractors](https://mikeautomations.github.io/en/missed-call-text-back-contractors/): Missed call text back for contractors, plus what happens next: log the lead, ask the right questions, book the estimate and follow up until it's done.
+- [Subcontractor COI tracking](https://mikeautomations.github.io/en/subcontractor-coi-tracking/): Track subcontractor certificates of insurance without a spreadsheet: request COIs, log expiration dates and send renewal reminders before they lapse.
+- [Maintenance requests for letting agents](https://mikeautomations.github.io/en/letting-agent-maintenance-requests/): A maintenance request workflow for UK letting agents: capture repairs with photos, get landlord approval, book the contractor and keep tenants updated.
+- [Client intake for small law firms](https://mikeautomations.github.io/en/law-firm-client-intake/): Automate client intake in a small law firm: one enquiry form, a conflict check before booking, engagement letter and documents, with a person approving.
 - [Privacy policy](https://mikeautomations.github.io/en/privacy/)
 
 ## Blog
