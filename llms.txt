@@ -24,7 +24,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [FAQ](https://mikeautomations.github.io/en/faq/): How "pay when you're happy" works, what it costs, GDPR and client data, which tools it connects to, and how long a build takes.
 - [Contact](https://mikeautomations.github.io/en/contact/): Book a free 15-minute call or email mikelgershman@gmail.com. Calls Monday to Thursday, 2-6 PM UK time. If it fits, a written plan follows in 48 hours.
 - [Examples](https://mikeautomations.github.io/en/examples/): Four example builds with demo data: a Self Assessment records chase, agency onboarding, quote follow-ups and VAT paperwork. Not client stories.
-- [Free guide](https://mikeautomations.github.io/en/guide/): Free 12-page PDF, no email needed: 25 automations for small accounting firms, from document chasing to getting paid. Works with Xero and QuickBooks.
+- [Free guide](https://mikeautomations.github.io/en/guide/): 25 AI automations for accountants and small firms, from document chasing to getting paid. Read them all here or get the free 12-page PDF, no email needed.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
@@ -70,6 +70,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Candidate compliance document chasing](https://mikeautomations.github.io/en/candidate-compliance-document-chasing/): Chasing candidate compliance documents for recruitment agencies: right to work, references, DBS, qualifications. A per-role checklist, chase plan and templates.
 - [Gym failed payment follow-up](https://mikeautomations.github.io/en/gym-failed-payment-follow-up/): Gym failed payment follow-up that keeps members: a dunning timeline, friendly message templates, when a person calls, and what Stripe and GoCardless retry.
 - [Lawn care seasonal renewals](https://mikeautomations.github.io/en/lawn-care-seasonal-renewals/): Lawn care seasonal renewals made routine: a renewal timeline, booking reminders and templates for lawn care programmes and UK gardening rounds.
+- [CIS monthly return: subcontractor invoices](https://mikeautomations.github.io/en/cis-monthly-return-subcontractor-invoices/): CIS monthly return subcontractor invoices: collect invoices and verification details before the 19th, with a monthly timeline, a request template and steps.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
@@ -132,6 +133,11 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [AI vs Automation: The Difference for a Small Business](https://mikeautomations.github.io/en/blog/ai-vs-automation-difference/): The difference between AI and automation in plain words: what each is reliable for, what it costs, the risks, and a decision table for a small business. (2026-11-11)
 - [Automation ROI Worksheet: Will It Pay for Itself?](https://mikeautomations.github.io/en/blog/automation-roi-worksheet/): An automation ROI worksheet for a small business: hours saved, hourly cost, errors and delays, one-off and running costs, and the payback period. (2026-11-11)
 - [Automation Glossary: 35 Terms Explained Simply](https://mikeautomations.github.io/en/blog/automation-glossary-small-business/): An automation glossary for small business owners: 35 terms such as trigger, webhook, API, AI agent, human in the loop, A2P 10DLC and DPIA, explained simply. (2026-11-11)
+- [n8n Cloud vs Self-Hosted for a Small Business (2026)](https://mikeautomations.github.io/en/blog/n8n-cloud-vs-self-hosted-small-business/): n8n Cloud vs self-hosted for a small business: real costs, who patches and backs it up, the licence, and when self-hosting makes sense. Prices checked Nov 2026. (2026-11-11)
+- [Custom Software vs Off-the-Shelf for a Small Business](https://mikeautomations.github.io/en/blog/custom-software-vs-off-the-shelf-small-business/): Custom software vs off-the-shelf for a small business: total cost over 3 years, fit, lock-in and maintenance, with a decision table to see which wins for you. (2026-11-11)
+- [Self Assessment Payment Reminders for Clients](https://mikeautomations.github.io/en/blog/self-assessment-payment-reminders-for-clients/): Self Assessment payment reminders for clients: a schedule for 31 January and 31 July, what paying late costs, Time to Pay, and an email you can copy. (2026-11-11)
+- [Spreadsheet vs CRM for a Small Service Business](https://mikeautomations.github.io/en/blog/spreadsheet-vs-crm-small-service-business/): Spreadsheet vs CRM for a small service business: the signs you've outgrown the sheet, what a switch costs, a decision table and a 7-step move. (2026-11-11)
+- [Tax Extension Email to Clients: 4 Templates (Form 4868)](https://mikeautomations.github.io/en/blog/tax-extension-client-email-templates/): Tax extension email to clients: what Form 4868 does and doesn't do, how to estimate and pay by April 15, and 4 templates to copy for extension season. (2026-11-11)
 
 ## Hebrew site (Israel)
 The Hebrew site serves businesses in Israel, in shekels: יצירת פעולות אוטומטיות החל מ-5,500 ₪; יצירת מערכת ייחודית לעסק החל מ-9,000 ₪; ליווי חודשי החל מ-900 ₪ לחודש. Contact on the Hebrew site: WhatsApp +972546980558, mikelgershman@gmail.com.
@@ -167,6 +173,12 @@ The Hebrew site serves businesses in Israel, in shekels: יצירת פעולות
 - [דוח שבועי אוטומטי לעסק](https://mikeautomations.github.io/he/automated-business-reports/): כל יום ראשון בבוקר: כמה פניות נכנסו, כמה הצעות מחיר יצאו, מה שולם ומה מחכה. דוח קצר במייל או בוואטסאפ שנבנה לבד מהמערכות שכבר יש לכם.
 - [קליטת חשבוניות ספקים אוטומטית](https://mikeautomations.github.io/he/supplier-invoices-automation/): חשבוניות ספקים מגיעות למייל ולוואטסאפ ומתפזרות. איך לאסוף אותן למקום אחד, לשלוף את הפרטים, לבדוק כפילויות ולהעביר לרואה החשבון.
 - [תיאום פגישות אוטומטי](https://mikeautomations.github.io/he/meeting-scheduling-automation/): קישור שבו הלקוח בוחר שעה פנויה ביומן, ומה שקורה מסביב: שאלון לפני הפגישה, תזכורת, עדכון ברשימת הלקוחות ומעקב אחרי פגישה.
+- [שאלות לשאול ספק אוטומציה](https://mikeautomations.github.io/he/questions-before-hiring-automation-vendor/): 18 שאלות לשאול ספק אוטומציה לפני שחותמים: של מי המערכת, מי מתחזק, מה העלויות החודשיות ומה קורה כשמשהו נשבר. ואיך נשמעת תשובה טובה.
+- [WhatsApp Business App או API](https://mikeautomations.github.io/he/whatsapp-business-app-vs-api/): WhatsApp Business API מחיר בישראל: מה עולה כסף, מה בחינם, ומה ההבדל מאפליקציית WhatsApp Business. לפי התעריפון הרשמי של Meta, עם טבלת השוואה.
+- [כשתזכורות מתוכנת החשבוניות לא מספיקות](https://mikeautomations.github.io/he/invoice-software-reminders-not-enough/): תזכורות תשלום אוטומטיות מתוכנת החשבוניות, גם בוואטסאפ: מתי זה מספיק, מתי לא, ומה מוסיפים. עם רצף תזכורות ותבנית הודעה להעתקה.
+- [תזכורות לתורים בוואטסאפ](https://mikeautomations.github.io/he/whatsapp-appointment-reminders/): תזכורות לתורים בוואטסאפ עם כפתורי אישור, הזזה וביטול: רצף תזכורות מוכן, תבניות הודעה, מה עושים עם ביטול, והכללים של Meta.
+- [מעבר מאקסל למערכת](https://mikeautomations.github.io/he/excel-to-system-migration/): מעבר מאקסל למערכת בלי לאבד נתונים: סימנים שהגיע הזמן, שלבי המעבר, ניקוי נתונים, הרצה במקביל וצ'קליסט מוכן ליום המעבר.
+- [מסמכים לדוח שנתי](https://mikeautomations.github.io/he/annual-report-documents-request/): אילו מסמכים לדוח שנתי לבקש מכל לקוח: שכיר, עצמאי, משכיר דירה, בעל תיק השקעות וחברה. טבלה מוכנה, תבנית הודעה ורצף תזכורות.
 
 ## Optional
 - [Terms](https://mikeautomations.github.io/en/terms/)

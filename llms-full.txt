@@ -420,7 +420,7 @@ The situation (illustrative): a bookkeeper with 60 VAT-registered clients on qua
 ## Free guide (Mike Automations): 25 AI Automations for Accountants & Small Firms
 Source: https://mikeautomations.github.io/en/guide/
 
-25 AI Automations for Accountants & Small Firms is a free 12-page PDF guide to automations a small accounting firm can switch on with the tools it already uses, such as Xero, QuickBooks, Gmail, Outlook, Google Drive and OneDrive. It covers getting new clients in, collecting documents, talking to clients, getting paid and running the firm. No email is needed to download it.
+25 AI Automations for Accountants & Small Firms is a free 12-page PDF guide to automations a small accounting firm can switch on with the tools it already uses, such as Xero, QuickBooks, Gmail, Outlook, Google Drive and OneDrive. It covers getting new clients in, collecting documents, talking to clients, getting paid and running the firm. No email is needed to download it, and all 25 automations are summarised on this page.
 
 ### What's inside
 - 25 automations, from the first enquiry to getting paid
@@ -429,32 +429,82 @@ Source: https://mikeautomations.github.io/en/guide/
 - How to use AI safely with client data
 - A one-page shortlist to pick your first three
 
-### The 25 automations
-1. Instant reply to every enquiry
-2. Intake form that creates the client record
-3. Engagement letter drafted from the intake
-4. ID and AML checks requested and tracked
-5. Onboarding sequence
-6. A personal checklist for every client
-7. Reminders that stop by themselves
-8. Uploads filed and renamed automatically
-9. AI checks what came in
-10. A morning "still outstanding" list
-11. AI drafts replies to common questions
-12. Deadline reminders per client
-13. Meeting reminders and easy rescheduling
-14. "Where's my return?" status updates
-15. Review requests after the job
-16. Invoice raised when the job is done
-17. Polite overdue reminders
-18. Missing receipts requested from the bank feed
-19. Quote and proposal follow-ups
-20. Annual fee review, prepared for you
-21. Inbox triage
-22. Email to task in one click
-23. Meeting notes to action points
-24. One deadline calendar for the whole firm
-25. Weekly workload report
+### AI automations for accountants: the short answer
+The most useful AI automations for accountants in a small firm take over the repetitive work around the accounting: replying to enquiries, chasing client documents, filing uploads, sending reminders and drafting replies. Most are no-code automations built on tools the firm already uses, such as Xero, QuickBooks, Gmail, Outlook and Google Drive, with an AI step only where text has to be read, sorted or drafted. A person checks anything that leaves the firm, and advice, AML decisions, final numbers and price changes always stay with a person.
+The guide has 25 ideas in five groups. You don't need all of them: pick the three that would save your team the most time, and start with one.
+
+### Three rules before you automate anything
+1. Automate a process you already do the same way every time. If it's different for every client, write down the steps first.
+2. Keep a person in the loop for anything that leaves the firm, at least for the first few weeks. Approve the wording once, then let it run.
+3. Keep client data inside your own accounts. Choose tools that run on your Microsoft 365 or Google Workspace, check where any AI tool stores data, and record it in your GDPR notes.
+
+### 1. Getting new clients in
+01. Instant reply to every enquiry. When someone fills in your website form or emails your enquiries address, they get a short, friendly reply saying what happens next, with a link to book a call, and the enquiry is logged in one list so nothing sits unanswered in a shared inbox. Tools: your website form plus Zapier, Make or Power Automate, and Gmail or Outlook. With a person: the wording, approved once; keep it an acknowledgement, not a sales pitch. More: [how to reply to new enquiries fast](https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/).
+02. Intake form that creates the client record. One online form collects the name, company, UTR or company number, services needed and key dates. On submit it creates the client in your practice software or spreadsheet, makes a client folder and tells the right person. Tools: Microsoft Forms, Google Forms, Typeform or Jotform, plus Karbon, TaxDome, Xero Practice Manager or a Sheet. With a person: deciding what to ask; ask only for what you need now. More: [client onboarding checklist for accounting firms](https://mikeautomations.github.io/en/blog/accounting-client-onboarding-checklist/).
+03. Engagement letter drafted from the intake. The services ticked on the intake form fill in your engagement letter template with the right scope, fees and dates. Tools: Word or Google Docs templates, plus DocuSign, Adobe Sign or the e-sign feature in your practice software. With a person: a partner approves each letter before it goes out for e-signature; keep one master template per service. More: [how to automate engagement letters](https://mikeautomations.github.io/en/blog/engagement-letter-automation/).
+04. ID and AML checks requested and tracked. Each new client gets the request for ID and proof of address, or a link to your ID-check provider, with reminders until the check is complete, and the client shows as "AML done" before any work starts. Tools: your AML provider plus your client list. With a person: the AML decision itself; automation only does the chasing and the record-keeping. More: [AML client ID checks: a workflow for small UK firms](https://mikeautomations.github.io/en/blog/aml-client-id-checks-workflow/).
+05. Onboarding sequence. A short series of emails over the first two weeks: welcome and who's who, how to send documents, how to give you software access, and the key dates for the year. Tools: Gmail or Outlook with scheduling, or the sequences feature in your practice software. With a person: the emails come from a real person's address, not "noreply". More: [automation for UK accounting practices](https://mikeautomations.github.io/en/accountants/).
+
+### 2. Collecting documents
+The biggest time sink in most firms, and the easiest to fix.
+06. A personal checklist for every client. Each client gets their own list of what's needed this period, such as a P60, bank statements, rental figures or invoices, built from their services and last year's file. Tools: a Sheet or your practice software's client requests, plus email. With a person: keeping the list to what's still missing, not everything you've ever asked for. More: [Self Assessment document chasing for UK accountants](https://mikeautomations.github.io/en/self-assessment-document-chasing/).
+07. Reminders that stop by themselves. Friendly reminders go out every few days, more often as the deadline gets closer, and the moment a document arrives that client's reminders stop. Tools: Zapier or Make with Gmail or Outlook and your checklist, or built-in reminders in Karbon or TaxDome. With a person: the wording, in your own voice, approved once; tone matters more than frequency. More: [email templates for chasing client documents](https://mikeautomations.github.io/en/blog/document-chasing-email-templates/).
+08. Uploads filed and renamed automatically. Whatever the client sends, an email attachment or an upload, lands in the right client folder with a sensible name, and the item is ticked off the checklist. Tools: OneDrive, SharePoint, Google Drive or Dropbox plus Zapier, Make or Power Automate. With a person: agreeing one folder structure first, because automation copies a mess just as quickly. More: [client document collection workflow](https://mikeautomations.github.io/en/bookkeeper-document-collection/).
+09. AI checks what came in. An AI step reads each upload and suggests what it is, for example "this is a P60 for 2024-25" or "this looks like last year's statement", so wrong-year and wrong-document uploads are caught before you sit down to do the work. Tools: Dext or Hubdoc for receipts and invoices, or an AI step in Make or Zapier for general documents. With a person: anything doubtful is flagged for a person; treat the AI's answer as a suggestion, not a decision, and check the tool's data-processing terms. More: [when a client sends some documents but not all](https://mikeautomations.github.io/en/blog/clients-who-send-some-documents-but-not-all/).
+10. A morning "still outstanding" list. One short email each morning: which clients are still missing what, how many days are left before each deadline, and who hasn't opened their reminders at all. Tools: a scheduled automation that reads your checklist and sends a summary. With a person: phoning the clients who haven't opened anything; keep the email to one screen. More: [how to get clients to send documents on time](https://mikeautomations.github.io/en/blog/get-clients-to-send-documents-on-time/).
+
+### 3. Talking to clients
+11. AI drafts replies to common questions. For the questions you answer every week, such as "what's my deadline?", "can I claim this?" or "where do I send my P60?", an AI drafts a reply from your own notes and templates. Tools: Copilot in Outlook, Gemini in Gmail, or an AI step that saves drafts. With a person: a person reads, edits and sends every reply; drafts only, and AI never sends tax advice on its own. More: [ChatGPT prompts for accountants (without client data)](https://mikeautomations.github.io/en/blog/chatgpt-prompts-for-accountants/).
+12. Deadline reminders per client. Each client gets a reminder ahead of their own key dates, such as Self Assessment, VAT quarters, MTD quarterly updates, payment on account or US filing dates, saying exactly what they need to do. Tools: your client list with deadline columns plus a scheduled automation. With a person: checking the dates in the list are right, because a wrong reminder is worse than none. More: [MTD for Income Tax: a quarterly workflow for UK practices](https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/).
+13. Meeting reminders and easy rescheduling. Booked calls get a reminder the day before, with a one-click link to move them, so there are no back-and-forth emails. Tools: Cal.com, Calendly or Microsoft Bookings. With a person: setting buffer times so the day doesn't fill with back-to-back calls. More: [how to reduce no-shows](https://mikeautomations.github.io/en/blog/reduce-appointment-no-shows/).
+14. "Where's my return?" status updates. When a job moves stage, for example records received, in progress, ready for review or filed, the client gets a short automatic update. Tools: job stages in Karbon, TaxDome, XPM or a Sheet, plus email. With a person: choosing the stages the client actually cares about, and sending updates only for those.
+15. Review requests after the job. A few days after a return is filed, happy clients get a polite request with a direct link to your Google review page. Tools: your job stages plus email. With a person: the wording; ask everyone the same way, and don't filter or reward reviews. More: [how to ask for Google reviews, and the rules](https://mikeautomations.github.io/en/blog/ask-for-google-reviews-automatically/).
+
+### 4. Getting paid
+16. Invoice raised when the job is done. When a job moves to "filed" or "complete", the invoice is drafted in Xero or QuickBooks with the agreed fee, so nothing finished goes unbilled at the end of a busy month. Tools: Xero or QuickBooks plus your job list. With a person: a quick check before the invoice is sent; keep fees in one place so the invoice and the engagement letter always agree. More: [Xero automation ideas for small accounting practices](https://mikeautomations.github.io/en/blog/xero-practice-automation-ideas/).
+17. Polite overdue reminders. A friendly note before the due date, another on the day and a firmer one a week later, each with the invoice and a payment link, stopping the moment the invoice is paid. Tools: built-in reminders in Xero or QuickBooks, or a dedicated credit-control tool. With a person: turning reminders off for clients you're already speaking to about payment. More: [automated invoice payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/).
+18. Missing receipts requested from the bank feed. Bank transactions with no receipt or explanation are collected into one short list per client and sent with a single upload link, instead of an email per transaction. Tools: Xero or QuickBooks bank feeds plus Dext, or an automation that reads unreconciled items. With a person: setting a minimum amount, so clients aren't asked about small purchases. More: [getting bookkeeping clients to send receipts every month](https://mikeautomations.github.io/en/blog/collect-receipts-from-bookkeeping-clients/).
+19. Quote and proposal follow-ups. Proposals that haven't been accepted get a short follow-up on day 3 and day 7, then stop. Tools: your proposal tool, or email plus a Sheet. With a person: the wording, and knowing when to stop; two follow-ups are plenty.
+20. Annual fee review, prepared for you. Once a year, a report lists each client's fee next to the time and work it actually took, with the outliers flagged, and an AI step can draft the fee-change letters. Tools: time or job data from your practice software plus a Sheet. With a person: every price change, and reviewing every letter before it goes out.
+
+### 5. Running the firm
+21. Inbox triage. Incoming emails are labelled automatically, such as client documents, questions, HMRC or IRS letters, invoices and newsletters, so the shared inbox becomes a set of short queues instead of one long scroll. Tools: Outlook rules or Gmail filters, plus an AI labelling step for the unclear ones. With a person: setting the rules; start with clear-cut rules and add AI only for what rules can't sort. More: [AI in a small accounting firm: what to automate](https://mikeautomations.github.io/en/blog/ai-in-accounting-firms-what-to-automate/).
+22. Email to task in one click. Flag or forward an email and it becomes a task with the client, a due date and a link back to the email, so nothing lives only in someone's inbox. Tools: Karbon, Asana, ClickUp, Microsoft Planner or Todoist. With a person: picking one task list for the whole firm.
+23. Meeting notes to action points. Client calls are summarised automatically, with decisions, action points and dates, filed to the client record, and the follow-up email is drafted. Tools: Teams or Zoom summaries, Fireflies or Otter. With a person: checking and sending the follow-up, telling clients you're taking notes, and keeping recordings in line with your privacy policy.
+24. One deadline calendar for the whole firm. Every client deadline from your client list appears in a shared calendar, colour-coded by service, with a weekly "coming up" email. Tools: a client list plus Outlook or Google Calendar. With a person: keeping the client list right, because it's the single source of truth and the calendar only reads from it. More: [UK accounting practice deadline calendar 2026-27](https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/).
+25. Weekly workload report. Every Monday: jobs in progress, jobs waiting on clients, jobs overdue, and who has too much on, so partners see the bottlenecks without a meeting. Tools: your practice software's reports, or a Sheet plus a scheduled summary. With a person: acting on it; report on a few numbers you'll act on, not everything you can measure.
+
+### Worked example: the January chase
+How automations 6, 7, 8, 9 and 10 fit together in Self Assessment season, in a small practice where one person would otherwise spend most of December and January emailing, phoning and filing.
+When | What happens automatically | What a person does
+--- | --- | ---
+1 October | Every client gets a personal checklist (6), built from last year's file, with one upload link. | Approves the email wording once.
+October to December | A reminder every 10 days to anyone with items outstanding (7). Each upload is filed and renamed (8), and an AI step flags wrong-year documents (9). | Checks the flagged uploads.
+Every morning | The morning email (10): who's missing what, days left, and who hasn't opened anything. | Phones the "not opened" group, a short list.
+From 2 January | Reminders every 3 days, with the deadline in the subject line. | Personal calls to the last stragglers.
+Records complete | The client gets "we have everything, we're on it" (14), and the job moves to "ready to prepare". | The actual accounting work.
+
+### Using AI safely with client data
+Good jobs for AI in a small firm: sorting and labelling incoming email and documents (9, 21), drafting replies, summaries and letters for a person to check (11, 20, 23), and pulling key fields such as dates, amounts and names out of documents as suggestions.
+Keep these with a person: anything that is advice (tax positions, claims, what a client should do), AML and ID decisions, final numbers in a return or a set of accounts, and price changes or anything sensitive with a client.
+Before connecting any AI tool, the guide asks five questions. It's a practical checklist, not legal advice. More: [GDPR checklist before automating client data](https://mikeautomations.github.io/en/blog/gdpr-checklist-automating-client-data/).
+1. Where does the data go? Choose business plans that don't train on your data, and check the region it's stored in.
+2. Is there a data processing agreement? You need one for client personal data under UK and EU GDPR.
+3. Can you switch it off? Every automation should have an obvious pause button.
+4. Is it written down? Add each tool to your privacy notice and record of processing.
+5. Do you check the output? Spot-check a sample of outputs for the first month, even when they look perfect.
+
+### Build, buy or get help?
+- Buy when your practice software already does it. Switch the feature on first.
+- Build it yourself when it's a simple "when this, then that" between two tools you already use, with Zapier, Make, Power Automate or n8n.
+- Get help when it spans several tools, needs to be reliable in deadline season, or nobody in the firm has time to look after it.
+
+### Where to start
+If you only do one thing this month, do 7 (reminders that stop by themselves) together with 10 (the morning list). Together they take most of the chasing off your team without changing how clients work with you. More: [what to automate first in a small business](https://mikeautomations.github.io/en/blog/what-to-automate-first-small-business/).
+1. Count it: for one week, tally how often each task on the list happens. Rough is fine.
+2. Score it: times per week multiplied by minutes each. The biggest number wins.
+3. Check it: is it done the same way every time? If not, write the steps down first.
+4. Pilot it: run it with a few friendly clients for two weeks before switching it on for everyone.
 
 ### Next steps
 
@@ -3481,6 +3531,87 @@ No. Texts only go to customers who have agreed to hear from you that way. Everyo
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## CIS monthly return: collecting subcontractor invoices before the 19th
+Source: https://mikeautomations.github.io/en/cis-monthly-return-subcontractor-invoices/
+
+A CIS monthly return lists every payment a contractor made to subcontractors in the tax month (the 6th of one month to the 5th of the next), and HMRC must receive it by the 19th. To file it on time you need each subcontractor's invoice, split into labour, materials and VAT, and their verification status before you pay. A collection workflow requests invoices before the 5th, checks what's missing, and gives you one list to finish the return.
+
+The CIS monthly return itself takes minutes. Collecting subcontractor invoices for it is what takes the week. One sub sends a photo of a handwritten invoice, another forgets to split out materials, a new starter hasn't given you a UTR, and the 19th arrives before the paperwork does. This guide is for UK contractors, and the bookkeepers who run CIS for them, who want that collection to run on a fixed monthly rhythm instead of a scramble.
+
+### The CIS dates every month
+HMRC's guide "What you must do as a CIS contractor" (gov.uk, checked November 2026) sets these dates. A tax month runs from the 6th to the 5th, so the return for 6 November to 5 December must reach HMRC by 19 December. The same dates sit alongside payroll and VAT in our [UK accounting practice deadline calendar](https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/).
+When | What happens | What you need in hand
+--- | --- | ---
+6th | New tax month starts. Payments from today go on next month's return | A list of subs expected to invoice this month
+Around the 1st | Ask every active sub for this month's invoice | Invoices split into labour, materials and VAT
+Before any payment | Verify any new sub, or one not on a return in this or the last 2 tax years | UTR, plus NI number, company or partnership details
+By the 5th | Last day of the tax month for payments | Every payment logged with gross amount and deduction
+6th to 12th | Check every payment has an invoice and a deduction rate | A short list of what is still missing
+By the 19th | Return reaches HMRC, and each sub gets a payment and deduction statement | Monthly return, or a nil return if nobody was paid
+By the 22nd | CIS deductions paid to HMRC (by the 19th if paying by post) | Total deductions from the return
+
+### What you need from each subcontractor
+Before you can pay a new subcontractor, HMRC says you must verify them. It tells you whether they're registered and which rate to use: 20% for registered subcontractors, 30% for unregistered ones, or 0% if they have gross payment status. The details you give must exactly match what the subcontractor registered with, and you can't verify temporary NI numbers starting with "TN". If you verify more than 50 subcontractors you need commercial CIS software rather than HMRC's free online service.
+- Sole traders: name, UTR and National Insurance number
+- Limited companies: company name, company UTR and Companies House registration number
+- Partnerships: nominated partner details, trading name and partnership UTR
+- Every month: an invoice showing the gross amount, VAT, and what they paid for materials, plant hire, fuel (not for travel) and consumables, because the deduction is only taken from what's left
+- Receipts for materials if you ask for them. HMRC says that without evidence you estimate the materials cost
+
+### What a late or wrong return costs
+HMRC charges £100 for a return 1 day late, £200 more at 2 months, and at 6 and 12 months £300 or 5% of the CIS deductions on the return, whichever is higher. Later than that, the extra penalty can be up to £3,000 or 100% of the deductions. Each month is a separate return, so one missed month can turn into several penalties. HMRC's April 2026 Employer Bulletin says that from April 2026 contractors must file every month again, including nil returns when no sub was paid (or send an inactivity request in advance), and that the full late-filing penalty regime is back. Giving the wrong employment status for a subcontractor can cost up to £3,000, and so can failing to show your CIS records when asked. HMRC says to keep them for at least 3 years after the end of the tax year.
+
+### A request you can send to subcontractors
+Monthly invoice request to a subcontractor (send around the 1st):
+```
+Subject: Your invoice for [month]: needed by [date before the 5th]
+
+Hi [first name],
+
+To pay you for [month] and include you on our CIS return, please send your invoice by [date].
+
+Please show on the invoice:
+1. The total for the work
+2. VAT, if you're VAT registered
+3. What you paid for materials, plant hire and fuel for this job (not travel)
+
+We'll take CIS off the labour part only, at the rate HMRC gives us for you. You'll get your payment and deduction statement by the 19th.
+
+If anything has changed (new company, new UTR, now VAT registered), please tell us before we pay.
+
+You can reply with a photo or PDF, or upload it here: [upload link]
+
+Thanks,
+[your name]
+[business name]
+```
+
+### What an automated collection workflow does
+1. Keeps one list of subcontractors with their verification status, deduction rate and the date they were last on a return, so anyone who needs verifying again is flagged before payment.
+2. Sends each active sub the invoice request around the 1st, by email or text, with an upload link.
+3. Saves each invoice to the right month's folder and records the gross amount, materials and VAT for a person to check.
+4. Reminds only the subs who haven't sent anything, and tells you on the 3rd who is still missing.
+5. On the 6th, gives you a draft of the month: every payment, its deduction, and any gaps. If nobody was paid, it reminds you to file a nil return.
+6. After you file, sends each sub their payment and deduction statement and reminds you to pay HMRC by the 22nd.
+
+### If you're a bookkeeper running CIS for clients
+The same rhythm works across a client list. Each contractor client gets the request on the same day, and you get one view on the 6th of which clients have everything and which are still waiting on a sub. It sits well next to your [bookkeeping document collection](https://mikeautomations.github.io/en/bookkeeper-document-collection/), and the monthly statements it saves are the ones your subcontractor clients need at year end, as listed in our [Self Assessment records checklist](https://mikeautomations.github.io/en/blog/self-assessment-records-checklist-for-clients/).
+
+### How Mike Automations would build this
+We start with a [free 15-minute call](https://mikeautomations.github.io/call/) about how invoices reach you today and who files the return. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example: every active sub is asked by the 1st, gaps are listed by the 6th, and statements go out after filing. It's built on the tools you already use (your email, a shared drive or spreadsheet, and your CIS or accounting software where it allows a connection). Live in 2-3 days, [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. If you want to see where CIS fits among your other tasks first, try the [plan builder](https://mikeautomations.github.io/en/plan/).
+
+### What stays with you
+Verifying subcontractors, deciding employment status, checking the figures and submitting the return. The workflow requests, files and reminds. Nothing is sent to HMRC by the workflow, and anything sent to a subcontractor in your name uses wording you approved.
+
+### When is the CIS monthly return due?
+HMRC must receive it by the 19th of the month after the tax month ends. The tax month runs from the 6th to the 5th, so the return for 6 November to 5 December is due by 19 December.
+
+### Do I need to file a CIS return if I paid no subcontractors?
+Yes. HMRC's April 2026 Employer Bulletin says contractors must again file every month from April 2026, including a nil return, unless they told HMRC in advance with an inactivity request.
+
+### What details do I need to verify a subcontractor?
+Your own UTR, accounts office reference and employer reference, plus the sub's UTR and either their NI number (sole trader), company name, UTR and registration number (limited company), or partnership details. They must exactly match what the sub registered with.
 
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
@@ -8965,4 +9096,447 @@ An API is the official way one app lets another read or change its data when ask
 
 ### Is an AI agent the same as an automation?
 No. A standard automation follows fixed rules you set. An AI agent uses an AI model to read and decide which step comes next, which makes it more flexible but less predictable, so a person should approve what it prepares.
+
+## n8n Cloud vs self-hosted for a small business
+Source: https://mikeautomations.github.io/en/blog/n8n-cloud-vs-self-hosted-small-business/ (2026-11-11)
+
+n8n Cloud vs self-hosted, for a small business: n8n Cloud costs from €20 a month billed yearly, and n8n runs, updates and backs it up for you. Self-hosted n8n has no licence fee for internal business use, but you pay for a server and someone has to install, patch, back up and secure it. Without a technical person who will do that every month, n8n Cloud is the safer choice.
+
+n8n Cloud vs self-hosted is the first decision a small business makes after picking n8n. The software is the same. The difference is who runs it: n8n, on its servers, for a monthly fee, or you, on a server you rent, with no licence fee but all the upkeep.
+This post is for owners of small service firms with no IT department. Prices, limits and licence terms below were checked on n8n.io and in n8n's documentation on 10 November 2026. n8n changes its plans often, so check again before you buy. If you haven't chosen a tool yet, start with [Zapier vs Make vs n8n](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/).
+
+### The comparison table (checked 10 November 2026)
+Sources: n8n.io/pricing and docs.n8n.io, read on 10 November 2026. Prices are in euros, as n8n shows them. An execution is one run of a whole workflow, however many steps it has. n8n says the Business plan is currently only available self-hosted, and dedicated support with agreed response times is only on Enterprise, priced through n8n's sales team.
+ | n8n Cloud Starter | n8n Cloud Pro | Self-hosted Community | Self-hosted Business
+--- | --- | --- | --- | ---
+Price | €24 a month, or €20 a month billed yearly | From €60 a month, or €50 a month billed yearly | No licence fee. You pay for the server | €800 a month, or €8,000 a year
+Runs included | 2,500 executions a month | 10,000 executions a month (50,000 for €145 a month) | No allowance from n8n: your server sets the limit | 40,000 executions a month
+Runs at the same time | 5 | 20 (50 on the 50,000 plan) | You decide | You decide
+Updates and security fixes | n8n, at least every two weeks | n8n, at least every two weeks | You | You
+Backups | Automatic workflow backups (not credentials) | Automatic workflow backups (not credentials) | You | You
+Where the data sits | n8n's servers in Frankfurt, Germany | n8n's servers in Frankfurt, Germany | Wherever you host it | Wherever you host it
+Sharing workflows with colleagues | 1 shared project | 3 shared projects, admin roles | Needs a paid licence | 6 shared projects, single sign-on
+Support | Community forum | Community forum | Community forum | Community forum
+
+### The real cost of each
+n8n Cloud's cost is the plan price. Most small firms with a handful of workflows fit inside Starter's 2,500 runs a month: a workflow that runs once a day uses about 30 runs a month, and one triggered by each new enquiry uses one run per enquiry. Watch the time limit on a single run: n8n's pricing page says 5 minutes on Starter and 40 minutes on Pro, and time spent waiting, for example in a Wait node, doesn't count.
+Self-hosted Community has no licence fee, but it isn't free. You pay for a server every month, and for the hours someone spends looking after it. That time is the bigger cost for most small firms. For illustration: if you pay someone £50 an hour and they spend two hours a month on updates, backups and checks, that's £100 a month before anything breaks. Use your own rate and hours.
+Self-hosted Business only makes sense for bigger teams that need single sign-on, separate test and live environments, or more shared projects. At €8,000 a year it costs far more than Cloud Pro for a small firm. n8n also offers a Startup plan with 50% off Business for companies under 20 employees, if you qualify under n8n's terms.
+
+### Who patches it, and why that matters
+On n8n Cloud, n8n updates your instance for you. Its documentation says it upgrades every Cloud instance at least every two weeks so that security fixes reach everyone. You can choose a maintenance window, so the one or two minutes of downtime happen when nobody is working.
+Self-hosted, updating is your job. n8n's own advice is to update at least once a month, read the release notes for breaking changes first, and test the update on a copy if you can. That advice exists for a reason. As of 10 November 2026, n8n's GitHub repository lists 223 security advisories published in 2026, 19 of them rated critical. The usual fix is to update to a newer version. On Cloud, n8n applies those updates. On a self-hosted server, the fix only arrives when someone installs it.
+A self-hosted n8n also holds the passwords and keys for every app it connects to: your email, your accounting software, your client files. An out-of-date server on the open internet is a risk to client data, not just to the workflows.
+
+### Who backs it up
+n8n Cloud makes backups automatically, and instance owners can download workflows from them in the Cloud console. n8n's documentation notes that those backups contain workflows only, never credentials, so keep a record of which accounts each workflow connects to.
+Self-hosted, a full backup is more than exporting your workflows. n8n's backup guide says it must include the .n8n folder, which holds the encryption key, and the database. Without that key, saved credentials can't be decrypted after a restore. n8n also recommends a full backup before every update. And a backup nobody has ever tried restoring is a hope, not a backup.
+
+### The licence: what the Sustainable Use License allows
+Self-hosted n8n is covered by n8n's Sustainable Use License, a "fair-code" licence n8n created in 2022. It isn't an open-source licence. n8n's documentation says you may use or modify the software for your own internal business purposes, or for non-commercial or personal use.
+n8n's License FAQ makes this practical. Allowed: running n8n to help run your business, building automations for your clients on your instance as long as they can't create or edit them, and charging for building, setting up and maintaining workflows. Not allowed: hosting n8n as a service where your clients build their own workflows, or white-labelling n8n as your own product.
+For a small firm automating its own admin, self-hosting sits comfortably inside the licence. n8n Cloud is a paid subscription with its own terms, so the Sustainable Use License doesn't apply to it. If your plan sits near the edge, n8n asks you to email license@n8n.io before you build.
+
+### Self-hosting checklist: who will do each job?
+Before you choose self-hosted, write a name next to every line. If any line stays blank, n8n Cloud is the better choice for now.
+Job | How often | Who in your firm
+--- | --- | ---
+Rent and set up the server, domain and HTTPS certificate | Once, then renewals | 
+Install n8n updates after reading the release notes | At least monthly (n8n's advice) | 
+Watch n8n's security advisories and apply urgent fixes | Whenever one is published | 
+Full backup: .n8n folder, encryption key, database | Daily or weekly, and before every update | 
+Test a restore from backup | Every few months | 
+Check the server for disk space and failed runs | Weekly | 
+Get an alert when a workflow fails, and fix it | As it happens | 
+Keep a list of every connected account and who owns it | Whenever anything changes | 
+
+### When self-hosting makes sense
+For most small service firms with a few workflows and no IT person, none of these is true. n8n Cloud Starter or Pro costs less than the hours a self-hosted server takes, and the patching happens without anyone having to remember it. Whichever you choose, the workflows still need someone to watch them: our post on [whether automations need maintenance](https://mikeautomations.github.io/en/blog/do-automations-need-maintenance/) explains why they break.
+- Someone in the business, or someone you pay, already looks after servers and will own every job in the checklist above.
+- Client data must stay on infrastructure you choose, for example in a particular country, and your data protection assessment says so. The [GDPR checklist before automating client data](https://mikeautomations.github.io/en/blog/gdpr-checklist-automating-client-data/) helps you work this out.
+- Your workflows run tens of thousands of times a month, so Cloud's execution limits would push you onto a much bigger plan.
+- You need a community node or a setting that n8n Cloud doesn't allow.
+
+### How Mike Automations would build it
+Not sure which jobs are worth automating at all? The free [plan builder](https://mikeautomations.github.io/en/plan/) suggests workflows for your type of business. When you're ready, book a [free 15-minute call](https://mikeautomations.github.io/call/). Within 48 hours you get a written plan with a fixed price that says which tool the workflow runs on, Cloud or self-hosted, and who looks after it. It's built on the tools you already use, in your own accounts, goes live in 2-3 days, and costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients). You pay once it's running and you're happy with it. Optional support is $150 a month for hosting, monitoring and small changes, by the person who built it.
+
+### Is self-hosted n8n really free?
+The Community edition has no licence fee for your own internal business use under n8n's Sustainable Use License. You still pay for a server, and for the time someone spends updating, backing up and securing it every month.
+
+### How much does n8n Cloud cost?
+On 10 November 2026, n8n's pricing page listed Starter at €24 a month, or €20 a month billed yearly, for 2,500 executions, and Pro from €60 a month, or €50 a month billed yearly, for 10,000 executions. Check n8n.io/pricing before you buy.
+
+### Where does n8n Cloud store my data?
+n8n's pricing FAQ says data on its hosted plans is stored in the EU, on servers in Frankfurt, Germany. On a self-hosted instance it is wherever you choose to host n8n.
+
+### Can I move from n8n Cloud to self-hosted later?
+Yes. Workflows can be downloaded from n8n Cloud and imported into a self-hosted instance. Credentials aren't included in Cloud backups, so you reconnect each account after the move.
+
+### Can someone build n8n workflows for my business on self-hosted n8n?
+Yes. n8n's License FAQ says charging customers for workflow creation, setup and maintenance is allowed. What isn't allowed is offering n8n as a service where clients build their own workflows.
+
+## Custom software vs off-the-shelf for a small business
+Source: https://mikeautomations.github.io/en/blog/custom-software-vs-off-the-shelf-small-business/ (2026-11-11)
+
+Custom software vs off-the-shelf, for a small business: off-the-shelf software usually wins when a product already fits most of how you work, because it's cheaper to start and the vendor maintains it. Custom software wins when your way of working is what sets you apart, when you're paying for several tools that still don't fit, or when per-user fees keep climbing. Many small firms are best served by a middle path: off-the-shelf tools joined up with a few automations.
+
+Custom software vs off-the-shelf is a question most small firms reach once spreadsheets, shared inboxes and three different apps stop keeping up. Do you buy another subscription and bend your process to fit it, or have something built around the way you already work?
+This post compares the two honestly for a small service business: total cost, fit, lock-in and who maintains it. It ends with a decision table and a checklist. The cost example is for illustration: put your own numbers in.
+
+### What each one means
+Off-the-shelf software is a product many businesses use as it comes: a CRM, a practice management tool, a booking system or a job management app. You pay a subscription, usually per user per month, and the vendor builds, hosts and updates it.
+Custom software is built for one business. For a small firm that usually means a simple web app with a login per person: clients, jobs, documents and tasks in one place, shaped around your steps rather than someone else's. You pay to build it, then for hosting and any changes.
+There's a third option most comparisons skip: keep the off-the-shelf tools you have and join them up with automations, so information moves between them without retyping. It's often the cheapest fix, and it's covered below.
+
+### Total cost: work it out over three years
+Comparing a monthly subscription with a one-off build price is comparing two different things. Put both on the same footing: what you'll pay over three years, including the time your team spends on workarounds. Here is a worksheet with a worked example. The figures are for illustration only, not market prices.
+Cost line | Off-the-shelf (for illustration) | Custom (for illustration)
+--- | --- | ---
+Licence or build | 6 users × $40 a month = $8,640 over 3 years | $5,000 one-off build
+Setup, data import, training | $500 once | Included in the build
+Add-ons or a higher tier for one missing feature | 6 users × $15 a month = $3,240 over 3 years | None: the feature is built in
+Price rises | Unknown: check the contract's terms | None on the build
+Hosting and support | Included in the subscription | $150 a month = $5,400 over 3 years (optional)
+Workarounds: retyping, spreadsheets on the side | 3 hours a week × 150 weeks × your hourly cost | Should drop, if the system fits
+Three-year total before workarounds | $12,380 | $5,000 to $10,400
+
+### What the worked example shows
+In this example the two come out closer than most people expect, and the workaround hours decide it. If the off-the-shelf product fits well and nobody keeps a spreadsheet on the side, it's the cheaper and simpler choice. If your team spends hours every week bending the product to fit, that time usually costs more than either price line. Our [automation ROI worksheet](https://mikeautomations.github.io/en/blog/automation-roi-worksheet/) shows how to put a fair figure on those hours.
+Two more points change the sums. Per-user pricing grows with every person you hire, while a custom build doesn't. And a subscription keeps going for as long as you use the product, while a build is paid once.
+
+### Fit: the question that decides most cases
+The UK government's guidance on choosing between building and buying technology (GOV.UK, "Define your purchasing strategy", updated September 2026) is written for public bodies, but its logic suits a small firm too. It suggests buying when a commercial product meets most of your needs and you don't need much customisation. It suggests building when your need is unusual, or when available products can't be adapted or connected to cover your core needs.
+It also warns about bending a bought product too far: "Even small modifications to OTS software can remove most of the benefits of using it." For a small firm the lesson is simple. Use off-the-shelf software as it was designed, through its own settings. If you'd need to fight the product every day to make it fit, that's the sign it's the wrong product, or that custom is worth pricing.
+
+### Lock-in: it happens both ways
+Our [automation handover checklist](https://mikeautomations.github.io/en/blog/automation-handover-checklist/) lists what you should receive when anything is built for you, so you can move to someone else if you ever need to.
+- Off-the-shelf lock-in: your data sits in the vendor's system. Check before you sign that you can export everything (clients, jobs, documents, notes) in a format you can open, and what happens to your data if you cancel.
+- Price lock-in: once your team relies on a product, moving away is painful, so a price rise is hard to refuse. Read the contract terms on price changes and notice periods.
+- Custom lock-in: a system only one developer understands ties you to that developer. Make sure the code, the data and the hosting accounts are in your business's name, and that you get written documentation.
+- The same GOV.UK guidance says contracts must be explicit about who owns the data and the intellectual property, including the software code. Ask for that in writing whichever way you go.
+
+### Maintenance: who keeps it working
+With off-the-shelf software the vendor fixes bugs, applies security updates and adds features. You don't choose which features, and a change you didn't ask for can still alter how your team works.
+With custom software someone has to keep it running: hosting, security updates, backups and small changes as your business changes. Agree before the build who does that, what it costs, and how quickly problems get fixed. A custom system with no maintenance plan is a risk, however well it was built.
+
+### The decision table
+Your situation | Usually wins | Why
+--- | --- | ---
+A well-known product does 80% or more of what you need, as it comes | Off-the-shelf | Cheaper to start, maintained by the vendor
+You need to start next week | Off-the-shelf | Sign up and import your data; a build takes weeks
+Your tools are fine, but people retype the same data between them | Middle path: automation | Joining the tools up is cheaper than replacing them
+You pay for three or more tools and still keep a spreadsheet on the side | Custom | One system shaped around your steps replaces the patchwork
+Your way of working is what clients pay you for | Custom | Off-the-shelf would make you work like everyone else
+You're hiring and per-user fees keep climbing | Price both | A custom build doesn't grow with headcount, but it needs maintenance
+Nobody will own maintenance of a custom system | Off-the-shelf | A product the vendor keeps up to date is safer
+
+### Before you decide: five steps
+1. Write down how the work flows today, from the first enquiry to the final invoice. A [one-page process map](https://mikeautomations.github.io/en/blog/process-map-template-small-business/) is enough.
+2. Mark each step the current tools handle well, handle badly, or don't handle at all.
+3. Trial the best off-the-shelf product on your hardest real case, not the demo data. If it handles that through its own settings, buy it.
+4. If it doesn't, price a custom system and the middle path (automations between the tools you already have) for the same steps.
+5. Compare the three-year totals, including workaround hours, and check who owns the data and code in each option.
+
+### How Mike Automations would build it
+Start with the free [plan builder](https://mikeautomations.github.io/en/plan/) to see which of your workflows could simply be automated. If joining up your current tools is enough, workflow automation costs $2,000 one-off ($1,500 for the first 3 clients) and goes live in 2-3 days. When spreadsheets and email threads stop being enough, a [custom system, from $5,000](https://mikeautomations.github.io/en/services/), is a web app with a login per person that works on your phone, your spreadsheets moved over, and the first version live in 3-4 weeks, plus 60 days of fixes. It's priced by scope, in writing, before any work starts, it runs in your accounts and you own it.
+Either way, it starts with a [free 15-minute call](https://mikeautomations.github.io/call/), and within 48 hours you get a written plan with a fixed price. No deposit and no hourly billing: you pay once it's running and you're happy with it. Optional support is $150 a month.
+
+### Is custom software worth it for a small business?
+It can be, when your way of working doesn't fit any product, when you pay for several tools that still leave gaps, or when per-user fees keep rising. If a well-known product already fits most of what you do, off-the-shelf is usually cheaper and simpler.
+
+### How much does custom software cost for a small business?
+It depends on scope: how many people need logins, how many tools it connects to and how much data moves over. At Mike Automations a custom system is from $5,000, priced in writing before any work starts. Add hosting and maintenance over the years you'll use it.
+
+### What are the risks of custom software?
+Mainly being tied to one developer, and nobody maintaining it after launch. Make sure the code, data and hosting accounts are in your business's name, that you get documentation, and that maintenance is agreed before the build.
+
+### Can I start with off-the-shelf software and move to custom later?
+Yes, as long as you can export your data in a usable format. Check the export options before you sign up, so your history can move with you.
+
+## Self Assessment payment reminders for clients: 31 January and 31 July
+Source: https://mikeautomations.github.io/en/blog/self-assessment-payment-reminders-for-clients/ (2026-11-11)
+
+A Self Assessment payment reminder for clients tells each client how much they owe HMRC, what it's made up of, how to pay and by when. For the 2025 to 2026 tax year, the balancing payment and the first payment on account for 2026 to 2027 are due by 31 January 2027, and the second payment on account by 31 July 2027. Late payment brings interest from the due date and, on the balancing payment, penalties of 5% of the unpaid tax at 30 days, 6 months and 12 months.
+
+Self Assessment payment reminders for clients are a different job from chasing records. Once the return is filed, the practice has done its part, but the client still has to pay, and many don't look at the figure again until the week of the deadline. Some never saw that the bill includes a payment on account. Some find out on 30 January that a first-time Direct Debit takes 5 working days.
+This post gives you a reminder schedule for 31 January and 31 July, what each reminder should say, what paying late costs, what to tell clients who can't pay, and an email you can copy. The dates and rules are from GOV.UK, checked in November 2026, for the 2025 to 2026 tax year. If you're still collecting records, start with [when to start chasing Self Assessment clients](https://mikeautomations.github.io/en/blog/when-to-start-chasing-self-assessment-clients/).
+
+### What clients owe and when
+GOV.UK says payments on account are each usually half of last year's tax bill, due by midnight on 31 January and 31 July. A client doesn't have to make them if last year's tax was less than £1,000, or if more than 80% of their tax was paid outside Self Assessment, for example through their tax code. That's why two clients with the same bill can owe very different amounts on 31 January.
+Date | What is due | Who it affects
+--- | --- | ---
+30 December 2026 | Online return filed by now if the client wants a bill under £3,000 collected through their tax code | Employees and pensioners who already pay through PAYE
+31 January 2027 | Balancing payment for 2025 to 2026, plus the first payment on account for 2026 to 2027 | Everyone with tax to pay
+31 July 2027 | Second payment on account for 2026 to 2027 | Clients who make payments on account
+
+### Watch the weekends in 2027
+31 January 2027 is a Sunday and 31 July 2027 is a Saturday. GOV.UK says that if the deadline falls on a weekend or bank holiday, the payment must reach HMRC on the last working day before, unless the client pays by Faster Payments or by debit or corporate credit card. So a client paying by Bacs or Direct Debit needs to plan for Friday 29 January, and allow 3 working days for Bacs or a Direct Debit used before, or 5 working days for a first-time Direct Debit. Your last reminder should go out early enough for that.
+
+### What paying late costs
+HMRC charges interest on tax paid late. Since 6 April 2025 the late payment rate has been the Bank of England base rate plus 4%. HMRC's interest rate table shows 7.75% from 9 January 2026 and 8.00% from 24 November 2026.
+On top of interest, GOV.UK lists late payment penalties of 5% of the tax unpaid at 30 days, 6 months and 12 months. HMRC's Self Assessment Manual (SAM61250) says these penalties apply to the balancing payment and not to payments on account, but any payment on account still unpaid at the balancing payment date is counted in the balancing payment. So a client who skips the July payment pays interest from 31 July, and if it is still unpaid the following January, it can attract penalties too.
+
+### A reminder schedule you can copy
+Send the first message as soon as the client approves the return, while the figure is fresh. After that, remind only the clients who haven't told you they've paid. A client who replies "paid" drops out of the rest.
+When | What to send | Who gets it
+--- | --- | ---
+When the return is approved | The amount, how it splits into balancing payment and payment on account, the payment reference and how to pay | Every client with tax to pay
+Early December | A short reminder of the amount and the date, with a link to set up a payment or Direct Debit | Clients who haven't confirmed payment
+First working week of January | The amount, the 2027 weekend rule, and how long each way of paying takes | Clients who haven't confirmed payment
+Around 20 January | A firmer reminder, and a line on what to do if they can't pay in full | Clients who haven't confirmed payment
+Tuesday 26 January | Last reminder: pay by Friday 29 January unless paying by Faster Payments or card | Clients who haven't confirmed payment
+Early February | What happens next: interest, the 30-day penalty, and a payment plan if needed | Clients who still haven't confirmed
+Early July | The second payment on account, the amount and the date | Clients with payments on account
+Around 20 July | Last reminder: pay by Friday 30 July unless paying by Faster Payments or card | Clients who haven't confirmed payment
+
+### What every reminder should include
+- The exact amount, and what it's made up of. "£2,700: £1,200 for 2025 to 2026 and £1,500 towards 2026 to 2027" stops the "why so much?" reply
+- The 11-character payment reference: the client's 10-digit UTR followed by the letter K. GOV.UK warns that a wrong reference can delay a payment or put it against a different bill
+- Where to pay: gov.uk/pay-self-assessment-tax-bill, the HMRC app or their online account
+- How long each way of paying takes, and the last day for slower methods
+- One question: have you paid? A one-word reply is enough to stop the reminders
+- What to do if they can't pay in full, so they talk to you before the deadline, not after
+
+### A payment reminder email you can copy
+January reminder to a client who hasn't confirmed payment:
+```
+Subject: Your tax payment of £[amount] is due by 31 January
+
+Hi [first name],
+
+A reminder that your Self Assessment payment of £[amount] is due to HMRC by 31 January 2027. It's made up of:
+
+- £[balancing payment] for the 2025 to 2026 tax year
+- £[first payment on account] towards 2026 to 2027
+
+Your payment reference is [UTR]K. Please use it exactly, so HMRC puts the money against the right bill.
+
+You can pay at gov.uk/pay-self-assessment-tax-bill or in the HMRC app. 31 January is a Sunday this year: online banking (Faster Payments) and debit card payments are fine up to the day, but for Bacs or Direct Debit please pay by Friday 29 January, and allow 5 working days if you've never set up a Direct Debit with HMRC before.
+
+Once you've paid, just reply "paid" and we'll stop reminding you.
+
+If you can't pay all of it, reply and tell us before the deadline. HMRC can agree a payment plan, and it's easier to sort out early.
+
+Thanks,
+[your name]
+[practice name]
+```
+
+### Clients who can't pay in full: Time to Pay
+GOV.UK says a client who can't pay may be able to set up a payment plan, also called a Time to Pay arrangement, to pay in monthly instalments. Some can set it up online; others contact HMRC. HMRC checks the plan is affordable, and will usually ask for around half of what is left each month after rent, food, bills and fixed outgoings. Clients with savings or assets are expected to use them first. Interest still runs on what's unpaid, so paying faster costs less.
+For next year, a client who is up to date can set up a Budget Payment Plan: weekly or monthly Direct Debits towards their next bill, which can be paused for up to 6 months. Clients who struggled in January are the ones to suggest it to in February.
+The bigger change is further off. HMRC's Timely payments factsheet (updated October 2026) says that from April 2029, clients who make payments on account will make smaller, more regular payments during the tax year, with the schedule not yet decided. Nothing changes for 31 January 2027 or 31 July 2027.
+
+### Why this is worth automating
+Payment reminders are the easy part to forget. The return is filed, the job is closed, and nobody owns the follow-up. A schedule like the one above, for 150 clients, is several hundred emails a year, each with a different amount and reference. That's exactly the kind of repeated, date-driven work a workflow does well, the same way it handles [Self Assessment document chasing](https://mikeautomations.github.io/en/self-assessment-document-chasing/) earlier in the season. If clients still owe you records, our [Self Assessment records checklist for clients](https://mikeautomations.github.io/en/blog/self-assessment-records-checklist-for-clients/) covers that side.
+
+### How Mike Automations would build this
+A workflow can take each client's figures from the approved return, send the first email with the right amount and reference, remind on your dates only those who haven't confirmed, stop when a client replies "paid", and give you a list each morning of who has and hasn't confirmed. Every message uses wording you approved, and you decide who gets a phone call instead.
+It starts with a [free 15-minute call](https://mikeautomations.github.io/call/). Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your email, your practice software where it allows a connection, and your client list). Live in 2-3 days, [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. To see how this fits with your other seasonal work, try the [plan builder](https://mikeautomations.github.io/en/plan/).
+
+### When do clients have to pay their Self Assessment tax?
+For the 2025 to 2026 tax year, the balancing payment and the first payment on account for 2026 to 2027 are due by 31 January 2027. The second payment on account is due by 31 July 2027.
+
+### Is there a penalty for paying a payment on account late?
+Interest is charged from the due date. HMRC's Self Assessment Manual says late payment penalties apply to the balancing payment, not payments on account, but any payment on account still unpaid at the next balancing payment date is counted in that balancing payment.
+
+### What if 31 January falls on a weekend?
+GOV.UK says the payment must reach HMRC on the last working day before, unless the client pays by Faster Payments or by debit or corporate credit card. In 2027, 31 January is a Sunday, so the last working day is Friday 29 January.
+
+## Spreadsheet vs CRM for a small service business: when to switch
+Source: https://mikeautomations.github.io/en/blog/spreadsheet-vs-crm-small-service-business/ (2026-11-11)
+
+In the spreadsheet vs CRM choice, a small service business should stay on a spreadsheet while one or two people use it and nothing falls through the gaps, and move to a CRM when follow-ups get missed, several people work the same customers, or nobody can say where a customer is up to in under a minute. The switch is about reminders, history and shared access, not size: a spreadsheet holds far more rows than a small business will ever fill.
+
+The spreadsheet vs CRM question usually turns up on a bad day. A quote went unanswered for three weeks, two people phoned the same customer, or someone sorted one column and not the others. The sheet that ran the business for years suddenly feels risky.
+This post is for small service businesses (trades, clinics, agencies, practices, cleaning and property firms) deciding whether to leave the spreadsheet. It covers the signs, what actually breaks, what a switch costs in time and money, a decision table, and the steps to move without losing anything.
+
+### What a spreadsheet does well
+A spreadsheet is free or nearly free, everyone already knows how to use it, and you can add a column in five seconds. For a business with one owner, a few dozen active customers and a simple path from enquiry to invoice, that flexibility is worth a lot.
+Size is rarely the problem. Microsoft's published limit for an Excel worksheet is 1,048,576 rows. If you're thinking about a CRM, it isn't because the sheet is full. It's because the sheet can't do anything on its own.
+
+### Seven signs you've outgrown the spreadsheet
+One sign on its own is usually fixable inside the spreadsheet. Three or more, especially the first and the last, mean the sheet is now costing you work you never see.
+- Follow-ups depend on memory. Nothing tells you that a quote sent 10 days ago hasn't had a reply.
+- More than two people edit the list, and you've had a "who changed this?" moment.
+- Customer history lives in three places: the sheet, someone's inbox and the job notes on a phone.
+- You keep a second sheet (or a colour code) just to track what stage each customer is at.
+- Enquiries arrive from a web form, email, phone and WhatsApp, and someone copies them in by hand.
+- You can't easily answer simple questions, such as how many quotes went out last month and how many were accepted.
+- When someone is off sick or leaves, their customers go quiet because nobody knows where things stood.
+
+### What actually breaks first
+It's almost never the data. It's the follow-up. A spreadsheet stores what happened; it doesn't remind anyone what should happen next. What a small service business loses to a spreadsheet is mostly quotes nobody chased and enquiries nobody answered on the day. If that sounds familiar, read [how to reply to new enquiries fast](https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/) before you buy anything.
+The second thing to break is shared editing. Two people sorting, filtering and typing in the same sheet will eventually overwrite something. Version history helps you find it, but only after someone notices.
+The third is history. A CRM keeps each customer's emails, calls and notes on one record. A spreadsheet keeps a "last contact" cell that someone has to remember to update.
+
+### What a CRM changes, and what it doesn't
+A CRM (customer relationship management system) is a shared customer list with stages, tasks and history built in. Common examples are HubSpot, Pipedrive, Zoho CRM and the customer modules inside job management or practice software. Check each vendor's own pricing and feature pages for what's included today, because plans change often.
+What a CRM gives you: one record per customer, a pipeline with stages, reminders tied to each customer, and a log of emails and calls. What it doesn't give you is discipline. If nobody moves the stages or logs the calls, a CRM becomes a more expensive spreadsheet. A common way for the move to fail is the team quietly carrying on with the old sheet "just for now".
+
+### Decision table: stay, improve the sheet, or switch
+Your situation | Best next step | Why
+--- | --- | ---
+One person, a few dozen active customers, follow-ups rarely missed | Stay on the spreadsheet | A CRM adds cost and admin for little gain
+One or two people, follow-ups sometimes missed | Keep the sheet, add automated reminders | Fixes the real problem in days, with no new system to learn
+Enquiries from several channels copied in by hand | Keep the sheet, automate the capture | Each form, email or message adds a row on its own
+Three or more people working the same customers | Move to a CRM | Shared records, assigned tasks and history matter more than flexibility
+You need pipeline reports for a partner, lender or investor | Move to a CRM | Stage and conversion reports are built in
+Your work doesn't fit any CRM's stages (inspections, renewals, compliance dates) | A small custom system | You stop bending your process to fit someone else's software
+
+### What switching really costs
+The subscription is the cost people compare, but it's rarely the biggest one. Most CRMs charge per user per month, and some have a free tier with limits. Check the vendor's pricing page and work out the yearly figure for your whole team, not just for you.
+The bigger costs are time. Cleaning the data before import (duplicates, half-empty rows, "see email" notes) usually takes longer than the import itself. Setting up stages, fields and email connections takes a few days of someone's attention. And expect a few weeks of slower work while the team learns where things are.
+Put that next to the cost of staying: the quotes that go unchased each month. If you want to weigh it properly, the [automation cost guide](https://mikeautomations.github.io/en/blog/business-automation-cost/) shows a simple way to set hours saved against what you'd pay.
+
+### How to move from a spreadsheet to a CRM in 7 steps
+1. Write down your stages first, on paper: for example enquiry, quote sent, accepted, job booked, invoiced, paid. A [process map](https://mikeautomations.github.io/en/blog/process-map-template-small-business/) helps if the steps differ by job type.
+2. Decide which columns you really use. Anything nobody has filled in for six months doesn't need to move.
+3. Clean the sheet: merge duplicate customers, split full names into first and last, put phone numbers in one format, and give every row a stage.
+4. Export a copy and keep it, read-only, as your record of how things stood on switch day.
+5. Import a test batch of 20 customers, check every field landed in the right place, then import the rest.
+6. Connect the inputs (your web form, your inbox, your calendar) so new enquiries create records on their own.
+7. Pick a switch day and archive the old sheet that day. Running both "for a while" is how these moves fail.
+
+### The middle option most small businesses skip
+Many businesses don't need a CRM yet. They need the spreadsheet to stop relying on memory. A simple workflow can add each new enquiry as a row, remind you when a quote has had no reply after a set number of days, and draft a polite follow-up email for you to approve. The sheet stays the sheet; it just stops forgetting.
+If you're not sure which route fits, the free [plan builder](https://mikeautomations.github.io/en/plan/) walks you through your workflows and suggests what to automate first.
+
+### How Mike Automations would help
+Whichever route fits, it starts with a free 15-minute call about how customers move through your business today. Within 48 hours you get a written plan with a fixed price. If the answer is "keep the sheet and automate the follow-up", it's built on the tools you already use (Google Sheets or Excel, Gmail or Outlook, your web form), live in 2-3 days, $2,000 one-off, and you pay once it's running and you're happy with it. If your work needs its own small system, custom systems start from $5,000. There's no deposit and no hourly billing.
+
+### Is a spreadsheet good enough as a CRM for a small business?
+Yes, while one or two people use it and follow-ups don't get missed. Once several people work the same customers, or chasing depends on someone remembering, a CRM or an automated spreadsheet is usually worth it.
+
+### How long does it take to move from a spreadsheet to a CRM?
+For a small service business, cleaning the data and setting up stages usually takes a few days of focused work, followed by a few weeks of the team getting used to it. Cleaning the data is normally the slowest part.
+
+### Can I automate follow-ups without a CRM?
+Yes. A workflow can watch your spreadsheet, remind you when a quote has had no reply, and draft a follow-up email for you to approve, without changing where your data lives.
+
+## Tax extension email to clients: 4 templates for Form 4868 season
+Source: https://mikeautomations.github.io/en/blog/tax-extension-client-email-templates/ (2026-11-11)
+
+A tax extension email to clients should say three things plainly: Form 4868 gives them until October 15 to file, it does not give them more time to pay, and any tax owed must be paid by the April due date to avoid the failure-to-pay penalty and interest. For 2026 returns that means paying by April 15, 2027 and filing by October 15, 2027, unless the IRS postpones the dates for their area.
+
+Every tax extension email to clients is fighting the same misunderstanding: "I'm on extension, so I'll pay in October." The IRS is clear that an extension is only for filing. Clients who don't hear that from you in writing find out from a penalty notice.
+This post covers what the extension does, how to help clients estimate and pay by April 15, and four email templates you can copy: payment due, extension filed, documents still missing, and a final reminder. It sits alongside our [tax season client email calendar](https://mikeautomations.github.io/en/blog/tax-season-client-email-calendar/), which covers the rest of the season.
+
+### What Form 4868 does and doesn't do
+The IRS says that requesting an extension by the April filing due date gives an individual until October 15 to file without penalties, and that any tax owed must still be paid by the April date. Its interest page says the same in other words: extensions to file do not extend the date for payment of the tax, and underpayment interest applies even if you file an extension.
+For 2026 returns, the IRS early-release draft of Publication 509 (2027) puts the Form 1040 and Form 4868 deadline on Thursday, April 15, 2027, and the extended filing date on Friday, October 15, 2027. It's a draft, so check the final version. The IRS also postpones deadlines for taxpayers in federally declared disaster areas, so check each client's county before you send any date.
+Clients who are U.S. citizens or residents and are "out of the country" on the due date get an automatic 2 extra months to file and pay, according to the Form 4868 instructions. Interest still runs from the April date.
+
+### The three ways a client gets an extension
+The IRS lists three routes to an automatic extension to October 15:
+- Pay all or part of the estimated tax electronically and mark the payment as being for an extension. No separate Form 4868 is needed, and the client gets a confirmation number.
+- E-file Form 4868, through tax software or through you as their preparer.
+- Mail a paper Form 4868, with or without a payment.
+
+### How to estimate and pay by April 15
+Form 4868 asks for an estimate of the total tax liability for the year (line 4), total payments already made (line 5) and the balance due (line 6). The instructions warn that the estimate must be made as accurately as possible with the information available: if the IRS later finds it wasn't reasonable, the extension is void.
+For electronic payments, the Form 4868 instructions list IRS Direct Pay, the IRS online account, EFTPS, debit and credit cards, and digital wallets. Direct Pay takes the payment straight from a bank account; for the other options, check the current terms on irs.gov/payments before you recommend one.
+If the client can't pay the full balance, the instructions say they still get the extension but should pay as much as they can to limit interest. The IRS also points clients who can't pay in full toward a payment plan.
+What the client pays by April 15 | What happens (per the IRS)
+--- | ---
+The full estimated balance | No failure-to-pay penalty or interest, if the estimate holds
+At least 90% of the total tax, with the rest paid with the return by October 15 | Treated as reasonable cause for the late payment penalty during the extension (Form 4868 instructions); interest still runs on the unpaid part
+Less than 90%, or nothing | Failure-to-pay penalty of 0.5% of the unpaid tax for each month or part of a month, up to 25%, plus interest from the April date
+Nothing, and no extension filed | The failure-to-file penalty can apply as well: usually 5% a month, up to 25%
+
+### Template 1: payment due (send in late March or early April)
+Subject: Your [year] taxes: we're filing an extension, payment is still due April 15:
+```
+Hi [first name],
+
+We don't have everything we need to finish your [year] return by April 15, so we'll file an extension for you. That gives us until October 15 to file.
+
+One important point: the extension is only for filing, not for paying. The IRS expects any tax you owe to be paid by April 15. If it isn't, you may owe a late payment penalty and interest.
+
+Based on what we have so far, our estimate of the balance due is $[amount]. [Or: Please send us [items] by [date] so we can estimate what you owe.]
+
+You can pay online at irs.gov/payments with IRS Direct Pay or your IRS online account. Please send us the confirmation number when you've paid.
+
+Any questions, reply to this email or call [phone].
+
+[your name]
+```
+
+### Template 2: extension filed (send on the day you file)
+Subject: Your extension is filed: your new deadline is October 15:
+```
+Hi [first name],
+
+We've filed the extension for your [year] return. The IRS accepted it on [date]. Your return is now due by October 15, [year].
+
+The extension doesn't change your payment date. [We have your payment confirmation for $[amount], thank you.] [Or: We don't have a record of a payment yet. If you owe tax, paying now will limit penalties and interest.]
+
+What we still need to finish your return:
+
+1. [missing item, in plain words]
+2. [missing item]
+
+Please upload them by [internal date] here: [upload link]
+
+[your name]
+```
+
+### Template 3: documents still missing (send in early summer)
+Send this only to clients who haven't sent everything, and list only what's missing for that client. A generic "please send your documents" gets ignored. For the full summer triage, see [extension clients who still haven't sent anything](https://mikeautomations.github.io/en/blog/extension-clients-still-havent-sent-anything/).
+Subject: Still needed for your [year] return: [N] items:
+```
+Hi [first name],
+
+Your [year] return is on extension until October 15. We've received [items received], thank you.
+
+We still need:
+
+1. [missing item]
+2. [missing item]
+
+If you're waiting on someone else (a K-1 or a corrected 1099, for example), reply and tell us who and roughly when. We'll prepare everything else meanwhile.
+
+Upload link: [upload link]
+Our date for your documents: [internal date]
+
+[your name]
+```
+
+### Template 4: final reminder (send in early to mid September)
+Keep the final reminder factual and make sure your engagement letter supports the date you give. Its job is to put the deadline and the consequence in writing.
+Subject: Final reminder: your [year] return is due October 15:
+```
+Hi [first name],
+
+This is our last reminder before the October 15 deadline. We still don't have:
+
+- [missing item]
+
+If we don't receive it by [final date], we won't be able to prepare and file your return by October 15. Filing late can bring a penalty of 5% of any unpaid tax for each month the return is late, up to 25%.
+
+Please upload today: [upload link]. If something is holding you up, call us on [phone].
+
+[your name]
+```
+
+### Send them on a schedule, not from memory
+1. In March, list every client likely to need an extension, with the reason (waiting on a K-1, client late, your capacity).
+2. Send Template 1 to that list in late March or early April, with your estimate where you have one.
+3. File the extensions and send Template 2 the same day, with each client's own missing list.
+4. Record each payment confirmation number next to the client's name.
+5. Send Template 3 in early summer to anyone not complete, then Template 4 by mid September.
+6. Stop each client's emails the day their documents are complete.
+
+### How Mike Automations would build this
+Extension season is a list and a calendar: who is on extension, who has paid, what each client still owes you, and which email goes out when. A workflow can keep that list as documents land in your upload folder, send each client their own missing items on your dates, stop the moment a file is complete, and give you a short daily list of who needs a call. You approve the wording once, and every estimate and payment figure stays with you. If you want to see where this fits among your other workflows, the [plan builder](https://mikeautomations.github.io/en/plan/) maps it out.
+It starts with a free 15-minute call. Within 48 hours you get a written plan with a fixed price. It's built on the tools you already use (Gmail or Outlook, Google Drive or Dropbox, your tax software's client list where it allows a connection), live in 2-3 days, $2,000 one-off, and you pay once it's running and you're happy with it.
+
+### Does Form 4868 give my client more time to pay?
+No. The IRS says the extension is only for filing. Tax owed is still due by the April due date (April 15, 2027 for 2026 returns), and interest and the failure-to-pay penalty run from then.
+
+### Does my client need to file Form 4868 if they pay electronically?
+Not if they mark the electronic payment as being for an extension. The IRS processes the extension automatically and gives a confirmation number. Paying part or all of the estimated tax this way is enough.
+
+### What if my client can't pay the full amount by April 15?
+They still get the extension. The Form 4868 instructions say to pay as much as they can to limit interest, and the IRS offers payment plans for the rest. If at least 90% of the total tax is paid by April 15 and the rest with the return, the late payment penalty is treated as having reasonable cause.
 
