@@ -276,22 +276,34 @@
     };
   }
 
-  const loops = [];
-  const bg = document.querySelector(".flow-canvas");
-  if (bg && bg.getContext) {
-    const step = background(bg);
-    if (still) step(0);
-    else loops.push(step);
-  }
-  const pn = document.querySelector(".flow-panel");
-  if (pn && pn.getContext) loops.push(panel(pn));
-  let last = performance.now();
-  const frame = (now) => {
+  // Start once the page has loaded (or after 2.5 s at most): both drawings are decoration, and measuring
+  // their boxes earlier would force an extra layout and hold back the hero text.
+  let started = false;
+  const start = () => {
+    if (started) return;
+    started = true;
+    const loops = [];
+    const bg = document.querySelector(".flow-canvas");
+    if (bg && bg.getContext) {
+      const step = background(bg);
+      if (still) step(0);
+      else loops.push(step);
+    }
+    const pn = document.querySelector(".flow-panel");
+    if (pn && pn.getContext) loops.push(panel(pn));
+    let last = performance.now();
+    const frame = (now) => {
+      requestAnimationFrame(frame);
+      if (document.hidden) { last = now; return; }
+      const dt = Math.min(0.05, (now - last) / 1000);
+      last = now;
+      for (const step of loops) step(dt);
+    };
     requestAnimationFrame(frame);
-    if (document.hidden) { last = now; return; }
-    const dt = Math.min(0.05, (now - last) / 1000);
-    last = now;
-    for (const step of loops) step(dt);
   };
-  requestAnimationFrame(frame);
+  const later = () => setTimeout(start, 0);
+  requestAnimationFrame(() => {
+    if (document.readyState === "complete") later();
+    else { addEventListener("load", later, { once: true }); setTimeout(later, 2500); }
+  });
 })();
