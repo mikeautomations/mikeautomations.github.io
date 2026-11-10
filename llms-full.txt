@@ -652,7 +652,7 @@ Date | What HMRC needs | What it means for chasing
 31 January 2027 | Online returns, and payment of the tax owed | Records should be in well before this, so returns can be reviewed and approved
 
 ### What a late return costs your client
-HMRC's penalties page (gov.uk, "Self Assessment tax returns: penalties", checked November 2026) sets out what happens if the return is late: an initial £100 penalty; after 3 months, £10 a day up to £900; after 6 months, a further 5% of the tax due or £300, whichever is greater; after 12 months, another 5% or £300. Paying late brings separate penalties of 5% of the unpaid tax at 30 days, 6 months and 12 months, plus interest. The penalty falls on the client, but the stress, the appeals and the awkward conversation land on the practice.
+HMRC's penalties page (gov.uk, "Self Assessment tax returns: penalties", checked November 2026) sets out what happens if the return is late: an initial £100 penalty; after 3 months, £10 a day up to £900; after 6 months, a further 5% of the tax due or £300, whichever is greater; after 12 months, another 5% or £300. Paying late brings separate penalties of 5% of the unpaid tax at 30 days, 6 months and 12 months, plus interest, so [payment reminders before 31 January](https://mikeautomations.github.io/en/blog/self-assessment-payment-reminders-for-clients/) matter too. The penalty falls on the client, but the stress, the appeals and the awkward conversation land on the practice.
 
 ### Why Self Assessment chasing piles up in January
 - Every client needs a different list: P60s and P11Ds for employees, income and expenses for sole traders, rent and mortgage interest for landlords
@@ -763,11 +763,11 @@ Most firms have the first step right and the rest done by hand. Requests go out 
 - Requests go out on the same day every period without anyone writing them
 - Each file is named the same way (for example "Client - 2026-10 - Bank statement"), saved in the right client folder and ticked off the list
 - Reminders stop automatically when a client is complete, so nobody gets chased for something they already sent
-- Partial senders get a reminder that [names only the missing items](https://mikeautomations.github.io/en/blog/clients-who-send-some-documents-but-not-all/)
+- Partial senders get a reminder that names only the missing items
 - You start the day with a short list of who needs a personal call
 
 ### When you don't need automation yet
-If you have a handful of clients and they mostly send on time, a shared checklist and a calendar reminder may be enough. Try that first. Automation earns its keep when you're writing the same chasing emails every month, or when files keep landing in the wrong place.
+If you have a handful of clients and they mostly send on time, a shared checklist and a calendar reminder may be enough. Try that first. Automation earns its keep when you're writing the same chasing emails every month, or when files keep landing in the wrong place. The same routine covers [monthly payroll inputs](https://mikeautomations.github.io/en/blog/collect-payroll-inputs-from-clients/).
 
 ### How Mike Automations builds it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how documents come in today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example "every client gets their list on the 1st and reminders stop when they're complete". It's built on what you already use (Xero or QuickBooks, Gmail or Outlook, Google Drive, OneDrive or Dropbox), so your team doesn't learn a new system. It goes live in 2-3 days, costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
@@ -799,7 +799,7 @@ Automated invoice payment reminders do the part of credit control nobody enjoys.
 - The built-in reminders in invoicing software are often switched off, or send the same message every time
 
 ### A reminder schedule you can copy
-Days are counted from the due date. Change the timing and tone to suit your clients; the point is that every step happens without anyone remembering to do it.
+Days are counted from the due date. Change the timing and tone to suit your clients; the point is that every step happens without anyone remembering to do it. You can [watch an invoice reminder sequence play out](https://mikeautomations.github.io/en/try/) in a one-minute demo.
 When | What goes out | Tone
 --- | --- | ---
 3 days before due | The invoice, the amount, the due date and a payment link | Friendly heads-up
@@ -864,7 +864,7 @@ Chasing year-end records from limited company clients means asking each director
 Chasing year-end records from limited company clients never stops, because each client has their own year end. Records drift in whenever the director finds time, and work bunches up in the last months before each filing deadline. A workflow tied to each client's year end turns that rolling calendar into something that runs on its own, like the other [automations for UK accounting practices](https://mikeautomations.github.io/en/accountants/).
 
 ### The deadlines that start counting at each year end
-Every date below is measured from the end of the company's accounting period, so each client has their own set. The figures are from gov.uk (Companies House "Late filing penalties" and HMRC "Company Tax Returns" and "Pay your Corporation Tax bill", checked November 2026). The last column is a worked example for a company with a 31 March 2026 year end.
+Every date below is measured from the end of the company's accounting period, so each client has their own set. The dates that are the same for everyone are in our [UK accounting practice deadline calendar](https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/). The figures are from gov.uk (Companies House "Late filing penalties" and HMRC "Company Tax Returns" and "Pay your Corporation Tax bill", checked November 2026). The last column is a worked example for a company with a 31 March 2026 year end.
 What | Deadline | Year end 31 March 2026
 --- | --- | ---
 Corporation Tax payment (taxable profits up to £1.5 million) | 9 months and 1 day after the end of the accounting period | 1 January 2027
@@ -921,7 +921,7 @@ Thanks,
 ```
 
 ### How it works
-A [free 15-minute call](https://mikeautomations.github.io/call/) about how you request year-end records today, where your year ends are recorded and where files stall. Within 48 hours you get a [written plan with a fixed price](https://mikeautomations.github.io/en/how-it-works/) and a clear definition of "working", for example: every client's request goes out on the day after their year end, and you see every open file on one list. It's built on the tools your practice already uses (Xero or QuickBooks, your practice management software, your email and shared drive), so nobody learns a new system. It's live in 2-3 days, and you pay once it does what we agreed and you're happy with it.
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you request year-end records today, where your year ends are recorded and where files stall. Within 48 hours you get a [written plan with a fixed price](https://mikeautomations.github.io/en/how-it-works/) and a clear definition of "working", for example: every client's request goes out on the day after their year end, and you see every open file on one list. It's built on the tools your practice already uses (Xero or QuickBooks, your [practice management software](https://mikeautomations.github.io/en/blog/practice-software-vs-simple-automation-small-practice/), your email and shared drive), so nobody learns a new system. It's live in 2-3 days, and you pay once it does what we agreed and you're happy with it.
 
 ### What stays with you
 The accounts, the tax and every judgement call. The workflow requests, reminds and files. You decide what counts as complete and when a director gets a phone call, and anything written to a client in your name follows wording you've approved.
@@ -943,7 +943,7 @@ Source: https://mikeautomations.github.io/en/missed-call-text-back-contractors/
 
 Missed call text back for contractors is an automatic text sent to anyone whose call you didn't answer, usually within a minute, so they hear from you before they call the next company. A useful setup also asks what the job is and where, logs the lead in one list and offers an estimate time. In the US, business texts on a regular 10-digit number need A2P 10DLC registration first.
 
-Missed call text back for contractors solves a simple problem: when you're on a ladder or under a sink, you can't answer the phone, and the caller moves on. A quick text keeps them with you. The text is the easy part. What matters is what happens after it: who logs the lead, who asks about the job, and who makes sure it turns into [a booked estimate](https://mikeautomations.github.io/en/contractors/). This page is written for US contractors; the texting rules below are US rules.
+Missed call text back for contractors solves a simple problem: when you're on a ladder or under a sink, you can't answer the phone, and the caller moves on. A quick text keeps them with you. (For urgent calls out of hours, see [emergency call triage](https://mikeautomations.github.io/en/emergency-call-out-triage-plumbers/).) The text is the easy part. What matters is what happens after it: who logs the lead, who asks about the job, and who makes sure it turns into [a booked estimate](https://mikeautomations.github.io/en/contractors/). This page is written for US contractors; the texting rules below are US rules.
 
 ### When a simple text-back tool is enough
 If you mostly need an instant "Sorry we missed you, how can we help?" text, a standalone text-back feature from your phone provider or a low-cost app may be all you need. Try that first. A full workflow makes sense when the text is only the start, and leads still slip after the reply comes in: nobody writes them down, nobody books the visit, nobody checks back.
@@ -1058,7 +1058,7 @@ Thanks,
 ```
 
 ### When dedicated COI software makes more sense
-If you manage hundreds of subs across many projects and need coverage limits checked against each contract automatically, dedicated COI tracking software may fit better. A workflow built on your own tools suits a smaller contractor who mostly needs every certificate collected, every date tracked and every renewal chased on time.
+If you manage hundreds of subs across many projects and need coverage limits checked against each contract automatically, dedicated COI tracking software may fit better. A workflow built on your own tools suits a smaller contractor who mostly needs every certificate collected, every date tracked and every renewal chased on time. In the UK, contractors also collect subcontractor invoices for the [CIS monthly return](https://mikeautomations.github.io/en/cis-monthly-return-subcontractor-invoices/).
 
 ### What stays with you
 You or your insurance agent decide whether the coverage meets your contract. You decide what happens when a sub's policy lapses: a phone call, a hold on site, or holding payment if your subcontract allows it. If AI drafts a reminder or reads a date from a certificate, a person always checks it before it's used.
@@ -1096,7 +1096,7 @@ A letting agent maintenance request workflow starts from a familiar mess. A drip
 For most tenancies of under seven years in England, section 11 of the Landlord and Tenant Act 1985 makes the landlord responsible for keeping the structure and exterior in repair, and the installations for water, gas, electricity, sanitation, space heating and hot water in repair and proper working order. The same section lets the landlord enter to view the condition of the property at reasonable times on 24 hours' notice in writing to the occupier. Awaab's Law has applied to social landlords in England since 27 October 2025: gov.uk says they must fix emergency health and safety hazards within 24 hours of them being reported. The government has said it will extend Awaab's Law to private renting through the Renters' Rights Act, so check gov.uk for when, and on what timescales, it applies to the homes you manage. Wales, Scotland and Northern Ireland have their own rules.
 
 ### A maintenance triage table you can adapt
-Agree categories and response targets with your landlords and write them into your terms of business. The targets below are an example to start from, not legal deadlines. For illustration:
+Agree categories and response targets with your landlords and write them into your terms of business. The targets below are an example to start from, not legal deadlines. Issues found at a [routine inspection](https://mikeautomations.github.io/en/property-inspection-scheduling/) can enter the same flow. For illustration:
 Priority | Examples | Who handles it | Example target
 --- | --- | --- | ---
 Emergency | Gas smell, no heating or hot water in winter, major leak, unsafe electrics, can't secure the property | A person, straight away, by phone. For a gas smell, the tenant calls the gas emergency line first | Contractor attending the same day
@@ -1127,7 +1127,7 @@ If anything gets worse before then, call us on [office number]. For a gas smell,
 ```
 
 ### What stays with you
-Anything urgent or safety related goes straight to a person, never into a queue. You decide which contractor to use, what counts as urgent and when to step in. If AI drafts a message to a tenant or landlord, a person always approves it before it's sent.
+Anything urgent or safety related goes straight to a person, never into a queue. Work from an unsatisfactory EICR follows its own [28-day remedial deadline](https://mikeautomations.github.io/en/eicr-remedial-work-follow-up-electricians/). You decide which contractor to use, what counts as urgent and when to step in. If AI drafts a message to a tenant or landlord, a person always approves it before it's sent.
 
 ### How it works
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how repairs are reported today and where they stall. Within 48 hours you get a [written plan with a fixed price](https://mikeautomations.github.io/en/how-it-works/) and a clear definition of "working". It's built on the tools your agency already uses (your email, your property management software where it allows a connection, and a shared spreadsheet or drive), so nobody learns a new system. Live in 2-3 days. You pay once it's running and you're happy with it.
@@ -1199,7 +1199,7 @@ Kind regards,
 People who need a solicitor often contact more than one firm. A reply within minutes keeps the enquiry warm while the conflict check runs, and it tells the client what happens next instead of leaving them to wonder. The general approach for any business is in our guide to replying to new enquiries fast.
 
 ### What stays with you
-Every legal judgement. A person decides whether a conflict exists, whether to take the matter, what goes into the client care letter and whether the due diligence is enough. The workflow collects, reminds and files. If AI drafts a reply to a prospective client, a person always approves it before it goes out.
+Every legal judgement. A person decides whether a conflict exists, whether to take the matter, what goes into the client care letter and whether the due diligence is enough. The workflow collects, reminds and files. For private client work, the same approach runs a [will writing client questionnaire](https://mikeautomations.github.io/en/will-writing-client-questionnaire/). If AI drafts a reply to a prospective client, a person always approves it before it goes out.
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how enquiries come in today and where they wait. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools your firm already uses (your email, calendar, e-signature tool and practice management software where it allows a connection), so nobody learns a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
@@ -1270,7 +1270,7 @@ Thanks,
 ```
 
 ### What stays with you
-The legal duties stay with the landlord and with you as their agent, and the workflow doesn't change that. You choose which certificates each property needs and how early to start. A person checks each new certificate before the date in the list is updated, and decides what happens when a check fails, a report is unsatisfactory or a date is missed. If AI reads a date from a certificate or drafts a message to a landlord, a person always approves it first.
+The legal duties stay with the landlord and with you as their agent, and the workflow doesn't change that. The same goes for the [30-day deposit protection deadline](https://mikeautomations.github.io/en/tenancy-deposit-protection-30-day-reminder/) and [rent review dates](https://mikeautomations.github.io/en/tenancy-renewal-reminders-letting-agents/). You choose which certificates each property needs and how early to start. A person checks each new certificate before the date in the list is updated, and decides what happens when a check fails, a report is unsatisfactory or a date is missed. If AI reads a date from a certificate or drafts a message to a landlord, a person always approves it first.
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track certificates today and where things slip. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools your agency already uses (your email, a shared spreadsheet or drive, and your property management software where it allows a connection), so nobody learns a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
@@ -1335,7 +1335,7 @@ We'll start this part of the work as soon as it's signed. Any questions, just re
 ```
 
 ### What stays with you
-You price every change and decide what goes into the change order. A person in your office reviews it before it goes to the customer, and you decide what happens when a change is urgent or a customer refuses. If AI drafts the description or a message to the customer, a person always approves it before it's sent. If you work in the UK, the same process is usually called a variation; the workflow is the same, but the contract terms are different, so use your own.
+You price every change and decide what goes into the change order. A person in your office reviews it before it goes to the customer, and you decide what happens when a change is urgent or a customer refuses. If AI drafts the description or a message to the customer, a person always approves it before it's sent. If you work in the UK, the same process is usually called a variation; the workflow is the same, but the contract terms are different, so use your own. If you're the GC, track your subs' [certificates of insurance](https://mikeautomations.github.io/en/subcontractor-coi-tracking/) the same way.
 
 ### How it works
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how changes are agreed on your jobs today. Within 48 hours you get a [written plan with a fixed price](https://mikeautomations.github.io/en/how-it-works/) and a clear definition of "working". It's built on the tools you already use (your email, phones, e-signature tool, and your job management or accounting software where it allows a connection), so your crew doesn't learn a new system. Live in 2-3 days. You pay once it's running and you're happy with it.
@@ -1370,7 +1370,7 @@ Client onboarding automation matters because the first two weeks with a new clie
 - Nobody can see at a glance what's still missing for each new client
 
 ### An onboarding checklist you can copy
-Change the rows to match the services you sell. Each row becomes one tracked item per client, and the client is only reminded about rows that are still open.
+Change the rows to match the services you sell. Each row becomes one tracked item per client, and the client is only reminded about rows that are still open. For the content itself, see [how to get clients to send content on time](https://mikeautomations.github.io/en/blog/get-clients-to-send-content/).
 Item | How it's requested | Done when
 --- | --- | ---
 Signed contract | Sent for e-signature when the proposal is accepted | The signed copy is saved to the client folder
@@ -1476,7 +1476,7 @@ Hi [first name], it's [clinic name]. Your first appointment is on [day] at [time
 ```
 
 ### What stays with you
-All clinical judgement. Your clinicians decide what the form asks, read the answers and decide what happens next. A form does not replace the consent conversation in the session. If AI summarises a form for a clinician, a person always reads the original before acting on it, and nothing is sent to a patient without a person approving the wording.
+All clinical judgement. Your clinicians decide what the form asks, read the answers and decide what happens next. A form does not replace the consent conversation in the session. After the first session, [rebooking reminders](https://mikeautomations.github.io/en/physio-rebooking-reminders/) help patients finish their plan. If AI summarises a form for a clinician, a person always reads the original before acting on it, and nothing is sent to a patient without a person approving the wording.
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how new patients are booked and onboarded today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your booking or practice management software, email and forms, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
@@ -1514,7 +1514,7 @@ HVAC maintenance agreement renewals are easy to lose track of. Agreements bring 
 A plan customer who never gets a visit has little reason to renew. ENERGY STAR's maintenance checklist recommends annual pre-season check-ups by a contractor: the cooling system in the spring and the heating system in the fall, before contractors get busy. Booking those visits early fills your shoulder seasons and gives the customer a reason to keep the plan. The workflow can ask each plan customer to pick a time a few weeks before each season starts.
 
 ### A renewal reminder sequence you can copy
-Adjust the timing to your plans. This works for an annual agreement paid up front:
+Adjust the timing to your plans. Seasonal services follow the same pattern, as in our [lawn care renewals timeline](https://mikeautomations.github.io/en/lawn-care-seasonal-renewals/). This works for an annual agreement paid up front:
 When | Channel | What it says
 --- | --- | ---
 45 days before expiration | Email | Your plan renews on [date]: what's covered, the renewal price and a link to renew or pay
@@ -1550,7 +1550,7 @@ Questions? Reply to this email or call us on [phone].
 5. Gives the office a weekly list of agreements expiring in the next 60 days, tune-ups still to book, and plans that have lapsed.
 
 ### If your agreements renew automatically
-Auto-renewing plans come with extra rules in some states. In California, for example, Business and Professions Code section 17602 requires a business to send an annual reminder to a consumer on an annual automatic renewal agreement, stating the service, how often and how much they're charged, and how to cancel. Other states have their own auto-renewal laws, so check your state's rules with your attorney before you set the reminders. The workflow can send whatever notices you decide on, on time, and keep a record that they went out.
+Auto-renewing plans come with extra rules in some states. In California, for example, Business and Professions Code section 17602 requires a business to send an annual reminder to a consumer on an annual automatic renewal agreement, stating the service, how often and how much they're charged, and how to cancel. Other states have their own auto-renewal laws, so check your state's rules with your attorney before you set the reminders. The workflow can send whatever notices you decide on, on time, and keep a record that they went out. If a renewal payment fails, the same steps as a [failed payment follow-up](https://mikeautomations.github.io/en/gym-failed-payment-follow-up/) apply.
 
 ### What stays with you
 Your plans, your prices and your terms. You decide what each agreement covers, when reminders go out and how to handle a customer who wants to cancel. If AI drafts a reminder or a reply, a person always approves it before it's sent.
@@ -1578,7 +1578,7 @@ Source: https://mikeautomations.github.io/en/conveyancing-client-progress-update
 
 Conveyancing client updates are short messages sent to a buyer or seller each time their file reaches a milestone, such as searches ordered, mortgage offer received or exchange. Sent automatically when the fee earner records the milestone, they tell the client what has happened, what comes next and whether anything is needed from them, which cuts the number of "any update?" calls.
 
-Conveyancing client updates are the answer to the question every buyer and seller asks: where does my move stand? Without them, clients phone, and so do their estate agents and brokers. Each call pulls a fee earner away from the file, and most ask the same thing: has anything happened yet? Telling clients what has happened at each milestone is the same message every time, so it can go out as a workflow while your fee earners keep the legal work. It picks up where [client intake](https://mikeautomations.github.io/en/law-firm-client-intake/) leaves off.
+Conveyancing client updates are the answer to the question every buyer and seller asks: where does my move stand? Without them, clients phone, and so do their [estate agents](https://mikeautomations.github.io/en/estate-agent-sales-progression-updates/) and [brokers](https://mikeautomations.github.io/en/mortgage-broker-document-collection/). Each call pulls a fee earner away from the file, and most ask the same thing: has anything happened yet? Telling clients what has happened at each milestone is the same message every time, so it can go out as a workflow while your fee earners keep the legal work. It picks up where [client intake](https://mikeautomations.github.io/en/law-firm-client-intake/) leaves off.
 
 ### Why progress calls pile up
 - Clients only hear from the firm when something is needed from them
@@ -1666,7 +1666,7 @@ Only the last one is a lost job. The others are a reply that never got written, 
 - They've picked someone else and don't want the awkward conversation
 
 ### A 3-message WhatsApp follow-up sequence
-This timing is a starting point, not a rule. Shorten it for urgent work like a leak or a failed boiler, and stretch it for a kitchen or an extension that the customer will plan for weeks. Every message stops the moment the customer replies.
+This timing is a starting point, not a rule. Shorten it for urgent work like [a leak or a failed boiler](https://mikeautomations.github.io/en/emergency-call-out-triage-plumbers/), and stretch it for a kitchen or an extension that the customer will plan for weeks. Every message stops the moment the customer replies. You can [watch a quote follow-up sequence play out](https://mikeautomations.github.io/en/try/) in a one-minute demo.
 Message | When | What it does
 --- | --- | ---
 1. Check it arrived | 1 to 2 days after the quote | Confirms they got it and invites questions, so a confusing line gets asked about
@@ -1732,7 +1732,7 @@ EICR remedial work follow-up means getting the landlord or letting agent to appr
 EICR remedial work follow-up is where many electricians who test rented homes lose time and jobs. The inspection is done, the report says unsatisfactory, and the remedial quote goes to a [letting agent](https://mikeautomations.github.io/en/letting-agent-compliance-certificate-reminders/) who forwards it to a landlord who is on holiday. Meanwhile the 28 days are running. This page sets out the codes and the deadline as the regulations and the gov.uk guidance describe them, then gives you a follow-up workflow, a message template and a tracker you can copy. It covers England. Wales and Scotland have their own rules.
 
 ### EICR codes and what each one means for the landlord
-The gov.uk guidance for landlords (published November 2025) uses these codes. A C1 or C2 means the report will say the installation is unsatisfactory for continued use. The guidance also says the inspector may make any C1 hazard safe before leaving.
+The gov.uk guidance for landlords (published November 2025) uses these codes. A C1 or C2 means the report will say the installation is unsatisfactory for continued use. For the letting agent, the remedial job then runs through their [maintenance request workflow](https://mikeautomations.github.io/en/letting-agent-maintenance-requests/). The guidance also says the inspector may make any C1 hazard safe before leaving.
 Code | Meaning (gov.uk wording) | Must the landlord act?
 --- | --- | ---
 C1 | Danger present. Risk of injury | Yes, within 28 days or a shorter period in the report
@@ -1787,7 +1787,7 @@ Flat 2, 10 Example Road | 3 Nov | 2 x C2, 1 x FI | 30 Nov | 4 Nov | 7 Nov | 12 N
 14 Sample Street | 5 Nov | 1 x C1 (made safe), 1 x C2 | 2 Dec | 5 Nov | Chased 8 Nov |  | 
 
 ### What stays with you
-Your coding, your quote and your professional judgement. A workflow can log the dates, send the follow-ups on time, stop when someone replies and show you which properties are close to their deadline. It doesn't decide what's dangerous or what the work costs, and if AI drafts a message to a landlord, a person always approves it first.
+Your coding, your quote and your professional judgement. A workflow can log the dates, send the follow-ups on time, stop when someone replies and show you which properties are close to their deadline. The same approach covers [job sign-off and completion photos](https://mikeautomations.github.io/en/job-sign-off-and-completion-photos/) once the work is done. It doesn't decide what's dangerous or what the work costs, and if AI drafts a message to a landlord, a person always approves it first.
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how your reports and quotes go out today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your certification software's exports, your email, Google Sheets), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
@@ -1815,7 +1815,7 @@ A landlord approval limit for repairs decides [how fast a tenant's repair gets d
 The limit is part of your agreement with the landlord, so put it in the management agreement or a signed schedule to it, not in an email thread. It covers what you may spend on one job without asking. It doesn't change who is responsible for repairs. In England, gov.uk's private renting guide (checked November 2026) says the landlord is always responsible for repairs to the structure and exterior, basins, sinks, baths and other sanitary fittings including pipes and drains, heating and hot water, gas appliances, pipes, flues and ventilation, electrical wiring, and fire safety issues. It also says tenants should report faults that could damage health straight away, and that the landlord should tell the tenant when to expect the repair. Scotland and Northern Ireland have their own standards and procedures, so check the local rules for properties there. A limit helps you meet those duties faster. It isn't legal advice, and it doesn't replace it.
 
 ### The approval policy: what to agree with each landlord
-Agree these points once, at sign-up or at the next review, and record the answers against the property. The example column is for illustration only: the right numbers depend on the property, the landlord and your fees.
+Agree these points once, at sign-up or at the next review, and record the answers against the property. The example column is for illustration only: the right numbers depend on the property, the landlord and your fees. Repairs found at a [routine inspection](https://mikeautomations.github.io/en/property-inspection-scheduling/) go through the same limit, and [EICR remedial work](https://mikeautomations.github.io/en/eicr-remedial-work-follow-up-electricians/) has its own 28-day deadline.
 Policy item | What to decide | Example (for illustration)
 --- | --- | ---
 Standard limit | The most you can spend on one job without asking, and whether it includes VAT | £300 including VAT per job
@@ -1927,7 +1927,7 @@ A positive right to rent notice from the Landlord Checking Service | 12 months a
 The guide says to ask the tenant for evidence: a share code for the Home Office online service, or documents from List A or List B. If they can't produce evidence but say they have an application in progress, you contact the Landlord Checking Service. If the check shows they no longer have the right to rent, or they won't cooperate, you must report it to the Home Office as soon as reasonably practicable and before your current excuse expires. Keep the reference number the report gives you. The code adds that a check done after the expiry date may mean you have to explain why it was late. Penalties in the 2026 code are £10,000 per occupier and £5,000 per lodger for a first breach, and £20,000 and £10,000 for a repeat breach within 3 years. Where an agent has accepted responsibility in writing, the penalty falls on the agent, not the landlord. Keep copies of every check for the tenancy and for at least one year after it ends.
 
 ### A reminder timeline
-Start early. A tenant waiting on a Home Office decision needs time, and the Landlord Checking Service can take up to two working days to reply. The workflow sends the reminders. A person does the actual check.
+Start early. A tenant waiting on a Home Office decision needs time, and the Landlord Checking Service can take up to two working days to reply. The workflow sends the reminders. A person does the actual check. The same tenancy file can drive the [deposit protection 30-day reminder](https://mikeautomations.github.io/en/tenancy-deposit-protection-30-day-reminder/) at move-in and the yearly [rent review reminders](https://mikeautomations.github.io/en/tenancy-renewal-reminders-letting-agents/).
 When | What happens | Who
 --- | --- | ---
 90 days before | The tenant is added to the month's follow-up list. Landlord told a check is coming, if you manage it for them | Workflow
@@ -1939,7 +1939,7 @@ When evidence arrives | The online check or document check is done, the result i
 Before the date | If the tenant has no right to rent or won't cooperate, the report to the Home Office is made and the reference number saved | A person in the office
 
 ### Tenant message template
-Send the same message to every tenant who needs a follow-up check, with the same wording and timing, whatever their nationality.
+Send the same message to every tenant who needs a follow-up check, with the same wording and timing, whatever their nationality. Recruitment agencies run a similar check for right to work: see [chasing candidate compliance documents](https://mikeautomations.github.io/en/candidate-compliance-document-chasing/).
 Email or text to the tenant:
 ```
 Subject: Your right to rent check at [property address]
@@ -2042,7 +2042,7 @@ Kind regards,
 7. If the reviewer asks for more, the workflow sends that follow-up request and the cycle starts again.
 
 ### What stays with you
-Everything that needs judgement. Your AML policy sets what you accept, and a person decides whether the evidence is enough, whether source of wealth checks are needed and whether anything should be reported. The workflow sends, tracks and reminds. It never tells a client their checks are complete. Records stay in your own systems: the Regulations require due diligence records to be kept for five years after the business relationship ends (regulation 40), so keep the documents in your case management system or document store, not in an inbox.
+Everything that needs judgement. Your AML policy sets what you accept, and a person decides whether the evidence is enough, whether source of wealth checks are needed and whether anything should be reported. The workflow sends, tracks and reminds. Once the file moves on, [client progress updates](https://mikeautomations.github.io/en/conveyancing-client-progress-updates/) keep the buyer informed. It never tells a client their checks are complete. Records stay in your own systems: the Regulations require due diligence records to be kept for five years after the business relationship ends (regulation 40), so keep the documents in your case management system or document store, not in an inbox.
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you collect source of funds documents today and where files wait. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools your firm already uses (your case management system, email, e-signature and secure upload tools, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
@@ -2216,7 +2216,7 @@ Thanks,
 6. Keep these with a person: queried hours, overtime that looks wrong, a worker who says they worked but has no approval, and any decision to delay pay.
 
 ### If you already have a timesheet platform
-Many recruitment and payroll systems have timesheet reminders built in. Switch them on first and see what's left. The gap is usually at the edges: workers who send photos, clients who won't log in, and the missing list nobody builds.
+Many recruitment and payroll systems have timesheet reminders built in. Switch them on first and see what's left. The gap is usually at the edges: workers who send photos, clients who won't log in, and the missing list nobody builds. The same approach works for [chasing candidate compliance documents](https://mikeautomations.github.io/en/candidate-compliance-document-chasing/) before a placement starts.
 
 ### How Mike Automations builds it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how hours reach you today and where the week gets stuck. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example "every active temp gets the Friday reminder, every approver gets their list on Monday, and payroll gets the missing list at 9 AM on Tuesday". It's built on the tools you already use (your email, Google Sheets or Excel, your recruitment or payroll system where it allows a connection), so your team has nothing new to learn. It goes live in 2-3 days, costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
@@ -2254,7 +2254,7 @@ Ordinary automation follows fixed rules: when a form comes in, add a row to the 
 - Replace a process that doesn't exist. If nobody agrees how enquiries should be handled, an agent will just handle them inconsistently, faster.
 
 ### Where it fits next to ordinary automation
-Most small-business work is rule-based and needs no AI: reminders on a date, a form into a spreadsheet, the next email in a sequence. Rules are cheaper and predictable. A good build uses rules for the whole flow and puts AI only in the one or two steps where the input is messy and a person currently has to read it.
+Most small-business work is rule-based and needs no AI: reminders on a date, a form into a spreadsheet, the next email in a sequence. Rules are cheaper and predictable (more on this in [AI vs automation: the difference](https://mikeautomations.github.io/en/blog/ai-vs-automation-difference/)). A good build uses rules for the whole flow and puts AI only in the one or two steps where the input is messy and a person currently has to read it.
 
 ### Agent, automation or do nothing: a decision table
 Your situation | Best choice | Why
@@ -2467,7 +2467,7 @@ Insurance broker renewal reminders are where a small broking team loses the most
 - The last-minute calls take more time than the renewal itself
 
 ### A renewal reminder timeline you can adapt
-There's no single right timeline. The days below are an example, not a rule: commercial risks that need to go to market usually start earlier, simple personal lines can start later. Pick the points that suit your book and your insurers, and the workflow runs them for every policy.
+There's no single right timeline. The days below are an example, not a rule: commercial risks that need to go to market usually start earlier, simple personal lines can start later. Pick the points that suit your book and your insurers, and the workflow runs them for every policy. You can [watch a reminder sequence play out](https://mikeautomations.github.io/en/try/) in a one-minute demo.
 Days before renewal | What happens | Who does it
 --- | --- | ---
 60 | Email asking the client to confirm or update their details, with a short form | Automatic
@@ -2479,7 +2479,7 @@ Days before renewal | What happens | Who does it
 0 | Renewed, lapsed or moved: status recorded and documents filed | Broker confirms
 
 ### Collect updated information before you quote
-Most rework at renewal comes from details that changed during the year and nobody mentioned. A short form sent with the first reminder fixes that. Keep it to the questions that change the price or the cover, and use a different version for each policy type. The answers are saved next to the policy, and any "yes, something changed" goes to a broker before quoting starts. A form you can adapt:
+Most rework at renewal comes from details that changed during the year and nobody mentioned. A short form sent with the first reminder fixes that, much like a [mortgage broker's document checklist](https://mikeautomations.github.io/en/mortgage-broker-document-collection/). Keep it to the questions that change the price or the cover, and use a different version for each policy type. The answers are saved next to the policy, and any "yes, something changed" goes to a broker before quoting starts. A form you can adapt:
 1. Has anything changed about the people insured (new drivers, new staff, a change of address)?
 2. Has anything changed about what's insured (vehicles, premises, stock, extensions, building work)?
 3. Has your business changed (turnover, activities, number of employees)? Commercial policies only.
@@ -2594,7 +2594,7 @@ What we'll do next month | Two or three specific actions and anything you need f
 6. A few days later, the workflow checks for replies and creates tasks for any questions or requests.
 
 ### Commentary is written by a person
-Clients pay for judgement, not for charts. The account manager writes the summary and the next steps, because they know what changed in the client's business, what was agreed on the last call and which number the client actually cares about. If AI is used to draft a first version from the figures, a person rewrites and approves it before it's sent. Nothing goes to a client without someone on your team reading it.
+Clients pay for judgement, not for charts. (The other monthly wait in most agencies is [getting clients to send content](https://mikeautomations.github.io/en/blog/get-clients-to-send-content/).) The account manager writes the summary and the next steps, because they know what changed in the client's business, what was agreed on the last call and which number the client actually cares about. If AI is used to draft a first version from the figures, a person rewrites and approves it before it's sent. Nothing goes to a client without someone on your team reading it.
 
 ### Cover email you can copy
 Sent with the monthly report once it's approved:
@@ -2661,7 +2661,7 @@ Ask them in this order, by phone or by text. The first two decide most calls; th
 9. Do you agree to the call-out fee of [amount], which covers [the first hour / attendance only]?
 
 ### Example urgency categories
-These are example categories to adapt, not rules. You decide what counts as an emergency for your business, and the on-call engineer can always overrule the list.
+These are example categories to adapt, not rules. You decide what counts as an emergency for your business, and the on-call engineer can always overrule the list. Jobs that can wait get a normal quote; in the UK, our [WhatsApp quote follow-up](https://mikeautomations.github.io/en/whatsapp-quote-follow-up-tradespeople/) covers what happens next.
 Category (example) | Typical situations | What happens
 --- | --- | ---
 Emergency service first | Gas smell, carbon monoxide alarm, fire, water on live electrics | Safety line sent at once; no booking until it's made safe
@@ -2818,7 +2818,7 @@ Day 21 | Daily reminders to the manager until both items are confirmed | Workflo
 Day 30 | Deadline. If either item is still open, the director is told the same morning | Workflow, then director
 
 ### The move-in checklist
-The workflow keeps this checklist for every new tenancy and only closes it when a person has ticked each item and attached the evidence.
+The workflow keeps this checklist for every new tenancy and only closes it when a person has ticked each item and attached the evidence. Later dates in the tenancy, such as rent reviews, are covered in [tenancy renewal reminders](https://mikeautomations.github.io/en/tenancy-renewal-reminders-letting-agents/).
 1. Deposit amount checked against the tenancy agreement. In England, the Tenant Fees Act 2019 caps it at five weeks' rent, or six weeks' if the annual rent is £50,000 or more.
 2. Deposit registered with the scheme, and the scheme's certificate or reference saved to the tenancy file.
 3. Prescribed information completed on the scheme's form and checked by a second person.
@@ -2872,7 +2872,7 @@ Tenancy renewal reminders used to mean one thing for a letting agent: a fixed te
 Gov.uk's overview of the Renters' Rights Act for landlords (published 1 May 2026) says the changes came into effect on 1 May 2026, that all existing assured shorthold tenancies change to assured periodic tenancies, and that you cannot have an end date on the tenancy agreement. The commencement regulations (S.I. 2026/421 on legislation.gov.uk) apply this to assured tenancies that are not social housing. Rent can go up no more than once a year: the landlord fills out Form 4A and gives it to the tenant with at least 2 months' notice, and the tenant can ask the tribunal to decide the rent if they think it is above the open market rent. The government's implementation roadmap (November 2025) says tenants can end their tenancy by giving two months' notice. If a rent went up under the old rules shortly before 1 May 2026, read the transitional provisions in S.I. 2026/421 before you serve a new notice. This applies to England only: Wales, Scotland and Northern Ireland have their own tenancy laws, so check those separately.
 
 ### The dates that still need a reminder
-The legal minimums come from the sources above. The lead times in the last column are suggestions you can change, not rules.
+The legal minimums come from the sources above. You can time a [routine inspection](https://mikeautomations.github.io/en/property-inspection-scheduling/) near each rent review. The lead times in the last column are suggestions you can change, not rules.
 Date | Applies to | Who acts | When to start (suggested)
 --- | --- | --- | ---
 Yearly rent review | Assured periodic tenancies in England | Landlord decides, your team prepares Form 4A | 4 months before the earliest date a new rent could start
@@ -2941,7 +2941,7 @@ Thanks,
 ```
 
 ### What stays with you
-The landlord decides whether the rent changes and by how much, and your team checks every notice before it's served. The workflow does not decide what the market rent is or give legal advice, and it doesn't serve anything on its own. If AI drafts a landlord email or fills in a form, a person always approves it first. Disputes, tribunal referrals and anything unusual about a tenancy go straight to a named person, the same way you'd handle [repairs above a landlord's approval limit](https://mikeautomations.github.io/en/landlord-repair-approval-limits/).
+The landlord decides whether the rent changes and by how much, and your team checks every notice before it's served. New tenancies still start with the [30-day deposit protection deadline](https://mikeautomations.github.io/en/tenancy-deposit-protection-30-day-reminder/). The workflow does not decide what the market rent is or give legal advice, and it doesn't serve anything on its own. If AI drafts a landlord email or fills in a form, a person always approves it first. Disputes, tribunal referrals and anything unusual about a tenancy go straight to a named person, the same way you'd handle [repairs above a landlord's approval limit](https://mikeautomations.github.io/en/landlord-repair-approval-limits/).
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track rent reviews and lease dates today and where they slip. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools your agency already uses (your email, a shared spreadsheet and your property management software where it allows a connection), so nobody learns a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
@@ -2969,7 +2969,7 @@ Property inspection scheduling is simple for one property and messy for a hundre
 In England, section 11(6) of the Landlord and Tenant Act 1985 (on legislation.gov.uk) says that where the landlord's repairing duty is implied, which covers most tenancies of under seven years, the landlord or anyone they authorise in writing may enter at reasonable times of the day, on 24 hours' notice in writing to the occupier, to view the property's condition and state of repair. Treat 24 hours as the minimum, not the plan: giving a week's notice and offering another time makes the visit easier for everyone. Wales, Scotland and Northern Ireland have their own tenancy laws, so check those for properties there. In the US, landlord entry is set by state law and the lease. California is one example: the state Department of Real Estate guide says entry is allowed only for specific reasons, that 24 hours' written notice is generally treated as reasonable (6 days if the notice is mailed), and that the landlord does not have the right to enter just for a general inspection. Check the rules in each state you manage in. None of these laws sets how often you should inspect: that's agreed with each landlord in your management terms.
 
 ### An inspection schedule you can adapt
-For illustration: a pattern many agencies could start from. Change the timings to match what you've agreed with each landlord.
+For illustration: a pattern many agencies could start from. Change the timings to match what you've agreed with each landlord. You can time one visit near the yearly [rent review](https://mikeautomations.github.io/en/tenancy-renewal-reminders-letting-agents/).
 Step | When (for illustration) | What goes to whom
 --- | --- | ---
 Check-in inventory | Move-in day | Report and photos to the landlord and the tenant
@@ -3157,7 +3157,7 @@ Day 16 | Clinician | Reviews who is still unbooked and decides what happens next
 Any time | Workflow | Booking, discharge or a "stop" reply ends the sequence
 
 ### Messages you can copy
-Keep the wording neutral. Don't mention the condition, the treatment or how the last session went: the message may be read by someone else, on a shared phone or a lock screen.
+Keep the wording neutral. Don't mention the condition, the treatment or how the last session went: the message may be read by someone else, on a shared phone or a lock screen. Dental practices face the same gap with [recall reminders](https://mikeautomations.github.io/en/dental-recall-follow-up/).
 First message, 2 days after the last session (text or email):
 ```
 Hi [first name], it's [clinic name]. You don't have your next appointment booked yet. If you'd like to book, you can choose a time here: [booking link], or call us on [clinic phone]. If you've decided not to book, just reply NO and we won't message you about it again.
@@ -3173,7 +3173,7 @@ Hi [first name], it's [clinic name] checking in. If you'd like another appointme
 In the UK, the regulator's guidance at ico.org.uk lists data concerning health as special category data under UK GDPR, and from 30 September 2026 that regulator is the Information Commission, which took over from the Information Commissioner under the Data (Use and Access) Act 2025. The fact that someone is a patient part-way through treatment is health data, so the unbooked list and the messages need the same care as the clinical record (see our [GDPR checklist for automating client data](https://mikeautomations.github.io/en/blog/gdpr-checklist-automating-client-data/)). ICO direct marketing guidance treats appointment reminders sent purely for administration as service messages, but adds that a message with promotional content counts as marketing, so leave offers and discounts out. In the US, HHS guidance under HIPAA says providers may leave appointment reminder messages but should limit the information they give, and treats appointment reminders as part of treatment rather than marketing. Patients can also ask to be contacted a different way, for example by email instead of text, and the workflow should honour that. Your clinic decides its own lawful basis, policies and texting consent, ideally with your data protection or compliance adviser.
 
 ### What stays with your clinicians
-Whether a patient needs more sessions is a clinical decision, made by the clinician and the patient. The workflow only reads the plan the clinician recorded and makes booking easy. It never tells a patient they need treatment, never pushes after a "no", and never decides to close an episode. If AI drafts a reply to a patient's question, a person reads and approves it before it is sent.
+Whether a patient needs more sessions is a clinical decision, made by the clinician and the patient. The workflow only reads the plan the clinician recorded (the same record that holds the [intake form](https://mikeautomations.github.io/en/physio-clinic-patient-intake-forms/) answers) and makes booking easy. It never tells a patient they need treatment, never pushes after a "no", and never decides to close an episode. If AI drafts a reply to a patient's question, a person reads and approves it before it is sent.
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how sessions are booked and how plans are recorded today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your practice management or booking software, email and text, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
@@ -3256,7 +3256,7 @@ Record one of: booked / call back on [date] / will book online / moved away / re
 Recall messages can be read by anyone who picks up the phone or opens a shared inbox. Keep them to the practice name, the fact that a check-up is due, and how to book. Leave out treatment details, outstanding balances and anything clinical. If a patient asks to be contacted a different way, or not at all, record it once and make sure every reminder follows it. Practice owners should check their own data protection and patient privacy obligations before changing how patients are contacted; this isn't legal advice. The [GDPR checklist before automating client data](https://mikeautomations.github.io/en/blog/gdpr-checklist-automating-client-data/) is a useful starting point for UK practices.
 
 ### If your practice software already does recalls
-Most dental practice systems have recall reminders built in. Switch them on and use them first. The gap is usually what happens after the second reminder: the overdue list nobody works through, the replies that land nowhere, and the patients with wrong contact details. That's the part worth building, the same way [no-show reminders](https://mikeautomations.github.io/en/blog/reduce-appointment-no-shows/) and [patient intake forms](https://mikeautomations.github.io/en/physio-clinic-patient-intake-forms/) work best when the system does the sending and a person handles the exceptions.
+Most dental practice systems have recall reminders built in. Switch them on and use them first. The gap is usually what happens after the second reminder: the overdue list nobody works through, the replies that land nowhere, and the patients with wrong contact details. Clinics see the same gap with [physio rebooking reminders](https://mikeautomations.github.io/en/physio-rebooking-reminders/). That's the part worth building, the same way [no-show reminders](https://mikeautomations.github.io/en/blog/reduce-appointment-no-shows/) and [patient intake forms](https://mikeautomations.github.io/en/physio-clinic-patient-intake-forms/) work best when the system does the sending and a person handles the exceptions.
 
 ### How Mike Automations builds it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how recalls run at your practice today and where patients slip through. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example "every patient past their recall date gets two follow-ups, and the front desk gets one call list every Monday". It's built on the tools you already use (your practice software where it allows a connection, your email and text service, Google Sheets or Excel), so your team has nothing new to learn. It goes live in 2-3 days, costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. A person at the practice approves the wording of every message before anything is sent.
@@ -3284,7 +3284,7 @@ Chasing candidate compliance documents is the job that stands between a placemen
 Right to work (UK): the Home Office Employer's guide to right to work checks (1 October 2026 version) says the check must be done before employment starts, and an employment business supplying temps is the employer for that check. eVisa holders prove their right to work with a share code. Copies are kept for the whole employment and two years after. For time-limited permission, a follow-up check is due on or before the date it ends. The civil penalty is up to £60,000 per illegal worker. Suitability (England, Wales and Scotland): regulation 19 of the Conduct of Employment Agencies and Employment Businesses Regulations 2003 says you must confirm the candidate's identity, and that they have the experience, training, qualifications and any authorisation the hirer, the law or a professional body requires. For roles working with vulnerable people, regulation 22 adds two references from people who aren't relatives and copies of relevant qualifications offered to the hirer. DBS: gov.uk says standard and enhanced checks can only be requested where the specific role is eligible. US: USCIS says Section 2 of Form I-9 must be completed within 3 business days of the hire date. This is a summary, not legal advice.
 
 ### Example checklists by role
-For illustration only. Your own list depends on the client, the role, the sector's rules and your contracts. Agree it with your compliance lead, then let the system chase against it.
+For illustration only. Your own list depends on the client, the role, the sector's rules and your contracts. Home care agencies have their own list: see [carer compliance for home care agencies](https://mikeautomations.github.io/en/home-care-agency-carer-compliance/). Agree it with your compliance lead, then let the system chase against it.
 Document | Office temp (UK) | Warehouse or driver (UK) | Care or education role (UK) | US light industrial
 --- | --- | --- | --- | ---
 Identity and right to work | Yes, before start | Yes, before start | Yes, before start | Form I-9, Section 2 within 3 business days
@@ -3524,7 +3524,7 @@ Yes. The workflow can start from the spreadsheet you have, or from your scheduli
 Yes. A round of regular cuts works the same way: confirm who's continuing, update the price, book them into the round and remind them before each visit.
 
 ### Can customers pay for the season up front?
-If you take payments online, the renewal email can include a link to pay for the season or set up regular payments. The customer is marked renewed once payment comes in. See also our guide to [payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/) for the ones who confirm but don't pay.
+If you take payments online, the renewal email can include a link to pay for the season or set up regular payments. The customer is marked renewed once payment comes in. See also our guide to [payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/) for the ones who confirm but don't pay, and our [failed payment follow-up](https://mikeautomations.github.io/en/gym-failed-payment-follow-up/) for regular payments that bounce.
 
 ### Will it text customers who haven't agreed to texts?
 No. Texts only go to customers who have agreed to hear from you that way. Everyone else gets email, and the undecided ones get a phone call.
@@ -5646,7 +5646,7 @@ Backup withholding | If a vendor doesn't give a correct taxpayer identification 
 6. For foreign contractors, ask for the right Form W-8 instead of a W-9. The IRS instructions for Form W-9 point foreign persons to the W-8 series or Form 8233.
 7. Early January: add December payments, re-check who crossed $2,000, and send the final list to each client to confirm.
 8. Mid-January: prepare, review and file. Send copies to contractors by February 1, 2027.
-9. After filing: set up W-9 collection at the point of first payment for every new vendor, so next January is lighter.
+9. After filing: set up W-9 collection at the point of first payment for every new vendor, so next January is lighter. General contractors can collect it with each sub's [certificate of insurance](https://mikeautomations.github.io/en/subcontractor-coi-tracking/).
 
 ### A W-9 request you can copy
 Send it from your client's name or from your firm on their behalf, whichever the client prefers. Keep it short. People ignore long emails about tax forms.
@@ -5704,7 +5704,7 @@ Source: https://mikeautomations.github.io/en/blog/what-to-automate-first-small-b
 What to automate first in a small business: the job that happens every week, follows the same steps each time, and costs you money or a client when someone forgets it. Usually that is chasing something: documents, quotes, unpaid invoices or replies to new enquiries. Start with one process, define what "working" means in one sentence, and only then pick the tool.
 
 What to automate first in a small business is a question about your week, not about software. Most small firms don't need "AI transformation". They need one annoying, repetitive job to stop depending on someone remembering it.
-Picking the right first process matters more than [picking the right tool](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/). A good first automation pays for itself quickly, is easy to check, and teaches you what to automate next. A bad one takes weeks, breaks often and puts you off the whole idea. Below is a simple test you can run on your own business in half an hour, a scorecard to fill in, and the jobs that usually win.
+Picking the right first process matters more than picking the right tool. A good first automation [pays for itself quickly](https://mikeautomations.github.io/en/blog/automation-roi-worksheet/), is easy to check, and teaches you what to automate next. A bad one takes weeks, breaks often and puts you off the whole idea. Below is a simple test you can run on your own business in half an hour, a scorecard to fill in, and the jobs that usually win.
 
 ### Step 1: list the jobs that repeat
 Take a sheet of paper or a blank spreadsheet and write down every job you or your team did in the last two weeks that felt like admin. Don't judge them yet. Typical entries: sending the same email to a new client, asking for missing documents, typing enquiry details into a spreadsheet, chasing a customer who hasn't replied to a quote, sending appointment reminders, reminding people to pay.
@@ -5744,7 +5744,7 @@ Before anything is built, write one sentence that says what the automation must 
 - "Every enquiry gets a reply within 5 minutes and lands in one sheet with the date, source and job."
 
 ### Step 5: pick the tool last
-Only now does the tool matter. Most first automations run on what you already have: your email, a form, a shared spreadsheet or drive, your accounting or job software, plus an automation platform such as Zapier, Make or n8n to connect them. Our comparison of Zapier, Make and n8n explains how each one charges and who each suits. If you're weighing up building it yourself against hiring someone, [the guide to business automation cost](https://mikeautomations.github.io/en/blog/business-automation-cost/) breaks down the build, the software and the support.
+Only now does the tool matter. Most first automations run on what you already have: your email, a form, a shared spreadsheet or drive, your accounting or job software, plus an automation platform such as Zapier, Make or n8n to connect them. Our comparison of Zapier, Make and n8n explains how each one charges and who each suits. If you're weighing up building it yourself against hiring someone, [consultant vs freelancer vs DIY](https://mikeautomations.github.io/en/blog/automation-consultant-vs-freelancer-vs-diy/) compares the options, and the guide to business automation cost breaks down the build, the software and the support.
 
 ### For illustration: three jobs, scored
 For illustration only, here is how a small plumbing business might score three jobs. Chasing quiet estimates: weekly (2), same steps (2), lost jobs when forgotten (2), no judgement (2), estimates already sent by email (2): total 10. Ordering parts: weekly (2), varies by job (1), delays when forgotten (1), needs judgement (0), partly digital (1): total 5. Yearly service reminders to past customers: monthly batches (1), same steps (2), lost repeat work (2), no judgement (2), customer list in a spreadsheet (2): total 9. The estimate follow-up goes first and the service reminders second. Parts ordering stays manual.
@@ -5795,7 +5795,7 @@ Best fit | Straight-line workflows between popular apps | Workflows with many br
 
 ### n8n: priced per run, can live on your own server
 - On n8n's cloud plans you pay per execution: one run of the whole workflow, however many steps it has. Long workflows that run often can come out much cheaper than per-step pricing.
-- The Community Edition can be self-hosted at no licence fee. n8n's Sustainable Use License allows use for your own internal business purposes, not for reselling n8n as a service.
+- The Community Edition can be [self-hosted](https://mikeautomations.github.io/en/blog/n8n-cloud-vs-self-hosted-small-business/) at no licence fee. n8n's Sustainable Use License allows use for your own internal business purposes, not for reselling n8n as a service.
 - Self-hosting means someone has to install it, keep it updated, back it up and keep it secure. If nobody in the business can do that, use n8n's cloud or another tool.
 - Comfortable with custom code when a step needs it.
 
@@ -5809,7 +5809,7 @@ n8n Cloud | 1 execution per run | 300 executions | Starter, 2,500 executions: �
 
 ### How to read the example
 The numbers are a rough guide, not a quote. Real usage depends on how each step is built: polling triggers, searches inside a step and AI actions can all change the count. Use each vendor's own pricing page with your real volumes before deciding.
-At this size, all three cost less than an hour of someone's time each month. The subscription is rarely [the deciding factor](https://mikeautomations.github.io/en/blog/business-automation-cost/) for a small business. What decides it is [who builds the workflow](https://mikeautomations.github.io/en/blog/automation-consultant-vs-freelancer-vs-diy/), who fixes it when an app changes, and whether your data may leave your own systems.
+At this size, all three cost less than an hour of someone's time each month. The subscription is rarely the deciding factor for a small business. What decides it is [who builds the workflow](https://mikeautomations.github.io/en/blog/automation-consultant-vs-freelancer-vs-diy/), who fixes it when an app changes, and whether your data may leave your own systems.
 
 ### How to choose: four questions
 1. [Write the process down first](https://mikeautomations.github.io/en/blog/process-map-template-small-business/): what starts it, every step, every app involved and what should happen when something is missing.
@@ -5841,7 +5841,7 @@ These estimate follow-up email templates are for [contractors who send estimates
 A short, well-timed follow-up is often the difference between a lost job and a booked one, and most contractors never send one because there's no time between jobs. Below: a day-by-day schedule, five emails, two texts and an answer to the most common objection. Change the wording so it sounds like you.
 
 ### The follow-up schedule
-Stop the sequence as soon as the customer replies, books or says no. Nothing annoys a customer more than a "just checking in" after they've already said yes.
+Stop the sequence as soon as the customer replies, books or says no. You can [watch a quote follow-up sequence play out](https://mikeautomations.github.io/en/try/) in a one-minute demo. Nothing annoys a customer more than a "just checking in" after they've already said yes.
 When | Channel | Goal | Template
 --- | --- | --- | ---
 Same day | Email | Send the estimate with a clear next step | Email 0
@@ -5926,7 +5926,7 @@ Text 2: Hi [first name], [your name] here. We have an opening the week of [date]
 - Selling to UK customers? Say "quote" instead of "estimate" and adjust the spelling. The schedule works the same way.
 
 ### Make it automatic
-A workflow can send these on schedule for every estimate, stop the moment the customer replies or books, and give you a daily list of open estimates worth a call. It can pull estimates from your job management software, your accounting software or your email. You still decide what to quote and what to say on the phone; it just makes sure no estimate is forgotten. If a change order comes up once the job starts, the same idea applies: see our page on change order approvals.
+A workflow can send these on schedule for every estimate, stop the moment the customer replies or books, and give you a daily list of open estimates worth a call. It can pull estimates from your job management software, your accounting software or your email. You still decide what to quote and what to say on the phone; it just makes sure no estimate is forgotten. If a change order comes up once the job starts, the same idea applies: see our page on [change order approvals](https://mikeautomations.github.io/en/change-order-approval-workflow/).
 
 ### How we would set it up for you
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you send estimates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use, so your crew doesn't learn a new system. Live in 2-3 days. [Workflow automation is $2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), and you pay once it's running and you're happy with it.
@@ -5996,7 +5996,7 @@ In the UK, the ICO treats a message that only confirms or reminds someone about 
 In the US, business texts sent from a regular 10-digit number have to be registered for A2P 10DLC through your texting provider, and the customer should agree to receive texts, for example with a checkbox on your booking form. Include a way to opt out, such as "Reply STOP to opt out".
 
 ### What to automate
-Everything above except the phone call. The workflow sends the confirmation and reminders, reads the YES replies, handles reschedule links, updates your calendar and gives you a list of who hasn't confirmed. If you already use booking or field service software that sends reminders, it fills the gaps rather than replacing it: for example the unconfirmed list, or the rebooking message after a no-show.
+Everything above except the phone call. The workflow sends the confirmation and reminders, reads the YES replies, handles reschedule links, updates your calendar and gives you a list of who hasn't confirmed. For patients who never book at all, see [dental recall follow-up](https://mikeautomations.github.io/en/dental-recall-follow-up/). If you already use booking or field service software that sends reminders, it fills the gaps rather than replacing it: for example the unconfirmed list, or the rebooking message after a no-show.
 
 ### For illustration
 For illustration: a customer books a boiler service for Thursday at 9 AM. They get a confirmation at once with a reschedule link. On Wednesday at 2 PM a text asks them to reply YES. At 6 PM you see two unconfirmed appointments and call them: one confirms, one moves to next week, and you fill the Thursday slot from your waiting list.
@@ -6018,7 +6018,7 @@ Source: https://mikeautomations.github.io/en/blog/ask-for-google-reviews-automat
 
 To ask for Google reviews, send every customer the same short request shortly after the job, with the direct review link from your Google Business Profile, and one reminder a few days later. Don't ask only the happy customers and don't offer anything in return: Google's policy forbids both, and so does consumer law in the UK (the DMCC Act 2024, enforced by the CMA) and the US (the FTC's review rule).
 
-How to ask for Google reviews is mostly a question of habit. Reviews matter for local search, and most happy customers are glad to leave one. They just need to be asked at the right moment, with a link that opens the review form in one tap.
+How to ask for Google reviews is mostly a question of habit. Reviews matter for local search, and most happy customers are glad to leave one. They just need to be asked at the right moment (for many trades, [when the customer signs off the job](https://mikeautomations.github.io/en/job-sign-off-and-completion-photos/)), with a link that opens the review form in one tap. A [cleaning business](https://mikeautomations.github.io/en/cleaning-business-automation/), for example, can send it after a client's first few cleans.
 The trick is to ask consistently, and to ask everyone. Below: the rules in plain English for the UK and US, where to find your review link, the timing, copy-ready requests and replies, and what you can safely automate with the same tools that send your [appointment reminders](https://mikeautomations.github.io/en/blog/reduce-appointment-no-shows/).
 
 ### The rules: ask everyone, offer nothing
@@ -6087,7 +6087,7 @@ Source: https://mikeautomations.github.io/en/blog/ai-in-accounting-firms-what-to
 In a small accounting firm, AI is worth using for reading, sorting and drafting: identifying uploaded documents, pulling key fields for a person to check, drafting routine client replies and spotting what's missing from a client's set. It should not give tax advice, decide a treatment or send anything to a client or tax authority without a qualified person approving it. The firm stays responsible for client data, so every AI tool needs checked data terms.
 
 AI in a small accounting firm is useful when it does the dull reading, sorting and drafting, and risky when it's trusted with judgement. It's not a substitute for professional judgement, and in a regulated profession it shouldn't send anything to a client unchecked. Used that way, it removes a lot of dull work without changing who is responsible for the advice.
-This post sorts common tasks into three groups (good for AI, [good for plain automation](https://mikeautomations.github.io/en/blog/what-to-automate-first-small-business/), keep with a person), explains the data rules on both sides of the Atlantic, and gives you a one-page AI policy you can adapt.
+This post sorts common tasks into three groups (good for AI, [good for plain automation](https://mikeautomations.github.io/en/blog/ai-vs-automation-difference/), keep with a person), explains the data rules on both sides of the Atlantic, and gives you a one-page AI policy you can adapt.
 
 ### Where AI helps today
 - Reading uploaded documents and suggesting what they are (a P60, a W-2, a bank statement, a receipt) and which client folder they belong in
@@ -6160,7 +6160,7 @@ Source: https://mikeautomations.github.io/en/blog/business-automation-cost/ (202
 Business automation cost for a small business comes in three parts: a one-off build, a few software subscriptions, and optional support. With Mike Automations, automating one process end to end costs $2,000 one-off ($1,500 for the first 3 clients), custom systems start at $5,000, and support is optional at $150 a month. The automation platform underneath usually adds somewhere between nothing and a few tens of dollars a month for a small firm.
 
 Business automation cost is hard to compare, because providers quote in different ways: hourly rates, day rates, monthly retainers, per-workflow prices. This guide splits the cost into its three real parts, shows what drives each one, and gives [our own prices in full](https://mikeautomations.github.io/en/pricing/) so you can compare like with like.
-Prices for the [automation platforms](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/) were checked on each vendor's own pricing page on 10 November 2026. They change often, so check them again before you buy.
+Prices for the automation platforms were checked on each vendor's own pricing page on 10 November 2026. They change often, so check them again before you buy.
 
 ### The cost table
 Cost | What it is | Typical amount | Paid to
@@ -6198,7 +6198,7 @@ Prices are in US dollars, invoiced in pounds or euros at the equivalent rate. No
 2. Multiply by what an hour of that person's time is worth to you.
 3. Add what it costs when the job is forgotten: a lost job, a late-filing penalty, a client who leaves.
 4. Add the platform subscription for a year, and support if you want it.
-5. If the yearly savings are larger than the build plus a year of running costs, it's usually worth doing. If not, start with a smaller process.
+5. If the yearly savings are larger than the build plus a year of running costs, it's usually worth doing. If not, start with a smaller process. Our [automation ROI worksheet](https://mikeautomations.github.io/en/blog/automation-roi-worksheet/) walks through the sum line by line.
 
 ### For illustration: the sum
 For illustration only, with made-up inputs you should replace with your own: a firm spends 5 hours a month chasing documents, and an hour is worth $40 to it. That's $200 a month, or $2,400 a year, before counting any lost clients. Against that: a $2,000 build plus a platform plan of, say, $20 a month ($240 a year). In this example the build pays for itself within the first year, and every year after costs only the subscription.
@@ -6206,7 +6206,7 @@ For illustration only, with made-up inputs you should replace with your own: a f
 ### Cost traps to watch for
 - Per-step pricing on a busy workflow: a long workflow that runs thousands of times a month can push you up several plan tiers.
 - Workflows built in the provider's account, not yours: you pay again if you ever leave.
-- "Done" never defined: without a written definition of working, the build can drag on and the bill with it.
+- "Done" never defined: without a written definition of working, the build can drag on and the bill with it. A [short brief](https://mikeautomations.github.io/en/blog/how-to-brief-an-automation-project/) fixes that before work starts.
 - Paying before it works: ask whether any money is due before the workflow is running.
 
 ### How much does it cost to automate one process?
@@ -6360,7 +6360,7 @@ Hi [first name], just a reminder that your engagement letter is waiting here: [e
 ```
 
 ### Renewals: when to send a new letter
-A letter that was right three years ago often isn't now. Many firms review every client's letter once a year, and re-issue it when something has changed. A workflow can do the noticing for you.
+A letter that was right three years ago often isn't now. Many firms review every client's letter once a year, and re-issue it when something has changed. A workflow can do the noticing for you. The letter at the other end of the relationship is covered in our [client disengagement checklist](https://mikeautomations.github.io/en/blog/client-disengagement-checklist-accountants/).
 - The client adds or drops a service, such as VAT, payroll or MTD quarterly updates
 - Your fee changes, or you move the client to a different billing arrangement
 - The client's structure changes, for example from sole trader to limited company
@@ -6503,7 +6503,7 @@ Three questions settle most cases. How many of your clients logged in to the por
 ### Security: what the rules expect
 In the UK, UK GDPR requires personal data to be "processed in a manner that ensures appropriate security" (Article 5(1)(f)), and your firm stays responsible for showing it complies. Passports, bank statements and tax records sent as plain email attachments are hard to square with that, which is why a portal or a secure upload link is the better habit for anything sensitive.
 In the US, the IRS and its Security Summit partners point out that federal law requires all professional tax preparers to create and implement [a written data security plan](https://mikeautomations.github.io/en/blog/wisp-for-small-tax-practices/) (see IRS Publication 5708). How client documents come in, and where they're stored, belongs in that plan.
-None of this bans email. It means you should decide which documents may come by email, steer the sensitive ones to a secure route, and make sure emailed files end up in storage you control rather than in a personal inbox.
+None of this bans email. It means you should decide which documents may come by email, steer the sensitive ones to a secure route, and make sure emailed files end up in storage you control rather than in a personal inbox. If you have no portal at all, see [document requests without a client portal](https://mikeautomations.github.io/en/blog/document-requests-without-a-portal/).
 
 ### A message telling clients how to send documents
 Put this at the top of your first request each season. It gives clients one clear route and a fallback, so they don't invent a third.
@@ -6598,7 +6598,7 @@ Hi [first name], just following up on your enquiry about [job]. Are you still lo
 ```
 
 ### Phone calls you miss
-Phone enquiries are the hardest to catch, because a missed call leaves no details. A [text sent automatically after a missed call](https://mikeautomations.github.io/en/missed-call-text-back-contractors/), asking what the job is and offering a booking link, turns a missed call into a written enquiry in the same list. We cover that on our page about missed call text back for contractors.
+Phone enquiries are the hardest to catch, because a missed call leaves no details, and urgent ones need [a triage step](https://mikeautomations.github.io/en/emergency-call-out-triage-plumbers/) so the real emergencies reach someone. A [text sent automatically after a missed call](https://mikeautomations.github.io/en/missed-call-text-back-contractors/), asking what the job is and offering a booking link, turns a missed call into a written enquiry in the same list. We cover that on our page about missed call text back for contractors.
 
 ### Texting rules in the UK and US
 In the US, business texts sent from a regular 10-digit number have to be registered for A2P 10DLC through your texting provider, and the major carriers block unregistered business texts. Only text people who have agreed to it, for example with a checkbox on your enquiry form. Email works from day one.
@@ -6635,7 +6635,7 @@ This post gives you a routine, the fields your inputs form needs, a reminder you
 - There's no record of what the client said, so a dispute about hours becomes your word against theirs
 
 ### Why the cut-off is not just your preference
-In the UK, GOV.UK says employers must send the Full Payment Submission (FPS) to HMRC on or before their employees' payday, and must tell HMRC about a new employee on or before their first payday, using the employee's P45 or, if there isn't one, HMRC's starter checklist. A leaver needs a P45. So missing starter or leaver details on cut-off day isn't only an inconvenience: it can mean a late or wrong submission.
+In the UK, GOV.UK says employers must send the Full Payment Submission (FPS) to HMRC on or before their employees' payday, and must tell HMRC about a new employee on or before their first payday, using the employee's P45 or, if there isn't one, HMRC's starter checklist. A leaver needs a P45. For the end of the UK tax year, see our [payroll year end checklist](https://mikeautomations.github.io/en/blog/payroll-year-end-checklist-bookkeepers-uk/). So missing starter or leaver details on cut-off day isn't only an inconvenience: it can mean a late or wrong submission.
 In the US, new employees complete Form W-4 so the employer can withhold the right federal income tax, and the federal Administration for Children and Families says federal law requires employers to report new and rehired employees to the state within 20 days of hire (some states set a shorter deadline). New hire paperwork belongs in the same request as the pay run inputs.
 
 ### The fields your payroll inputs form needs
@@ -6757,7 +6757,7 @@ Thanks,
 ### Where to be careful
 - Only give the automation the access it needs, and keep client data in your own accounts
 - Never let anything post to the ledger without a person reviewing it
-- If AI suggests a category or reads a receipt, show it as a suggestion for a person to approve
+- If AI suggests a category or reads a receipt, show it as a suggestion for a person to approve (more on this in [AI in a small accounting firm](https://mikeautomations.github.io/en/blog/ai-in-accounting-firms-what-to-automate/))
 - Keep a note of which apps are connected to which client organisation, so access can be removed when a client leaves
 
 ### For illustration
@@ -6959,7 +6959,7 @@ Turn these rough notes from a team meeting into a short list of actions, each wi
 ```
 
 ### Where prompts stop and automation starts
-Copying drafts between a chat window and your email still takes time, and it's easy to slip client details into the chat by mistake. A workflow can use the same kind of drafting inside your own systems, fill in client details itself from your records, and put every draft in a queue for a person to approve before it's sent. If you want ideas for which tasks to start with, [our free 12-page guide](https://mikeautomations.github.io/en/guide/) "25 AI Automations for Accountants & Small Firms" lists them.
+Copying drafts between a chat window and your email still takes time (the [difference between AI and automation](https://mikeautomations.github.io/en/blog/ai-vs-automation-difference/) matters here), and it's easy to slip client details into the chat by mistake. A workflow can use the same kind of drafting inside your own systems, fill in client details itself from your records, and put every draft in a queue for a person to approve before it's sent. If you want ideas for which tasks to start with, [our free 12-page guide](https://mikeautomations.github.io/en/guide/) "25 AI Automations for Accountants & Small Firms" lists them.
 
 ### How Mike Automations would build this
 We start with a [free 15-minute call](https://mikeautomations.github.io/call/) about which emails and checklists take your team the most time. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example "every reminder is drafted with the client's own missing items and waits for approval". It's built on the tools you already use (Gmail or Outlook, Xero or QuickBooks, your shared drive), with client data kept in your accounts. It goes live in 2-3 days. [Workflow automation is $2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), and you pay once it's running and you're happy with it.
@@ -7011,7 +7011,7 @@ When your firm verifies someone, you tell Companies House through the "Tell Comp
 You must keep records of every check, including copies of the documents, for 7 years from the date of the check. You must also tell Companies House about changes to your firm's details within 14 days.
 
 ### A client tracker you can copy
-One row per person per company, not per client. A director of three companies appears three times, with the same personal code. Sort by due date and the list tells you who to chase this week.
+One row per person per company, not per client. A director of three companies appears three times, with the same personal code. Sort by due date and the list tells you who to chase this week. Our [UK accounting practice deadline calendar](https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/) has the other dates to plan around.
 Column | What goes in it
 --- | ---
 Company name and number | As shown on the register
@@ -7050,7 +7050,7 @@ Thanks,
 
 ### What to automate, and what stays with a person
 The judgement stays with your team: checking documents to the Companies House standard, deciding if the firm takes on a verification, and submitting anything to Companies House. A workflow should never verify anyone or file on its own.
-1. Pull the confirmation statement date and officer list for each client company into the tracker, and work out each person's due date.
+1. Pull the confirmation statement date and officer list for each client company into the tracker, and work out each person's due date. The same company list can start your [year-end records requests](https://mikeautomations.github.io/en/limited-company-year-end-records/).
 2. Six weeks before a due date, send the client email above with the person's details filled in.
 3. Remind on a fixed schedule until the code arrives, then stop. Every reminder names the date.
 4. When a code arrives, file it to the access-controlled store and flag the row for a person to submit it.
@@ -7126,7 +7126,7 @@ Ownership share for jointly owned property | Client, or the deeds | Assumed to b
 Property bought, sold or remortgaged during the year | Completion statements | Treated as a separate matter
 
 ### CIS subcontractors
-Under the Construction Industry Scheme, the contractor deducts tax from payments (20% if registered and verified, 30% if not). GOV.UK says the contractor must give a payment and deduction statement within 14 days of the end of each tax month. The return records total pay before deductions as income, and the total deductions as CIS deductions. If statements are missing, the client asks the contractor for a replacement.
+Under the Construction Industry Scheme, the contractor deducts tax from payments (20% if registered and verified, 30% if not). GOV.UK says the contractor must give a payment and deduction statement within 14 days of the end of each tax month. The return records total pay before deductions as income, and the total deductions as CIS deductions. If statements are missing, the client asks the contractor for a replacement. If you also act for contractors, our guide to [collecting subcontractor invoices for the CIS monthly return](https://mikeautomations.github.io/en/cis-monthly-return-subcontractor-invoices/) covers their side.
 Record | Where the client gets it | Why it gets missed
 --- | --- | ---
 All 12 monthly payment and deduction statements, from every contractor | Each contractor | One contractor's statements go missing
@@ -7177,7 +7177,7 @@ Thanks,
 
 ### Check MTD for Income Tax while the records are in front of you
 The 2025 to 2026 return matters for more than this year's bill. GOV.UK says sole traders and landlords whose qualifying income (self-employment and property income combined, before expenses) is over £30,000 for 2025 to 2026 will need to use Making Tax Digital for Income Tax from 6 April 2027. Clients over £50,000 for 2024 to 2025 should already have started from 6 April 2026, and they still send a normal Self Assessment return for 2025 to 2026.
-So ask for gross sales and gross rent as clear figures, not just the profit. Then add a column to your client list for MTD status. Our post on the [Making Tax Digital practice workflow](https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/) covers what to do next.
+So ask for gross sales and gross rent as clear figures, not just the profit. Then add a column to your client list for MTD status. Our [MTD for Income Tax sign-up tracker](https://mikeautomations.github.io/en/blog/mtd-income-tax-client-sign-up-tracker/) covers what to do next.
 
 ### How Mike Automations would build this
 The checklist is the easy part. The hard part is sending the right version to every client, ticking items off as they arrive, and knowing who still owes what. A workflow can build each client's list from last year's file and your notes, send the request in the wording you approved, file uploads into the right folder, and send reminders that list only what's still missing.
@@ -7240,14 +7240,14 @@ If every client sent records on the same day, they would need about seven weeks 
 
 ### What to do with records that arrive after 1 January
 Late records will happen. Decide in advance how you handle them, so nobody makes it up under pressure.
-- Triage by size: [a client missing one small figure](https://mikeautomations.github.io/en/blog/clients-who-send-some-documents-but-not-all/) goes ahead now; a client missing a whole income source waits for it.
+- Triage by size: a client missing one small figure goes ahead now; a client missing a whole income source waits for it.
 - Say clearly, in writing, what you can and can't promise for 31 January.
 - GOV.UK allows provisional figures when a figure genuinely isn't known by the deadline (for example while waiting for a valuation). The return must say so, it must be amended later, and interest runs on any extra tax from the original due date.
 - Make sure the client knows the payment is due on 31 January even if the return is late.
 - Apply any late-records fee only if your engagement letter sets it out.
 
 ### What a missed 31 January costs your client
-Put the real cost in your reminders. It does more than "please send soon". For 2025 to 2026 returns, GOV.UK lists these late filing penalties: £100 straight away, then £10 a day after 3 months (up to £900), then 5% of the tax due or £300 (whichever is greater) after 6 months, and the same again after 12 months. Late payment brings penalties of 5% of the tax unpaid at 30 days, 6 months and 12 months, plus interest.
+Put the real cost in your reminders, and remind clients about the [tax bill itself](https://mikeautomations.github.io/en/blog/self-assessment-payment-reminders-for-clients/) too. It does more than "please send soon". For 2025 to 2026 returns, GOV.UK lists these late filing penalties: £100 straight away, then £10 a day after 3 months (up to £900), then 5% of the tax due or £300 (whichever is greater) after 6 months, and the same again after 12 months. Late payment brings penalties of 5% of the tax unpaid at 30 days, 6 months and 12 months, plus interest.
 Clients who joined Making Tax Digital for Income Tax from 6 April 2026 have new penalty rules from that tax year onwards, but GOV.UK confirms the current penalties still apply to their 2025 to 2026 return due on 31 January 2027. Those clients also have a quarterly update due by 7 February 2027, a week after the return, so ask for their records early.
 
 ### Already November? A catch-up plan
@@ -7410,7 +7410,7 @@ Apr 12 | Final reminder: April 15 is Thursday; sign your e-file authorization | 
 Apr 19 | Thank-you and what happens next; extension clients get their new plan | All clients
 
 ### After April 15: the extension track
-An extension gives more time to file, not more time to pay. The IRS "When to file" page says you should pay any tax owed by the original due date to avoid possible penalties, and its extension page says Form 4868 gives until October 15 to file. Extension clients need their own short schedule, or they go quiet until October.
+An extension gives more time to file, not more time to pay. The IRS "When to file" page says you should pay any tax owed by the original due date to avoid possible penalties, and its extension page says Form 4868 gives until October 15 to file. Extension clients need their own short schedule, or they go quiet until October. Our [tax extension email templates](https://mikeautomations.github.io/en/blog/tax-extension-client-email-templates/) cover the four emails that schedule needs.
 Week of | Email | Send to
 --- | --- | ---
 May 3 | Your extension plan: what's still missing, and a new internal date | Individual extension clients
@@ -7608,7 +7608,7 @@ Anything when the deadline is under two weeks away | Talk to the client | Agree 
 
 ### What the deadline means for partial files
 In the UK, gov.uk says an online Self Assessment return for 2025 to 2026 must be in by 11:59pm on 31 January 2027, and a return up to three months late gets an initial £100 penalty. In the US, the IRS says individual returns are due April 15 (moved to the next business day if it falls on a weekend or holiday), and the failure-to-file penalty is 5% of the unpaid tax for each month late, up to 25%.
-Neither penalty cares that the client sent "most" of their records. Put your [internal cut-off date](https://mikeautomations.github.io/en/blog/get-clients-to-send-documents-on-time/) a few weeks before the official one, put it in the first request, and repeat it in every "still missing" message. In Ireland, the [Form 11 Pay and File records timeline](https://mikeautomations.github.io/en/blog/form-11-pay-and-file-records-timeline-ireland/) applies the same idea to the 31 October deadline.
+Neither penalty cares that the client sent "most" of their records. Put your [internal cut-off date](https://mikeautomations.github.io/en/blog/records-cut-off-clause-engagement-letter/) a few weeks before the official one, put it in the first request, and repeat it in every "still missing" message. In Ireland, the [Form 11 Pay and File records timeline](https://mikeautomations.github.io/en/blog/form-11-pay-and-file-records-timeline-ireland/) applies the same idea to the 31 October deadline.
 
 ### Keep one status list for the whole practice
 The status table only works if it's in one place, updated the day things arrive. A shared spreadsheet is enough for a small practice: one row per client, a column per expected document, a status column and a "last reminder" date. Sort by status each morning and you have your chase list for the day.
@@ -7766,7 +7766,7 @@ This post is a plan for individual (Form 1040) extension clients: when to triage
 The IRS says an extension (Form 4868, or one of the other ways it lists) gives an individual until October 15 to file without the failure-to-file penalty. It also says, plainly, that the extension is only for filing: any tax owed is still due by the April due date. For 2026 returns that means April 15, 2027 for payment and October 15, 2027 for filing (both weekdays, so no weekend shift), unless the IRS postpones them.
 That last part matters. The IRS regularly postpones deadlines for taxpayers in federally declared disaster areas (its "Tax relief in disaster situations" page lists them), so check each client's county before you send a deadline email.
 Miss October 15 and the failure-to-file penalty applies, because the IRS counts the due date "including extensions". It's 5% of the unpaid tax for each month or part of a month late, up to 25%. For returns due after December 31, 2025, a return more than 60 days late has a minimum penalty of $525 or 100% of the tax due, whichever is less. The failure-to-pay penalty (0.5% a month, up to 25%) runs separately from April, and in any month when both apply, the filing penalty is reduced by the payment one.
-Many clients think the extension gave them until October to pay. Say otherwise in every email, in one sentence.
+Many clients think the extension gave them until October to pay. Say otherwise in every email, in one sentence. Our [tax extension email templates](https://mikeautomations.github.io/en/blog/tax-extension-client-email-templates/) show the wording.
 
 ### Triage extension clients by early August
 Don't wait for September. On the first working day of August, give every extension client one status. The aim is to know which files are really moving before the October rush, not during it.
@@ -7855,7 +7855,7 @@ Some clients won't answer at all. If a client has sent nothing by your cut-off a
 ### Set up next season so fewer clients end up here
 1. Write your internal document date into the engagement letter, not just the emails.
 2. When you file each extension, record why: waiting on a K-1, client late, your capacity. Only the first two need chasing.
-3. Send each extension client [their own missing list](https://mikeautomations.github.io/en/blog/clients-who-send-some-documents-but-not-all/) in May, not a generic reminder.
+3. Send each extension client [their own missing list](https://mikeautomations.github.io/en/blog/clients-who-send-some-documents-but-not-all/) in May, not a generic reminder. Next season, that list starts with the [tax organizer](https://mikeautomations.github.io/en/blog/tax-organizer-questions-new-vs-returning-clients/) you send in December.
 4. Keep one status list for all extension clients, updated the day documents arrive.
 5. Put the August triage date in your calendar now.
 
@@ -7980,7 +7980,7 @@ Source: https://mikeautomations.github.io/en/blog/get-clients-to-use-your-client
 To get clients to use your client portal, make the first upload take under two minutes, send every request as a link that opens the exact place to upload, and reply to emailed documents by pointing back to the portal. Roll it out to a small group first, chase non-users with short personal reminders, and only switch off email once most clients have uploaded at least once.
 
 How to get clients to use your client portal is a question most small firms ask about six months after they paid for one. The portal works. The team likes it. But half the clients still email [photos of receipts](https://mikeautomations.github.io/en/blog/collect-receipts-from-bookkeeping-clients/) at 11 at night, and someone has to save them by hand.
-This guide covers why clients ignore portals, a rollout plan you can run in a month, three reminder templates, and a clear rule for when to stop accepting email. It's about the portal you already have, whatever software it's part of. If you're still deciding between a portal and email, read [our comparison of the two](https://mikeautomations.github.io/en/blog/client-portal-vs-email-document-collection/) first.
+This guide covers why clients ignore portals, a rollout plan you can run in a month, three reminder templates, and a clear rule for when to stop accepting email. It's about the portal you already have, whatever software it's part of. If you don't have one yet, start with [whether a small practice needs practice management software](https://mikeautomations.github.io/en/blog/practice-software-vs-simple-automation-small-practice/). If you're still deciding between a portal and email, read [our comparison of the two](https://mikeautomations.github.io/en/blog/client-portal-vs-email-document-collection/) first.
 
 ### Why clients ignore your portal
 Clients don't refuse portals on principle. They take the easiest route they know, and for most people that's email. Look at it from their side and the reasons are usually practical:
@@ -8008,7 +8008,7 @@ Most portal launches fail because every client gets the same invite on the same 
 5. Track who has uploaded at least once. That one column tells you who needs help, more than any login count does.
 
 ### Reminders for clients who haven't logged in
-Keep reminders short, personal and about the specific thing you need. Three messages over about two weeks is enough. After that, pick up the phone: a two-minute call where you stay on the line while they log in fixes most cases.
+Keep reminders short, personal and about the specific thing you need. Three messages over about two weeks is enough. You can [watch a reminder sequence play out](https://mikeautomations.github.io/en/try/) in a one-minute demo. After that, pick up the phone: a two-minute call where you stay on the line while they log in fixes most cases.
 Reminder 1: the invite (day 0):
 ```
 Subject: Your secure upload link for [client name]
@@ -8095,7 +8095,7 @@ Source: https://mikeautomations.github.io/en/blog/collect-receipts-from-bookkeep
 To get bookkeeping clients to send receipts every month, give each client one place to send them (usually a receipt-capture email address or app), agree a monthly send-by date, and remind them on fixed days with a list of only the transactions that still have no receipt. At month end, send one short "still missing" list and decide each item: chase it, accept a bank or card statement, or mark it as no receipt.
 
 Getting bookkeeping clients to send receipts every month is mostly about removing choices. When receipts can go by email, WhatsApp, a shoebox or a shared folder, they go nowhere in particular, and you find out at [quarter end](https://mikeautomations.github.io/en/blog/vat-quarter-records-chasing/).
-This guide sets out one place to send, how often to ask each type of client, two reminder templates, and a simple way to handle the receipts that never turn up. It works for UK and US practices, and with [Xero](https://mikeautomations.github.io/en/blog/xero-practice-automation-ideas/) or QuickBooks Online.
+This guide sets out one place to send, how often to ask each type of client, two reminder templates, and a simple way to handle the receipts that never turn up. It works for UK and US practices, and with [Xero](https://mikeautomations.github.io/en/blog/xero-practice-automation-ideas/) or [QuickBooks Online](https://mikeautomations.github.io/en/blog/quickbooks-client-reminders/).
 
 ### Why receipts arrive late
 - The client has several ways to send them and isn't sure which one you want.
@@ -8246,7 +8246,7 @@ Clients can also sign up early and volunteer for the current year. HMRC's sign-u
 7. Record the sign-up date and the first quarterly deadline (7 August 2027 for standard update periods) in your tracker.
 
 ### Why the 2027 group needs to be ready on day one
-For the 2026 to 2027 tax year HMRC doesn't give penalty points for late quarterly updates. GOV.UK says that from later tax years, each late quarterly update earns a late submission penalty point. So the April 2027 group gets no free first year for quarterly updates. Standard deadlines are 7 August, 7 November, 7 February and 7 May.
+For the 2026 to 2027 tax year HMRC doesn't give penalty points for late quarterly updates. GOV.UK says that from later tax years, each late quarterly update earns a late submission penalty point. So the April 2027 group gets no free first year for quarterly updates. Standard deadlines are 7 August, 7 November, 7 February and 7 May. Our [UK accounting practice deadline calendar](https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/) puts them next to your other dates for the year.
 HMRC began signing up people in the April 2026 group who hadn't signed up themselves from September 2026, using only the information it already held. GOV.UK hasn't said whether it will do the same for the 2027 group. Signing clients up yourself means their income sources are right from the start.
 
 ### A sign-up tracker you can copy
@@ -8318,12 +8318,12 @@ Source: https://mikeautomations.github.io/en/blog/automation-consultant-vs-freel
 
 Whether to hire an automation consultant, hire a freelancer or do it yourself depends on three things: how many steps and tools the process involves, how much it costs you when it fails, and who will fix it when an app changes. Do it yourself when the process is simple, low-risk and someone on your team enjoys tools. Hire a freelancer when you can describe exactly what to build, and a consultant when you need help working out what to build and someone to stand behind it afterwards.
 
-Should you hire an automation consultant, a freelancer, or do it yourself? It's a fair question, and the honest answer is that each one is right for some businesses and wrong for others. This guide compares the three on [cost](https://mikeautomations.github.io/en/blog/business-automation-cost/), speed, risk and upkeep, and ends with a short self-test you can answer in five minutes.
+Should you hire an automation consultant, a freelancer, or do it yourself? It's a fair question, and the honest answer is that each one is right for some businesses and wrong for others. This guide compares the three on cost, speed, risk and [upkeep](https://mikeautomations.github.io/en/blog/do-automations-need-maintenance/), and ends with a short self-test you can answer in five minutes.
 One point comes up again and again when owners talk about this in online communities: the build is not the hard part. The hard part is who keeps it running six months later, when an app updates, a password expires or your process changes. Keep that question in mind as you read.
 
 ### The three options, in plain words
 The lines blur. Some freelancers work like consultants, and some consultants are one person. Judge by what they do, not what they call themselves: do they ask about your process before talking about tools, and do they say who fixes it when it breaks?
-- Do it yourself (DIY): you or someone on your team sets up the automation in a tool such as [Zapier, Make, n8n](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/) or Power Automate. You pay for the tool and with your own time.
+- Do it yourself (DIY): you or someone on your team sets up the automation in a tool such as Zapier, Make, n8n or [Power Automate](https://mikeautomations.github.io/en/blog/power-automate-vs-zapier-small-business/). You pay for the tool and with your own time.
 - Freelancer: you hire an individual, often through a marketplace, to build a specific thing you describe. They are usually paid by the hour or by the task, and the job ends when the build is delivered.
 - Automation consultant: a person or small firm who looks at how the process works today, decides with you what to automate and what to leave manual, builds it and usually offers support afterwards. They are usually paid a project fee or a day rate.
 
@@ -8349,7 +8349,7 @@ DIY is usually right when:
 
 ### When to get a freelancer
 A freelancer is a good fit when you already know exactly what you want and could write it down: the trigger, every step, what happens when data is missing, and what done looks like. If you can't write that page yet, a freelancer will have to guess, and guesses cost hours.
-Agree three things before work starts: whose accounts the automation runs in, what written notes you get at the end, and what it costs to call them back when something breaks. Zapier's own advice on hiring an expert also suggests [mapping your process first](https://mikeautomations.github.io/en/blog/process-map-template-small-business/), including the exceptions, and naming one person on your side who makes decisions.
+Agree three things before work starts: whose accounts the automation runs in, [what written notes you get at the end](https://mikeautomations.github.io/en/blog/automation-handover-checklist/), and what it costs to call them back when something breaks. Zapier's own advice on hiring an expert also suggests mapping your process first, including the exceptions, and naming one person on your side who makes decisions.
 
 ### When to get an automation consultant
 A consultant earns their fee when the hard part is deciding what to build. That's common when a process crosses several tools, involves clients or money, has deadlines with penalties, or has grown up over years with workarounds nobody wrote down.
@@ -8564,7 +8564,7 @@ Hi [name], just checking you got the deposit link for [job]. I'm holding [start 
 ```
 
 ### Make the paid deposit confirm the booking
-Most of the work around a deposit is admin: sending the link, checking whether it's been paid, confirming dates, chasing. None of it needs you. Your invoicing tool (Xero, QuickBooks, Stripe or similar) already knows when a payment lands, so the rest can follow from that.
+Most of the work around a deposit is admin: sending the link, checking whether it's been paid, confirming dates, chasing. None of it needs you. Your invoicing tool (Xero, QuickBooks, Stripe or similar) already knows when a payment lands, so the rest can follow from that. The same goes for the final invoice once the customer [signs off the finished job](https://mikeautomations.github.io/en/job-sign-off-and-completion-photos/).
 1. Customer accepts the quote. A deposit invoice with a payment link goes out the same minute.
 2. Payment lands. The job is marked "booked" in your job list or spreadsheet, and the dates go into your calendar.
 3. The customer gets a confirmation with the dates, what to expect and the balance still due.
@@ -8641,7 +8641,7 @@ Age 65 and over | Confirm dates of birth for you and your spouse. | An extra $6,
 - E-file signature. Ask how the client wants to sign Form 8879, the IRS e-file signature authorization: in person, or by e-signature through your software. Clients who can't sign quickly hold up returns that are otherwise finished.
 
 ### Build the returning client's list from last year's return
-The most useful returning-client organizer is a list of the documents you received last year, with a tick box next to each. The client confirms or crosses out, and adds what's new. That's faster for them, and it gives you a precise missing list in January.
+The most useful returning-client organizer is a list of the documents you received last year, with a tick box next to each. The client confirms or crosses out, and adds what's new. That's faster for them, and it gives you a precise missing list in January. If you also prepare Canadian returns, the same idea works for T-slips: see our [T1 document collection checklist](https://mikeautomations.github.io/en/blog/t1-tax-season-document-collection-canada/).
 1. Export last year's source documents for the client from your tax software or document folder: every W-2, 1099, 1098, K-1 and statement, with the payer's name.
 2. Turn each one into a line: 'W-2 from [employer]', '1099-INT from [bank]', '1098 mortgage interest from [lender]'.
 3. Add the change questions from the returning-client table and the four new deduction questions.
@@ -8802,7 +8802,7 @@ Source: https://mikeautomations.github.io/en/blog/section-7216-consent-before-au
 
 Section 7216 consent is the written, signed permission a tax return preparer needs before disclosing or using a client's tax return information in any way the regulations don't already allow. Sending return data to your own tax software, a US e-file provider or a colleague in your US firm needs no consent; sending it outside the US or using it for non-tax purposes does, and pasting it into a public AI chatbot is not a safe route at all. For Form 1040 clients the consent must follow Rev. Proc. 2013-14: a separate document, set wording, an affirmative signature and a stated duration (one year if none is given).
 
-Section 7216 consent comes up the moment a firm wants to automate client reminders, summarize documents with AI or move return data between tools. AI tools have made an old rule practical: where exactly does your client's data go when you press the button?
+Section 7216 consent comes up the moment a firm wants to automate client reminders, [summarize documents with AI](https://mikeautomations.github.io/en/blog/ai-in-accounting-firms-what-to-automate/) or move return data between tools. AI tools have made an old rule practical: where exactly does your client's data go when you press the button?
 This post covers what counts as tax return information, which disclosures need no consent, where AI sits, what a valid consent must contain, and a simple workflow to collect and track consents. It is general information, not legal advice. The rules have edge cases, and the call on your own tools belongs to you and your counsel.
 
 ### What section 7216 covers
@@ -8860,8 +8860,8 @@ Signed: [typed name]   Date: [date]
 ```
 
 ### A plain consent workflow
-1. List every tool that touches client data: tax software, portal, e-signature, email, reminder service, AI tools. Note where each one stores and processes data, and whether its terms let it use your data for anything else.
-2. Sort each tool with the table above. Write down the ones that need consent and the ones you'll keep client data out of.
+1. List every tool that touches client data: tax software, portal, e-signature, email, reminder service, the form that collects your [tax organizer](https://mikeautomations.github.io/en/blog/tax-organizer-questions-new-vs-returning-clients/) answers, AI tools. Note where each one stores and processes data, and whether its terms let it use your data for anything else.
+2. Sort each tool with the table above. Write down the ones that need consent and the ones you'll keep client data out of. For drafting with no client data at all, see our [ChatGPT prompts for accountants](https://mikeautomations.github.io/en/blog/chatgpt-prompts-for-accountants/).
 3. Draft one consent per disclosure (or one multi-disclosure form where the client checks each recipient separately), and have counsel review it.
 4. Send it with the engagement letter as its own document for e-signature, with the client typing their name.
 5. Store the signed PDF in the client's file and record the recipient, purpose and expiry date in the client record.
@@ -8874,7 +8874,7 @@ Signed: [typed name]   Date: [date]
 - Don't ask for consent to solicit non-tax business after you've handed the client the finished return, and don't ask again for a similar purpose after a client has said no.
 
 ### For illustration
-For illustration: a three-person firm wants AI to read scanned 1099s. They keep client names and SSNs out of the AI step where they can, ask counsel about the vendor, and send a consent naming the vendor with each engagement letter. Clients who sign go through the AI step; clients who don't are keyed in by hand. A preparer checks every figure either way.
+For illustration: a three-person firm wants AI to read [scanned 1099s](https://mikeautomations.github.io/en/blog/1099-season-checklist-bookkeepers/). They keep client names and SSNs out of the AI step where they can, ask counsel about the vendor, and send a consent naming the vendor with each engagement letter. Clients who sign go through the AI step; clients who don't are keyed in by hand. A preparer checks every figure either way.
 
 ### How we would build it for you
 Mike Automations builds workflows where AI only prepares and a person approves, and where client data goes only to tools you've cleared. A consent-on-file check is a normal part of that build. It starts with a free 15-minute call. Within 48 hours you get a written plan with a fixed price, built on the tools you already use, and it's usually live in 2-3 days. Workflow automation is $2,000 one-off ($1,500 for the first 3 clients), and you pay only once it's running and you're happy with it. We build the workflow; we don't give legal advice, so your counsel signs off on the consent wording.
@@ -8891,11 +8891,11 @@ Source: https://mikeautomations.github.io/en/blog/records-cut-off-clause-engagem
 A records deadline clause in an engagement letter sets the date by which the client must send complete records, and says what happens if they arrive later: the work joins the queue in order of arrival, you can't promise to file before HMRC's deadline, and any rush work may cost extra. For Self Assessment, a date such as 31 October or 30 November leaves two to three months before the 31 January online deadline. Put the clause in the tax schedule of your professional body's template, state any late fee in plain words, and refer to it in every reminder.
 
 A records deadline clause in your engagement letter turns "please send your records soon" into a date the client agreed to in writing. It doesn't make every client punctual. It does give you a fair basis for how you handle the ones who aren't: who goes first in January, whether rush work costs more, and who carries the risk of a penalty.
-This post covers what the clause should say, where it sits in your letter, the options for late records, three example clauses to adapt, and how reminders tie back to it. It's for UK firms preparing Self Assessment returns, but the same approach works for year-end accounts and VAT.
+This post covers what the clause should say, where it sits in your letter, the options for late records, three example clauses to adapt, and how reminders tie back to it. It's for UK firms preparing Self Assessment returns, but the same approach works for [year-end accounts](https://mikeautomations.github.io/en/limited-company-year-end-records/) and VAT.
 
 ### Why the date matters
 For the 2025-26 tax year, gov.uk gives these deadlines: 31 October 2026 for a paper return, 30 December 2026 for an online return if the client wants any balance collected through their tax code, and 31 January 2027 for an online return and payment. Miss the filing deadline and HMRC charges an initial £100 late filing penalty, with more after three months.
-Your cut-off date has to sit well before 31 January, because you need time to prepare the return, query gaps, get the client's approval and file. A date such as 31 October (the paper filing deadline) or 30 November gives you two to three months. Pick a date your team can actually work back from, and use the same date for every client in a group so your reminders stay simple.
+Your cut-off date has to sit well before 31 January, because you need time to prepare the return, query gaps, get the client's approval and file. A date such as 31 October (the paper filing deadline) or 30 November gives you two to three months. Pick a date your team can actually work back from (our [UK accounting practice deadline calendar](https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/) shows what else falls in the same months), and use the same date for every client in a group so your reminders stay simple.
 
 ### What the professional bodies provide
 ICAEW's Technical Advisory Service publishes an engagement letters helpsheet with sample wording, revised with a summary of changes in March 2026. It splits a complete letter into the covering letter (Part 1), schedules for each service (Part 2, with schedule E for personal tax and E-B for clients in MTD for Income Tax), optional paragraphs (Part 3), terms of business (Part 4) and a privacy notice (Part 5). ICAEW says the helpsheet is best practice guidance, not a professional standard, that wording should be tailored with professional judgement, and that AI should be used with caution when tailoring letters. The sample wording downloads are for members.
@@ -8912,7 +8912,7 @@ So start from your own body's template. The records deadline belongs in the serv
 - Your side: that you'll tell the client promptly what's missing once their records arrive.
 
 ### Options when records arrive late
-There's no single right answer. The table sets out the common approaches. Whatever you choose, state it in the letter before the work starts. With individual clients, the Consumer Rights Act 2015 says an unfair term isn't binding on a consumer (section 62) and written terms must be transparent, in plain and intelligible language (section 68).
+There's no single right answer. The table sets out the common approaches. Whatever you choose, state it in the letter before the work starts. If a client misses the date year after year and you decide to stop acting, our [client disengagement checklist](https://mikeautomations.github.io/en/blog/client-disengagement-checklist-accountants/) covers ending it properly. With individual clients, the Consumer Rights Act 2015 says an unfair term isn't binding on a consumer (section 62) and written terms must be transparent, in plain and intelligible language (section 68).
 Approach | How it works | Good for | Watch out for
 --- | --- | --- | ---
 Queue only | Late records are worked on after on-time clients, no extra fee | Small firms with flexible January capacity | No real incentive to be on time
@@ -8936,7 +8936,7 @@ Our standard fee assumes complete records by [31 October]. If they arrive betwee
 ```
 
 ### Make the reminders point to the clause
-A clause works best when the client hears about the date more than once. Each reminder should name the date the client agreed to and what happens after it, in the same words as the letter.
+A clause works best when the client hears about the date more than once. You can [watch a reminder sequence play out](https://mikeautomations.github.io/en/try/) in a one-minute demo, and the tax bill gets the same treatment in our [Self Assessment payment reminders](https://mikeautomations.github.io/en/blog/self-assessment-payment-reminders-for-clients/). Each reminder should name the date the client agreed to and what happens after it, in the same words as the letter.
 Subject: Your records for your 2025-26 tax return: due [date]:
 ```
 Hi [first name],
@@ -9186,7 +9186,7 @@ The EOT isn't a single March deadline. The Tax agents' EOT agreement (IR9XA, Apr
 - If a client can't file by 31 March through no fault of their own, you can request deferred status ("D status") between 1 August and 30 March, but only for a client with an existing EOT or an L letter.
 
 ### A client records timeline for the year
-For illustration, based on the 2026-27 filing period. Move the dates to suit your client mix: many practices put simple returns (wage earners with one rental, sole traders on bank feeds) first and complex group work later.
+For illustration, based on the 2026-27 filing period. Move the dates to suit your client mix: many practices put simple returns (wage earners with one rental, sole traders on bank feeds) first and complex group work later. The same order works for [quarterly BAS records in Australia](https://mikeautomations.github.io/en/blog/bas-records-reminders-for-bas-agents/) and [Form 11 records in Ireland](https://mikeautomations.github.io/en/blog/form-11-pay-and-file-records-timeline-ireland/).
 When | What you do | Why
 --- | --- | ---
 Early April | Check every client is linked and has an EOT; flag anyone with 2+ returns outstanding | Unlinked clients are on 7 July
@@ -9463,7 +9463,7 @@ Revenue's preliminary tax page says it must be paid by 31 October of the tax yea
 For your records timeline, this means the request has two halves. The 2026 records let you finish the return and the balance. But if a client's income has dropped and they want to pay on the 90% basis, you also need year-to-date 2027 figures in the autumn. Ask for them separately, in September, so they're current.
 
 ### A records timeline for the 2027 season
-This is a suggested plan for 2026 returns, not a Revenue rule. Move the dates to suit your practice, but keep the order: request early, [remind on a rhythm](https://mikeautomations.github.io/en/blog/document-chasing-email-templates/), set a cut-off, and keep October for review, agreement and payment.
+This is a suggested plan for 2026 returns, not a Revenue rule. Move the dates to suit your practice, but keep the order: request early, [remind on a rhythm](https://mikeautomations.github.io/en/blog/document-chasing-email-templates/), set a cut-off, and keep October for review, agreement and payment. New Zealand agents can follow the same order with the [IR3 extension of time timeline](https://mikeautomations.github.io/en/blog/ir3-extension-of-time-client-records-timeline-nz/).
 When | What to send or do | Who it's for
 --- | --- | ---
 January 2027 | Short heads-up: 2026 has closed, here's your list and upload link. Revenue says the Employment Detail Summary for 2026 is available in January | All Form 11 clients
@@ -9532,7 +9532,7 @@ This guide sets out a workflow you can run for marketing, design, content or vid
 - There's no record of which version was approved, so a later complaint is hard to answer.
 
 ### Agree the rules at onboarding
-Most approval problems are fixed before the first draft. Put these in the proposal or statement of work, and repeat them in the kick-off email, so the client has agreed to them before anything is late.
+Most approval problems are fixed before the first draft. Put these in the proposal or statement of work, and repeat them in the kick-off email, so the client has agreed to them before anything is late. Content deadlines work the same way: see [how to get clients to send content on time](https://mikeautomations.github.io/en/blog/get-clients-to-send-content/).
 - One named approver per client, plus one backup for holidays. Others may comment; only the approver signs off.
 - One place to review: a shared folder, a proofing tool or your project tool. Feedback sent elsewhere gets copied there before work starts.
 - Response time: for example, two working days for a social post, five for a website page.
@@ -9683,7 +9683,7 @@ Step | What happens | Who | Tool | Wait before next | What goes wrong
 7 | Send confirmation and what to expect | Owner | Email | None | Often skipped when busy
 
 ### How to read the finished map
-Once the map is filled in, go through it with four questions. Each answer points to a different kind of fix.
+Once the map is filled in, go through it with four questions. Each answer points to a different kind of fix. To check a fix is worth paying for, use the [automation ROI worksheet](https://mikeautomations.github.io/en/blog/automation-roi-worksheet/).
 - Where are the longest waits? Waits for the client (steps 2 and 4 above) are fixed with a reminder that goes out on a set day. Waits for you (step 1) are fixed with an instant reply and a daily list.
 - What gets typed twice? Copying the same details between a form, a spreadsheet and a calendar (step 6) is the most reliable thing to automate.
 - Which steps need judgement? Pricing an unusual job (step 3) stays with a person. An automation can collect the details and prepare a draft, and you approve it.
@@ -9717,7 +9717,7 @@ Source: https://mikeautomations.github.io/en/blog/gdpr-checklist-automating-clie
 
 Before you automate anything with client data in the UK, check seven things under the UK GDPR: your lawful basis for each use, a processor contract (Article 28) with every tool that touches the data, that you only move the fields you need, how long each copy is kept, how it is secured, whether it leaves the UK, and whether the work is high risk enough to need a DPIA. If the automation sends emails or texts, the PECR marketing rules apply too.
 
-This GDPR checklist for automating client data is for UK small businesses about to connect a form, a CRM, an email tool or an [AI assistant](https://mikeautomations.github.io/en/ai-agent-for-small-business/) to the details clients give them. Automation doesn't change the rules. It changes how many places the data ends up, and how fast a mistake spreads.
+This GDPR checklist for automating client data is for UK small businesses about to connect a form, [a CRM](https://mikeautomations.github.io/en/blog/spreadsheet-vs-crm-small-service-business/), an email tool or an [AI assistant](https://mikeautomations.github.io/en/ai-agent-for-small-business/) to the details clients give them. Automation doesn't change the rules. It changes how many places the data ends up, and how fast a mistake spreads.
 Each point below goes back to the UK GDPR text on legislation.gov.uk or to the regulator's guidance, checked in November 2026. This is a practical checklist, not legal advice. If your data is sensitive (health, criminal records, children) or the stakes are high, get advice from a data protection specialist or solicitor before you build.
 
 ### First, a change of name: the ICO is now the Information Commission
@@ -9827,7 +9827,7 @@ This payroll year end checklist is for UK bookkeepers who run payroll for small 
 Below: the HMRC dates for the 2026 to 2027 year end, the change coming on 6 April 2027, a month-by-month timeline of what to request from each client, a request email you can copy and the checks to run before the final submission. Every date was checked on GOV.UK in November 2026.
 
 ### The payroll year end dates, from HMRC
-GOV.UK's guide to payroll annual reporting sets out the tasks after each tax year ends on 5 April. For the 2026 to 2027 tax year they fall like this:
+GOV.UK's guide to payroll annual reporting sets out the tasks after each tax year ends on 5 April. Our [UK accounting practice deadline calendar](https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/) shows them next to the monthly payroll, CIS and VAT dates. For the 2026 to 2027 tax year they fall like this:
 Task | Deadline for the 2026 to 2027 year | Notes
 --- | --- | ---
 Final FPS, marked as the final submission for the year | On or before the last payday before 5 April 2027 | Send an EPS instead if you forgot the flag or paid no one in the final period
@@ -9892,7 +9892,7 @@ Thanks,
 - Records of expenses and benefits must be kept for 3 years from the end of the tax year they relate to.
 
 ### Make the chasing someone else's job
-The year end is the same every spring, so the requests can go out on their own. Each client gets their own message on the right date, reminders list only what's still missing, and you see one view of who's ready. The same routine works for the [monthly payroll inputs](https://mikeautomations.github.io/en/blog/collect-payroll-inputs-from-clients/) you already chase, and our [document chasing email templates](https://mikeautomations.github.io/en/blog/document-chasing-email-templates/) cover the follow-ups.
+The year end is the same every spring, so the requests can go out on their own. Each client gets their own message on the right date, reminders list only what's still missing, and you see one view of who's ready. The same routine works for the [monthly payroll inputs](https://mikeautomations.github.io/en/blog/collect-payroll-inputs-from-clients/) you already chase, and for [subcontractor invoices before each CIS return](https://mikeautomations.github.io/en/cis-monthly-return-subcontractor-invoices/). Our [document chasing email templates](https://mikeautomations.github.io/en/blog/document-chasing-email-templates/) cover the follow-ups.
 For illustration: a bookkeeper runs payroll for 25 small employers. On 2 February each gets the email above. By 20 February, 17 have replied, and the other 8 get a shorter reminder listing only what they haven't sent. On 1 March the bookkeeper calls the 2 who still haven't opened anything.
 
 ### How we would build it for you
@@ -9919,7 +9919,7 @@ This UK accounting practice deadline calendar lists every recurring date that sh
 Every date below was checked on GOV.UK in November 2026. Dates that depend on a client's year end are written as rules with a worked example. Payments have to reach HMRC by the deadline, and GOV.UK says a VAT return and payment are due on the date even when it falls on a weekend or bank holiday, so build in a margin.
 
 ### Every month: payroll, CIS and VAT
-Small employers who usually pay less than £1,500 a month may pay PAYE quarterly, but HMRC still wants an FPS every payday. Our post on [chasing VAT records each quarter](https://mikeautomations.github.io/en/blog/vat-quarter-records-chasing/) has a full timeline for one VAT quarter.
+Small employers who usually pay less than £1,500 a month may pay PAYE quarterly, but HMRC still wants an FPS every payday. Our [payroll year end checklist](https://mikeautomations.github.io/en/blog/payroll-year-end-checklist-bookkeepers-uk/) covers the yearly payroll dates, and our post on chasing VAT records each quarter has a full timeline for one VAT quarter.
 Deadline | What | Ask the client
 --- | --- | ---
 On or before each payday | Full Payment Submission (FPS) for payroll | Pay changes, starters and leavers 5 working days before payday
@@ -10062,7 +10062,7 @@ Any size, about to start a busy season | Wait, and fix the single worst job firs
 
 ### What one targeted automation looks like
 For illustration: a two-person practice keeps clients in a spreadsheet and files in a shared drive. Their worst job is chasing year-end records. An automation reads the spreadsheet, sends each client a personal request with their own list, files whatever comes back into the right folder, ticks it off, and reminds only the clients who still owe something. A person checks the list each week and phones anyone who needs a call.
-There's nothing new for clients to learn, nothing to migrate, and the practice keeps working the way it already does. The same pattern fits [document chasing](https://mikeautomations.github.io/en/blog/document-chasing-email-templates/), new-client onboarding and engagement letters.
+There's nothing new for clients to learn, nothing to migrate, and the practice keeps working the way it already does. The same pattern fits [document collection](https://mikeautomations.github.io/en/bookkeeper-document-collection/), new-client onboarding and engagement letters.
 
 ### If you already pay for a portal
 Plenty of small firms pay for a portal and still receive half their documents by email. Switching platform rarely fixes that, because the next portal has the same login problem. What helps is chasing that stops when the document arrives, a simple upload route for clients who won't log in, and emailed attachments filed automatically into the same place.
@@ -10102,7 +10102,7 @@ Source: https://mikeautomations.github.io/en/blog/get-clients-to-send-content/ (
 To get clients to send content on time, give them one specific list of what you need for their project, one place to put it, a due date tied to the launch date, and reminders on fixed days that stop as soon as each item arrives. Ask for access to accounts (analytics, social, hosting) through each platform's own user invitations rather than shared passwords, and agree in the contract that the launch moves if content is late.
 
 Knowing how to get clients to send content on time is half the job for an agency or a web or marketing freelancer. The site is built, the campaign is ready, and you're waiting on photos, page copy, a logo file and the login to their domain. The project sits still, and you send the same "just checking in" email for the fourth time.
-This guide gives you a content request checklist for the common project types, a deadline and reminder sequence, templates to copy, and a safe way to get access to accounts. It works with a shared folder, a form and your email. It fits alongside your [client approval workflow](https://mikeautomations.github.io/en/blog/agency-client-approvals/), because late content and late sign-off cause the same delays.
+This guide gives you a content request checklist for the common project types, a deadline and reminder sequence, templates to copy, and a safe way to get access to accounts. It works with a shared folder, a form and your email. Once the project is live, [client reporting automation](https://mikeautomations.github.io/en/agency-client-reporting-automation/) takes care of the monthly numbers. It fits alongside your [client approval workflow](https://mikeautomations.github.io/en/blog/agency-client-approvals/), because late content and late sign-off cause the same delays.
 
 ### Why clients don't send content
 - The request is vague: "send over your content" means nothing to someone who isn't a marketer.
@@ -10210,7 +10210,7 @@ This post explains the common reasons automations break, what monitoring looks l
 Almost every breakage described in vendor help pages comes from one of six causes. None of them is the automation "going wrong" by itself.
 - Expired or revoked logins. The automation signs in to your apps with a saved connection. Changing a password, removing a user, or an app revoking access after a period of inactivity can break it. Google's developer documentation lists reasons a saved Google login can stop working, including not being used for six months, a password change on an account that uses Gmail access, and a limit of 100 live logins per Google account for each connecting app. It also says that if the app connecting to Google is still in "Testing" status, its access expires after 7 days. That last one catches out a lot of self-built workflows.
 - Changed forms and spreadsheets. Someone renames a column, adds a question to a form, or moves a file to a new folder. The automation still looks for the old name and either fails or, worse, quietly fills in the wrong field.
-- App updates and API changes. The apps you use change how other tools connect to them. The automation platform handles most of these changes, but sometimes a step needs to be rebuilt.
+- App updates and [API](https://mikeautomations.github.io/en/blog/automation-glossary-small-business/) changes. The apps you use change how other tools connect to them. The automation platform handles most of these changes, but sometimes a step needs to be rebuilt.
 - Plan limits. Automation platforms count usage. Zapier's help centre says it holds all actions for all workflows in your account if you reach your task limit for the billing cycle, until you upgrade or the cycle resets. Make's pricing page says scenarios won't continue to run until credits are added again, and Make's help pages add that scenarios pause if a payment fails.
 - Automatic shutdowns after errors. Platforms switch off workflows that keep failing. Zapier says it turns a Zap off if it errors on 95% of runs and has run more than 20 times in the past 7 days (Team and Enterprise accounts get an email and a grace period first). Make has an "errors before deactivation" setting, and a scenario that starts with an instant trigger is deactivated after the first error.
 - Your process changed. You added a service, changed your prices, hired someone, or now need a different document from clients. The automation still does exactly what it did before, which is no longer what you want.
@@ -10221,7 +10221,7 @@ So the most important part of maintenance is not fixing things. It is knowing qu
 
 ### What monitoring and maintenance look like
 For a small business, monitoring doesn't need a dashboard. It needs three things, set up when the automation is built:
-1. Error alerts that reach a person. Zapier and Make can both email you when a run fails, and n8n lets you set an error workflow, starting with its Error Trigger node, that runs whenever another workflow fails, so you can send yourself an email or a message. Make sure the alerts go to an inbox someone actually reads, not to the builder's old address.
+1. Error alerts that reach a person. Zapier and Make can both email you when a run fails, and n8n lets you set an error workflow, starting with its Error Trigger node, that runs whenever another workflow fails, so you can send yourself an email or a message. If you run n8n yourself, the server needs watching too: see [n8n cloud vs self-hosted](https://mikeautomations.github.io/en/blog/n8n-cloud-vs-self-hosted-small-business/). Make sure the alerts go to an inbox someone actually reads, not to the builder's old address.
 2. A simple heartbeat. For workflows that run on a schedule, add a short summary at the end, such as "12 reminders sent this morning". If the summary stops arriving, something is wrong even if no error was raised.
 3. A monthly look. Ten minutes once a month to check the run history, the plan usage and the connections. The checklist below covers it.
 
@@ -10283,7 +10283,7 @@ An automation handover checklist answers one question: if the person who built y
 This post sets out what a business should receive at handover, why each item matters, and a checklist you can copy into an email to your builder. Use it before you pay, or with something that's already running. It applies whether the work was done by a freelancer, a consultant, or someone in your own team who is about to leave.
 
 ### 1. Accounts and ownership
-The automation platform account (Zapier, Make, n8n or similar) should belong to the business: registered to a business email address, paid from the business's card, with the owner or a named person in the business as account owner. The builder gets a user seat or temporary access, not the other way round.
+The automation platform account (Zapier, Make, n8n or similar, and the server too if [n8n is self-hosted](https://mikeautomations.github.io/en/blog/n8n-cloud-vs-self-hosted-small-business/)) should belong to the business: registered to a business email address, paid from the business's card, with the owner or a named person in the business as account owner. The builder gets a user seat or temporary access, not the other way round.
 This matters more than anything else on the list. If the account is the builder's, you don't own the workflows, you rent them. When you stop paying the builder, or they close their account, the workflows go with it. Our guide to [what automation really costs](https://mikeautomations.github.io/en/blog/business-automation-cost/) calls this out as one of the main cost traps.
 Zapier's help centre describes the tidy way to handle this in a team account: before removing a member, the account owner can review their workflows and connected apps, transfer ownership of their Zaps to another user, and export a CSV of their Zaps and app connections for your records. Ask your builder to do the equivalent on whichever platform you use.
 
@@ -10433,9 +10433,9 @@ Every app in that list is Microsoft, and Forms, Excel Online (Business), SharePo
 Now change one detail: the firm takes enquiries through a booking tool that is only a premium connector in Power Automate. The choice becomes a real comparison: a Power Automate Premium licence for the flow's owner, or a Zapier paid plan sized to the number of enquiries. Either can work. Price both with your real monthly numbers.
 
 ### When you don't need either
-The tool's subscription is rarely [the main cost](https://mikeautomations.github.io/en/blog/business-automation-cost/) for a small firm. The time to build it properly, and to keep it working when an app changes, usually is.
+The tool's subscription is rarely the main cost for a small firm. The time to build it properly, and to [keep it working when an app changes](https://mikeautomations.github.io/en/blog/do-automations-need-maintenance/), usually is.
 - The task happens a few times a month. A checklist and a calendar reminder may be all you need.
-- Your existing software already does it. Many practice, booking and accounting tools have reminders and templates built in. Turn those on first.
+- Your existing software already does it. Many practice, booking and accounting tools have reminders and templates built in. Turn those on first. If none of them fits, see [custom software vs off-the-shelf](https://mikeautomations.github.io/en/blog/custom-software-vs-off-the-shelf-small-business/).
 - Outlook rules or a shared mailbox would solve it. Sorting, flagging and forwarding email doesn't need a workflow tool.
 - The process isn't settled yet. Automating a process that changes every month means rebuilding it every month. Agree the steps on paper first.
 
@@ -10468,7 +10468,7 @@ The key point: given the same input, a rule gives the same output every time. If
 Its limit is just as clear. A rule can only handle what you thought of in advance. A client who writes "sorry, the bank statement is attached to my other email" doesn't fit a rule. Neither does an enquiry that rambles for three paragraphs before it gets to the point.
 
 ### AI: software that reads and writes like a person
-When people say AI today, they usually mean a large language model (LLM), the technology behind ChatGPT, Claude and Gemini. It reads text, works out what it means and writes a reply. That makes it good at the messy jobs rules can't handle: understanding a rambling email, pulling the key facts out of a letter, drafting a reply in your tone.
+When people say AI today, they usually mean a large language model (LLM; our [automation glossary](https://mikeautomations.github.io/en/blog/automation-glossary-small-business/) explains this and other terms), the technology behind ChatGPT, Claude and Gemini. It reads text, works out what it means and writes a reply. That makes it good at the messy jobs rules can't handle: understanding a rambling email, pulling the key facts out of a letter, drafting a reply in your tone.
 An AI agent goes a step further. It uses an AI model to decide which step comes next and then uses your tools to prepare it: sorting an enquiry, filling in a record, drafting the email. There's more on what agents can and can't do in [AI agents for small businesses](https://mikeautomations.github.io/en/ai-agent-for-small-business/).
 The catch is that AI can be wrong, and sound sure of itself while it is. Anthropic, which makes Claude, says in its developer documentation that even the most advanced language models can sometimes produce text that is factually incorrect or inconsistent with the context they were given. It calls this "hallucination", and notes that the techniques to reduce it don't remove it entirely.
 
@@ -10979,7 +10979,7 @@ The second thing to break is shared editing. Two people sorting, filtering and t
 The third is history. A CRM keeps each customer's emails, calls and notes on one record. A spreadsheet keeps a "last contact" cell that someone has to remember to update.
 
 ### What a CRM changes, and what it doesn't
-A CRM (customer relationship management system) is a shared customer list with stages, tasks and history built in. Common examples are HubSpot, Pipedrive, Zoho CRM and the customer modules inside job management or practice software. Check each vendor's own pricing and feature pages for what's included today, because plans change often.
+A [CRM](https://mikeautomations.github.io/en/blog/automation-glossary-small-business/) (customer relationship management system) is a shared customer list with stages, tasks and history built in. Common examples are HubSpot, Pipedrive, Zoho CRM and the customer modules inside job management or practice software. Check each vendor's own pricing and feature pages for what's included today, because plans change often. If none of them fits, read [custom software vs off-the-shelf](https://mikeautomations.github.io/en/blog/custom-software-vs-off-the-shelf-small-business/) before you build anything.
 What a CRM gives you: one record per customer, a pipeline with stages, reminders tied to each customer, and a log of emails and calls. What it doesn't give you is discipline. If nobody moves the stages or logs the calls, a CRM becomes a more expensive spreadsheet. A common way for the move to fail is the team quietly carrying on with the old sheet "just for now".
 
 ### Decision table: stay, improve the sheet, or switch
