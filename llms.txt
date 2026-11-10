@@ -50,6 +50,9 @@ We build it. It runs. Then you pay. Workflow automation and custom internal syst
 - [Subcontractor COI tracking](https://mikeautomations.github.io/en/subcontractor-coi-tracking/): Track subcontractor certificates of insurance without a spreadsheet: request COIs, log expiration dates and send renewal reminders before they lapse.
 - [Maintenance requests for letting agents](https://mikeautomations.github.io/en/letting-agent-maintenance-requests/): A maintenance request workflow for UK letting agents: capture repairs with photos, get landlord approval, book the contractor and keep tenants updated.
 - [Client intake for small law firms](https://mikeautomations.github.io/en/law-firm-client-intake/): Automate client intake in a small law firm: one enquiry form, a conflict check before booking, engagement letter and documents, with a person approving.
+- [Certificate reminders for letting agents](https://mikeautomations.github.io/en/letting-agent-compliance-certificate-reminders/): Track gas safety, EICR and EPC expiry dates across your lettings, book renewals early and chase the certificate back, with a person checking each one.
+- [Change order approvals for contractors](https://mikeautomations.github.io/en/change-order-approval-workflow/): A change order approval workflow for contractors: write up the change on site, send it for e-signature, and start the extra work only once it's approved.
+- [Client onboarding for agencies](https://mikeautomations.github.io/en/agency-client-onboarding-automation/): Automate client onboarding for a marketing agency: contract, invoice, brief and account access requested in one flow, with reminders until it's all in.
 - [Privacy policy](https://mikeautomations.github.io/en/privacy/)
 
 ## Blog

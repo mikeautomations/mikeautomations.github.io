@@ -609,6 +609,117 @@ The data stays in your accounts: your email, your drive, your software. I only g
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Compliance certificate reminders for letting agents
+Source: https://mikeautomations.github.io/en/letting-agent-compliance-certificate-reminders/
+
+Every managed property has its own set of dates: the gas safety record each year, the electrical report, the EPC and anything else your local rules ask for. Most agencies track them in a spreadsheet that one person keeps up to date. That works until that person is on holiday, a date is typed wrong, or a new landlord's certificates never get added. Chasing renewals is the same steps every time, so it can run as a workflow while your team keeps the checks.
+
+### Where certificate tracking breaks down
+- Expiry dates live in a spreadsheet, a calendar and people's heads, and they don't always agree
+- Renewals get booked late because nobody saw the date coming
+- The engineer does the check, but the new certificate never makes it into the property file
+- Landlords who arrange their own checks are hard to chase for a copy
+- When someone asks which properties are due next month, it takes an afternoon to find out
+
+### What an automated reminder workflow does
+- Keeps one list of every property, each certificate and its expiry date
+- Flags anything missing, expired or due soon, and sends you a weekly list
+- Contacts your usual engineer or the landlord well before the date to arrange the renewal, at the timing you choose
+- Asks for the new certificate once the visit is done, files it against the property and updates the date
+- Chases anything still outstanding, and tells a person when a date is close and nothing has been booked
+
+### What stays with you
+The legal duties stay with the landlord and with you as their agent, and the workflow doesn't change that. A person checks each new certificate before the date in the list is updated, and decides what happens when a check fails or a date is missed. If AI reads a date from a certificate or drafts a message to a landlord, a person always approves it first.
+
+### How it works
+A free 15-minute call about how you track certificates today and where things slip. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools your agency already uses (your email, a shared spreadsheet or drive, and your property management software where it allows a connection), so nobody learns a new system. Live in 2-3 days. You pay once it's running and you're happy with it.
+
+### We already have property management software. Does this replace it?
+No. Many systems store the dates. This adds the chasing around them: booking the renewal, collecting the certificate and telling you what's still open.
+
+### Does it know the rules for every certificate?
+You set which certificates each property needs and how early to start the renewal. On the call we go through your list. The workflow follows your settings, it doesn't give legal advice.
+
+### What about landlords who arrange their own checks?
+They get the reminder instead of your engineer, plus a link to upload the new certificate. If nothing arrives, the reminders continue and you're told.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## A change order approval workflow for contractors
+Source: https://mikeautomations.github.io/en/change-order-approval-workflow/
+
+The homeowner asks for an extra outlet, the GC wants a different finish, or you open a wall and find a problem. The crew is ready to keep going, but the change is agreed by phone and the paperwork comes later, if at all. Then the invoice turns into an argument. Getting a written approval before the extra work starts is the same few steps every time, so it can run as a workflow.
+
+### Where change orders go wrong
+- Changes are agreed verbally on site and never written down
+- The office hears about the change after the work is done
+- Change orders go out by email and sit unsigned while the job moves on
+- Nobody can quickly say which changes on a job are approved, pending or rejected
+- Approved changes don't make it onto the final invoice
+
+### What an automated change order workflow does
+- Gives your crew a short form on their phone to log a change: what, why, photos and a rough scope
+- Turns it into a change order from your own template for the office to price and review
+- Sends the reviewed change order to the customer or GC for e-signature, with a reminder if it isn't signed
+- Tells the crew lead when it's approved, so the extra work only starts with a signature in place
+- Keeps a log for each job and passes approved changes to whoever does the invoicing
+
+### What stays with you
+You price every change and decide what goes into the change order. A person in your office reviews it before it goes to the customer, and you decide what happens when a change is urgent or a customer refuses. If AI drafts the description or a message to the customer, a person always approves it before it's sent.
+
+### How it works
+A free 15-minute call about how changes are agreed on your jobs today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your email, phones, e-signature tool, and your job management or accounting software where it allows a connection), so your crew doesn't learn a new system. Live in 2-3 days. You pay once it's running and you're happy with it.
+
+### Does my crew need to learn new software?
+No. They fill in a short form from a link on their phone. Everything else happens in the office or by email.
+
+### Can it use our own change order template?
+Yes. The change order is built from your template and your terms. Pricing stays with you.
+
+### What if the change is urgent and work can't stop?
+You decide the rule for urgent changes, for example a phone call to the office. The workflow still logs it and sends the paperwork for signature straight away.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Client onboarding automation for marketing agencies
+Source: https://mikeautomations.github.io/en/agency-client-onboarding-automation/
+
+A new client signs, and the first two weeks go on admin: the contract, the first invoice, the brief, brand files, and access to the website, analytics and ad accounts. Each piece needs its own email and its own follow-up, and work can't start until it's all in. Onboarding is the same checklist for every client, so it can run as a workflow while your team focuses on the kickoff.
+
+### Where agency onboarding slows down
+- Access to ad accounts, analytics and the website trickles in over weeks
+- Clients send passwords by email, which is risky for them and for you
+- The brief questionnaire comes back half filled in
+- The first invoice and the signed contract need separate chasing
+- Nobody can see at a glance what's still missing for each new client
+
+### What an automated onboarding workflow does
+- Starts when the proposal is accepted, and sends the contract for e-signature and the first invoice
+- Sends one onboarding form for the brief, brand files and key contacts
+- Asks for access through each platform's own sharing settings, with short instructions, instead of asking for passwords
+- Creates the client's folder, project and channel in the tools you already use
+- Reminds the client about anything still missing, and sends your team one checklist per client
+
+### What stays with you
+The relationship and the strategy. Your team decides the scope, runs the kickoff and checks that the access you were given is the access you need. If AI drafts a welcome email or summarizes the brief, a person always approves it before it goes out.
+
+### How it works
+A free 15-minute call about how you onboard clients today and where it stalls. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools your agency already uses (your email, e-signature, invoicing, project management and shared drive, where they allow a connection), so nobody learns a new system. Live in 2-3 days. You pay once it's running and you're happy with it.
+
+### Do clients have to share their passwords?
+No. Wherever a platform lets them add your agency as a user or partner, that's what the workflow asks for. Passwords stay with the client.
+
+### Can it work with our project management and invoicing tools?
+It connects to the tools you already use where they allow it. On the call we check exactly what can be connected in your setup, and what's better left manual.
+
+### We onboard different services differently. Is that a problem?
+No. The form and checklist can change with the service the client bought, so an SEO client and a paid ads client get the right requests.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## Making Tax Digital for Income Tax: building a practice workflow for quarterly updates
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-06)
 
