@@ -3,7 +3,7 @@
 // 2. The sorting panel (.flow-panel): requests (message, email, web form, file) travel to an AI hub that
 //    visibly reads each one, then sends it as a comet to the right tray: client file, documents, letter.
 // Reduced motion: both draw one still frame. The panel pauses off screen and has its own pause button.
-(() => {
+requestAnimationFrame(() => requestAnimationFrame(() => {
   const still = matchMedia("(prefers-reduced-motion: reduce)").matches;
   const ACCENT = "93, 240, 168";
   const KINDS = {
@@ -97,12 +97,21 @@
   function background(canvas) {
     const s = surface(canvas, () => [innerWidth, innerHeight]);
     const { ctx } = s;
-    let grid = [];
+    let pattern = null, step = 52;
     const drifters = [];
     const layout = () => {
-      grid = [];
-      const step = s.w < 720 ? 40 : 52;
-      for (let x = step / 2; x < s.w; x += step) for (let y = step / 2; y < s.h; y += step) grid.push(x, y);
+      // One tile of the dotted grid, repeated as a pattern: a single fill per frame instead of hundreds of dots.
+      step = s.w < 720 ? 40 : 52;
+      const tile = document.createElement("canvas");
+      const dpr = Math.min(devicePixelRatio || 1, 2);
+      tile.width = tile.height = Math.round(step * dpr);
+      const tc = tile.getContext("2d");
+      tc.scale(dpr, dpr);
+      tc.fillStyle = "rgba(150, 175, 230, 0.07)";
+      tc.fillRect(step / 2 - 1, step / 2 - 1, 2, 2);
+      pattern = ctx.createPattern(tile, "repeat");
+      const m = new DOMMatrix().scale(1 / dpr);
+      if (pattern.setTransform) pattern.setTransform(m);
       drifters.length = 0;
       const n = s.w < 720 ? 5 : 9;
       for (let i = 0; i < n; i++) drifters.push({ kind: pick(), x: Math.random() * s.w, y: Math.random() * s.h, vx: -(8 + Math.random() * 12), vy: (Math.random() - 0.5) * 6, depth: 0.4 + Math.random() * 0.6 });
@@ -111,9 +120,14 @@
     addEventListener("resize", () => { s.resize(); layout(); });
     return (dt) => {
       ctx.clearRect(0, 0, s.w, s.h);
-      const shift = (scrollY * 0.15) % 52;
-      ctx.fillStyle = "rgba(150, 175, 230, 0.07)";
-      for (let i = 0; i < grid.length; i += 2) ctx.fillRect(grid[i] - 1, ((grid[i + 1] - shift + s.h) % s.h) - 1, 2, 2);
+      if (pattern) {
+        const shift = (scrollY * 0.15) % step;
+        ctx.save();
+        ctx.translate(0, -shift);
+        ctx.fillStyle = pattern;
+        ctx.fillRect(0, 0, s.w, s.h + step);
+        ctx.restore();
+      }
       for (const d of drifters) {
         d.x += d.vx * dt * d.depth;
         d.y += d.vy * dt;
@@ -369,4 +383,4 @@
     for (const step of loops) step(dt);
   };
   requestAnimationFrame(frame);
-})();
+}));
