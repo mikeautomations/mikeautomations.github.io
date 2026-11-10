@@ -720,6 +720,117 @@ No. The form and checklist can change with the service the client bought, so an 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Patient intake forms before the first physio appointment
+Source: https://mikeautomations.github.io/en/physio-clinic-patient-intake-forms/
+
+A new patient books, turns up, and spends the first ten minutes of a paid session on a clipboard: medical history, medication, consent, contact details. Or the form was emailed, but nobody checked whether it came back. Getting intake done before the patient walks in is the same few steps for every booking, so it can run as a workflow.
+
+### Where intake goes wrong in a small clinic
+- Forms are filled in on paper in reception and typed up later
+- The emailed form link is sent once, and nobody follows up
+- The physio only finds out about a red-flag answer at the start of the session
+- Consent forms are missing or stored somewhere separate from the patient record
+- Reception can't see at a glance which of tomorrow's new patients still owe a form
+
+### What an automated intake workflow does
+- Sends the right intake and consent form as soon as a new patient books
+- Sends a short reminder if the form isn't back a day or two before the appointment
+- Files the answers to the patient's record in your clinic software, where it allows a connection
+- Flags answers your clinicians have asked to see in advance, so they can read them before the session
+- Gives reception a morning list of new patients with forms still missing
+
+### What stays with you
+All clinical judgment. Your clinicians decide what the form asks, read the answers and decide what happens next. Health information is sensitive, so the workflow keeps it in the tools your clinic already uses and only shares it with the people who need it. If AI summarises a form for a clinician, a person always reads the original before acting on it, and nothing is sent to a patient without a person approving it.
+
+### How it works
+A free 15-minute call about how new patients are booked and onboarded today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your booking or practice management software, email and forms, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days. You pay once it's running and you're happy with it.
+
+### Does it replace our practice management software?
+No. It works alongside the tools you already use. On the call we check what your software can already do on its own, and only automate the gaps.
+
+### What if a patient never fills in the form?
+They get a reminder before the appointment, and reception sees them on the morning list. They can still complete it on arrival, as they do today.
+
+### Can different appointments get different forms?
+Yes. A new sports injury assessment and a post-surgery referral can each get their own form and their own consent wording.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## HVAC maintenance agreement renewal reminders
+Source: https://mikeautomations.github.io/en/hvac-maintenance-agreement-renewals/
+
+Maintenance agreements bring in steady work and customers who call you first. But renewals are usually tracked in a spreadsheet or in someone's head, and when the season gets busy, agreements quietly lapse. Remembering who expires when, reminding them and booking the visits is the same routine every month, so it can run as a workflow.
+
+### Where maintenance agreements slip
+- Expiry dates live in a spreadsheet that nobody checks during peak season
+- Customers get one renewal email, if any, and then nothing
+- Spring and fall tune-ups covered by the plan never get scheduled
+- The office can't quickly see how many agreements expire next month
+- Lapsed customers aren't followed up, so they drift to whoever answers first
+
+### What an automated renewal workflow does
+- Keeps one list of every agreement with its start date, expiry date and plan
+- Sends renewal reminders by email or text on a schedule you choose before the expiry date
+- Includes a link to renew or to pay the renewal invoice, using the payment tool you already have
+- Reminds customers when a covered tune-up is due and asks them to pick a time
+- Gives the office a weekly list of upcoming expiries and of agreements that have lapsed
+
+### What stays with you
+Your plans, your prices and your terms. You decide what each agreement covers, when reminders go out and how to handle a customer who wants to cancel. If your agreements renew automatically, check your state's rules on auto-renewal notices with your attorney first. If AI drafts a reminder or a reply, a person always approves it before it's sent.
+
+### How it works
+A free 15-minute call about how you sell and track maintenance agreements today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your field service software, spreadsheet, email, texting and payment tools, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days. You pay once it's running and you're happy with it.
+
+### We track agreements in a spreadsheet. Is that enough?
+Yes. The workflow can start from the spreadsheet you have, or from your field service software if it allows a connection.
+
+### Can customers renew without calling the office?
+Yes, if you take payments online. The reminder includes a link to pay, and the agreement is marked renewed once payment comes in.
+
+### Does it work for plumbing or electrical service plans too?
+Yes. Any service plan with a start date, an expiry date and scheduled visits works the same way.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Conveyancing client updates without the chasing calls
+Source: https://mikeautomations.github.io/en/conveyancing-client-progress-updates/
+
+Buyers and sellers want to know where their move stands, so they phone, and so do their estate agents. Each call pulls a fee earner away from the file, and most of them ask the same thing: has anything happened yet? Telling clients what has happened at each milestone is the same message every time, so it can go out as a workflow.
+
+### Why progress calls pile up
+- Clients only hear from the firm when something is needed from them
+- Long waits, such as for searches or the other side's replies, look like nothing is happening
+- Estate agents and brokers call separately for the same update
+- Updates depend on a busy fee earner remembering to send them
+- Clients don't know what the next step is or what they need to do
+
+### What an automated update workflow does
+- Sends a short, plain-English update when a milestone is recorded on the file, for example searches ordered or received
+- Explains what the milestone means and what usually comes next
+- Tells the client clearly when something is needed from them, with a reminder if it doesn't arrive
+- Sends the estate agent a matching update, if the client has agreed to that
+- Gives the team a list of files where nothing has moved for a set number of days
+
+### What stays with you
+All legal advice and every judgment on the file. The workflow sends pre-approved messages about milestones your team records; it never advises. Anything unusual, such as a problem with the title or a chain issue, is handled by the fee earner personally. If AI drafts an update, a person always approves it before it's sent.
+
+### How it works
+A free 15-minute call about how you keep clients updated today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your case management system, email and text messaging, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days. You pay once it's running and you're happy with it.
+
+### Will clients feel they're getting automated messages?
+The messages are written in your firm's voice and approved by you. Clients still talk to their fee earner about anything that needs a conversation.
+
+### Does it work with our case management system?
+It connects where your system allows it. On the call we check what your system can already send on its own, and only automate the gaps.
+
+### Can estate agents get updates too?
+Yes, if the client has agreed. The agent gets a short update at the same milestones, so they don't need to call.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## Making Tax Digital for Income Tax: building a practice workflow for quarterly updates
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-06)
 

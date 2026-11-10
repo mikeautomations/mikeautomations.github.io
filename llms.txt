@@ -53,6 +53,9 @@ We build it. It runs. Then you pay. Workflow automation and custom internal syst
 - [Certificate reminders for letting agents](https://mikeautomations.github.io/en/letting-agent-compliance-certificate-reminders/): Track gas safety, EICR and EPC expiry dates across your lettings, book renewals early and chase the certificate back, with a person checking each one.
 - [Change order approvals for contractors](https://mikeautomations.github.io/en/change-order-approval-workflow/): A change order approval workflow for contractors: write up the change on site, send it for e-signature, and start the extra work only once it's approved.
 - [Client onboarding for agencies](https://mikeautomations.github.io/en/agency-client-onboarding-automation/): Automate client onboarding for a marketing agency: contract, invoice, brief and account access requested in one flow, with reminders until it's all in.
+- [Patient intake for physio clinics](https://mikeautomations.github.io/en/physio-clinic-patient-intake-forms/): Get new physio patients to complete intake and consent forms before their first appointment, with reminders and answers filed to the right record.
+- [HVAC maintenance agreement renewals](https://mikeautomations.github.io/en/hvac-maintenance-agreement-renewals/): Automate HVAC maintenance agreement renewals: track expiry dates, remind customers before their plan lapses, and book the tune-ups that are due.
+- [Client updates for conveyancers](https://mikeautomations.github.io/en/conveyancing-client-progress-updates/): Send conveyancing clients a clear update at each milestone of their purchase or sale, so your team spends less time on progress calls.
 - [Privacy policy](https://mikeautomations.github.io/en/privacy/)
 
 ## Blog
