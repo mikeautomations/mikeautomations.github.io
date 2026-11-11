@@ -2,7 +2,7 @@
 
 > Automation for small accounting and bookkeeping firms: document chasing, reminders and follow-ups, live in 2-3 days. Pay once you're happy with it.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-11.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "Mike Automation") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-11.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
