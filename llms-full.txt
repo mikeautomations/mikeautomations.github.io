@@ -9,7 +9,7 @@ Source: https://mikeautomations.github.io/en/
 
 Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-- Workflow automation: $2,000. Paid once it's running and you're happy with it. A whole process, automated end to end. For example: collecting every client's records before the Self Assessment deadline, from first request to filed, or chasing VAT paperwork every quarter.
+- Workflow automation: $2,000. Paid once it's running and you're happy with it. A whole process, automated end to end. For example: getting every new customer's details and photos before you quote, from first enquiry to quote sent, or collecting documents from clients every month.
 - Custom system: From $5,000. One-time, by scope. Clients, jobs, documents and tasks in one place. Everyone sees what's due today.
 - Monthly support: $150/mo. Optional. Cancel with 30 days' notice. Hosting, monitoring and small changes, by the person who built it.
 
