@@ -3701,6 +3701,856 @@ You. You stay the single point of contact and pass anything broken to Michael. S
 ### Can you build in our agency's Zapier or Make account?
 It's possible, but the plan will recommend the client's own account, so the workflow survives if your agency relationship ends.
 
+## AI automation services for small business: what's real and who to hire
+Source: https://mikeautomations.github.io/en/ai-automation-services-small-business/
+
+AI automation services for small business build workflows where an AI model reads, sorts or drafts something (an email, a form, a PDF) inside your existing tools, and ordinary automation moves the result to the right place. What is real today is AI that prepares work for a person to approve: sorted enquiries, draft replies, data pulled from documents, summaries. Be wary of any provider promising an AI that runs your business on its own, replaces staff or guarantees income.
+
+AI automation services for small business are now sold by agencies, freelancers, course sellers and one-person specialists, often with the same words and very different results. If you are searching for an AI automation agency or an AI expert to hire, this page helps you tell the useful work from the hype. It lists the jobs AI genuinely does well in a small service business, what to check before you hire anyone, a side-by-side of agency, freelancer, one-person specialist and DIY, what the AI tools themselves cost according to the vendors' own pricing pages, and the limits worth knowing before anything goes live.
+
+### What AI automation actually means
+Most of a good "AI automation" is ordinary automation: a trigger (a new email, a form, a file in a folder), fixed rules and actions in your tools. The AI part is one or two steps where reading or writing language is needed, such as working out what an email is about or drafting a reply. If the job follows the same rules every time, it usually needs no AI at all, and [the difference between AI and automation](https://mikeautomations.github.io/en/blog/ai-vs-automation-difference/) is worth knowing before you pay for either. An [AI agent](https://mikeautomations.github.io/en/ai-agent-for-small-business/) goes a step further and chooses which tool to use next, which makes a person's approval step even more important.
+
+### 8 jobs small businesses hire AI automation for
+- Sorting new enquiries: reads each message or form, tags it (new job, quote request, complaint, spam) and puts urgent ones at the top of a list.
+- Drafting replies: prepares a reply to each enquiry from your prices, services and tone, for a person to edit and send. Speed matters here, as [replying to new enquiries fast](https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/) explains.
+- Reading documents: pulls supplier, date, amount and VAT from invoices and receipts into a spreadsheet or accounting tool, flagging anything it is unsure of. More in [automating data entry from emails and PDFs](https://mikeautomations.github.io/en/blog/automate-data-entry-from-emails-and-pdfs/).
+- Checking what clients sent: compares received files against a checklist and drafts a polite note listing only what is still missing.
+- Summarising notes: turns rough job notes or a typed meeting note into a tidy summary on the client's record.
+- Drafting quotes and proposals: fills a first draft from an enquiry form and your price list, for you to check and send.
+- Answering staff questions: lets your team ask questions of your own documents, such as your policies or price list, with links to the source.
+- Weekly summaries: writes a short plain-English summary of what your spreadsheet or job list shows, for the owner on Monday morning.
+
+### What's real and what's hype
+The US Federal Trade Commission ran a sweep called Operation AI Comply in September 2024 against deceptive AI claims, including "AI-powered" business-opportunity schemes that promised passive income and a service marketed as a "robot lawyer". The FTC's chair said there is no AI exemption from the laws on the books. Use the same test when you hire:
+Claim you might hear | What is usually true
+--- | ---
+"An AI agent will run your admin on its own" | AI can prepare most of the work. A person still checks anything that goes to a customer or moves money.
+"Replace your receptionist or staff" | AI can take routine sorting and drafting off people. Judgement calls and unhappy customers still need a person. See the [pros and cons of an AI receptionist](https://mikeautomations.github.io/en/blog/ai-receptionist-small-business-pros-and-cons/).
+"Guaranteed results or income" | No honest provider can guarantee results from AI. Ask for a written definition of "working" instead.
+"Our own AI platform" | Often a monthly subscription to someone else's tool with new branding. Ask whose accounts it runs in and what happens if you stop paying.
+"Fully accurate" | AI models make mistakes, including confident wrong answers. Good builds show where the AI is unsure and send those cases to a person.
+
+### Agency, freelancer, one-person specialist or DIY
+The [consultant vs freelancer vs DIY comparison](https://mikeautomations.github.io/en/blog/automation-consultant-vs-freelancer-vs-diy/) goes deeper. For AI work specifically:
+ | AI automation agency | Freelancer | One-person specialist | Do it yourself
+--- | --- | --- | --- | ---
+Who you deal with | A salesperson, then a project team | The person who builds it | The same person maps, builds and supports it | You
+Usual pricing | Project fee, often plus a monthly retainer | Hourly or per task | Fixed project fee, optional support | Tool subscriptions and your time
+Strength | Capacity for big or several projects at once | Cheap for a clearly specified job | One person who knows your process end to end | Cheapest, and you learn the tools
+Watch out for | Long discovery phases, retainers, builds in their own accounts | Nobody to call when it breaks | Holidays and capacity: ask who covers | AI steps that fail quietly with nobody checking
+Best for | Larger firms with many processes | A one-page spec you already wrote | One process that touches clients or money | Internal tasks where a mistake is cheap
+
+### Checklist: questions to ask before hiring anyone
+Copy these into your first call or email. The [full list of questions to ask an automation expert](https://mikeautomations.github.io/en/blog/questions-to-ask-before-hiring-an-automation-expert/) covers the general ones; these are the AI-specific ones.
+AI automation hiring questions (copy and paste):
+```
+1. Which steps use AI, and which are ordinary rules?
+2. Which AI model and provider will it use, and in whose account?
+3. Is our data used to train the model? Where is it stored and for how long?
+4. Where does a person approve the AI's work before it reaches a customer or moves money?
+5. What happens when the AI is unsure or wrong? Who sees those cases?
+6. Roughly what will the AI usage cost us each month, and who pays the bill?
+7. What happens when the model we use is retired or changes?
+8. Do we own everything you build, and can we see and change it after you leave?
+9. What is the fixed price, and what does "working" mean in writing?
+10. Who fixes it when it breaks, how fast, and what does that cost?
+```
+
+### What the AI tools themselves cost
+You pay the AI provider separately from whoever builds the workflow. There are two ways to pay. Anthropic's prices are used as the example here because its pricing pages publish them in full (checked 11 November 2026, all prices in USD):
+- OpenAI and other providers also price API use per token. Check their pricing pages before you budget: prices change often.
+- You also pay for the automation tool that runs the workflow, such as Zapier, Make or n8n. The [Zapier vs Make vs n8n comparison](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/) covers those plans.
+How you pay | Example price (Anthropic, November 2026) | When it fits
+--- | --- | ---
+Chat app subscription per person | Claude Pro $20 a month billed monthly ($17 a month billed annually). Claude Team standard seat $25 per seat a month billed monthly ($20 billed annually) | People using AI by hand: drafting, summarising and [admin tasks in a chat window](https://mikeautomations.github.io/en/blog/chatgpt-for-small-business-admin/)
+API, pay per use | Claude Haiku 5.5: $0.10 per million input tokens and $0.50 per million output tokens (prompts up to 100,000 tokens). Claude Sonnet 5.5: $2 and $10 | Automations that call AI in the background, inside a workflow
+Batch API | Anthropic's docs list a 50 percent discount on input and output tokens for batch requests | Jobs that can wait, such as overnight document reading
+
+### Limits and gotchas from the official docs
+- Training on your data: OpenAI's documentation says data sent to its API is not used to train its models unless you opt in, and that abuse-monitoring logs are kept for up to 30 days unless the law requires longer. Consumer chat apps can have different settings, so check the plan you actually use.
+- Models are retired: Anthropic's pricing docs list older models as retired. A workflow built on one model needs updating when it goes, so ask who does that.
+- Token counts change between models: Anthropic's docs say its newer tokenizer produces roughly 30 percent more tokens for the same text. A lower price per token does not always mean a lower bill.
+- Data protection: the ICO's guidance on AI and data protection covers fairness, accuracy and automated decisions about people under UK GDPR. The ICO says the guidance is under review after the Data (Use and Access) Act, so check it again before you rely on it.
+- Decisions about people: keep AI away from deciding on its own whether someone gets a job, a tenancy, credit or a service. Let it prepare, and let a person decide.
+
+### How Mike Automations would do it
+Mike Automations is one person, Michael, who maps the process, builds it and supports it. It starts with a [free 15-minute call](https://mikeautomations.github.io/call/) about the job you want AI to help with; often the honest answer is that ordinary automation is enough. Within 48 hours you get a written plan with a fixed price that shows which steps use rules, which use AI, and where a person approves. Everything is built in your own accounts (your email, your spreadsheet, your AI provider account), so you own it and the AI bill comes to you directly. Live in 2-3 days. A workflow automation is a fixed [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), $1,500 for the first 3 clients, and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). Optional support is $150 a month. A person always approves anything the AI prepares. To see the steps for your business first, [build your plan](https://mikeautomations.github.io/en/plan/?g=ai-automation-services-small-business) or [try the demo](https://mikeautomations.github.io/en/try/).
+
+### What do AI automation services for small business actually do?
+They connect an AI model to your existing tools so it can read, sort, summarise or draft things such as emails, forms and documents, with ordinary automation moving the results to the right place. The useful setups have a person approve the AI's work before it reaches customers.
+
+### Should I hire an AI automation agency or a freelancer?
+An agency suits a larger business with several processes and budget for a retainer. A freelancer suits a job you can specify on one page. A one-person specialist suits one process that touches clients or money and needs someone who maps, builds and supports it.
+
+### How much does AI automation cost a small business?
+Two parts: the build and the running costs. Running costs are the AI provider (a chat subscription per person, or pay-per-use API pricing) plus the automation tool. With Mike Automations, a workflow build is a fixed $2,000 ($1,500 for the first 3 clients), paid once it's running and you're happy with it.
+
+### Is it safe to put client data through AI?
+It can be, with the right account and settings. Check whether the provider trains on your data, how long it keeps logs and where it stores them, send only the data the job needs, and follow the ICO's guidance or your own regulator's. Keep a person approving the output.
+
+### Do I need AI at all?
+Often not. If a job follows the same rules every time, plain automation is cheaper and more reliable. AI earns its place when a step involves reading or writing language that varies, such as free-text emails or mixed documents.
+
+## HubSpot automation consultant for small business: what to hire for and what to check
+Source: https://mikeautomations.github.io/en/hubspot-automation-consultant/
+
+A HubSpot automation consultant for a small business sets up the follow-ups, reminders and data syncs that HubSpot doesn't run on its own, either inside HubSpot on the right plan or with an outside tool that reads and updates your HubSpot records. On the free CRM, HubSpot automates one email per form, so most small businesses need either a paid plan or a connected automation. Before hiring anyone, check which of your triggers live inside HubSpot and which live in other tools, because that decides what the build needs.
+
+A HubSpot automation consultant is who people look for when HubSpot holds their contacts and deals but nothing happens unless someone remembers to do it. This page covers what small businesses hire help for, what HubSpot costs today, the plan limits that catch people out, and a checklist to use before you hire anyone, including us.
+
+### What small businesses usually hire HubSpot help for
+- Replying to new enquiries from a website form within minutes, with a task for whoever owns the lead.
+- Chasing quotes: a reminder to the customer when a deal sits in "Quote sent" too long, and a task for you if they still don't reply.
+- Creating a task or internal alert when a deal moves stage, so nobody has to watch the board.
+- Sending reminders before a call or visit booked through HubSpot's meeting page.
+- Keeping HubSpot and your invoicing tool in step: a won deal creates the invoice in Xero or QuickBooks, and paid or overdue status comes back to the contact. The [payment reminders guide](https://mikeautomations.github.io/en/invoice-payment-reminders/) covers the chasing side.
+- Cleaning up duplicate contacts and deciding which tool is the master record for each field.
+- Onboarding a new customer once a deal is won: welcome email, forms to fill in, a checklist of documents.
+- AI drafting replies to enquiries for a person to approve before anything is sent. See [AI agents for small business](https://mikeautomations.github.io/en/ai-agent-for-small-business/) for what that looks like done safely.
+
+### What HubSpot costs, from its own pricing page
+Checked on HubSpot's Sales Hub pricing page on 11 November 2026, in US dollars. The page shows two prices for Starter and Professional depending on how you pay, without labelling which is which, so the ranges below are as shown. Prices change often, so check the page before you decide.
+Plan | Price shown | Automation it lists
+--- | --- | ---
+Free | $0, for up to 2 users | One email after each form is submitted (HubSpot Knowledge Base)
+Sales Hub Starter | $7 to $20 per seat per month | Up to 50 workflows with restricted triggers and actions, plus pipeline stage automations
+Sales Hub Professional | $90 to $100 per seat per month, plus a required one-time $1,500 onboarding fee | Up to 300 fully customisable workflows
+Sales Hub Enterprise | $150 per seat per month, plus a required one-time $3,500 onboarding fee | Up to 1,000 workflows
+
+### Limits and gotchas from HubSpot's own docs
+- The free CRM allows up to two users and 1,000 contacts, with no expiry date, according to HubSpot's free CRM page.
+- On the free tools, HubSpot's form automations article says you get one "Send an email after form submission" simple workflow per form, with one action. No second email, no task, no deal update.
+- HubSpot's "Create workflows" help article lists the workflows tool for Professional and Enterprise, while the pricing page lists limited workflows on Sales Hub Starter. Check what your own account shows under Automation before you pay for an upgrade or a build.
+- Pipeline stage automations (create a task, send an internal email notification or edit the record when a deal enters a stage) are listed for Sales Hub and Service Hub Starter, Professional and Enterprise. Not free.
+- An outside tool can work with a free account. HubSpot's developer usage guidelines list 100 requests every 10 seconds per private app and 250,000 a day per account on Free and Starter, which is plenty for a small business.
+- A HubSpot workflow only sees what's in HubSpot. If the trigger is an overdue invoice in Xero or a booking in another app, you need a connection either way. Our post on [HubSpot free CRM automation limits](https://mikeautomations.github.io/en/blog/hubspot-free-crm-automation-limits/) goes through this in detail.
+
+### Do it yourself or hire help?
+Your situation | Usually best | Why
+--- | --- | ---
+One email after a form, on the free plan | Do it yourself | It's a setting on the form, no build needed
+Tasks when deals change stage, already on Starter | Do it yourself | Pipeline automations come as templates in the board view
+Multi-step follow-ups, everything inside HubSpot, on Professional | Either | The workflows tool can do it; hire if nobody has time to test it properly
+Triggers in Xero, QuickBooks, a booking app or WhatsApp | Hire, or learn a tool like Zapier or n8n | It crosses tools, so someone has to connect, test and handle failures
+You'd upgrade only to get one or two follow-ups | Price both | Per-seat upgrades are paid every month; a connected automation is built once
+
+### A checklist before you hire anyone for HubSpot
+Ask these of any consultant, freelancer or agency. There are more in [questions to ask before hiring an automation expert](https://mikeautomations.github.io/en/blog/questions-to-ask-before-hiring-an-automation-expert/), and [consultant vs freelancer vs DIY](https://mikeautomations.github.io/en/blog/automation-consultant-vs-freelancer-vs-diy/) helps you pick the kind of help.
+HubSpot automation hiring checklist (copy into a note):
+```
+HubSpot automation hiring checklist
+
+[ ] Will it be built in our own HubSpot account and our own automation account, so we keep it if we stop working together?
+[ ] Which HubSpot plan does the build need? Will it force an upgrade, and what does that cost per seat?
+[ ] Which triggers live outside HubSpot, and how will they connect?
+[ ] Is the price fixed and written down before work starts?
+[ ] What counts as "working", in writing?
+[ ] Who approves every message before it goes to a customer?
+[ ] What happens when something fails: who gets told, and how?
+[ ] Will we get a written handover: what runs, where, and how to switch it off?
+[ ] What does support cost after launch, and is it optional?
+[ ] Can they show the plan before we pay anything?
+```
+
+### How Mike Automations would do it
+Mike Automations isn't a HubSpot partner and doesn't claim any HubSpot certification. What you get is one person who maps how your follow-ups work today and builds the missing parts, inside HubSpot where your plan allows it, or with a connected tool such as Zapier, Make or n8n where it doesn't ([which one fits](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/)). Everything is built in your own accounts, so you own it. It starts with a [free 15-minute call](https://mikeautomations.github.io/call/). Within 48 hours you get a written plan with a fixed price and a clear definition of "working". Live in 2-3 days. Workflow automation is [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), $1,500 for the first 3 clients, and you pay once it's running and you're happy with it ([our agreement](https://mikeautomations.github.io/en/agreement/)). Optional support is $150 a month. You can sketch the steps first with the [plan builder](https://mikeautomations.github.io/en/plan/?g=hubspot-automation-consultant).
+
+### Do I need to upgrade HubSpot to automate follow-ups?
+Not always. The free plan automates one email per form. For more, you either upgrade (pipeline automations start at Sales Hub or Service Hub Starter) or connect an outside automation tool that reads and updates your HubSpot records.
+
+### What does HubSpot Sales Hub cost?
+HubSpot's pricing page, checked 11 November 2026, shows Starter at $7 to $20 per seat per month and Professional at $90 to $100 per seat per month plus a required one-time $1,500 onboarding fee, depending on billing. Check the page for today's prices.
+
+### Are you a certified HubSpot partner?
+No. Mike Automations isn't a HubSpot partner and holds no HubSpot certification. The work is built in your own account, with a written plan and a fixed price before anything starts, and you pay once it's running and you're happy with it.
+
+### Who owns the automations afterwards?
+You do. They're built in your HubSpot account and your own automation account, and you get a written handover of what runs where and how to switch it off.
+
+### How much does it cost to have it built?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 clients pay $1,500. Optional support is $150 a month.
+
+## QuickBooks Online automation services for small business: what to hire help for
+Source: https://mikeautomations.github.io/en/quickbooks-online-automation-services/
+
+QuickBooks Online automation services set up the work around your books so it runs by itself: invoice reminders, bank rules, receipt chasing, approvals and moving data in from forms, email and payment tools. QuickBooks already does some of this on its own, such as up to three automatic reminders per invoice and bank rules with up to 5 conditions each, so good help starts with the built-in features and only builds what is missing. Everything should be set up in your own QuickBooks and email accounts, so you own it.
+
+QuickBooks Online automation services are what small businesses and bookkeepers look for when QuickBooks is set up but the admin around it still eats the week: chasing receipts, typing in invoices, nudging late payers, copying data from one tool to another. If you've searched for a QuickBooks automation consultant or a QuickBooks expert, this page helps you decide what to hire for, what to check before you hire anyone, and what you can do yourself. The product facts come from Intuit's own help pages, checked on 11 November 2026.
+
+### What small businesses usually hire QuickBooks automation help for
+- Turning on and wording automatic invoice reminders, then adding the step QuickBooks doesn't take: telling a person when an invoice is badly overdue so someone calls
+- Writing bank rules so regular payments (rent, fuel, software) are categorised the same way every month
+- Chasing missing receipts: one email per client or per month listing the transactions still without one, instead of chasing each one by hand
+- Creating invoices in QuickBooks from a booking, a signed quote, a job marked done or an online form, so nobody retypes them
+- Getting supplier bills from an email inbox into QuickBooks for approval before they're paid
+- Matching card or online payments from a payment tool to the right invoice
+- A weekly email to the owner: what's overdue, what's due this week and what's still uncategorised
+- Adding new customers to QuickBooks from a CRM or sign-up form with the right details and terms
+- For bookkeepers and accountants: chasing documents that QuickBooks doesn't ask for, such as year-end records, payroll changes or W-9s
+
+### What QuickBooks Online already does on its own
+Before paying anyone, check whether the feature is built in. These come from Intuit's help articles (US versions, checked 11 November 2026):
+- Invoice reminders: Intuit says you can send up to three automatic reminders per invoice, scheduled up to 90 days before or after the due date, and only for invoices you've already emailed. Our post on [QuickBooks Online client reminders](https://mikeautomations.github.io/en/blog/quickbooks-client-reminders/) covers the settings.
+- Bank rules: each rule can have up to 5 conditions, and Intuit says QuickBooks can only apply one rule per transaction, in priority order. Rules can auto-post without review, which Intuit says to use with caution.
+- Workflows: Intuit says these are in QuickBooks Online Advanced and Intuit Enterprise Suite only. They can send reminders and approval requests to your team or customers when conditions you set are met.
+- Requests: you can ask a client for details or a file about a specific transaction, and they get a weekly reminder. Intuit says Requests are on all QuickBooks Online plans except Solopreneur.
+
+### What QuickBooks Online costs
+Intuit's US pricing page, checked on 11 November 2026, lists these monthly prices before any introductory discount (it was offering 50% off for 3 months to new customers). Prices differ by country and change, so check the page for your country before you decide.
+Plan (US) | Listed monthly price | Users included
+--- | --- | ---
+Simple Start | $38 | 1
+Essentials | $85 | 3
+Plus | $140 | 5
+Advanced | $340 | 25
+
+### Do it yourself or hire help?
+A rough guide. For a broader view, [automation consultant vs freelancer vs DIY](https://mikeautomations.github.io/en/blog/automation-consultant-vs-freelancer-vs-diy/) sets out the trade-offs, and connector tools such as Zapier, Make and n8n are compared in [Zapier vs Make vs n8n](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/).
+Job | Usually DIY | Worth hiring help
+--- | --- | ---
+Turn on invoice reminders | Yes, a few minutes in Settings | Only if you want a call list or escalation after the third reminder
+A handful of bank rules | Yes | If you have many accounts or clients and rules keep clashing
+Receipts for one business | Possible with Requests | For many clients, or one email a month instead of one per transaction
+Invoices created from bookings, forms or jobs | Hard without a connector tool | Yes, this is where retyping and errors usually sit
+Supplier bill approvals | Workflows, if you're on Advanced | Yes on Simple Start, Essentials or Plus
+
+### Checklist before you hire anyone for QuickBooks automation
+More questions, with what a good answer sounds like, are in [questions to ask before hiring an automation expert](https://mikeautomations.github.io/en/blog/questions-to-ask-before-hiring-an-automation-expert/).
+Questions to ask (copy and send before a call):
+```
+1. Will everything be built in our own QuickBooks, email and connector accounts, not yours?
+2. Which QuickBooks user access will you need, and will we delete your user when you're done?
+3. Which parts use built-in QuickBooks features, and which need another tool? What does that tool cost per month?
+4. Does anything post to our books without a person reviewing it first?
+5. If a rule or connection posts something wrong, how will we spot it?
+6. What do we get at the end: written notes and a list of every automation and where it runs?
+7. Is the price fixed, and when do we pay?
+8. Who fixes it if QuickBooks changes something next year, and what does that cost?
+```
+
+### Gotchas from Intuit's own documentation
+- Only one bank rule applies to a transaction. Two overlapping rules don't combine: the higher one in the list wins.
+- Auto-posted rules skip your review. Keep them for simple, regular costs.
+- Automatic reminders only go for invoices emailed from QuickBooks. Invoices printed or sent another way are not chased.
+- Workflows need Advanced. On other plans, approvals and escalations need another tool or a manual step.
+- Users count towards your plan's limit, though Intuit says some roles, such as reports only, don't. Deleting a user is permanent, but their history stays in the audit log.
+
+### How Mike Automations would do it
+It starts with a [free 15-minute call](https://mikeautomations.github.io/call/) about how your invoices, receipts and payments move today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It uses QuickBooks' own features first and builds the rest in your own accounts (QuickBooks, Gmail or Outlook, your sheets and any connector tool), so you own all of it and nothing stops if we stop working together. Nothing posts to your books without the review step you choose, and if AI drafts a message, a person approves it before it's sent. Live in 2-3 days. [Workflow automation is $2,000 one-off](https://mikeautomations.github.io/en/pricing/), $1,500 for the first 3 clients, and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). Optional support is $150 a month. To see the steps first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=quickbooks-online-automation-services).
+
+### What do QuickBooks Online automation services include?
+Usually invoice reminders, bank rules, receipt chasing, creating invoices from bookings or forms, bill approvals and a regular summary email. Good help uses QuickBooks' built-in features first and only adds other tools where QuickBooks stops.
+
+### Are you a certified QuickBooks partner?
+No. Mike Automations is not an Intuit partner or a certified ProAdvisor. The work is building automations around QuickBooks in your own accounts, using Intuit's documented features. For bookkeeping or tax advice, use a qualified accountant.
+
+### Will you need my QuickBooks password?
+No. You add a user with only the access needed and delete it when the work is done. Connections to other tools are made in your own accounts.
+
+### Do I need QuickBooks Online Advanced?
+Not for most jobs. Invoice reminders and bank rules are on the standard plans. Advanced adds workflows, which help with approvals, but the same steps can often run outside QuickBooks.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000 one-off, or $1,500 for the first 3 clients, paid once it's running and you're happy with it. Optional support is $150 a month. QuickBooks and any connector tool are billed by those vendors.
+
+## Xero automation services for small business: what to hire help for, and what to check first
+Source: https://mikeautomations.github.io/en/xero-automation-services/
+
+Xero automation services are paid help to connect Xero to the rest of a business, so invoices, bills, client questions and reminders move without someone copying them by hand. Xero already automates bank feeds, bank rules, repeating invoices and invoice reminders, so good help starts by switching those on and only builds what Xero can't do, such as chasing clients for missing information or getting bills approved before they're entered. The work should be built in the business's own accounts, so the owner keeps it if the helper leaves.
+
+Xero automation services are what people look for when they know Xero could do more but don't have the time to work out how. Maybe invoices are still typed in from a spreadsheet, bills arrive in five inboxes, or the month end depends on one person remembering to chase. Looking for a Xero automation consultant? This page covers the jobs small businesses and practices usually hire help for, what Xero does on its own, what it costs according to Xero's own pricing pages, the limits worth knowing, and the questions to ask anyone before you let them into your books.
+
+### What small businesses hire Xero automation help for
+These are the jobs that come up most. Each one sits between Xero and something else: your inbox, a form, a job system or your clients.
+- Creating invoices in Xero from a finished job, a signed quote or a row in a spreadsheet, instead of retyping them
+- Getting supplier bills from email into Xero with a person approving them first, covered in [supplier invoice approval](https://mikeautomations.github.io/en/supplier-invoice-approval-workflow/)
+- Chasing overdue invoices beyond Xero's own reminders: a call list for the ones still unpaid, or a text as well as an email, as in [invoice payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/)
+- Sending clients one list of bank lines to explain each month and collecting the answers in one place
+- Chasing missing receipts and statements before month end or a VAT or sales tax return, the core of [bookkeeper document collection](https://mikeautomations.github.io/en/bookkeeper-document-collection/)
+- Setting up a new client or customer: the contact in Xero, a folder, a welcome email and the first requests
+- Keeping a simple status sheet of who is ready for month end, built from Xero and your own notes
+- Sending the owner a weekly email of overdue invoices, so nobody has to log in to check
+
+### What Xero already does on its own
+Before paying anyone, make sure these are switched on. Xero's UK invoicing page says Xero can send automatic reminders before or after the due date, and that it checks the bank feed so it only chases invoices that are still unpaid. It can also create and send repeating invoices, and add a pay now button through Stripe or GoCardless (fees apply). Bank rules and auto-reconcile handle bank lines that repeat. Hubdoc, which captures bills and receipts, is included in Xero's current UK plans when it's connected to Xero. Anyone who builds an automation for one of these jobs without checking first is selling you something you already pay for. A longer list of ideas for practices is in [Xero automation ideas for small accounting practices](https://mikeautomations.github.io/en/blog/xero-practice-automation-ideas/).
+
+### What Xero costs, from Xero's pricing pages
+Checked on 11 November 2026. Xero often runs introductory discounts for new customers, and prices change, so check the page for your country before you decide. These are the regular monthly prices.
+Plan (country) | Regular monthly price | Limits that matter for automation
+--- | --- | ---
+Ignite (UK) | £18 excl. VAT | Quotes and 20 invoices, 10 bills, no automated bill entry, auto-reconcile is a £3.50 add-on
+Grow (UK) | £39 excl. VAT | Invoices and bills included, automated bill entry, auto-reconcile included
+Comprehensive (UK) | £55 excl. VAT | As Grow, plus multi-currency and expenses for 5 users
+Ultimate (UK) | £70 excl. VAT | As Comprehensive, plus projects for 10 users
+Early (US) | $27 | 20 invoices, 5 bills, no automated bill entry, auto-reconcile is a $5 add-on
+Growing (US) | $59 | Invoices and bills included, automated bill entry
+Established (US) | $97 | As Growing, plus multi-currency and projects
+
+### Limits and gotchas worth knowing
+- Plan caps: on Ignite (UK) or Early (US), an automation that creates invoices or bills will fail once the plan's limit is reached. Check the plan before building anything that writes to Xero.
+- API limits: Xero's developer FAQ says each connected organisation allows 60 API calls a minute, 5,000 a day and 5 at the same time, and that the limits are the same for every app. A small business rarely gets near them, but a badly built sync that checks every few seconds can.
+- Who connects it: connect apps from an admin login the business controls, not a helper's personal one, so access never depends on someone who might leave. Keep a list of which apps are connected to Xero.
+- Posting without review: nothing should post to the ledger, approve a bill or send a payment without a person checking it first.
+- Country differences: plan names, limits and features differ between the UK, the US, Australia and other regions, so something that works for one business may not work for another.
+
+### Do it yourself or hire help?
+Situation | Do it yourself | Hire help
+--- | --- | ---
+A feature Xero already has (reminders, repeating invoices, bank rules) | Yes, follow Xero's own help pages | Not needed
+One simple link, such as a form that creates a contact | Yes, with Zapier or Make and an afternoon | Only if you don't have the afternoon
+Several steps with approvals, reminders and exceptions | Possible, but it tends to break quietly | Usually worth it
+Client data, chasing and a deadline that matters | Risky without testing | Yes, with a written definition of "working"
+Nobody in the business wants to own it | No | Yes, with optional support
+
+### Questions to ask before you hire anyone
+Copy this checklist into your notes for every call. The longer version is in [questions to ask before hiring an automation expert](https://mikeautomations.github.io/en/blog/questions-to-ask-before-hiring-an-automation-expert/), and the trade-offs between a consultant, a freelancer and doing it yourself are in [this comparison](https://mikeautomations.github.io/en/blog/automation-consultant-vs-freelancer-vs-diy/).
+Hiring checklist for Xero automation help:
+```
+[ ] Will it be built in our own Xero, email and automation accounts, so we own it?
+[ ] Which Xero features will you switch on before building anything new?
+[ ] Which tool will run it (Zapier, Make, n8n or something else), and what will that cost us each month?
+[ ] What access do you need, and how is it removed when you finish?
+[ ] Does anything post to Xero or send money without a person approving it?
+[ ] What does "working" mean, written down, and how will we test it?
+[ ] What happens when it fails, and who gets told?
+[ ] Is the price fixed, and when do we pay?
+[ ] Will you hand over a written note of how it works?
+```
+
+### How Mike Automations would do it
+Mike Automations is not a Xero partner and doesn't sell Xero. You keep your own Xero subscription and your own accountant or bookkeeper. To see the steps for your business first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=xero-automation-services).
+1. A [free 15-minute call](https://mikeautomations.github.io/call/) about the Xero job that takes the most time and how it happens today.
+2. Within 48 hours, a written plan with a fixed price and a clear definition of "working", which becomes the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/).
+3. Built in your own Xero, email and automation accounts (Zapier, Make or n8n, whichever suits: the trade-offs are in [Zapier vs Make vs n8n](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/)). You own everything.
+4. Live in 2-3 days, tested on a few real records first, with a person approving anything before it reaches the ledger.
+5. [Workflow automation is $2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients). You pay once it's running and you're happy with it. Optional support is $150 a month.
+
+### Are you a certified Xero partner?
+No. Mike Automations isn't a Xero partner and doesn't resell Xero. The work uses Xero's normal app connections in your own accounts, and you keep your own subscription and your own accountant or bookkeeper.
+
+### Do I need a higher Xero plan for automation?
+Not always. Xero's entry plans cap invoices and bills (20 invoices on UK Ignite and US Early), so anything that creates a lot of invoices or bills needs a plan without that cap. Check Xero's pricing page for your country.
+
+### Will an automation post things to my books on its own?
+Only if you want it to. The usual set-up has a person approve bills, journals and anything that changes the ledger. Reminders and requests to clients can run on their own.
+
+### What if I use QuickBooks instead of Xero?
+The same kinds of workflow work with QuickBooks Online. See [QuickBooks Online client reminders](https://mikeautomations.github.io/en/blog/quickbooks-client-reminders/) for ideas.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 clients pay $1,500. Optional support is $150 a month. Your Xero and automation tool subscriptions are separate.
+
+## Airtable consultant for small business: what to hire for and what to check
+Source: https://mikeautomations.github.io/en/airtable-consultant-small-business/
+
+An Airtable consultant for a small business designs the base (the tables, linked records, views and forms), moves data in from spreadsheets, and sets up the automations and connections that keep it up to date, inside the business's own Airtable account. Hire one when your data is several linked things, such as customers, jobs and invoices, and the build needs more than an afternoon; stay DIY for one simple list. Airtable itself costs $20 per editing seat per month on the Team plan billed annually, and its Free plan stops at 1,000 records per base (Airtable, November 2026).
+
+An Airtable consultant for small business is usually who you look for when a base you started yourself has grown messy, or when you know your spreadsheet should be a proper database but don't want to spend weeks learning how. Looking for an Airtable expert? This page sets out the jobs small businesses typically hire help for, a checklist of questions to ask anyone before you hire, when to do it yourself, what Airtable costs and where its limits catch people out, all checked against Airtable's own pages in November 2026. To be clear from the start: Mike Automations isn't an Airtable partner and doesn't resell licences. The advice is about your work, not a product.
+
+### What small businesses hire Airtable help for
+- Turning a spreadsheet into a base: customers, jobs, quotes and invoices as separate tables that link to each other, so a phone number changes in one place. If you're not sure you need this, read [Airtable vs Google Sheets](https://mikeautomations.github.io/en/blog/airtable-vs-google-sheets-small-business/) first.
+- Cleaning and importing old data: one customer per row, consistent dates, duplicates merged, before anything is linked.
+- Forms that feed the right table: enquiries, job requests or onboarding details landing as proper records, with attachments.
+- Interfaces and views per person: the office sees every open job, a field worker sees only today's list on their phone.
+- Built-in automations: an email when a record reaches a stage, a reminder when a quote has had no reply, a task when a form arrives.
+- Connecting Airtable to other tools: Gmail or Outlook, your accounting software, a booking app or e-signatures, through Zapier, Make, n8n or Airtable's API. Our comparison of [Zapier, Make and n8n](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/) explains the options.
+- Fixing a base that has outgrown itself: too many fields, broken lookups, automations nobody understands or that use up the monthly allowance.
+- Adding AI with a person in charge: drafting replies or summarising notes for someone to approve before anything is sent. See [AI agents for small business](https://mikeautomations.github.io/en/ai-agent-for-small-business/).
+- Handover: written notes on how the base works, so you aren't tied to whoever built it.
+
+### DIY or hire: a decision table
+Your situation | Do it yourself | Hire help
+--- | --- | ---
+One list (leads, stock, a price list) | Yes, Airtable's templates are enough | Rarely worth it
+Customers, jobs and invoices that link to each other | Possible if you have time to learn linked records | Yes, the table design is the hard part
+Data in several messy spreadsheets | Slow and easy to get wrong | Yes, cleaning first saves rebuilding later
+Simple status emails inside Airtable | Yes, built-in automations handle this | Not needed
+Airtable must talk to email, accounts or bookings | Possible with Zapier or Make | Yes, if it must be reliable and watched
+Field staff or clients need their own view | Possible with interfaces | Yes, if permissions matter
+You aren't sure Airtable is the right tool | Try the Free plan on a copy of your data | A short call is cheaper than a wrong build
+
+### What Airtable costs in November 2026
+Airtable charges per seat. Its pricing page says that on Team and Business plans you pay for everyone with edit permissions on at least one base, while read-only collaborators, form submissions and share links are free. Airtable's plans help article also lists commenters as billable on the Team plan, so check who counts before you invite your whole team. Figures from airtable.com/pricing and Airtable's plans overview, checked 11 November 2026:
+Plan | Price per seat | Records per base | Automation runs per workspace per month | API calls per month
+--- | --- | --- | --- | ---
+Free | $0 (up to 5 editors) | 1,000 | 100 | 1,000
+Team | $20 a month billed annually, $24 billed monthly | 50,000 | 25,000 | 100,000
+Business | $45 a month billed annually, $54 billed monthly | 125,000 | 100,000 | No monthly cap
+Enterprise Scale | Custom, through Airtable's sales team | Ask Airtable | 500,000 | No monthly cap
+
+### Limits and gotchas from Airtable's own docs
+- Record limits are per base and add up across tables. Airtable's plans article says a base with two tables of 25,000 records is at the Team plan's limit. When you hit it, you keep your data but can't add records until you upgrade.
+- Every automation trigger counts as a run, including failed and cancelled runs. Run limits reset on the first day of each month, not on your billing date, and unused runs don't carry over.
+- On the Free plan the "Run a script" action isn't available, and "Send email" can only email people who are collaborators on the base. Team can email 100 unique non-collaborator addresses a day; Business 1,000.
+- An automation can't trigger in one base and act in another, so the base design decides what can be automated.
+- Turning on a new automation doesn't run it for existing records, only for new or updated ones.
+- Triggers on formula fields check about every 5 minutes while someone has the base open, and once an hour otherwise, so they aren't instant.
+- The API allows 5 requests per second per base. On Team, going over 100,000 calls in a month slows calls to 2 per second until the month resets.
+- Business and Enterprise Scale plans need a private email domain, so a Gmail or Yahoo address can't upgrade to them.
+- Exports are CSV, one table at a time. You can't export a whole base as one file, so keep that in mind for backups.
+
+### Questions to ask any Airtable consultant before you hire
+Copy this list into an email or keep it next to you on the call. More on this in [questions to ask before hiring an automation expert](https://mikeautomations.github.io/en/blog/questions-to-ask-before-hiring-an-automation-expert/), and if you're still weighing up who to hire, [consultant vs freelancer vs DIY](https://mikeautomations.github.io/en/blog/automation-consultant-vs-freelancer-vs-diy/).
+Airtable consultant checklist (copy and paste):
+```
+[ ] Will the base be built in our own Airtable account and workspace, so we own it?
+[ ] Which Airtable plan will we need, and how many paid seats? Who only needs read-only access?
+[ ] How many records and automation runs a month do you expect, and how close is that to the plan limit?
+[ ] What other tools (Zapier, Make, n8n, scripts) will it depend on, and who pays for them?
+[ ] Will you clean our data before importing it?
+[ ] Is the price fixed, and what exactly counts as "working" before we pay?
+[ ] What happens when an automation fails? Who gets told?
+[ ] Does anything send messages to customers without a person approving it?
+[ ] What written handover do we get, and can someone else take over the base later?
+[ ] What does support cost after it goes live, and can we stop it?
+```
+
+### How Mike Automations would do it
+To see the steps for your business first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=airtable-consultant-small-business).
+1. A [free 15-minute call](https://mikeautomations.github.io/call/) about how customers, jobs and paperwork move through your business today, and whether Airtable is the right home for that data at all.
+2. Within 48 hours, a written plan with a fixed price and a clear definition of "working". If a spreadsheet or the tools you already use would do the job, the plan says so.
+3. The build happens in your own Airtable account, so you own the base, the automations and the data. Connections to Gmail, Outlook, your accounts or bookings use your accounts too.
+4. Live in 2-3 days, with anything that goes to a customer approved by a person first.
+5. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), or $1,500 for the first 3 clients, and you pay only once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). A custom system is from $5,000. Optional support is $150 a month.
+6. You get a written handover, using our [automation handover checklist](https://mikeautomations.github.io/en/blog/automation-handover-checklist/), so anyone can take it over later.
+
+### What does an Airtable consultant do?
+Designs the tables, linked records, views and forms, imports and cleans your data, and sets up automations and connections to your other tools. A good one also writes down how it all works so you aren't dependent on them.
+
+### Is Mike Automations an Airtable partner?
+No. Mike Automations isn't an Airtable partner and doesn't resell licences. You pay Airtable directly for your own plan, and the base is built in your account.
+
+### How much does Airtable cost for a small team?
+Airtable's Team plan is $20 per editing seat per month billed annually, or $24 billed monthly (November 2026). Read-only collaborators are free. The Free plan allows 1,000 records per base and 100 automation runs a month.
+
+### Should I use Airtable or stay on Google Sheets?
+Stay on Google Sheets for one simple list or number-heavy work. Move to Airtable when your data is several linked things, such as customers, jobs and invoices, and you need forms, per-person views and built-in automations.
+
+### How much does it cost to hire help?
+Workflow automation with Mike Automations is a fixed $2,000, paid once it's running and you're happy with it. The first 3 clients pay $1,500. Optional support is $150 a month.
+
+## Google Workspace automation services for small business: what to hire for, what it costs, what to check
+Source: https://mikeautomations.github.io/en/google-workspace-automation-services/
+
+Google Workspace automation services for small business means someone builds workflows inside the Gmail, Google Sheets, Forms, Drive, Calendar and Apps Script your business already pays for, so enquiries, reminders, documents and reports run on their own. Most small jobs need no extra software: Apps Script is included with a Google account, though Google sets daily limits such as 1,500 script email recipients a day on a Workspace account. A good provider builds everything in your own account, so you own it and it keeps working if they disappear.
+
+Google Workspace automation services are what you look for when your business runs on Gmail and Google Sheets and the copying, chasing and filing has started to eat your week. Maybe you're searching for a Google Apps Script developer, a Google Sheets automation expert or someone to connect your Google Forms to everything else. This page covers the jobs small businesses usually hire help for, what Google charges and the limits it publishes, what to check before you hire anyone, and when doing it yourself is the better choice.
+
+### What small businesses usually hire help for
+These are the Google Workspace jobs that come up again and again in small service businesses. Each one stays inside tools you already have:
+- A Google Form (enquiry, intake, booking request) that adds a row to a tracker sheet, creates a client folder in Drive and emails you a summary.
+- Overdue invoice reminders drafted in Gmail from a sheet of unpaid invoices, for a person to check and send. The full workflow is on the [invoice payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/) page.
+- Document chasing: each client gets a list of what's still missing and polite reminders until it arrives, with uploads filed in the right Drive folder.
+- Quotes, welcome letters or job sheets made from a Google Docs template, filled from a row in a sheet and saved as PDF.
+- Calendar events created from a list of booked jobs, with a reminder email to the customer the day before.
+- A Monday morning summary email: open jobs, overdue items, who hasn't replied, built from your tracker sheet.
+- Gmail labels and drafts for repeat enquiries, so a person approves a reply instead of writing it from scratch. Our post on [Gmail automation](https://mikeautomations.github.io/en/blog/gmail-automation-for-accountants/) covers what Gmail does on its own.
+- Connecting Google to the rest of your tools (Xero, QuickBooks, Stripe, a booking app) through their APIs or a connector such as Zapier or Make.
+- Fixing a script someone else wrote that stopped working when they left the business.
+
+### What Google Workspace itself costs
+Google's help page on Business edition pricing (last updated 26 October 2026) lists these US prices per user per month. Google's pricing page shows different prices in different countries, and promotional discounts come and go, so check workspace.google.com/pricing for yours. Google says the Business plans can be bought for up to 300 users. Apps Script has no separate charge.
+Plan | Flexible plan (monthly) | Annual plan
+--- | --- | ---
+Business Starter | $8.40 | $7.00
+Business Standard | $16.80 | $14.00
+Business Plus | $26.40 | $22.00
+
+### Google's limits that shape what gets built
+A good provider designs around these before writing a line of code. All from Google's own documentation, checked 11 November 2026. Google says Apps Script quotas can change at any time without notice.
+- Apps Script can email 1,500 recipients a day from a Workspace account and 100 from a free gmail.com account.
+- One script run stops after 6 minutes. Triggered scripts get 6 hours of total runtime a day on Workspace and 90 minutes on gmail.com.
+- Installable triggers always run under the account of the person who created them. If an employee sets one up and later leaves, the automation stops when their account is removed. Set triggers up from an account the business owns.
+- A daily trigger set for 9 AM runs at a time Google picks between 9 and 10 AM, then keeps that time. Fine for reminders, not for anything that must happen to the minute.
+- Gmail itself allows a paid Workspace user 2,000 messages a day (1,500 for mail merge). Free trial accounts have lower limits: 500 messages a day.
+
+### Do it yourself or hire help?
+Situation | Usually better | Why
+--- | --- | ---
+One sheet, one simple reminder, you're comfortable editing a script | Do it yourself | Our [Google Apps Script guide](https://mikeautomations.github.io/en/blog/google-apps-script-for-small-business/) has a script to copy
+Gmail filters, templates and scheduled send | Do it yourself | Built into Gmail, no code
+Form to sheet to folder to email, with several people involved | Hire help | Permissions, triggers and errors need care
+Anything that emails clients automatically | Hire help, or test hard | A mistake reaches every client at once
+Google plus Xero, QuickBooks or Stripe | Hire help | APIs, logins and error handling
+A script nobody understands has stopped | Hire help | Finding the cause takes longer than writing it
+
+### What to check before you hire anyone
+Ask these questions on the first call. For a longer list, see [questions to ask before hiring an automation expert](https://mikeautomations.github.io/en/blog/questions-to-ask-before-hiring-an-automation-expert/), and for the trade-offs between options, [consultant vs freelancer vs DIY](https://mikeautomations.github.io/en/blog/automation-consultant-vs-freelancer-vs-diy/).
+Checklist for hiring Google Workspace automation help (copy into your notes):
+```
+[ ] Will it be built in our own Google account, owned by a business account, not yours or an employee's?
+[ ] Who can see our client data while you build, and what access do you need?
+[ ] Is the price fixed before you start? What exactly does it include?
+[ ] What does "working" mean? Can we write it down before you start?
+[ ] What happens when it fails? Who gets the error email?
+[ ] Does anything send to clients without a person approving it first?
+[ ] Which Google limits apply to this (email per day, run time) and how have you planned for them?
+[ ] Will we get a short written handover: what runs, when, and how to switch it off?
+[ ] What does support cost after it's live, and can we leave at any time?
+[ ] When do we pay: before, during or after it's running?
+```
+
+### How Mike Automations would do it
+1. A [free 15-minute call](https://mikeautomations.github.io/call/) about the job and the Google tools you use today.
+2. Within 48 hours, a written plan with a fixed price and a clear definition of "working". You can sketch the steps first with the [plan builder](https://mikeautomations.github.io/en/plan/?g=google-workspace-automation-services).
+3. It's built in your own Google Workspace account, with triggers owned by a business account, so you own everything and nothing depends on one person's login.
+4. Live in 2-3 days, tested on a copy of your data first. Anything that writes to clients goes to a person to approve before it's sent.
+5. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), or $1,500 for the first 3 clients, and you pay only once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). No deposit, no hourly billing. Optional support is $150 a month.
+
+### Do I need to buy any extra software?
+Usually not. Apps Script comes with your Google account, and most small jobs run entirely inside Gmail, Sheets, Forms, Drive and Calendar. A connector such as Zapier or Make is only worth paying for when Google needs to talk to other apps. See [Zapier vs Make vs n8n](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/).
+
+### Will it work on a free gmail.com account?
+Many things will, but Google's limits are lower: Apps Script can email 100 recipients a day from a gmail.com account against 1,500 from Workspace. For a business, a Workspace account owned by the business is the safer base.
+
+### What happens if the person who set it up leaves?
+Google says installable triggers run under the account of the person who created them. If that account is removed, the automation stops. That's why everything should be set up from an account the business owns.
+
+### Should we use Google Sheets or move to Airtable?
+If your team already lives in Sheets and the data is simple, stay in Sheets. Our [Airtable vs Google Sheets](https://mikeautomations.github.io/en/blog/airtable-vs-google-sheets-small-business/) post sets out when a move is worth it.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month. Your Google Workspace subscription is separate and paid to Google.
+
+## Power Automate consultant for small business: what to hire for and what to check
+Source: https://mikeautomations.github.io/en/power-automate-consultant-small-business/
+
+A Power Automate consultant for small business builds automated workflows (flows) inside the Microsoft 365 account a firm already pays for, connecting Outlook, Excel, SharePoint, Forms and Teams. Microsoft's licensing documentation says most Microsoft 365 plans already let users run cloud flows with standard connectors, so many small-firm jobs need no new subscription; premium connectors such as Salesforce or Stripe need Power Automate Premium, listed at $15 per user a month paid yearly in November 2026. The work worth paying for is getting the licences, ownership and failure alerts right, not only the clicks.
+
+A Power Automate consultant for small business is who you look for when the firm runs on Microsoft 365 and someone has said "Power Automate can do that" but nobody has time to work out how. If you're searching for a Power Automate expert, this page sets out what small firms typically hire help for, what the tool costs according to Microsoft's own pages (checked 11 November 2026), the limits in Microsoft's documentation that catch people out, and the questions to ask anyone before they build in your account. It applies wherever you are: the licences and limits are the same in the UK, the US, Ireland, Canada, Australia and New Zealand.
+
+### What small businesses usually hire Power Automate help for
+- New enquiries: a Microsoft Forms or website form saved to an Excel table or SharePoint list, an acknowledgement sent from the shared mailbox, and a message to the person on duty in Teams.
+- Attachments filed for you: invoices, ID documents or signed letters saved from Outlook to the right client folder in SharePoint or OneDrive. [Outlook automation for accountants](https://mikeautomations.github.io/en/blog/outlook-automation-for-accountants/) shows where Outlook rules stop and a flow takes over.
+- Approvals: supplier invoices, quotes or holiday requests sent to a manager with Approve and Reject buttons in Outlook or Teams, and the answer recorded. See [supplier invoice approval](https://mikeautomations.github.io/en/supplier-invoice-approval-workflow/) for the full workflow.
+- Reminders on a schedule: chasing documents, renewals or [unpaid invoices](https://mikeautomations.github.io/en/invoice-payment-reminders/) from one Excel tracker, stopping when the client replies.
+- A weekly summary: open jobs, overdue items or new enquiries pulled from a list and emailed every Monday.
+- Rescuing flows someone else built: a flow that stopped, sits in a former employee's account, or nobody understands.
+- Moving flows into a solution and adding co-owners, so they survive a staff change.
+- Connecting an outside app (a CRM, payments or accounting tool), which usually means a licence decision first.
+- Desktop flows for an old Windows program with no online connection, clicking through the screen as a person would.
+
+### What Power Automate costs (Microsoft's prices, checked 11 November 2026)
+Microsoft says its listed prices are for marketing purposes and the final price is shown at checkout. Standard connectors include Office 365 Outlook, Excel Online (Business), SharePoint, OneDrive for Business, Microsoft Forms, Microsoft Teams and Standard approvals. Microsoft's premium list includes Salesforce, Stripe and Word Online (Business), and the Xero connector listed there is a third-party one. [Power Automate vs Zapier](https://mikeautomations.github.io/en/blog/power-automate-vs-zapier-small-business/) compares the cost with Zapier's for the same job.
+Licence | Price on Microsoft's pricing page | What it covers
+--- | --- | ---
+Included in most Microsoft 365 business plans | No extra cost | Cloud flows with standard connectors only, 6,000 actions a day per user (Microsoft Learn)
+Power Automate Premium | $15 per user a month, paid yearly (£11.50 ex VAT on Microsoft's UK page) | Premium and custom connectors, desktop flows run attended on your own PC, 40,000 actions a day per user
+Power Automate Process | $150 per bot a month, paid yearly (£115.30 ex VAT) | Licenses one flow or one machine on its own, whoever runs it: 250,000 actions a day. The flow must sit in a solution
+Power Automate Hosted Process | $215 per bot a month, paid yearly (£165.30 ex VAT) | Everything in Process, plus a Microsoft-hosted machine for desktop flows
+
+### Limits in Microsoft's documentation that catch small firms out
+- A run can last 30 days at most, and Microsoft keeps run history for 30 days. An approval nobody answers within 30 days times out.
+- A flow whose trigger or actions fail continuously for 14 days is turned off.
+- A flow that isn't triggered for 90 days might be turned off. Microsoft says flows owned by users with premium or Process licences aren't subject to this, and owners are emailed 30 days before.
+- If a flow passes to a new owner with no premium licence and it uses premium features, Microsoft says it runs for 30 days and then turns off until a licence is bought.
+- A flow that isn't in a solution can't have its owner changed in place. Building in a solution from day one avoids rebuilding later.
+- With the free Power Automate licence you can't share flows, so a flow built that way belongs to one person.
+- Generating a Word document from a template uses Word Online (Business), which is a premium connector. Many people find this out after building the rest.
+
+### DIY, or hire someone?
+Your situation | Usually | Why
+--- | --- | ---
+One simple flow, every app a standard connector, someone in-house enjoys this | Do it yourself | Microsoft's templates cover common jobs, and it costs nothing extra
+Several people depend on it, or it touches client data | Hire, or get it reviewed | Ownership, co-owners, failure alerts and permissions need setting up properly
+Needs a premium connector or an outside app | Get advice first | The licence choice (Premium or Process) changes the cost every year
+Existing flows broke and the builder has gone | Hire | Someone has to read the flow, fix the connections and move it to a safe owner
+The process isn't agreed yet | Neither, yet | Map the steps on paper first; a flow can't fix an unclear process
+
+### Questions to ask any Power Automate consultant before they start
+Our [questions to ask before hiring an automation expert](https://mikeautomations.github.io/en/blog/questions-to-ask-before-hiring-an-automation-expert/) go further, and [consultant vs freelancer vs DIY](https://mikeautomations.github.io/en/blog/automation-consultant-vs-freelancer-vs-diy/) compares the options.
+1. Will the flows be built in our Microsoft 365 tenant, inside a solution, with one of our staff as co-owner?
+2. Which connectors will each flow use, which are premium, and which licence does each flow need? Put it in writing.
+3. Whose account will the connections run under, and what happens when that person leaves?
+4. Who gets the email when a run fails, and what should they do?
+5. What access do you need? A named account we create and can switch off is better than our admin password.
+6. What does "working" mean, written down, and do we pay before or after it meets that?
+7. What do we get at handover: a list of flows, what each does, and how to turn each one off?
+
+### A brief you can send to any consultant
+Copy, fill in the brackets, send:
+```
+We run on Microsoft 365 ([plan name, if known]). We'd like a Power Automate flow that does this: when [what starts it], it should [steps in order], and [who] should be told when [event]. Apps involved: [Outlook / Excel / SharePoint / Forms / Teams / others]. Roughly [number] times a week. It must not [anything it must never do, for example email a client without a person checking]. Please tell us: which connectors it needs and whether any are premium, which licences we'd need, who will own the flow, how we'll know if it fails, your fixed price, and when we pay.
+```
+
+### How Mike Automations would build it
+A [free 15-minute call](https://mikeautomations.github.io/call/) about the job and the Microsoft 365 setup you have now. Within 48 hours you get a written plan with a fixed price, which flows it needs, which connectors and licences, and a clear definition of "working". Everything is built in your own tenant, in a solution with your co-owner, so you own it from the start. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), and you pay once it's running and you're happy with it, under a [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). Optional support is $150 a month. You can [sketch the steps in the plan builder](https://mikeautomations.github.io/en/plan/?g=power-automate-consultant-small-business) first. If AI drafts anything, a person approves it before it's sent.
+
+### Do we need to buy Power Automate before hiring a consultant?
+Often not. Microsoft's documentation says most Microsoft 365 plans let users run cloud flows with standard connectors such as Outlook, Excel, SharePoint, Forms and Teams. You need Power Automate Premium or a Process licence only if a flow uses premium or custom connectors or needs more capacity.
+
+### How much does a Power Automate consultant cost?
+Mike Automations charges a fixed $2,000 for a workflow ($1,500 for the first 3 clients), paid once it's running and you're happy with it, plus $150 a month for optional support. Any Microsoft licence is extra and paid to Microsoft: Premium was $15 per user a month, paid yearly, in November 2026.
+
+### What happens to our flows if the person who built them leaves?
+The flow needs a new owner. Microsoft says a flow can only have its owner changed in place if it sits in a solution, and if the new owner lacks a premium licence for a flow that needs one, it runs for 30 days and then turns off. Co-owners from day one avoid this.
+
+### Is Mike Automations a Microsoft partner?
+No. Michael builds on the Microsoft 365 tools you already pay for, in your own account, and the plan says exactly which licences each flow needs. Licences are bought from Microsoft or your existing reseller.
+
+### Should we use Power Automate or Zapier?
+If your work lives in Outlook, Excel and SharePoint, Power Automate is usually the natural fit. If it lives in Google Workspace or many outside apps, Zapier is often simpler. [Power Automate vs Zapier](https://mikeautomations.github.io/en/blog/power-automate-vs-zapier-small-business/) compares them, and [Zapier vs Make vs n8n](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/) covers the others.
+
+## n8n consultant for small business: what to hire for and what to check
+Source: https://mikeautomations.github.io/en/n8n-consultant/
+
+An n8n consultant for small business plans, builds and looks after automated workflows in n8n, a workflow tool that runs either on n8n's own cloud or on a server you control. Most small firms hire one to connect their email, forms, spreadsheets and accounting software, to choose between n8n Cloud and self-hosting, and to make sure failed runs are noticed and fixed. A good one builds in your own n8n account, so you own every workflow and login.
+
+An n8n consultant for small business is who you call when you've picked n8n, or are close to it, and want the workflows built properly without learning the tool yourself. If you're searching for an n8n expert, you probably already know n8n can do the job: it connects hundreds of apps and can run code steps and AI steps. The hard parts are elsewhere: where it runs, who keeps it updated, what happens when a run fails, and who owns it when the builder moves on. This page covers the jobs small firms usually hire help for, the questions to ask anyone before you hire them, n8n's own prices and limits as published on 11 November 2026, and how Mike Automations would do it. Still choosing a tool? Read [Zapier vs Make vs n8n](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/) first.
+
+### What small businesses hire n8n help for
+- New enquiries: a website form or email lands in a spreadsheet or CRM, the enquirer gets a reply straight away and you get an alert. See [replying to new enquiries fast](https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/).
+- Document chasing: reminders go to each client until their files arrive, and every file is saved to the right folder in Google Drive, OneDrive or Dropbox.
+- Invoice reminders: unpaid invoices in Xero or QuickBooks trigger polite reminders on a schedule you set, as in [automated payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/).
+- Inbox sorting: emails with attachments are read, labelled and filed, and the details go into a sheet for someone to check.
+- AI drafting with a person in charge: an AI step drafts a reply or a summary, and nothing is sent until a person approves it. More in [AI agents for small business](https://mikeautomations.github.io/en/ai-agent-for-small-business/).
+- Moving from Zapier or Make: rebuilding existing automations in n8n, usually because of the cost per run, then switching the old ones off.
+- Rescuing a half-built project: a DIY workflow, or one left by a freelancer, that works on some days and not others.
+- Hosting and upkeep: choosing between n8n Cloud and self-hosted, setting up failure alerts and keeping the instance updated.
+- Weekly reports: numbers from several tools collected into one email or sheet every Monday morning.
+
+### What n8n itself costs (n8n's pricing page, 11 November 2026)
+n8n prices its cloud plans by workflow executions: one execution is one full run of a workflow, however many steps it has. Prices are in euros, as n8n shows them, and the figures below are for yearly billing. Monthly billing costs more. Check n8n.io/pricing before you buy, because n8n changes its plans often.
+Plan | Price (billed yearly) | Executions a month | Where it runs
+--- | --- | --- | ---
+Starter | €20 a month | 2,500 | n8n Cloud
+Pro | From €50 a month | 10,000 | n8n Cloud
+Business | €667 a month | 40,000 | Self-hosted only
+Community edition | No licence fee (you pay for a server) | Set by your server | Self-hosted
+Enterprise | Priced by n8n's sales team | Custom | Cloud or self-hosted
+
+### Limits and gotchas from n8n's own documentation
+- Run time: n8n's pricing page lists a maximum execution time of 5 minutes on Starter and 40 minutes on Pro, with 5 runs at the same time on Starter and 20 on Pro. A free trial allows 1,000 executions with a 180-second timeout, so a trial isn't a fair test of a heavy workflow.
+- Data location: n8n says data on its hosted plans is stored in the EU, on servers in Frankfurt, Germany. Self-hosted, it's wherever you put it. If you handle client data, check this against a [GDPR checklist](https://mikeautomations.github.io/en/blog/gdpr-checklist-automating-client-data/).
+- Updates: n8n's docs say it upgrades every Cloud instance at least every two weeks, so security fixes reach everyone. On a self-hosted server that job is yours, and n8n's advice is to update at least once a month.
+- Failed runs: n8n's error-handling docs describe an error workflow, starting with an Error Trigger node, that you choose in each workflow's settings. It runs when an execution fails, for example to send you an email. If nobody sets one up, a failure can go unnoticed.
+- Sharing files: n8n's docs warn that exported workflow files include credential names and IDs, and that steps imported from cURL can contain login headers. Clean them before a file is emailed anywhere.
+- The licence: self-hosted n8n is under n8n's Sustainable Use License, which allows use for your own internal business purposes. n8n says people are free to charge for consulting and support. What isn't allowed is letting your customers connect their own accounts and build workflows on your n8n.
+
+### DIY or hire: a quick decision table
+For the wider comparison, read [consultant vs freelancer vs DIY](https://mikeautomations.github.io/en/blog/automation-consultant-vs-freelancer-vs-diy/). If the Cloud or self-hosted question is the sticking point, [n8n Cloud vs self-hosted](https://mikeautomations.github.io/en/blog/n8n-cloud-vs-self-hosted-small-business/) sets out the costs and the upkeep.
+Your situation | Do it yourself | Hire help
+--- | --- | ---
+One simple workflow, such as form to sheet to email | Yes, n8n's templates are a good start | Only if you have no time
+Workflows that touch client money or client files | Risky without careful testing | Yes
+You want to self-host to save on fees | Only if someone will update and back it up every month | Yes, and agree in writing who looks after the server
+An AI step that writes to customers | Not without an approval step | Yes, with a person approving every message
+A DIY workflow that keeps failing | Worth one more evening | Yes, if it's still failing after that
+
+### Questions to ask any n8n consultant before you hire
+There are more questions, with the answers to listen for, in [questions to ask before hiring an automation expert](https://mikeautomations.github.io/en/blog/questions-to-ask-before-hiring-an-automation-expert/). At the end of any project, use the [automation handover checklist](https://mikeautomations.github.io/en/blog/automation-handover-checklist/).
+Checklist to copy into your first email or call:
+```
+1. Will you build in my own n8n account, so I own the workflows and logins?
+2. Cloud or self-hosted for my case, and why? If self-hosted, who installs updates, and how often?
+3. What happens when a run fails? Who gets the alert, and how fast is it fixed?
+4. Can I see the plan in writing, with a fixed price and what counts as working, before I pay anything?
+5. What will I pay n8n each month, at my volume of runs?
+6. Which client data passes through n8n, and where is it stored?
+7. If AI is involved, where does a person approve before anything goes out?
+8. What do I get at handover: a list of workflows, the accounts each one uses, and how to switch each one off?
+```
+
+### How Mike Automations would build it
+Workflow automation is a fixed [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), or $1,500 for the first 3 clients. Optional support is $150 a month for monitoring, updates and small changes. No deposit and no hourly billing. If n8n is the wrong tool for your job, the plan says so and names one that fits. To see the steps for your own process first, try the [plan builder](https://mikeautomations.github.io/en/plan/?g=n8n-consultant).
+1. A [free 15-minute call](https://mikeautomations.github.io/call/) about the job you want done and the tools you already use.
+2. Within 48 hours, a written plan with a fixed price, the n8n plan it needs, what you'd pay n8n each month, and a clear definition of working.
+3. The workflow is built in your own n8n account, Cloud or self-hosted, so you own it and every login stays yours.
+4. Failure alerts are set up, it's tested with your real cases, and a person approves anything an AI step prepares.
+5. Live in 2-3 days. You pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/).
+
+### What does an n8n consultant do?
+Plans which jobs to automate, builds the workflows in n8n, connects your apps, sets up alerts for failed runs and, if you want, looks after it afterwards. For a small firm, the planning and the upkeep matter as much as the build.
+
+### Do I need n8n Cloud or self-hosted?
+Without someone who will install updates and keep backups every month, n8n Cloud is the safer choice: n8n upgrades Cloud instances at least every two weeks. Self-hosting has no licence fee for internal business use but needs a server and regular care.
+
+### How much does n8n itself cost?
+On 11 November 2026, n8n's pricing page listed Starter at €20 a month and Pro from €50 a month, both billed yearly, with 2,500 and 10,000 executions a month. The self-hosted Community edition has no licence fee. Check n8n.io/pricing before you buy.
+
+### Is it allowed to pay someone to build n8n workflows for my business?
+Yes. n8n's Sustainable Use License page says people are free to offer commercial consulting and support services. You use n8n for your own internal business purposes, which the licence allows.
+
+### How much does Mike Automations charge?
+A fixed $2,000 one-off per workflow, or $1,500 for the first 3 clients, paid once it's running and you're happy with it. Optional support is $150 a month. There's no deposit and no hourly billing.
+
+## Make.com consultant for small business: what to hire for and what to check
+Source: https://mikeautomations.github.io/en/make-com-consultant/
+
+A Make.com consultant for a small business plans, builds and fixes scenarios in Make, the visual automation tool, so your forms, email, spreadsheets, accounting and booking apps pass work to each other without anyone retyping it. Hire one when a workflow has branches, reshapes data or has to run reliably every day; do it yourself when it's two apps in a straight line. Whoever you hire, the scenarios should live in your own Make organization, with you as the owner.
+
+Looking for a Make.com consultant or a Make expert for your small business? Usually a scenario turned out harder than the videos suggested, one someone else built has stopped, or you know the workflow you want but lack the hours. This page covers the jobs worth paying for, what Make costs, the limits in Make's own documentation, and what to ask anyone before you hire them, including us.
+
+### What small businesses usually hire a Make consultant for
+- New enquiries: a form or email goes into a sheet or CRM, the enquirer gets a reply and you get an alert.
+- Client onboarding: a signed proposal creates the client folder, sends the welcome email and adds the first tasks.
+- Document chasing: reminders that stop when the file arrives.
+- [Invoice payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/) from Xero or QuickBooks, with a person checking anything unusual.
+- Reading emails and PDFs: an AI step pulls out the details of an order or supplier invoice, and a person approves them.
+- Bookings: new appointments copied to a calendar and a sheet, with a confirmation and a reminder.
+- A weekly summary of jobs won, invoices outstanding and documents missing.
+- Fixing a scenario that has switched itself off or fails on some runs.
+- Cutting credit use: instant triggers instead of checking every minute, and filters earlier.
+
+### DIY or hire: a quick decision table
+Your situation | Do it yourself | Hire help
+--- | --- | ---
+Two apps, one action, no branches (form to sheet) | Yes, Make's templates cover this | Not worth paying for
+Several steps with if/then paths | If you enjoy it and have a spare week | Usually worth it
+Data must be reshaped (dates, names, line items) | Possible, with patience | Usually worth it
+Client or money data, has to work every day | Only if you'll watch the run history | Yes, with error alerts and a handover
+A scenario keeps switching itself off | Check the run history first | If you can't see why in an hour
+You're not sure Make is the right tool | Read the comparisons below | Ask for a plan before any build
+
+### What Make itself costs, and where the credits go
+Make bills in credits. Its pricing FAQ, checked on 11 November 2026, says most actions use 1 credit and some features using Make's own AI provider use more. The Free plan includes 1,000 credits a month; paid plans are priced by the credits you buy. Credits expire at the end of the term. If you run out, scenarios stop until credits are added, and incoming webhooks are queued. Extra credits come in bundles of 1,000 or 10,000. Prices change, so check make.com/en/pricing when you buy; our post [is Make.com worth it?](https://mikeautomations.github.io/en/blog/is-make-com-worth-it-small-business/) has a credit worksheet. Make's help centre adds:
+- A trigger uses 1 credit per run even when it finds nothing, so checking a sheet every minute spends credits all day.
+- Routers, filters, error handlers and Make Functions are free, so filtering early costs nothing.
+- The Make Code app uses 2 credits per second of running time.
+- AI Toolkit steps on Make's own AI provider use 1 credit plus credits based on token usage; with your own AI provider on a paid plan, a fixed 1 credit.
+
+### Limits and gotchas from Make's own documentation
+- Scenarios switch themselves off. Make's scenario settings page says a scenario is deactivated after a set number of errors in a row, and one that starts with an instant trigger after the first error, with some exceptions. A good build has error handlers and an alert to a person.
+- Failed runs aren't kept unless you ask. Make says incomplete executions are disabled by default; with "Store incomplete executions" on, an unfinished run is saved for retry.
+- Sensitive data in logs. "Keep data confidential" stops Make keeping the data a run handled. Worth turning on for client documents and payment details.
+- Who owns what. Make's help centre says all scenarios, users and data belong to an organization, each organization has its own plan and billing and one owner, and only the owner can transfer ownership. If a consultant builds in their own organization, you don't own the work.
+
+### What to check before you hire anyone
+The same questions apply to a freelancer, an agency or a one-person specialist. The longer list is in [questions to ask before hiring an automation expert](https://mikeautomations.github.io/en/blog/questions-to-ask-before-hiring-an-automation-expert/), and [consultant vs freelancer vs DIY](https://mikeautomations.github.io/en/blog/automation-consultant-vs-freelancer-vs-diy/) compares the options. Copy this checklist into your first email:
+Checklist to send any Make.com consultant:
+```
+1. Will you build in our own Make organization, with us as the owner and you invited as an admin or member?
+2. Will the app connections (Gmail, Xero, Sheets...) be made with our accounts, not yours?
+3. Is the price fixed, and what exactly counts as "working"?
+4. Will the scenarios use instant triggers where the apps allow, and roughly how many credits a month do you expect them to use?
+5. What happens when a run fails: error handlers, stored incomplete executions, an alert to whom?
+6. Will you turn on "Keep data confidential" for scenarios that handle client or payment data?
+7. Where will AI be used, and does a person approve its output before anything is sent?
+8. What do we get at handover: a written description of each scenario, the logins list, and how to pause it?
+9. Who fixes it if an app changes in three months, and what does that cost?
+10. When do we pay: before, during, or once it's running?
+```
+
+### When Make isn't the right tool
+A good consultant will say so. Two or three popular apps in a straight line are often quicker in Zapier; long, high-volume workflows or data that must stay on your own server may suit n8n; and if everything lives in Microsoft 365, Power Automate may already be in your licence. [Zapier vs Make vs n8n](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/) and [n8n cloud vs self-hosted](https://mikeautomations.github.io/en/blog/n8n-cloud-vs-self-hosted-small-business/) set out the trade-offs. If the job is mostly judgement rather than moving data, read about [AI agents for small business](https://mikeautomations.github.io/en/ai-agent-for-small-business/) first.
+
+### How Mike Automations would do it
+1. A [free 15-minute call](https://mikeautomations.github.io/call/) about the process and the apps you use. Mike Automations is not a Make partner or reseller: Make is recommended only when it fits best, and the plan says why.
+2. Within 48 hours, a written plan with a fixed price and a clear definition of "working". You can sketch it first in the [plan builder](https://mikeautomations.github.io/en/plan/?g=make-com-consultant).
+3. Built in your own Make organization with your app connections, so you own every scenario.
+4. Instant triggers where possible, filters early, error handlers and an alert to a named person when a run fails. Any AI step drafts; a person approves.
+5. Live in 2-3 days, with a written handover. Workflow automation is [$2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). Optional support is $150 a month. Make's subscription is billed to you by Make.
+
+### What does a Make.com consultant do?
+Plans, builds and fixes scenarios in Make: the automated steps that move information between your forms, email, spreadsheets, accounting and booking apps. A good one also sets up error handling, keeps credit use down and hands over written notes so you're not dependent on them.
+
+### How much does it cost to hire help with Make?
+Mike Automations charges a fixed $2,000 for a workflow automation ($1,500 for the first 3 clients), paid once it's running and you're happy with it, plus optional support at $150 a month. Make's own subscription is separate and billed by Make.
+
+### Should the scenarios be in my Make account or the consultant's?
+Yours. Make's help centre says each organization has its own plan and billing, has one owner, and only the owner can transfer ownership. Build in your organization and invite the consultant, so the work stays with you if they leave.
+
+### Why does my Make scenario keep switching itself off?
+Make deactivates a scenario after a set number of errors in a row, and one that starts with an instant trigger after the first error, with some exceptions. Check the run history for the failing module, then add error handlers and turn on stored incomplete executions.
+
+### Is Make better than Zapier for a small business?
+It depends on the workflow. Make suits steps with branches and data that needs reshaping; Zapier is often quicker for simple straight-line jobs. Our Zapier vs Make vs n8n comparison sets out when each fits.
+
+## Zapier expert for small business: what to hire for, and what to check first
+Source: https://mikeautomations.github.io/en/zapier-expert-for-small-business/
+
+A Zapier expert for a small business is someone you pay to plan, build and fix Zaps, Zapier's automated workflows, so that your forms, inbox, spreadsheet, CRM and accounts software pass information to each other without retyping. It's worth hiring help when a workflow has several steps, touches money or client data, or keeps breaking; simple two-app Zaps are usually fine to build yourself. Whoever builds it, the Zaps should live in your own Zapier account, with a written list of what each one does.
+
+Searching for a Zapier expert or a Zapier consultant for your small business usually means one of three things: you know what you want automated but not how, you've built a few Zaps and they keep failing, or your task bill has crept up and you're not sure why. Below: the jobs worth paying for, what to ask before hiring, what Zapier costs and the limits in its own help docs. It also says plainly what Mike Automations is: one person who builds automations on the tools you already use, not a certified Zapier partner.
+
+### What small businesses usually hire Zapier help for
+- New enquiries: a website form or Facebook lead goes into a spreadsheet or CRM, the owner gets a message and the enquirer gets a reply within minutes. See [replying to new enquiries fast](https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/).
+- Chasing documents or information from clients, with reminders that stop as soon as the client sends what's missing.
+- [Invoice payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/) that read due dates from Xero, QuickBooks or a spreadsheet.
+- Bookings: a booking app creates a calendar event, a confirmation and a reminder the day before.
+- Filing and summaries: attachments saved to the right client folder, and a weekly list of new leads and unpaid invoices.
+- AI steps that draft a reply or pull details out of an email, with a person approving before anything is sent. More on that in [AI agents for small business](https://mikeautomations.github.io/en/ai-agent-for-small-business/).
+- Fixing Zaps that error, run twice or stopped running, and tidying an account nobody fully understands any more.
+- Cutting task use: rebuilding Zaps so filters run early and fewer steps run on records that don't need them.
+
+### What Zapier itself costs (checked 11 November 2026)
+This is Zapier's bill, which you pay to Zapier directly, whoever builds your Zaps. Figures are from zapier.com/pricing with yearly billing; the page says paying yearly saves up to 33% compared with monthly.
+Plan | Price on the pricing page | What you get
+--- | --- | ---
+Free | $0 | 100 tasks a month, two-step Zaps only, new data checked every 15 minutes, one user
+Professional | From $19.99 a month (750 tasks) | Multi-step Zaps, premium apps, webhooks, checks every 2 minutes, one user
+Team | From $69 a month | Up to 25 users, shared workspace and shared app connections, checks every minute
+Enterprise | Contact sales | Unlimited users and admin controls
+
+### Limits and gotchas from Zapier's own help docs
+- A task is a successful action. Zapier's help centre says triggers, filters and Formatter steps don't count, but each successful action step does, so a five-step Zap uses far more tasks than a two-step one. The [Zapier vs Make vs n8n comparison](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/) works through an example.
+- When you reach your task limit, Zaps pause until the next usage period, unless you turn on pay-per-task billing, which Zapier charges at a higher rate per task.
+- Zapier says it will turn a Zap off automatically if 95% of its runs error and it has run more than 20 times in the past 7 days. If nobody watches the alerts, a Zap that has stopped can go unnoticed for days.
+- Free and Professional are one-user plans. If several people need to see or edit the Zaps, that means Team.
+- On the free plan Zapier checks for new data every 15 minutes, so "instant" replies to enquiries usually need a paid plan or an instant trigger.
+
+### DIY or hire: a quick decision table
+Your situation | Usually | Why
+--- | --- | ---
+Two apps, one action, nothing sensitive | Do it yourself | Zapier's templates and editor are built for this
+Several steps, branches or a CRM in the middle | Get help, or at least a review | Errors and duplicates hide in the edge cases
+Money, invoices or client documents involved | Get help | A wrong step can email the wrong client or chase a paid invoice
+Zaps erroring, running twice or switched off | Get help | Someone needs to read the Zap history and fix the cause
+Task bill growing every month | Get a review | Filters, the order of steps or a different tool may cost less
+Many branches, high volumes, data on your own server | Compare tools first | Another tool may suit better
+
+### Zapier or another tool?
+A good helper tells you when Zapier isn't the right fit. For workflows with many branches, read [is Make.com worth it for a small business](https://mikeautomations.github.io/en/blog/is-make-com-worth-it-small-business/). For high volumes or data on your own server, see [n8n cloud vs self-hosted](https://mikeautomations.github.io/en/blog/n8n-cloud-vs-self-hosted-small-business/). On Microsoft 365, compare [Power Automate vs Zapier](https://mikeautomations.github.io/en/blog/power-automate-vs-zapier-small-business/) first.
+
+### What to check before you hire anyone
+Ask these whoever you're talking to: a freelancer, an agency or Mike Automations. There's a longer list in [questions to ask before hiring an automation expert](https://mikeautomations.github.io/en/blog/questions-to-ask-before-hiring-an-automation-expert/), and the trade-offs between options in [consultant vs freelancer vs DIY](https://mikeautomations.github.io/en/blog/automation-consultant-vs-freelancer-vs-diy/).
+- Will the Zaps be built in my Zapier account, and will I own them and every app connection?
+- Do I get a fixed price and a written definition of "working" before you start?
+- How will you test it with real examples, including the awkward ones?
+- What happens when a step fails: who gets told, and how?
+- Roughly how many tasks a month will this use on my plan?
+- What documentation do I get at the end? Compare it with this [handover checklist](https://mikeautomations.github.io/en/blog/automation-handover-checklist/).
+- If they say "certified" or "partner", check it: Zapier lists its partners in its own Solution Partner Directory.
+
+### A brief you can send to any Zapier helper
+Copy, fill in the brackets and send:
+```
+Hi, I'd like help with a Zapier workflow.
+
+What happens today: [e.g. enquiries arrive from our website form, someone copies them into a spreadsheet and replies by hand].
+What I want to happen: [e.g. each enquiry is added to the sheet, we get a message, the enquirer gets a reply, and one follow-up goes after 2 days if they don't book].
+Apps involved: [form tool, email, spreadsheet or CRM, calendar].
+Roughly how often it runs: [e.g. 20 enquiries a week].
+Our Zapier plan: [Free / Professional / Team / none yet].
+What must stay with a person: [e.g. quotes and prices].
+
+Please send a fixed price, what "working" will mean, and what I'll get as documentation.
+```
+
+### How Mike Automations would build it
+To see the steps first, [build your plan](https://mikeautomations.github.io/en/plan/?g=zapier-expert-for-small-business) or [try the demo](https://mikeautomations.github.io/en/try/). More on [briefing an automation project](https://mikeautomations.github.io/en/blog/how-to-brief-an-automation-project/).
+1. A [free 15-minute call](https://mikeautomations.github.io/call/) about the job you want automated. Sometimes the honest answer is that a Zapier template will do, or that another tool fits better.
+2. Within 48 hours, a written plan with a fixed price: the trigger, each step, the tasks it should use, what stays with a person and what "working" means.
+3. The build happens in your own Zapier account and your own apps, so you own everything. On Team you add Michael as a member and remove him afterwards; Professional is a one-user plan, so the written plan sets out how access works without you sharing your password.
+4. Live in 2-3 days, tested with real examples, with written notes on what each Zap does and what to do if one stops.
+5. [Workflow automation is a fixed $2,000 one-off](https://mikeautomations.github.io/en/pricing/), $1,500 for the first 3 clients, and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). Optional support is $150 a month. Your Zapier subscription stays separate and is paid to Zapier.
+
+### Is Mike Automations a certified Zapier partner?
+No. Michael builds automations on the tools a business already uses, Zapier included, but he isn't a Zapier partner and doesn't claim to be. If certification matters to you, Zapier lists its partners in its Solution Partner Directory.
+
+### Do I need a paid Zapier plan?
+For most business workflows, yes. Zapier's free plan allows two-step Zaps only and 100 tasks a month, and checks for new data every 15 minutes. Professional starts at $19.99 a month with yearly billing, according to Zapier's pricing page in November 2026.
+
+### Who owns the Zaps after they're built?
+You should. Ask for them to be built in your own Zapier account with your own app connections, plus written notes on what each Zap does. That's how Mike Automations works.
+
+### My Zaps keep turning off. Can that be fixed?
+Usually, yes. Zapier turns a Zap off when nearly all its recent runs error. The fix is to find the cause in the Zap history, correct it, add error alerts and then replay the failed runs where that's safe.
+
+### Should I use Zapier, Make or n8n?
+Zapier is the easiest for straight-line workflows between popular apps. Make suits workflows with many branches, and n8n suits high volumes or data on your own server. The Zapier vs Make vs n8n post sets out how each one charges.
+
 ## Carpet cleaning repeat booking reminders that fill the diary from past customers
 Source: https://mikeautomations.github.io/en/carpet-cleaning-repeat-booking-reminders/
 
@@ -9333,7 +10183,7 @@ Second, the booking page. HubSpot's scheduling pages article (30 September 2026)
 Everything else on the free plan, such as moving a deal, creating a follow-up task or chasing an unpaid quote, is done by hand.
 
 ### What needs a paid HubSpot plan
-- Workflows (the full multi-step builder with delays, branches and actions on deals, tickets and companies): HubSpot's "Create workflows" article lists Professional or Enterprise subscriptions of Marketing Hub, Sales Hub, Service Hub, Data Hub, Smart CRM or Revenue Hub.
+- Workflows (the full multi-step builder with delays, branches and actions on deals, tickets and companies): HubSpot's "Create workflows" article lists Professional or Enterprise subscriptions of Marketing Hub, Sales Hub, Service Hub, Data Hub, Smart CRM or Revenue Hub. HubSpot's sales pricing page, though, lists a limited number of workflows on Starter too, so check what your own account offers before you pay to upgrade.
 - Sequences (a run of one-to-one sales emails that stops when the person replies): the sequences article (17 August 2026) lists Sales Hub or Service Hub Professional or Enterprise, and an assigned Sales or Service seat.
 - Pipeline stage automations (create a task, send an internal email notification or edit the record when a deal or ticket enters a stage): the board view automations article (2 September 2026) lists Sales Hub and Service Hub at Starter, Professional and Enterprise. Free accounts aren't listed.
 - More actions after a form: the form automations article says Starter, Professional or Enterprise accounts without Marketing Hub get up to three actions in the simple workflow, and Marketing Hub Starter gets up to ten. Still one simple workflow per form.

@@ -38,3 +38,4 @@ User-agent: Applebot-Extended
 Allow: /
 
 Sitemap: https://mikeautomations.github.io/sitemap.xml
+Sitemap: https://mikeautomations.github.io/sitemap_index.xml
