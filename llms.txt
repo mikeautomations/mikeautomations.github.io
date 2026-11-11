@@ -1,13 +1,13 @@
 # Mike Automations
 
-> Automation for small accounting and bookkeeping firms: document chasing, reminders and follow-ups, live in 2-3 days. Pay once you're happy with it.
+> Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
 Mike Automations (also "Mike Systems & Automations", in Hebrew "Mike Automation") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-11.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
 - Markets: United Kingdom first, then United States, Ireland, Canada, Australia and New Zealand. A smaller Hebrew site serves Israel.
-- What: workflow automation for small service firms (accountants, bookkeepers, agencies, trades, law firms, letting agents): document chasing, client onboarding, reminders, quote and invoice follow-ups.
+- What: business automation for every kind of small business (trades and contractors, clinics, salons, letting agents, law firms, agencies, accountants, hospitality, schools, retail): document chasing, client onboarding, reminders, quote and invoice follow-ups.
 - Prices (US dollars): Workflow automation $2,000 one-off (Founding offer: $1,500 for the first 3 firms); Custom system from $5,000; Monthly support $150 a month, optional.
 - How it works: a free 15-minute call, a written plan with a fixed price within 48 hours, live in 2-3 days. The client pays only once it's running and they're happy with it. No deposit, no hourly billing.
 - Tools: builds on what the firm already uses (Xero, QuickBooks, FreeAgent, Sage, Gmail, Outlook, Google Drive, OneDrive, Karbon, TaxDome and similar).
@@ -16,13 +16,14 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "Mike Automation"
 - Full text for AI tools: https://mikeautomations.github.io/llms-full.txt
 
 ## Main pages
-- [Home](https://mikeautomations.github.io/en/): Automation for small accounting and bookkeeping firms: document chasing, reminders and follow-ups, live in 2-3 days. Pay once you're happy with it.
+- [Home](https://mikeautomations.github.io/en/): Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 - [Services](https://mikeautomations.github.io/en/services/): Workflow automation $2,000, custom systems from $5,000, optional support $150/month. Document chasing, reminders and follow-ups, live in 2-3 days.
 - [Pricing](https://mikeautomations.github.io/en/pricing/): Workflow automation $2,000 ($1,500 for the first 3 firms). Custom systems from $5,000. Optional support $150/month. Nothing is due until you're happy.
 - [How it works](https://mikeautomations.github.io/en/how-it-works/): A free 15-minute call, a written fixed-price plan within 48 hours, a 2-3 day build and a walkthrough. You pay once it's running and you're happy with it.
 - [About](https://mikeautomations.github.io/en/about/): Michael Gershman is Mike Automations: a native English speaker in Haifa, Israel, who maps, builds and supports automation for small firms.
 - [FAQ](https://mikeautomations.github.io/en/faq/): How "pay when you're happy" works, what it costs, GDPR and client data, which tools it connects to, and how long a build takes.
 - [Contact](https://mikeautomations.github.io/en/contact/): Book a free 15-minute call or email mikelgershman@gmail.com. Calls Monday to Thursday, 2-6 PM UK time. If it fits, a written plan follows in 48 hours.
+- [Small business automation](https://mikeautomations.github.io/en/small-business-automation/): A practical guide to small business automation: what it is, what to automate first, which tools to use, what it costs, and 100+ step-by-step workflows.
 - [Examples](https://mikeautomations.github.io/en/examples/): Four example builds with demo data: a Self Assessment records chase, agency onboarding, quote follow-ups and VAT paperwork. Not client stories.
 - [Free guide](https://mikeautomations.github.io/en/guide/): 25 AI automations for accountants and small firms, from document chasing to getting paid. Read them all here or get the free 12-page PDF, no email needed.
 

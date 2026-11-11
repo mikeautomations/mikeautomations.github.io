@@ -1,13 +1,13 @@
 # Mike Automations: full text
 
-> Automation for small accounting and bookkeeping firms: document chasing, reminders and follow-ups, live in 2-3 days. Pay once you're happy with it.
+> Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
 Updated: 2026-11-11. Facts summary: https://mikeautomations.github.io/llms.txt
 
 ## Home: Mike Automations
 Source: https://mikeautomations.github.io/en/
 
-Automation for small accounting and bookkeeping firms: document chasing, reminders and follow-ups, live in 2-3 days. Pay once you're happy with it.
+Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
 - Workflow automation: $2,000. Paid once it's running and you're happy with it. A whole process, automated end to end. For example: collecting every client's records before the Self Assessment deadline, from first request to filed, or chasing VAT paperwork every quarter.
 - Custom system: From $5,000. One-time, by scope. Clients, jobs, documents and tasks in one place. Everyone sees what's due today.
@@ -381,6 +381,63 @@ $2,000, or $1,500 for the first 3 firms. Prices in US dollars, invoiced in $, £
 ### Guides
 
 ### Useful reading
+
+## Small business automation (Mike Automations): Small business automation: what to automate first, and how.
+Source: https://mikeautomations.github.io/en/small-business-automation/
+
+Small business automation means letting software do the repetitive admin that follows the same steps every time: replying to new enquiries, sending reminders, chasing documents and payments, copying data between tools and sending a weekly summary. A good first automation takes one job that slips when you're busy, runs on the tools you already use, and keeps a person in charge of anything that needs judgement.
+This page is the starting point for everything on this site about business automation, for every type of small business: what to automate first, the most common workflows, guides for over 100 businesses and processes, the tools, the cost, and how to decide between doing it yourself and hiring help.
+
+### What business automation is (and isn't)
+Business automation is a set of rules that runs on its own: when something happens (a form is submitted, an invoice becomes due, a document arrives), the workflow does the next step (sends a message, files the document, updates a list, tells a person). It is not a robot that runs your business, and it doesn't replace the tools you have. It connects them and does the follow-up.
+AI is one ingredient, useful for reading an email, sorting an upload or drafting a reply. Most of the value in a small business still comes from plain, reliable rules. Where AI prepares something, a person should approve it before it reaches a customer.
+
+### What to automate first
+Pick a job that happens often, follows the same steps each time, costs you money or customers when it slips, and that you can describe in a few sentences. Start with one workflow, prove it works, then add the next.
+1. List the admin jobs you did last week and how often each one happens.
+2. Mark the ones that follow the same steps every time.
+3. Circle the ones that cost money when they slip: a lost enquiry, a missed appointment, an unpaid invoice, a late document.
+4. Write the first one down as "when X happens, do Y, until Z".
+5. Build that one, run it for a few weeks, then choose the next.
+
+### The most common small business automations
+- Enquiry replies every web form, email or message gets a reply within minutes and lands on one list.
+- Quote and estimate follow-up a short, polite follow-up a few days after a quote, stopping when the customer replies.
+- Appointment reminders a reminder before each booking with an easy way to reschedule, to cut no-shows.
+- Document collection a checklist per client and reminders until every document is in, then filed in the right folder.
+- Invoice reminders a friendly note before and on the due date, stopping the moment the invoice is paid.
+- Client onboarding welcome email, forms, contract and first tasks set up as soon as a client signs.
+- Review requests after the job, a polite ask with a direct link to your Google reviews.
+- Renewals and recalls reminders before a contract, certificate, service or check-up is due.
+- Data entry from emails and PDFs details read from an email or attachment and written into your system.
+- Weekly summary one email with what came in, what's done and what's still waiting.
+
+### Automation for trades, contractors and construction
+
+### Automation for clinics, health, beauty and fitness
+
+### Automation for property businesses
+
+### Automation for law firms, agencies and professional services
+
+### Automation for accountants, bookkeepers and finance firms
+
+### Automation for hospitality, events, education, retail and charities
+
+### Business automation tools
+Most small businesses don't need new software to automate. The workflow usually runs on what's already there: email, a calendar, a spreadsheet or Airtable, accounting software, and a connector such as Zapier, Make, n8n, Power Automate or Google Apps Script that moves information between them.
+
+### What business automation costs, and how long it takes
+There are two costs: the tools (often a monthly subscription, sometimes free at small volumes) and the time to plan and build the workflow, whether that's yours or someone you hire. A single, well-defined workflow is usually a matter of days, not months. The bigger risk is building the wrong thing, so write down what the workflow must do before anyone starts.
+Mike Automations is one person, Michael, who builds one workflow automation for a fixed $2,000 ($1,500 for the first 3 firms), live in 2-3 days, and you pay only once it's running and you're happy with it.
+
+### Do it yourself, or hire help?
+If the workflow is simple, lives in one or two tools and you enjoy setting things up, doing it yourself is reasonable. Hire help when it touches several tools, involves client data, or keeps slipping down your list. Either way, ask who maintains it, what happens when something breaks, and who owns it.
+
+### Price
+$2,000, or $1,500 for the first 3 firms. Prices in US dollars, invoiced in $, £ or € at the equivalent rate. Paid once it's running and you're happy with it.
+
+### Read more
 
 ## Examples (Mike Automations): Automation examples: what a build looks like.
 Source: https://mikeautomations.github.io/en/examples/
