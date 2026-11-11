@@ -11,9 +11,9 @@
   });
   document.querySelectorAll("dialog form button[type=button][aria-label]").forEach((b) => b.addEventListener("click", () => b.closest("dialog").close()));
   // Every submission is emailed to Michael through FormSubmit (free, no server needed).
-  const endpoint = "https://script.google.com/macros/s/AKfycbwh8GhUq0JYhJmF-F_FXLD4jeKJQtCeXOL7AOQG6fAf1lKcs7pZz_xwYFyf3d_V5RJY/exec";
+  const endpoint = "https://formsubmit.co/ajax/mikelgershman@gmail.com";
   const accessKey = "";
-  const viaScript = true;
+  const viaScript = false;
   document.querySelectorAll("dialog form").forEach((f) => f.addEventListener("submit", async (e) => {
     e.preventDefault();
     const v = (n) => (f.elements[n] && f.elements[n].value || "").trim();
