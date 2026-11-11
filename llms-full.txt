@@ -589,7 +589,7 @@ Estimate follow-up automation sends every open estimate a short, polite follow-u
 Estimate follow-up automation fixes the most common leak in a remodeling, [HVAC](https://mikeautomations.github.io/en/hvac-maintenance-agreement-renewals/), plumbing, [solar](https://mikeautomations.github.io/en/solar-installer-paperwork-and-handover/) or [cleaning business](https://mikeautomations.github.io/en/cleaning-business-automation/). You send an estimate, the customer says they'll think about it, and then nobody calls back because you're on the next job. Meanwhile appointments get forgotten and someone drives across town to an empty house. A workflow can do the remembering, from estimate to booked job, built on the software you already have.
 
 ### An estimate follow-up schedule you can copy
-An estimate that goes quiet isn't always a no. Often the customer got busy, is comparing two bids or has a question they didn't ask. A fixed schedule means every estimate gets the same polite attention, whoever wrote it.
+An estimate that goes quiet isn't always a no. Often the customer got busy, is comparing two bids or has a question they didn't ask. A fixed schedule means every estimate gets the same polite attention, whoever wrote it. A roofer can start the same schedule from [an inspection report built from the photos taken on the roof](https://mikeautomations.github.io/en/roofing-inspection-reports-and-quote-follow-up/), sent the same day as the visit.
 When | What goes out | Channel
 --- | --- | ---
 Same day | The estimate, with one line on what happens next | Email
@@ -1543,7 +1543,7 @@ Questions? Reply to this email or call us on [phone].
 ```
 
 ### What an automated renewal workflow does
-1. Keeps one list of every agreement with the customer, address, plan, start date, expiration date and visits used, built from your spreadsheet or your field service software.
+1. Keeps one list of every agreement with the customer, address, plan, start date, expiration date and visits used, built from your spreadsheet or your field service software. Carpet cleaning companies without service agreements can still [remind past customers when a clean is due](https://mikeautomations.github.io/en/carpet-cleaning-repeat-booking-reminders/).
 2. Sends the renewal reminders above by email or text, with a link to renew or pay using the payment tool you already have.
 3. Marks the agreement renewed when payment comes in and stops the reminders.
 4. Asks plan customers to pick a time for each covered tune-up before the season starts.
@@ -1658,7 +1658,7 @@ WhatsApp quote follow-up for tradespeople works best as three short messages: a 
 WhatsApp quote follow-up for tradespeople is the job most UK trades never get round to. You price a rewire, a bathroom or a boiler swap, send it on WhatsApp, see the two blue ticks, and then hear nothing. Chasing feels pushy, so it doesn't happen, and the job goes to whoever asked again. This page gives you a three-message sequence with timing, explains how [WhatsApp Business templates and opt-in](https://mikeautomations.github.io/en/blog/text-or-whatsapp-clients-for-documents/) work under Meta's own rules, and splits what can run on its own from what should stay with you.
 
 ### Why customers go quiet after a quote
-Only the last one is a lost job. The others are a reply that never got written, and a short, friendly message usually brings it out. A clear "no" is useful too: you can stop holding the date and stop thinking about it. The same short sequence works outside the trades, for example a caterer [following up an event quote](https://mikeautomations.github.io/en/catering-quotes-and-final-numbers/).
+Only the last one is a lost job. The others are a reply that never got written, and a short, friendly message usually brings it out. A clear "no" is useful too: you can stop holding the date and stop thinking about it. The same short sequence works outside the trades, for example a caterer [following up an event quote](https://mikeautomations.github.io/en/catering-quotes-and-final-numbers/). Painters and decorators can run the same sequence with [a quote and colour sign-off workflow](https://mikeautomations.github.io/en/painters-decorators-quotes-and-colour-sign-off/) that also records every colour and finish before the first coat.
 - They're waiting on other quotes and haven't decided yet
 - They read it on the bus, meant to reply, and it slid down the chat list
 - A line in the quote confused them (what's included, VAT, the start date) and they didn't want to ask
@@ -1666,7 +1666,7 @@ Only the last one is a lost job. The others are a reply that never got written, 
 - They've picked someone else and don't want the awkward conversation
 
 ### A 3-message WhatsApp follow-up sequence
-This timing is a starting point, not a rule. Shorten it for urgent work like [a leak or a failed boiler](https://mikeautomations.github.io/en/emergency-call-out-triage-plumbers/), and stretch it for a kitchen or an extension that the customer will plan for weeks. Every message stops the moment the customer replies. You can [watch a quote follow-up sequence play out](https://mikeautomations.github.io/en/try/) in a one-minute demo.
+This timing is a starting point, not a rule. Shorten it for urgent work like [a leak or a failed boiler](https://mikeautomations.github.io/en/emergency-call-out-triage-plumbers/), and stretch it for a kitchen or an extension that the customer will plan for weeks. Every message stops the moment the customer replies. You can [watch a quote follow-up sequence play out](https://mikeautomations.github.io/en/try/) in a one-minute demo. For a roof repair, sending [the inspection photos and a short written report with the quote](https://mikeautomations.github.io/en/roofing-inspection-reports-and-quote-follow-up/) answers most questions before they're asked.
 Message | When | What it does
 --- | --- | ---
 1. Check it arrived | 1 to 2 days after the quote | Confirms they got it and invites questions, so a confusing line gets asked about
@@ -2379,7 +2379,7 @@ Cleaning business automation is for owners of small domestic and office cleaning
 - Quote requests: an instant reply that asks for the details you need to price (property size, rooms, how often, pets, start date), so you can quote without three rounds of texts.
 - Booking confirmations and rescheduling: a confirmation with a link to move the visit, and a rule for what happens to the cleaner's day when a client moves.
 - Cleaner assignment: each cleaner gets tomorrow's jobs in one message, with address, time, access notes and the client's specific requests.
-- Client reminders: a short reminder the day before, so the client leaves the key out or is in to let the cleaner in.
+- Client reminders: a short reminder the day before, so the client leaves the key out or is in to let the cleaner in. For one-off jobs such as carpets, [repeat booking reminders](https://mikeautomations.github.io/en/carpet-cleaning-repeat-booking-reminders/) bring customers back when the next clean is likely due.
 - Recurring invoicing: an invoice sent after each completed visit (or one a month for regulars), with payment reminders that stop once the client pays.
 - [Review requests](https://mikeautomations.github.io/en/blog/ask-for-google-reviews-automatically/): one message to every client after their first few cleans, not only the ones who seem happy.
 
@@ -3143,7 +3143,7 @@ Physio rebooking reminders deal with a quiet leak in most clinics. A patient fin
 3. Reception gets that list the next morning, so they can call anyone they know well before any message goes out.
 4. Patients not called get a short message with a booking link two days after their last session. If your clinic software has no booking page, [a Google Calendar or Calendly booking link](https://mikeautomations.github.io/en/blog/google-calendar-appointment-schedules-vs-calendly/) can supply one.
 5. If they still haven't booked a week later, one more message goes out, with the option to reply "no more sessions".
-6. After that, no more automatic messages. The patient goes on a list for the clinician to decide: a call, a letter, or close the episode.
+6. After that, no more automatic messages. The patient goes on a list for the clinician to decide: a call, a letter, or close the episode. An [audiology recall workflow](https://mikeautomations.github.io/en/hearing-care-recall-reminders/) ends the same way, with a person deciding what happens next.
 7. Anyone who books, replies "stop" or is discharged drops out of the sequence straight away.
 
 ### Rebooking reminder sequence
@@ -3245,7 +3245,7 @@ Record one of: booked / call back on [date] / will book online / moved away / re
 ```
 
 ### What to automate and what to keep with a person
-1. Read recall dates from your practice system each week, never from a separate spreadsheet that drifts out of date.
+1. Read recall dates from your practice system each week, never from a separate spreadsheet that drifts out of date. The same habit keeps [hearing care recall reminders](https://mikeautomations.github.io/en/hearing-care-recall-reminders/) accurate.
 2. Send the second and third reminders on the right channel, and stop them as soon as a booking appears.
 3. Catch bounced emails and failed texts, and put those patients straight on the call list with a note to update their details.
 4. Build one short weekly call list, oldest overdue first, with family members grouped so one call covers the household.
@@ -3385,7 +3385,7 @@ Day 10-14 | Staff member | Phone call or a word at the front desk if they're sti
 Day 14-21 | Your decision | Pause, freeze or cancel the membership under your terms. One last message says what happened and how to restart
 
 ### Message templates that keep goodwill
-Assume an honest mistake. Most failed payments are an expired card or a bank account that was short for a day.
+Assume an honest mistake. Most failed payments are an expired card or a bank account that was short for a day. The same tone suits [martial arts school memberships](https://mikeautomations.github.io/en/martial-arts-school-memberships-and-gradings/), where the person paying may be a parent rather than the student.
 First notice, the day the payment fails (email or text):
 ```
 Hi [first name], your [gym name] membership payment of [amount] on [date] didn't go through. It happens, usually a new card or a timing thing with the bank.
@@ -3505,7 +3505,7 @@ Hi [first name], our [season] round is now under way and we didn't hear back fro
 ```
 
 ### What an automated renewal workflow does
-1. Builds one customer list from last season: address, plan, number of visits, price paid and how they paid, from your spreadsheet or scheduling software.
+1. Builds one customer list from last season: address, plan, number of visits, price paid and how they paid, from your spreadsheet or scheduling software. Carpet cleaners can build the same kind of list from [the date and rooms of each customer's last clean](https://mikeautomations.github.io/en/carpet-cleaning-repeat-booking-reminders/).
 2. Sends each customer their own renewal email with this year's plan and price, and a link to confirm and pay with the payment tool you already use.
 3. Reminds only the customers who haven't answered, and stops the moment someone confirms or says no.
 4. Books confirmed customers into the first round by area, so your rounds are planned from the list, not from memory.
@@ -3701,6 +3701,841 @@ You. You stay the single point of contact and pass anything broken to Michael. S
 ### Can you build in our agency's Zapier or Make account?
 It's possible, but the plan will recommend the client's own account, so the workflow survives if your agency relationship ends.
 
+## Carpet cleaning repeat booking reminders that fill the diary from past customers
+Source: https://mikeautomations.github.io/en/carpet-cleaning-repeat-booking-reminders/
+
+Carpet cleaning repeat booking reminders are messages sent to past customers when their next clean is likely due, worked out from the date and rooms of their last job, inviting them to book again. A repeat booking workflow sends those reminders on your schedule, follows up open quotes, confirms bookings with an on-the-way text on the day, sends aftercare advice after the clean, and asks once for a review. It runs from one list of every customer and job, so the quiet months are filled from people who already know you. The cleaner still quotes, cleans and decides what each job needs.
+
+Carpet cleaning repeat booking reminders are the cheapest work a cleaning business can win, and most firms never send them. A customer has their lounge and stairs cleaned, is delighted, and then forgets you exist until they search again two years later and book whoever ranks first. Meanwhile quotes go unchased and the van sits idle in February. This page sets out a workflow that reminds past customers on a schedule, follows up quotes, keeps the booking day smooth, and asks for reviews, with the UK and US rules on texting and emailing customers built in.
+
+### What the workflow does
+1. Keeps one list of every customer with their address, the rooms and items cleaned, the date, the price and how they prefer to be contacted, from your job software, invoices or a spreadsheet.
+2. Replies to new enquiries with your service area, starting prices and a link to book a quote or a clean, as [replying to enquiries fast](https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/) describes.
+3. Follows up each quote on your schedule until the customer books, declines or asks to be contacted later.
+4. Confirms each booking with the date, arrival window, what the customer should do before you arrive (clear small items, note stains, keep pets away) and how to pay.
+5. On the day, sends an on-the-way text when you leave the previous job.
+6. After the clean, sends aftercare advice (drying time, when to put furniture back, how to treat a spill) and the invoice if unpaid.
+7. A few days later, sends one review request with your review link.
+8. On the interval you choose for each customer, for example a year after the last clean, sends a reminder with what was cleaned last time and a link to rebook, with one follow-up if there's no reply.
+
+### A reminder schedule you can copy
+When | Channel | What it says
+--- | --- | ---
+Quote sent | Email and text | Price, what's included, how to book, how long the price holds
+Quote day 3 and day 10 | Text | Short follow-ups; stop when they answer
+Booking made | Email and text | Date, arrival window, how to prepare, how to pay
+Day before | Text | Reminder and arrival window
+On the way | Text | Leaving the last job, arriving in about [minutes]
+After the clean | Email | Aftercare advice, invoice if unpaid
+3 days after | Text or email | One review request
+Your interval, e.g. 12 months | Text or email | Time for another clean? Last time: [rooms]. Book here
+Interval plus 3 weeks, no reply | Text | One follow-up, then nothing until next interval
+
+### A repeat booking reminder you can copy
+Sent on your interval after the last clean (edit the words in brackets):
+```
+Hi [first name], it's [your name] from [business name]. It's about [interval] since we cleaned your [rooms or items] at [street], so it may be due another clean. You can book here: [link], or reply with a day that suits you and I'll confirm. If you'd rather not get these reminders, reply STOP. Thanks, [your name]
+```
+
+### The rules for texting and emailing past customers
+A reminder that invites a past customer to book again is direct marketing, so the rules apply. In the UK, the Privacy and Electronic Communications Regulations generally require consent to send marketing by text or email, with an exception the ICO describes as the soft opt-in: you can email or text an existing customer about your own similar services if you collected their details in the course of a sale, gave them a clear chance to opt out at the time, and give them a simple way to opt out in every message. The ICO also says to keep a suppression list of people who have objected. In the US, marketing text messages sent with automated systems need the recipient's prior express written consent under the Telephone Consumer Protection Act rules enforced by the FCC, and the sender has to be able to prove it. The workflow records how and when each customer agreed, includes the opt-out in every message, and stops the moment someone replies STOP. Service messages about a booked job (confirmations, on-the-way texts) are not marketing. Check ico.org.uk and fcc.gov for the current rules.
+
+### Where cleaning firms leave money on the table
+- No one records what was cleaned, so there is nothing to remind the customer about
+- Quotes are sent and never chased
+- Customers aren't told how to prepare, so the first twenty minutes are moving furniture
+- Nobody asks for reviews, so the business with fewer happy customers ranks higher; [asking for reviews automatically](https://mikeautomations.github.io/en/blog/ask-for-google-reviews-automatically/) covers it
+- Seasonal services such as [lawn care renewals](https://mikeautomations.github.io/en/lawn-care-seasonal-renewals/) and [pest control contract visits](https://mikeautomations.github.io/en/pest-control-contract-visits-and-reports/) use the same reminder logic
+- Domestic cleaning rounds need the same confirmations, as the [cleaning business guide](https://mikeautomations.github.io/en/cleaning-business-automation/) sets out
+
+### What stays with you
+Quoting, the clean, your prices and your decision about which customers to remind and how often. The workflow sends your words on your schedule, records replies and bookings, and stops when someone opts out. It never books a job without the customer's reply. If AI drafts a reply to a question, a person approves it first.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how enquiries, quotes and jobs are recorded today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: your job software or invoicing tool where it allows a connection, or a spreadsheet, plus texts, email or WhatsApp and your booking page. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your business first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=carpet-cleaning-repeat-booking-reminders).
+
+### Is a reminder to rebook allowed under UK rules?
+Usually yes under the soft opt-in the ICO describes, if you collected the details during a sale, offered an opt-out at the time and offer one in every message. The workflow records the consent and stops on STOP. Check ico.org.uk for the current guidance.
+
+### What about the US?
+Automated marketing texts need prior express written consent under the TCPA rules the FCC enforces. Collect it at booking, record it, and the workflow only reminds customers who gave it.
+
+### Does it work from my invoicing app?
+Yes, where the app allows an export or a connection. The invoice date and the job description are enough to work out the reminder date.
+
+### Can I set different intervals for different customers?
+Yes. A default interval, with per-customer overrides for homes with pets, rentals or commercial contracts.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Bike shop service bookings and repair updates that keep the workshop quiet
+Source: https://mikeautomations.github.io/en/bike-shop-service-bookings-and-repair-updates/
+
+A bike shop service workflow confirms each booking, sends a drop-off receipt with the bike's details, texts the mechanic's quote for approval before any chargeable work, tells the customer about parts delays without them asking, sends a ready-to-collect message with the total, and reminds each customer when their next service is due. Every bike has one record from booking to collection, so the mechanic fixes bikes instead of answering the phone. The shop still diagnoses, prices and repairs.
+
+Bike shop service bookings and repair updates are the same handful of messages, sent by whoever is nearest the phone, usually late. The customer drops a bike off, hears nothing, and rings on day two. The mechanic finds a worn chain and cassette, fits them, and the customer disputes the bill because nobody asked. Spring arrives and every bike in the city needs a service in the same fortnight. This page sets out a workflow that confirms bookings, records approvals before chargeable work, keeps customers informed through the job, and brings them back on a service schedule, including the extra checks for e-bikes.
+
+### The messages, in order
+1. Booking: the customer books online or in the shop and gets a confirmation with the date, what to bring (keys, charger for an e-bike) and your drop-off window. A reminder goes the day before.
+2. Drop-off receipt: the bike (make, model, frame number if you record it), the fault or service booked, the ticket number and your terms.
+3. Quote: after the mechanic's check, the customer gets what was found, the price for parts and labour, and the expected ready date. They reply YES or NO, or tap a link. The reply is saved on the job.
+4. Parts delay: if a part is on order, the customer gets the new expected date without asking, and again if it slips.
+5. Extra work found: a second approval request in the same format before any additional chargeable work.
+6. Ready: a text with the total, how to pay and your opening hours. Uncollected bikes get a reminder after a week and then on your terms.
+7. After collection: one review request a few days later, sent once.
+8. Service reminder: on the schedule you set from the last service date, a message inviting the customer to book, with your booking link.
+
+### A status-to-message table you can copy
+Status | Message | Channel
+--- | --- | ---
+Booked | Confirmation: date, drop-off window, what to bring | Email and text
+Day before | Reminder | Text
+Dropped off | Receipt with ticket number and terms | Text and email
+Checked | Findings, price, ready date. Reply YES to approve | Text
+Waiting for part | Part ordered, new expected date | Text
+Ready | Ready to collect. Total [amount]. Open until [time] | Text
+Ready 7 days, uncollected | Reminder with storage terms | Text
+Collected | One review request | Text or email
+Service due | Time for a service, book here | Text or email
+
+### A quote text you can copy
+Sent when the mechanic records the check (edit the words in brackets):
+```
+Hi [first name], [shop name] here about ticket [number] ([bike]). We've checked it over. Along with the [service booked], it needs [parts or work], because [plain reason]. The total would be [price] including parts, ready by [day]. Reply YES to go ahead with everything, or SERVICE ONLY for just the service, and we'll have it ready as agreed. Questions? Call [phone].
+```
+
+### E-bikes: what to record at drop-off
+E-bikes need a few extra lines on the drop-off receipt: battery and charger received or not, the motor system, and whether the customer has reported any fault with the electrics. In Great Britain, gov.uk's rules for electrically assisted pedal cycles say an EAPC's motor must have a continuous rated power output of no more than 250 watts and must not propel the bike when it is travelling at more than 15.5 mph; a bike outside those limits is treated as a motor vehicle and must be registered and taxed. If a customer asks you to alter a bike beyond those limits, your workshop policy decides, and the record should show what was asked and what you did. The workflow can add the e-bike lines to the receipt automatically when the bike type is set. Check gov.uk for the current rules; a government consultation has proposed changes.
+
+### What UK consumer law expects of a repair
+The Consumer Rights Act 2015 treats every contract to supply a service as including a term that the trader must perform it with reasonable care and skill (section 49), and, where no time is fixed, within a reasonable time (section 52). Prices and times you state to the customer can become part of the contract, which is a good reason to put them in a message the customer approves rather than agree them at the counter. The workflow records what was said and what the customer replied. Check legislation.gov.uk for the current text. US shops should check their state's consumer protection rules.
+
+### Where bike shops lose time
+- Customers ring for updates because nobody told them the mechanic's findings
+- Extra parts are fitted without a recorded yes and the bill is disputed
+- Bikes sit on the rack for weeks after they're ready, taking space with no storage terms applied
+- Spring bookings arrive in one fortnight because nobody sent service reminders in February; the same fix as [garage MOT reminders](https://mikeautomations.github.io/en/garage-mot-reminders/)
+- Calls go unanswered when the shop floor is busy, which a [missed-call text-back](https://mikeautomations.github.io/en/missed-call-text-back-contractors/) solves
+- Reviews are never asked for, as [this guide](https://mikeautomations.github.io/en/blog/ask-for-google-reviews-automatically/) explains
+
+### What stays with you
+Diagnosis, pricing, the repair itself, your e-bike policy and your terms. The workflow sends the right message when a status changes, records approvals and reminds you about stuck jobs. It never approves work for the customer or changes a price. If AI drafts a reply to a customer question, a person approves it first.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how jobs move through your workshop today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already have: your till or workshop software where it allows a connection, or a simple shared board, plus texts, email, a booking page and your payment link. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your shop first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=bike-shop-service-bookings-and-repair-updates).
+
+### Does it work with our workshop software?
+Yes, where the software allows an export or a connection. A shared board with the job statuses works too.
+
+### Can the customer approve part of the work?
+Yes. The quote can offer choices, such as the service only or the service plus the extra parts, and the reply is recorded.
+
+### Can it handle e-bikes differently?
+Yes. When the bike type is set to e-bike, the receipt adds the battery, charger and motor lines, and any extra checks you specify.
+
+### Do customers get too many messages?
+One per status change, in your words. A typical service is five or six messages from booking to collection.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Sign and print shop artwork approvals that get a recorded yes before anything prints
+Source: https://mikeautomations.github.io/en/sign-and-print-shop-artwork-approvals/
+
+An artwork approval workflow for sign and print shops collects the customer's files against your specification, sends each proof with a clear approve or request-changes choice, chases until the customer answers, and records the approved proof version with the date and the name of the person who approved it before the job is released to production. It then sends the deposit request, production updates and the ready or install message, so a reprint argument is settled by the record rather than by memory. The shop still designs, checks files and prints.
+
+Sign and print shop artwork approvals are where a job's margin disappears. The customer sends a logo as a screenshot, the proof goes out by email, the customer replies "looks good" to a different proof, and the finished sign has last year's phone number. Reprinting costs the shop the job's profit and the customer's trust. This page sets out a workflow that collects files against your spec, sends proofs with a recorded approval, holds production until that approval exists, and keeps the customer informed through production to collection or installation. It also covers who owns the artwork, which matters more than most shops realise.
+
+### What the workflow does, enquiry to installed sign
+1. Enquiries get a reply with what you need to quote: size, material, quantity, single or double sided, where it's going, and your artwork specification.
+2. The quote goes out with the deposit amount, your terms and the lead time from approval, not from order.
+3. When the customer accepts, a file intake link collects the artwork with your spec shown: file types, resolution, bleed, fonts outlined, colour mode. Files that miss the spec get an automatic note asking for the right version.
+4. Your designer prepares the proof and uploads it. The customer gets it with two buttons: approve, or request changes with a comment box.
+5. If there's no answer, the customer is reminded on your schedule. Each new proof version is numbered; approvals are tied to a version.
+6. When a proof is approved, the record saves the version, the date, the time and the approver's name, and the job is released to production. Nothing prints before this.
+7. The customer gets production updates at the stages you choose, then a ready-to-collect or install-booked message, and the invoice.
+8. After collection or installation, one review request goes out with a photo of the finished job if you took one.
+
+### An artwork specification table you can copy
+Show this on your file intake page and in the quote. Adjust to your equipment:
+Item | What you need | Why
+--- | --- | ---
+File type | PDF, AI or EPS for vector; TIFF or high-resolution JPEG for photos | Vector scales cleanly; screenshots don't
+Colour | CMYK for print; note any brand colour references | Screen colours (RGB) print differently
+Fonts | Outlined or converted to curves, or the font files supplied | Missing fonts substitute silently
+Bleed and safe area | Your figure, stated in millimetres or inches | Trimming is never perfect
+Size | Final size at 100% or a stated scale | Avoids guessing
+Approval | One named person approves each proof version | Settles who said yes to what
+
+### A proof message you can copy
+Sent with each proof version (edit the words in brackets):
+```
+Hi [first name], proof [version number] for your [job description] is ready: [link]. Please check every word, number and colour, and the size shown. If it's right, tap Approve. If anything needs changing, tap Request changes and tell us what. We print only from an approved proof, so the lead time of [lead time] starts when you approve. Thanks, [your name], [shop name]
+```
+
+### Who owns the artwork
+If your designer creates artwork for a customer, the default position under the UK's Copyright, Designs and Patents Act 1988 is that the author is the first owner of copyright, and paying for a commission does not by itself transfer it. Gov.uk's guidance on ownership of copyright works says a contract is the way to settle who owns what. Decide your policy (keep it, assign it on full payment, or license it) and put it in your terms, so the customer who wants the file for a van wrap next year knows where they stand. The reverse matters too: when a customer supplies a logo or photos, your terms should say they confirm they have the right to use them. The workflow shows the terms at quote and at file intake and records that they were seen. US copyright law has a similar default for independent contractors; take advice on your own terms.
+
+### Where print jobs go wrong
+- The customer approves "the proof" when there were three, and the wrong one prints
+- Files arrive as screenshots and the designer rebuilds the logo unpaid
+- The lead time is counted from the order date while the customer sits on the proof for a week
+- Deposits aren't taken and the approved sign is never collected
+- Install dates are agreed by phone and nobody books the access or the fitter
+- Changes after approval are done for free because nobody can show when approval happened; the [change order workflow](https://mikeautomations.github.io/en/change-order-approval-workflow/) covers the same problem on sites
+- Agencies face the same approval chaos, as [this guide to client approvals](https://mikeautomations.github.io/en/blog/agency-client-approvals/) explains
+
+### What stays with you
+Design, preflight checks, pricing, materials and the decision to print. The workflow collects files against your spec, sends proofs, records approvals and keeps the customer informed. It never approves a proof for the customer or releases a job without the record. If AI drafts a reply to a customer question, a person approves it first.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how proofs and approvals run in your shop today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: email, your shared drive, a form, texts or WhatsApp, and your invoicing or payment tool. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your shop first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=sign-and-print-shop-artwork-approvals).
+
+### Can several people at the customer approve?
+You decide who can approve for each customer. The record shows which named person approved which version.
+
+### What if the customer approves and then wants a change?
+The change is requested through the same flow, and you decide whether it costs anything. The new proof gets a new version number and a new approval.
+
+### Does it check the files?
+It checks what can be checked automatically, such as file type and resolution, and asks for the right version. Your designer still does the real preflight.
+
+### Can it book the installer?
+Yes. When a job is ready, the install date is offered from your calendar and confirmed to the customer with access details.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Music school lesson scheduling and term fees that run from one timetable
+Source: https://mikeautomations.github.io/en/music-school-lesson-scheduling-and-term-fees/
+
+A music school scheduling and fees workflow keeps one timetable of every student, teacher, room and lesson time, sends weekly lesson reminders and the term's invoice from it, offers make-up slots when a lesson is missed or a teacher is away, chases unpaid fees on your schedule, and collects exam entry details and fees before your board's closing date. Parents and adult students see one consistent message from the school rather than texts from individual teachers. The teachers still teach and decide who is ready for an exam.
+
+Music school lesson scheduling and term fees are a weekly tangle of texts between parents, teachers and whoever runs the office. A lesson is moved by a parent at 8 PM, the teacher doesn't see it, the room is double-booked, and the term invoice goes out with the old lesson count. Exam entry day arrives and three families haven't sent their forms. This page sets out a workflow that runs the timetable, the reminders, the make-up slots and the fees from one list, with the school approving every change to a teacher's day. It also covers the points to keep in mind when you hold children's details.
+
+### What the workflow does, each week and each term
+1. Enquiries get a reply with the instruments and teachers available, your fees, and a link to book a trial lesson.
+2. After the trial, the family gets a follow-up until they enrol or say no. Enrolment collects the student's details, the agreed slot and your terms in one form.
+3. Every student gets a reminder the day before their lesson, with the teacher, room and anything to bring.
+4. When a student cancels within your rules, or a teacher is away, the workflow offers the make-up slots that fit the teacher's timetable, and confirms the one the family picks.
+5. Before each term, the invoice is built from the timetable: lessons booked, length, fee, any credits for cancelled lessons under your terms.
+6. Fee reminders go to anyone unpaid by the due date, then on your schedule, and you see the list before the term starts.
+7. When a teacher marks a student ready for an exam, the family gets the board's dates, the fee and what the school needs by when, and is chased until it's in.
+8. At the end of term, families get the re-enrolment message with their slot for next term, confirm or release.
+
+### A term timeline you can copy
+When | Who | Message
+--- | --- | ---
+Enquiry | New family | Instruments, teachers, fees, trial booking link
+Day after trial | New family | How did it go? Enrol here. Follow-ups on day 4 and day 10
+Each week | Every student | Reminder the day before: time, teacher, room
+Teacher away | Affected students | Lesson cancelled, pick a make-up slot or take a credit
+3 weeks before term | All families | Term invoice built from the timetable, due date
+Due date passed | Unpaid | Fee reminder with payment link, then on your schedule
+Teacher marks exam-ready | The student's family | Exam dates, fee, what the school needs by when
+4 weeks before term ends | All families | Re-enrol: your slot next term, confirm or release
+
+### A teacher-absence message you can copy
+Sent to the affected families when the school approves the change (edit the words in brackets):
+```
+Hi [parent or student name], [teacher name] is unable to teach on [date], so [student name]'s [instrument] lesson at [time] won't go ahead. You can pick a make-up lesson here: [link with the slots that fit], or reply CREDIT and we'll credit this lesson against next term's invoice. Sorry for the change. [school name], [phone]
+```
+
+### Children, teachers and the checks that apply
+Most music schools teach children one to one. Messages about a child go to the parent or guardian on the record. In the UK, teaching children unsupervised is likely to count as regulated activity, and gov.uk's eligibility guidance sets out which level of Disclosure and Barring Service check a role needs; an Enhanced check with a barred list check is the level for regulated activity with children. Those checks are a staffing matter for the school, outside the workflow, but the workflow can hold each teacher's check date and remind you before a renewal you have set. In the US, background check requirements vary by state. Keep medical and safeguarding notes with the register, not in messages, and see the [GDPR checklist](https://mikeautomations.github.io/en/blog/gdpr-checklist-automating-client-data/) for the data points when you automate.
+
+### Where music schools lose time and fees
+- Lesson changes are agreed between a parent and a teacher by text, and the office finds out when the room is double-booked
+- Term invoices are built by hand from a timetable that changed three times
+- Fees are paid late because nobody chased, which [termly invoice reminders](https://mikeautomations.github.io/en/tutoring-centre-enrolment-and-termly-invoices/) solve for tutoring centres the same way
+- Make-up lessons are promised and forgotten
+- Exam entries miss the closing date because the forms were in a parent's bag
+- Trial students who were nervous never hear from the school again; [replying to enquiries fast](https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/) and a follow-up fix that
+- The same problems appear for [swim schools](https://mikeautomations.github.io/en/swim-school-term-bookings-and-waiting-list/) and [driving instructors](https://mikeautomations.github.io/en/driving-instructor-lesson-bookings-and-test-reminders/)
+
+### What stays with you
+Teaching, exam readiness, fees, your cancellation terms and every change to a teacher's timetable. The workflow sends your words, offers only the slots you've allowed, builds invoices from the timetable you approve and records payments. It never moves a lesson without a rule you set. If AI drafts a reply to a parent, a person approves it first.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how the timetable and fees run today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: a shared calendar or your school software where it allows a connection, a spreadsheet, email, texts or WhatsApp, and your payment link or invoicing tool. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your school first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=music-school-lesson-scheduling-and-term-fees).
+
+### Can teachers still manage their own timetables?
+Teachers set their availability and mark absences. Changes to a student's lesson go through the workflow so the office, the teacher and the family all see the same thing.
+
+### How are credits for cancelled lessons handled?
+By your terms. The workflow applies the rule you set (for example, credit only when the school cancels) and shows credits on the next term's invoice.
+
+### Does it register students for exams?
+It collects the details and fees from the family and reminds them before your closing date. Entering students with the exam board stays with the school.
+
+### Does it work for adult students?
+Yes. Adult students get the same reminders and invoices, addressed to themselves.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Martial arts school memberships and gradings that run from one list
+Source: https://mikeautomations.github.io/en/martial-arts-school-memberships-and-gradings/
+
+A martial arts membership and grading workflow follows up every trial class until the student joins or says no, sends membership paperwork and payment requests, chases failed payments, tracks attendance against your grading requirements, and invites eligible students to the next grading with the date, fee and what to bring. Results and the next belt's requirements go out after the grading. Everything sits in one list of students, so the instructor teaches instead of chasing. The instructor still decides who is ready to grade.
+
+Martial arts school memberships and gradings are run, in most clubs, by the instructor on their phone between classes. A trial student comes once and nobody follows up. A direct debit fails and the student trains for two months unpaid. Grading day arrives and half the class didn't know they were eligible, while the other half turn up without the fee. This page sets out a workflow that handles trials, sign-ups, payments, attendance and gradings from one list, with the instructor approving every grading invitation. It also covers the UK consumer rules on membership contracts and what to keep for children's data.
+
+### What the workflow does
+1. Trial booking: every enquiry gets a reply with class times and a trial booking link. After the trial, the student gets a follow-up on your schedule until they join or say no.
+2. Sign-up: the membership form, your terms, the waiver and the payment set-up go out as one link. Signed documents are saved to the student's record.
+3. Payments: each month, failed or missed payments are chased politely, and anyone still unpaid after your deadline is flagged to you before they next train.
+4. Attendance: check-ins from your register or app are counted against your grading requirements for each belt.
+5. Grading eligibility: when a student meets the attendance and time requirements, the instructor is asked to approve. Only approved students get the invitation.
+6. Grading invitation: date, time, fee, what to bring and what will be tested, with a confirm link. Reminders go to anyone who hasn't confirmed.
+7. Results: after the grading, each student gets their result and the requirements for the next belt. Certificates or belts are logged as handed over.
+8. Lapsed students: anyone who hasn't trained for a period you set gets one check-in message, then goes on a list for a personal call.
+
+### A membership and grading timeline you can copy
+Trigger | Message | Who approves
+--- | --- | ---
+Enquiry | Class times, trial booking link | Automatic, in your words
+Trial attended | How was it? Join here. Follow-ups on day 2, 7 and 14 | Automatic
+Joined | Welcome, membership form, waiver, payment set-up, what to bring | Automatic
+Payment failed | Polite notice with a link to fix it; reminder after a week | You see the list
+Attendance met for next belt | Request to the instructor to approve | Instructor
+Approved | Grading invitation with date, fee, what to bring, confirm link | Instructor approved
+Grading done | Result and next belt requirements | Instructor enters results
+No training for 4 weeks | One check-in message, then call list | Automatic, then you
+
+### A grading invitation you can copy
+Sent after the instructor approves (edit the words in brackets):
+```
+Hi [student or parent name], [instructor name] has confirmed that [student name] is ready to grade for [belt] at our grading on [date] at [time], [venue]. The grading fee is [fee]. Please bring [items] and arrive by [arrival time]. The grading covers [syllabus summary]. Confirm here by [date]: [link]. Any questions, reply to this message. [school name]
+```
+
+### Membership contracts and the UK rules
+Membership terms are a consumer contract. In the UK, the Competition and Markets Authority's guidance on unfair contract terms (CMA37) replaced the earlier sector guidance for health and fitness clubs when the Consumer Rights Act 2015 came into force, and the CMA's enforcement history in the gym sector shows that terms locking members into long minimum periods with no fair way to cancel have been found unfair by the courts. Keep your terms plain: the minimum period, how to cancel, what happens when a payment fails, and how fees change. The workflow puts the terms in front of the member before they sign and records that they saw them. In the US, automatic renewal and cancellation rules vary by state; check yours. Nothing here is legal advice; check gov.uk and take advice on your own terms.
+
+### Children, parents and data
+Most clubs teach children. Messages about a child go to the parent or guardian on the record, never to the child's number. Keep medical notes with the register, not in messages. In the UK, anyone instructing children unsupervised is likely to be in regulated activity, and the gov.uk eligibility guidance sets out which level of DBS check applies; that is a staffing matter outside this workflow. For the data points when you automate, see the [GDPR checklist](https://mikeautomations.github.io/en/blog/gdpr-checklist-automating-client-data/).
+
+### Where clubs usually lose students
+- Trial students are never followed up, so the ones who were nervous never come back; the same fix as the [fitness studio intro offer](https://mikeautomations.github.io/en/fitness-studio-intro-offer-follow-up/)
+- Failed payments are noticed at the end of the quarter; [gym failed payment follow-up](https://mikeautomations.github.io/en/gym-failed-payment-follow-up/) covers the chasing
+- Grading eligibility lives in the instructor's head, and students who were ready get missed
+- Grading fees are collected in cash on the day and the list doesn't match the money
+- Students who stop coming are only noticed when the mat is quiet
+- Reviews are never asked for, as [this guide to review requests](https://mikeautomations.github.io/en/blog/ask-for-google-reviews-automatically/) explains
+
+### What stays with you
+Teaching, syllabus, who is ready to grade and the result on the day. The workflow counts attendance, sends your words, records payments and confirmations, and asks you before any grading invitation goes out. It never promotes a student. If AI drafts a reply to a parent, a person approves it first.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how trials, payments and gradings run in your club today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: your register or club software where it allows a connection, or a spreadsheet, plus texts, email or WhatsApp, an e-signature tool and your payment provider. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your club first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=martial-arts-school-memberships-and-gradings).
+
+### Does it work with our club management app?
+Yes, where the app allows an export or a connection. A register in a spreadsheet works too.
+
+### Can it invite students to grade without the instructor?
+No. It tells the instructor who has met the attendance and time requirements. Only students the instructor approves get an invitation.
+
+### Does it take grading fees?
+It sends your payment link with the invitation and records who has paid, so the list on the day matches the money.
+
+### What about students who pay cash?
+You mark them paid in the list and the reminders stop. The record stays the same.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Swim school term bookings and a waiting list that fills places itself
+Source: https://mikeautomations.github.io/en/swim-school-term-bookings-and-waiting-list/
+
+A swim school term booking workflow asks every current family to re-enrol before the term ends, sends term fee requests and reminders, offers each freed place to the right families on the waiting list by age and stage, and confirms the new class with the time, pool and what to bring. It keeps one list of every swimmer with their stage, class, payment status and waiting list position, so places are filled in hours rather than sitting empty for a term. The teachers still decide when a swimmer moves up.
+
+Swim school term bookings and the waiting list are a seasonal admin crunch. Four times a year, every family needs to re-enrol, pay and confirm their slot, while a hundred names on a waiting list want to know when a place will come up. The spreadsheet is updated at the poolside between classes and the email inbox fills with "has my payment gone through?". This page sets out a workflow that runs re-enrolment on a timeline, chases fees, fills cancelled places from the waiting list automatically, and confirms stage moves to parents, so the office spends the term teaching rather than emailing.
+
+### What the workflow does, each term
+1. Four weeks before the term ends, every current family gets a re-enrolment message with their swimmer's class, day and time for next term, the fee and a confirm or release link.
+2. Families who confirm get the fee request; payment is recorded as it arrives and a receipt goes out.
+3. Families who don't reply get reminders on your schedule, then a final notice that the place will be released on a date.
+4. Released places are matched to the waiting list by age, stage and preferred day, and offered to the first matching family with a time limit to accept.
+5. If they don't accept in time, the place goes to the next family. Accepted places get a confirmation with the pool, time, what to bring and your policies.
+6. Term fee reminders go to anyone unpaid by the due date, then on your schedule until paid or the place is released.
+7. When a teacher records a stage pass, the parent gets a message with the new stage, what it means and whether the class changes.
+8. A week before term, every family gets a start-of-term message; mid-term, anyone who has missed several classes gets a check-in.
+
+### A term timeline you can copy
+When | Who gets it | What it says
+--- | --- | ---
+4 weeks before term ends | All current families | Re-enrol for next term: class, time, fee, confirm or release
+2 weeks before | Not yet confirmed | Reminder, place held until [date]
+1 week before | Still not confirmed | Final notice, place released on [date]
+Release date | Waiting list, best match first | A place has come up: day, time, stage, accept within [hours]
+Fee due date | Confirmed, unpaid | Fee reminder with payment link
+1 week before new term | All enrolled | Start date, pool, what to bring, policies
+Stage pass recorded | The swimmer's family | New stage, what changes
+
+### A waiting list offer you can copy
+Sent when a matching place is released (edit the words in brackets):
+```
+Hi [first name], good news from [swim school]. A place has come up for [child's name] in our [stage] class on [day] at [time] at [pool], starting [date]. The term fee is [fee]. To take it, tap here within [hours] hours: [link]. If we don't hear back, we'll offer it to the next family and keep [child's name] on the list. [your name]
+```
+
+### Stages, school swimming and what to tell parents
+Parents often ask how lessons relate to school swimming. In England, the national curriculum for physical education says every primary school must provide swimming instruction in key stage 1 or key stage 2, and that pupils should be taught to swim competently, confidently and proficiently over a distance of at least 25 metres, use a range of strokes effectively, and perform safe self-rescue in different water-based situations. Your own stage framework is yours to define; the workflow simply tells parents when a stage is passed and what the next class covers, in your words. Teachers record the pass; the message follows. Check gov.uk for the current curriculum wording.
+
+### Safeguarding and data
+A swim school holds children's names, dates of birth, medical notes and photos. Keep the booking list to what you need, keep medical notes with the register rather than in messages, and never put a child's details in a message to another family. In the UK, anyone teaching children unsupervised is likely to be in regulated activity, and the gov.uk eligibility guidance sets out which level of DBS check applies. Those are staff matters outside this workflow; for data points when you automate, see the [GDPR checklist](https://mikeautomations.github.io/en/blog/gdpr-checklist-automating-client-data/).
+
+### Where term bookings usually go wrong
+- Re-enrolment is left to the last week, so the office answers two hundred messages in five days
+- A cancelled place sits empty for a term because nobody worked through the waiting list
+- Payments arrive by bank transfer with a child's nickname as the reference
+- Stage passes are told to the parent at the poolside and forgotten by the time they book
+- Families on the waiting list hear nothing for months and go elsewhere; [replying to enquiries fast](https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/) applies to waiting lists too
+- The same chasing problems appear for [tutoring centres](https://mikeautomations.github.io/en/tutoring-centre-enrolment-and-termly-invoices/) and [nurseries](https://mikeautomations.github.io/en/nursery-enrolment-and-waiting-list/)
+
+### What stays with you
+Teaching, stage decisions, class sizes, fees and your policies. The workflow sends your words on your timeline, records confirmations and payments, and works through the waiting list in the order you set. It doesn't move a swimmer up or take a child off a list without your rule saying so. If AI drafts a reply to a parent, a person approves it first.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how re-enrolment and the waiting list run today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: a spreadsheet or your booking software where it allows a connection, email, texts or WhatsApp, and your payment link. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your school first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=swim-school-term-bookings-and-waiting-list).
+
+### Does it work with our booking software?
+Yes, where the software allows an export or a connection. Many schools start from a spreadsheet, and that's fine.
+
+### How does it choose who gets a freed place?
+By the rules you set: age, stage, preferred day and time, and the order they joined the list. You can see and change the order.
+
+### Can parents pay by instalments?
+If you offer that, the workflow sends each instalment request on its date and records payments. The terms are yours.
+
+### What about children with medical notes?
+Medical notes stay with the register in your system. The workflow only uses what it needs to send messages and fill places.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Hearing care recall reminders that bring patients back on time
+Source: https://mikeautomations.github.io/en/hearing-care-recall-reminders/
+
+Hearing care recall reminders are messages that tell each patient when their next hearing check, hearing aid service or follow-up is due and invite them to book, sent from one list of every patient with their last appointment, their devices and their warranty dates. A recall workflow sends the reminders on your schedule, confirms bookings, reminds patients the day before, and flags anyone who hasn't rebooked, so the practice's diary fills from its own patient list rather than from new enquiries. The audiologist still decides what care each patient needs.
+
+Hearing care recall reminders are the steadiest work in an independent audiology practice, and the easiest to let slip. Every patient with hearing aids needs regular checks, cleaning and adjustments, and every device has a warranty that runs out on a date you already hold. Yet most recalls still start from a report someone remembers to run in a quiet week. This page sets out a recall schedule you can copy, the messages to send, how to handle patients who prefer a phone call, and the regulatory points for the UK and the US. It does not touch clinical content: what a patient needs is always the audiologist's decision.
+
+### What the workflow does
+1. Keeps one list of every patient with their last appointment, their devices and purchase dates, warranty end dates and preferred contact method, from your practice software or a spreadsheet.
+2. You set the recall intervals (for example an annual hearing check and a six-monthly service) and approve the message wording.
+3. Sends each patient their recall by their preferred channel: text, email, or a call list for those who want to be phoned.
+4. Confirms the booking, sends a reminder the day before, and asks the patient to bring their devices and any questions.
+5. After a fitting, sends the follow-up check-in on your schedule, with how to reach you if something isn't right.
+6. Before a warranty ends, tells the patient the date and invites them in for a check while it's covered.
+7. Reminds patients who buy consumables (batteries, wax guards, domes) when a reorder is likely due, if you offer that.
+8. Each week, lists everyone who passed their recall date without booking, for a personal call.
+
+### A recall schedule you can copy
+Set the intervals to match your clinical protocol. This is an example of the messages, not clinical advice:
+Trigger | When | Message
+--- | --- | ---
+New fitting | 1 to 2 weeks after | How are you getting on? Here's how to reach us, and your follow-up date
+Service due | 3 weeks before | Your hearing aids are due a clean and check. Book here or reply
+Service due | 1 week before, not booked | Short reminder
+Annual check | 4 weeks before | Your yearly hearing check is due. Book here
+Warranty ending | 2 months before | Your warranty ends on [date]. Book a check while it's covered
+Booked | Day before | See you tomorrow at [time]. Please bring your devices
+Missed recall | Weekly list | A person calls
+
+### A recall text you can copy
+Service recall, 3 weeks before (edit the words in brackets):
+```
+Hi [first name], it's [practice name]. Your hearing aids are due their [service type] around [month]. It takes about [duration] and keeps them working at their best. Book here: [link], reply with a day that suits you, or call [phone] and we'll find a time. [audiologist name]
+```
+
+### The regulatory points, UK and US
+- UK: hearing aid dispensers are regulated by the Health and Care Professions Council. The HCPC states that only a registered hearing aid dispenser may assess or test a person's hearing or prescribe a hearing aid in the private sector. Recall messages invite patients to book; they don't assess anything.
+- UK: if your messages promote products or services beyond the recall, the ICO's direct marketing rules apply. A recall for care the patient already receives is a service message; a battery offer is marketing. Keep the two apart and keep a record of each patient's permission.
+- US: the FDA's over-the-counter hearing aid rule, published in the Federal Register in August 2022, allows adults 18 and over with perceived mild to moderate hearing loss to buy certain hearing aids without a prescription. Practices that see OTC users for checks can recall them the same way.
+- US: marketing text messages sent with automated systems need the recipient's prior express written consent under the Telephone Consumer Protection Act rules enforced by the FCC. Appointment reminders are treated differently from marketing; take advice and record consent for anything promotional.
+- Everywhere: patient records are health data. Keep the recall list to the minimum (name, contact, dates, devices) and keep clinical notes in your practice system.
+
+### Where recalls usually break
+- Recall reports are run when the diary is quiet, so busy months produce no recalls at all
+- Older patients who prefer a phone call get a text they never open; the workflow puts them on a call list instead
+- Warranty dates sit in a drawer with the receipts
+- Fitting follow-ups depend on the audiologist remembering, which [physio rebooking reminders](https://mikeautomations.github.io/en/physio-rebooking-reminders/) and [dental recall follow-up](https://mikeautomations.github.io/en/dental-recall-follow-up/) solve the same way
+- Patients cancel late or forget, which [reducing no-shows](https://mikeautomations.github.io/en/blog/reduce-appointment-no-shows/) covers
+- Nobody asks happy patients for a review, so new patients find the chain down the road first
+
+### What stays with you
+Every clinical decision, every recall interval and every conversation about a patient's hearing. The workflow sends your words on your schedule, records bookings and replies, and gives you the list of people to call. It never assesses, advises or prescribes. If AI drafts a reply to a patient question, a person approves it first.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how recalls run in your practice today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: your practice software where it allows an export or connection, or a spreadsheet, plus texts, email and your booking page. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your practice first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=hearing-care-recall-reminders).
+
+### Does it work with our practice management software?
+Yes, where the software allows an export or a connection. If not, a spreadsheet with the dates is enough to start.
+
+### Many of our patients prefer a phone call. Does that work?
+Yes. Each patient has a preferred contact method. Those who prefer calls go on a list with the reason for the call, instead of getting a text.
+
+### Is a recall reminder marketing?
+A reminder for care the patient already receives is a service message. Offers for products are marketing, with consent rules in the UK (ICO) and the US (FCC). Keep them separate; the workflow can.
+
+### Can it send the warranty end date?
+Yes, if you record purchase dates and warranty periods. The message goes out on the schedule you set before the warranty ends.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Phone repair shop job updates that stop the "is it ready yet?" calls
+Source: https://mikeautomations.github.io/en/phone-repair-shop-job-updates/
+
+A phone repair job update workflow gives every device a record from check-in: the customer gets a receipt with the fault and the passcode arrangement, then the diagnosis and price to approve by text, a message if a part is delayed, a ready-for-collection text with the total, and one review request after collection. Each status change in your till or repair software, or on a simple board, triggers the right message, so the technician fixes phones instead of answering the phone. The shop still diagnoses, prices and repairs.
+
+Phone repair shop job updates are the same five messages, sent hundreds of times a month, usually late. The customer drops a phone off, hears nothing, and rings twice before lunch. The technician stops work to answer, then forgets to ask approval for the extra part, then the customer comes in before it's ready. This page sets out a workflow that sends each message when the job status changes, records the customer's approval before any chargeable work, and gives you a daily list of jobs that have been waiting too long. It also covers what UK consumer law expects of a repair service.
+
+### The messages, in order
+1. Check-in receipt: the device, the fault as described, the ticket number, how you handle passcodes and data, your terms, and when to expect a diagnosis.
+2. Diagnosis and quote: what's wrong, what you'll do, the price, how long it takes and the warranty you give. The customer replies yes or no, or taps a link. The reply is saved on the job.
+3. Parts delay: if a part isn't in stock, the customer is told the new date without having to ask, and again if it slips.
+4. Extra work found: a second approval request, in the same format, before any additional chargeable work.
+5. Ready for collection: the total, how to pay, your opening hours and what to bring (the ticket, ID if you ask for it).
+6. Not collected: a reminder after a week, then on the schedule in your terms, until the device is collected.
+7. After collection: one message a few days later asking how it went, with a link to your review page. Sent once.
+
+### A status-to-message table you can copy
+Status in your system | Message | Channel
+--- | --- | ---
+Checked in | Receipt with ticket number, fault, passcode and data note, terms | Text and email
+Diagnosed | Fault, fix, price, time, warranty. Reply YES to approve | Text
+Approved | Thanks, we've started. Expected ready: [date] | Text
+Waiting for part | Part ordered, new expected date | Text
+Ready | Ready to collect. Total [amount]. Open until [time] | Text
+Ready 7 days, not collected | Reminder, plus your storage terms | Text
+Collected | One review request after a few days | Text or email
+
+### A diagnosis and quote text you can copy
+Sent when the technician records the diagnosis (edit the words in brackets):
+```
+Hi [first name], [shop name] here about ticket [number] ([device]). The fault is [fault in plain words]. We can fix it by [repair], for [price] including the part, ready by [day]. Our repairs come with a [warranty period] warranty on the part and the work. Reply YES to go ahead or NO and we'll have it ready to collect as it is. Questions? Call [phone].
+```
+
+### What UK consumer law expects of a repair
+The Consumer Rights Act 2015 treats every contract to supply a service as including a term that the trader must perform it with reasonable care and skill (section 49), and, where no time is fixed, within a reasonable time (section 52). Information you give the customer about the service, such as the price and the time, can become part of the contract. That is a good reason to put the price, the time and the warranty in a message the customer approves, rather than agreeing them at the counter. The workflow records what was said, when, and what the customer replied. Check the current text on legislation.gov.uk before you rely on it. US shops should check their state's consumer protection rules.
+
+### Passcodes, data and privacy
+Customers hand you a device full of personal data. Your check-in message should say how you handle passcodes, whether you need one, and what you do and don't look at. In the UK, the ICO is the regulator for personal data; keep passcodes only as long as the repair needs them and delete them from your records afterwards. The workflow can store the passcode arrangement as a yes or no flag rather than the code itself, and remind the technician to clear it when the job closes. For wider privacy points when you automate customer data, see the [GDPR checklist](https://mikeautomations.github.io/en/blog/gdpr-checklist-automating-client-data/).
+
+### Where repair shops lose time
+- Customers ring for updates because nobody told them the diagnosis, so the technician is answering the phone instead of repairing
+- Extra work is done without a recorded approval and the customer disputes the bill
+- Parts delays are discovered by the customer at the counter
+- Repaired devices sit on the shelf for weeks, with no reminders and no storage terms applied
+- Walk-in quotes are given verbally and the customer comes back quoting a different price; [quote follow-up](https://mikeautomations.github.io/en/whatsapp-quote-follow-up-tradespeople/) covers the same problem for trades
+- Calls go unanswered when the shop is busy, which a [missed-call text-back](https://mikeautomations.github.io/en/missed-call-text-back-contractors/) fixes
+
+### What stays with you
+Diagnosis, pricing, the repair itself and every decision about data and passcodes. The workflow sends the right message when you change a status, records approvals and reminds you of jobs that are stuck. It never approves work on the customer's behalf or changes a price. If AI drafts a reply to a customer question, a person approves it first.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how jobs move through your shop today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already have: your till or repair software where it allows a connection, or a simple shared board, plus texts, email and your payment link. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your shop first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=phone-repair-shop-job-updates).
+
+### Does it work with my repair software?
+Yes, where the software allows an export or a connection. If it doesn't, a simple shared board with the job statuses does the same job.
+
+### What if the customer doesn't reply to the quote?
+A reminder goes out on your schedule, and the job shows on your list as waiting for approval. Nothing chargeable happens until they say yes.
+
+### Can it store passcodes safely?
+It can record that a passcode was provided without storing the code itself, and remind the technician to clear it when the job closes. How you store codes during the repair is your decision.
+
+### Will customers get too many texts?
+They get one message per status change, in your words. Most jobs are four or five messages from check-in to collection.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Custom cake orders and deposits that don't live in your DMs
+Source: https://mikeautomations.github.io/en/custom-cake-orders-and-deposits/
+
+A custom cake order workflow replies to each enquiry with your lead time and starting prices, collects the design details, date, servings and allergen requirements on one form, sends the deposit request and the balance reminder on your schedule, and confirms the collection or delivery slot the day before. Every order sits in one record with the confirmed design and the allergen answers, so the weekend's bakes are built from a list rather than from scrolling messages. The baker still designs, prices and bakes.
+
+Custom cake orders and deposits usually run through a phone: an enquiry on Instagram, a photo of a design, a deposit by bank transfer with no reference, and a collection time agreed three weeks ago in a thread you can't find. The cake is wonderful and the admin is a mess. This page sets out a workflow that answers enquiries while your hands are covered in buttercream, collects every detail once, takes the deposit and the balance on time, and sends the collection message the day before. It also covers the allergen information the UK's Food Standards Agency says a food business must provide.
+
+### What the workflow does, enquiry to collection
+1. Every enquiry from your website form, email or social inbox gets a reply within minutes: whether the date is free, your lead time, your starting prices by size, and a link to the order form.
+2. The order form collects the date, servings, flavours, design notes and photos, delivery or collection, and the allergen question in your words.
+3. You price the order and approve the quote. The customer gets it with the deposit request, your terms and the date the slot is held until.
+4. When the deposit is paid, the order is confirmed, the date is blocked and the customer gets a confirmation that repeats the design, flavours and the allergen answers.
+5. On your schedule, the balance reminder goes out, with a reminder a few days later if unpaid.
+6. The day before, the customer gets the collection or delivery time, your address or theirs, and how to carry and store the cake.
+7. Each week you get the bake list: every order for the coming days with design, flavours, servings, allergen notes and payment status.
+8. A few days after the event, one message asks how it went and links to your review page.
+
+### Allergen information: what the UK rules say
+The Food Standards Agency says that if you provide non-prepacked food, you must supply allergen information for every item that contains any of the 14 allergens, and that written information supported by a conversation works best. A bespoke cake is non-prepacked food. The workflow asks the allergen question on the order form in your words, records the customer's answer, repeats it in the confirmation, and prints it on your bake list and the collection label. It does not decide what is safe to bake: you do. If you also sell packaged cakes from a counter, the prepacked for direct sale rules are different and are not covered here. Check food.gov.uk for the current guidance, and your local authority for registration. US bakers should check their state's rules on home and cottage food production.
+
+### A deposit and balance schedule you can copy
+When | Channel | What it says
+--- | --- | ---
+Enquiry day | Email or message | Date free or not, lead time, starting prices, order form link
+Quote sent | Email and text | Price, design summary, deposit amount, your terms, slot held until [date]
+Deposit paid | Email | Confirmed: design, flavours, servings, allergen answers, collection date
+2 weeks before | Text | Balance due by [date], payment link
+1 week before, unpaid | Text | Reminder: balance still due
+Day before | Text | Collection time, address, how to carry and store the cake
+3 days after | Email | How did it go? One review request
+
+### An enquiry reply you can copy
+First reply to a cake enquiry (edit the words in brackets):
+```
+Hi [first name], thanks for your message about a cake for [date]. Good news, I have that date free. My custom cakes start from [price] for [servings] servings, and I need at least [lead time] notice. To get you a price, fill in this short form with the design, flavours and any allergies: [form link]. I'll come back with a quote and a deposit link within [time]. [your name], [business name]
+```
+
+### Cancellations and the consumer rules
+Your terms set the deposit, when the balance is due and what happens if the customer cancels. In the UK, the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 give consumers a 14-day right to cancel many contracts made online or by phone, but regulation 28 excludes goods made to the consumer's specification or clearly personalised, and goods liable to deteriorate or expire rapidly. A custom cake is both. You still have to give the required pre-contract information, so put your terms in the quote and make sure the customer sees them before they pay. The workflow does that and records it. US rules differ by state. Check the current rules on legislation.gov.uk before you rely on them.
+
+### Where cake orders usually go wrong
+- The deposit arrives by bank transfer with no reference and nobody knows whose it is
+- The design was agreed from a photo in a thread and the customer remembers a different photo
+- Allergies were mentioned in a voice note and never written down
+- Two orders are taken for the same Saturday because the diary is in your head
+- The balance is still unpaid on collection day, which [payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/) prevent
+- Enquiries sit unanswered during a bake, as [replying to enquiries fast](https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/) explains
+- Group orders for events need the same final-numbers discipline as a [caterer](https://mikeautomations.github.io/en/catering-quotes-and-final-numbers/)
+
+### What stays with you
+Design, pricing, what you are willing to bake and every food safety decision. The workflow replies in your words, collects the details once, sends the payment requests and keeps the record. It does not promise a date you haven't opened or decide an allergen question. If AI drafts a reply, a person approves it before it goes out.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how orders come in and get paid today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: a form, email, WhatsApp or texts, your payment link, a spreadsheet and your calendar. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your bakery first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=custom-cake-orders-and-deposits).
+
+### Can it reply to Instagram and Facebook messages?
+It replies to the channels we connect: your website form and email always, and social inboxes where the platform allows it. Where it can't, you get an alert and a reply to paste.
+
+### Does it take payments?
+It sends your payment link or bank details and records when the deposit and balance are paid. The money goes to you as it does now.
+
+### What happens if two people want the same date?
+The workflow knows how many orders you take per day. When a date is full, the enquiry reply says so and offers the nearest free dates.
+
+### Can it print labels with the allergen information?
+Yes. The confirmed order, including the allergen answers in your wording, can be printed as a bake sheet and a box label.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Florist wedding and event orders, from the first enquiry to delivery day
+Source: https://mikeautomations.github.io/en/florist-wedding-and-event-orders/
+
+A wedding and event order workflow for florists replies to every enquiry with your availability and starting prices, books the consultation, sends the proposal and deposit request, and then collects the final details (counts, colours, venue access, delivery times) on a timeline you set before the event. Everything for one event sits in one record, so the week-before checklist is built from what the couple actually confirmed. The florist still designs, prices and makes the flowers.
+
+Florist wedding and event orders are the most profitable work in the shop and the easiest to lose track of. An enquiry arrives on Instagram, a consultation is booked by text, the proposal goes out by email, and the final count changes twice on WhatsApp. By the week of the wedding, the details live in four places and you are rereading messages at midnight. This page sets out a workflow that keeps every event in one record, replies to enquiries while you are at the bench, and collects the final details on a schedule, so Friday's weddings are built from a checklist rather than a memory.
+
+### What the workflow does, enquiry to delivery
+1. Every enquiry from your website form, email or social inbox gets a reply within minutes: the date is free or not, your starting prices, and a link to book a consultation.
+2. The consultation booking confirms the time and asks the couple to send inspiration photos, the venue and their rough budget beforehand.
+3. After the consultation, you write the proposal in your template and the workflow sends it with the deposit request and the date the quote holds until.
+4. If there is no reply, the couple gets a gentle follow-up on your schedule.
+5. When they pay the deposit, the event is booked, the date is blocked in your calendar and a timeline of what you'll ask for and when goes to the couple.
+6. On the timeline, the workflow asks for the final count of tables and bouquets, colour changes, venue contact and access times, delivery and collection windows, and chases until each item is answered.
+7. The week before, you get a checklist built from the confirmed record: items, quantities, delivery stops and times, venue contact, and anything still missing.
+8. The day after, the couple gets a thank-you and one request for a review, sent once.
+
+### A timeline you can copy
+Set the timing to suit how you order flowers. This assumes a wedding booked months ahead:
+When | What the couple gets | What you get
+--- | --- | ---
+Enquiry day | Availability, starting prices, consultation link | A new record with the date and venue
+After consultation | Proposal, deposit request, quote expiry date | Reminder if unpaid after a week
+Deposit paid | Confirmation and the timeline of what you'll ask for | Date blocked in the calendar
+8 weeks before | Request for colour or style changes and venue contact | Replies saved on the record
+4 weeks before | Final counts: tables, bouquets, buttonholes, installations | Chased until answered
+2 weeks before | Delivery and collection windows, access, balance due date | Order sheet draft
+Week of | Confirmation of times and stops | Checklist built from the record
+Day after | Thank-you and one review request | Record closed
+
+### An enquiry reply you can copy
+First reply to a wedding enquiry (edit the words in brackets):
+```
+Hi [first name], thank you for getting in touch about your wedding on [date] at [venue]. Good news, we have that date free. Our wedding flowers start from [starting price] for [what that covers], and most couples book a consultation first so we can talk through colours, style and budget: [booking link]. If you have photos you love, send them over before we talk. [your name], [shop name]
+```
+
+### Deposits, cancellations and the consumer rules
+Your terms set the deposit, when the balance is due and what happens if the couple cancels. Put them in the proposal, not in a message afterwards. In the UK, the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 give consumers a 14-day right to cancel many contracts made online or by phone, but regulation 28 lists exceptions that matter to florists: goods made to the consumer's specification or clearly personalised, and goods liable to deteriorate or expire rapidly. The pre-contract information you must give still applies, so state your terms clearly before the deposit is taken. US rules differ by state. Whatever your terms say, the workflow puts them in front of the couple before they pay and records that they saw them. Check the current rules on legislation.gov.uk before you rely on them.
+
+### Where wedding orders usually go wrong
+- Enquiries on social media sit for two days and the couple books elsewhere; [replying to enquiries fast](https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/) is the fix
+- The final count comes by voice note and the order is placed from the old number
+- The venue's access time is never asked for, and the van arrives to a locked gate
+- The balance is due the week of the wedding and nobody asked for it
+- The couple's changes live in three message threads; [getting clients to send what you need](https://mikeautomations.github.io/en/blog/get-clients-to-send-documents-on-time/) covers the chasing
+- Supplier and payment schedules for bigger events need the same discipline as a [wedding planner's](https://mikeautomations.github.io/en/wedding-planner-supplier-and-payment-schedules/)
+
+### What stays with you
+Design, pricing, sourcing and every conversation about how the flowers should feel. The workflow replies with your words, asks the questions you wrote on the dates you chose, and keeps the record. It does not design, promise availability you haven't set, or change a price. If AI drafts a reply, a person approves it before it goes out.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how enquiries and wedding orders run in your shop today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: your website form, email, WhatsApp or texts, a spreadsheet or your shop software, and your calendar. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your shop first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=florist-wedding-and-event-orders).
+
+### Can it reply to Instagram and Facebook messages?
+It replies to the channels we connect: your website form and email always, and social inboxes where the platform allows it. Where it can't, you get an alert and a draft to paste.
+
+### What if the couple changes the count after the deadline?
+The change is recorded with the date, and you decide whether it changes the price. The checklist updates from the record.
+
+### Does it take the deposit?
+It sends the request with your payment link or bank details and records when it's paid. The money goes to you as it does now.
+
+### Do I need special florist software?
+No. A spreadsheet, your email and your calendar are enough. If you already use shop software, it can start from that.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Painter and decorator quotes, colour sign-off and start-date messages that run themselves
+Source: https://mikeautomations.github.io/en/painters-decorators-quotes-and-colour-sign-off/
+
+A quote and colour sign-off workflow for painters and decorators sends each quote the same day as the visit, follows it up on a schedule until the customer answers, and then collects a written sign-off of every colour, finish and room before the first coat goes on. It records the paint name and code the customer chose, so a dispute about "that's not the colour I picked" is settled by the record, not by memory. The decorator still prices the job and advises on colours.
+
+Painter and decorator quotes and colour sign-off are the two places a decorating job goes wrong before it has started. The quote is sent late and never chased, or the customer picks a colour from a chart, changes their mind by text, and nobody writes it down. Then the hallway is the wrong grey and the argument is about who said what. This page sets out a workflow that follows up quotes on a schedule, collects a written sign-off of colours and finishes room by room, and keeps the customer informed about start dates, drying times and payment, so you spend your evenings not sending texts.
+
+### What the workflow does
+1. After the visit, you enter the rooms, surfaces, prep needed and price into your quote template, from your phone or the van.
+2. The customer gets the quote by email with a text saying it has arrived, how to accept and how long the price holds.
+3. If there is no reply, the customer gets short follow-ups on your schedule until they say yes, no or later.
+4. When they accept, a colour and finish sign-off form goes out: one line per room and surface, with the paint brand, colour name, code and finish to fill in or confirm.
+5. You check the sign-off and the customer confirms it. The confirmed list is saved with the job, and nothing is bought until it is confirmed.
+6. A deposit request goes out if you take one, then the start date is confirmed, with what the customer needs to do before you arrive.
+7. During the job, the customer gets a short update at the end of each day you choose, and a completion message with photos and the invoice at the end.
+
+### The colour sign-off list
+This is the part that saves the most trouble. One row per surface, confirmed in writing before any paint is ordered:
+Room | Surface | Brand and colour | Code | Finish | Coats
+--- | --- | --- | --- | --- | ---
+Hallway | Walls | [brand] [colour name] | [code] | Matt | 2
+Hallway | Woodwork | [brand] [colour name] | [code] | Satin | 2 plus primer
+Living room | Ceiling | [brand] [colour name] | [code] | Matt | 2
+Living room | Feature wall | [brand] [colour name] | [code] | Matt | 2
+Kitchen | Walls | [brand] [colour name] | [code] | Durable matt | 2
+
+### A colour sign-off message you can copy
+Sent when the quote is accepted (edit the words in brackets):
+```
+Hi [first name], great news, thanks for going ahead. Before I order paint, please confirm the colours and finishes here: [link]. It lists every room and surface with the brand, colour name and code. If a line is wrong, change it there and I'll see it. Once you confirm, I'll order and send the start date. [your name], [phone]
+```
+
+### A quote follow-up schedule
+When | Channel | What it says
+--- | --- | ---
+Same day | Email and text | Quote attached, what's included, how to accept, how long the price holds
+Day 3 | Text | Did it arrive? Happy to talk through anything
+Day 8 | Email | Still open, plus your next free start dates
+Day 21 | Text | Last follow-up: yes, no or later?
+No reply | Office list | Call list, or closed with a reason
+
+### Quotes agreed in the customer's home
+If the customer says yes while you are standing in their hallway, consumer rules for off-premises contracts apply. In the UK, the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 give the customer 14 days to cancel most contracts agreed at their home, and you must give them the required information, including their right to cancel. In the US, the Federal Trade Commission's Cooling-Off Rule gives customers three business days to cancel certain sales of $25 or more made at their home. If you leave a quote and the customer accepts later by email or text, the position is different. The workflow can add the right wording for your country to every quote and hold paint orders until the cancellation period has passed. Check the current rules on legislation.gov.uk or ftc.gov.
+
+### Where decorating jobs usually go wrong
+- The colour was agreed by text and the thread is lost when the customer says it's wrong
+- The quote has no list of what is and isn't included, so "I thought you were doing the ceilings" comes up on day two
+- Furniture isn't moved and rooms aren't cleared because nobody told the customer what to do before the start
+- Extra rooms are added mid-job with no price agreed, which a [change order workflow](https://mikeautomations.github.io/en/change-order-approval-workflow/) prevents
+- The final payment stalls because the customer has no completion record; [job sign-off with photos](https://mikeautomations.github.io/en/job-sign-off-and-completion-photos/) and [payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/) cover that
+- Quotes are never chased, as [the quote follow-up guide](https://mikeautomations.github.io/en/whatsapp-quote-follow-up-tradespeople/) describes
+
+### What stays with you
+Pricing, colour advice, prep decisions and every judgement about the work. The workflow sends what you approve, collects the sign-off and keeps the record. It never picks a colour or changes a price. If AI drafts a reply, a person approves it before it is sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you quote and agree colours today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on tools you already use: a form, email, texts or WhatsApp, your calendar or job software. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your business first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=painters-decorators-quotes-and-colour-sign-off).
+
+### What if the customer changes a colour after signing off?
+They can ask, and the change is recorded with the date. If paint has been ordered, you decide whether there is a cost and the customer confirms it before you go ahead.
+
+### Do customers have to use a link?
+No. The list can go as an email or a message they reply to. A link works best because the confirmed list is saved automatically.
+
+### Can it hold paint orders until the cancellation period passes?
+Yes, for quotes agreed in the customer's home. You set the rule and the workflow applies it.
+
+### Does it work for commercial jobs?
+Yes. The sign-off list and the updates work the same for a site manager as for a homeowner.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Roofing inspection reports and quote follow-up that run themselves
+Source: https://mikeautomations.github.io/en/roofing-inspection-reports-and-quote-follow-up/
+
+A roofing inspection report workflow turns the photos and notes a roofer takes on the roof into a short written report with a quote, sent to the customer the same day, then follows the quote up on a schedule until the customer says yes, no or not now. It keeps one list of every inspection, quote and reply, so nothing is forgotten when the weather turns and the phone starts ringing. The roofer still decides what the roof needs and what it costs.
+
+Roofing inspection reports and quote follow-up are where most roofing firms lose work without noticing. The inspection gets done, the photos sit on a phone, the quote goes out three days later, and nobody chases it. When a storm comes, every customer rings at once and the quotes from last month are forgotten. This page sets out a workflow that writes up the inspection from your photos, sends the quote the same day, follows it up on a schedule you set, and keeps the customer informed once the job is booked. It also covers the consumer rules that apply when you sign customers up at their door.
+
+### What the workflow does, from roof to signed quote
+1. On the roof, you take photos and dictate or type short notes into a form on your phone: what you found, where, and how urgent it is.
+2. The workflow builds a report from your template: photos with captions, the findings in plain words, what you recommend and why, and the price or price range you entered.
+3. You check the report on your phone and approve it. Nothing goes out until you do.
+4. The customer gets the report and quote by email, with a text saying it has arrived and how to accept.
+5. If there is no reply, the customer gets a follow-up on your schedule, for example at three days, a week and three weeks, each one short and polite.
+6. When the customer accepts, the job goes onto your schedule, a deposit request goes out if you take one, and the follow-ups stop.
+7. Once booked, the customer gets a message before the start date, a message if weather moves the date, and a completion message with photos when the job is signed off.
+
+### What goes in the report
+A good report is short enough to read on a phone and clear enough that the customer can show it to a partner or a landlord. The workflow fills the same sections every time:
+- Property address, date of inspection and who inspected
+- Photos with a one-line caption each: slipped tiles, cracked lead, blocked gutter, failed flashing
+- What needs doing now, what can wait, and what to watch
+- The quote: what is included, what is not, materials, access or scaffolding, and how long it will take
+- How to accept, what deposit if any, and how long the price holds
+- Your insurance and any scheme or association membership, stated as it appears on your certificates
+
+### A follow-up schedule you can copy
+When | Channel | What it says
+--- | --- | ---
+Same day | Email and text | Report and quote attached, how to accept, how long the price holds
+Day 3 | Text | Did the report come through? Happy to answer questions
+Day 7 | Email | Short note: the quote is still open, your next available start dates
+Day 21 | Text | Last follow-up: still want this done? Reply yes, no or later
+No reply after day 21 | Office list | Goes on a call list, or is marked closed with the reason
+
+### A quote follow-up text you can copy
+Day 3 follow-up (edit the words in brackets):
+```
+Hi [first name], it's [your name] from [firm]. Just checking the roof report and quote for [address] came through on [day]. If anything in it isn't clear, reply here or call me on [phone]. The price holds until [date]. Thanks, [your name]
+```
+
+### The consumer rules that apply at the door
+If a customer agrees to the work while you are at their home, the rules for off-premises contracts apply. In the UK, the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 give the customer 14 days to cancel most contracts agreed in their home, and the trader must give the required information, including the right to cancel. Regulation 28 lists exceptions, including where the customer has specifically asked for a visit to carry out urgent repairs or maintenance. In the US, the Federal Trade Commission's Cooling-Off Rule gives the customer three business days to cancel certain sales of $25 or more made at their home, and the seller must tell them about that right. The workflow can include the right cancellation wording for your country in every quote, and hold the start date until the cancellation period has passed unless the customer has asked for urgent work. Check the current rules on legislation.gov.uk or ftc.gov before you rely on them, and keep the dates in your records.
+
+### Where roofing quotes usually go wrong
+- Photos stay on the phone and the report is written up days later, from memory
+- The quote has no expiry date, so a customer accepts a six-month-old price after materials went up
+- Nobody follows up, so the customer books whoever rang them back, as [this guide to quote follow-up](https://mikeautomations.github.io/en/whatsapp-quote-follow-up-tradespeople/) explains
+- Extra work found on the roof is agreed verbally, which the [change order workflow](https://mikeautomations.github.io/en/change-order-approval-workflow/) is built to stop
+- The customer never gets a completion record, so the deposit or final payment stalls; [job sign-off with photos](https://mikeautomations.github.io/en/job-sign-off-and-completion-photos/) covers that
+- Calls go unanswered while you are on a roof: a [missed-call text-back](https://mikeautomations.github.io/en/missed-call-text-back-contractors/) replies for you
+
+### What stays with you
+Every judgement about the roof, every price and every decision to take a job on. The workflow writes up what you recorded, sends it when you approve it, and reminds the customer on your schedule. It does not inspect, price or promise anything. If AI drafts a caption or a reply, a person approves it before it is sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you inspect, quote and chase today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already have: your phone's camera, a form, email, texts or WhatsApp, and your calendar or job software. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your firm first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=roofing-inspection-reports-and-quote-follow-up).
+
+### Do I have to write the report on site?
+No. You take photos and short notes on the roof. The report is built from your template, and you approve it from your phone or the van.
+
+### Can the customer accept the quote from their phone?
+Yes. The quote has a link or a reply option. The acceptance is recorded with the date and time, and the follow-ups stop.
+
+### What about the 14-day cancellation period for work agreed at the door?
+The quote can carry the cancellation information for your country, and the workflow can hold the start date until the period has passed unless the customer asked for urgent repairs. Check the current rules on legislation.gov.uk or ftc.gov.
+
+### Does it work with my job software?
+Yes, from an export or a connection where your software allows one. A spreadsheet and your calendar work too.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## Real estate lead follow-up automation for agents: fast replies, showings and long-term nurture
 Source: https://mikeautomations.github.io/en/real-estate-agent-lead-follow-up/
 
@@ -3791,7 +4626,7 @@ Personal trainer client check-ins are what keep a client going between sessions,
 - The weekly check-in: one short form, sent on the same day each week, with a reminder to anyone who hasn't filled it in.
 - Progress photos and measurements: collected through the form at the interval you set, only from clients who agreed to it.
 - Package renewals: a message when a client has two sessions left, with their options, so nobody runs out without noticing.
-- Your summary: one list of who checked in, who didn't, and any answer that mentions pain, illness or a missed week, so you know who to message first.
+- Your summary: one list of who checked in, who didn't, and any answer that mentions pain, illness or a missed week, so you know who to message first. Martial arts schools keep a similar list of attendance against [the requirements for each grading](https://mikeautomations.github.io/en/martial-arts-school-memberships-and-gradings/).
 
 ### A weekly check-in form you can copy
 Keep it short. A client will answer six questions every week. They won't answer twenty. Put it in Google Forms, Microsoft Forms or your coaching app, and send the link by text, WhatsApp or email.
@@ -4679,7 +5514,7 @@ Child turns 9 months between | Funded hours can start from | Parent's deadline t
 ### The waiting list and enrolment workflow
 1. A parent enquires by your website form, email or a phone message. Within minutes they get a reply with your sessions, fees and a short form: child's name and date of birth, wanted start date, days, and whether they expect funded hours. Why speed matters: [replying to new enquiries fast](https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/).
 2. The answers go into one waiting list sheet, sorted by start date and days, with the funding term worked out from the child's date of birth using the gov.uk table.
-3. Each term, waiting families get a short update asking if their dates have changed. Anyone who doesn't reply is marked for a call, not removed.
+3. Each term, waiting families get a short update asking if their dates have changed. Anyone who doesn't reply is marked for a call, not removed. Swim schools keep [a waiting list sorted by age and stage](https://mikeautomations.github.io/en/swim-school-term-bookings-and-waiting-list/) on the same principle.
 4. When a place comes up, the list shows the families whose days and start date fit. You choose who to offer it to.
 5. The offer goes out with the start date, days, fees and a date to accept by, plus one reminder. If they decline or don't answer, you're told, and you pick the next family.
 6. Once the place is accepted, the enrolment pack goes out: registration form, contract, extras and how to opt out of them, and your policies.
@@ -4753,7 +5588,7 @@ A starting point. The timings and the length of a hold are yours to set; what ma
 5. Second enquiry for a held date: the second enquirer is told the date is provisionally held and offered a waiting list, and the first client gets a message asking them to confirm or release by a set date.
 6. Booking confirmed: the contract goes out for e-signature with the deposit payment link. If it isn't signed within a week, a reminder follows, then a task for someone to call.
 7. Payment schedule: each instalment and the balance is reminded before its due date, with the same terms every time. Late payers are handled like any [overdue invoice](https://mikeautomations.github.io/en/invoice-payment-reminders/).
-8. Final details: a form for final numbers, dietary needs, timings and suppliers goes out on the date in your contract, with reminders until it's complete.
+8. Final details: a form for final numbers, dietary needs, timings and suppliers goes out on the date in your contract, with reminders until it's complete. The florist dressing the room needs the same answers by a similar date, as set out in [final details for wedding and event flower orders](https://mikeautomations.github.io/en/florist-wedding-and-event-orders/).
 
 ### A hold and payment timeline you can copy
 For illustration. Change the timings and amounts to match your own contract.
@@ -4819,12 +5654,12 @@ Body shop repair updates are the messages your customers want most and your fron
 ### Where repair updates break down
 - Updates depend on whoever answers the phone, so customers hear nothing until they call
 - The job board shows the stage, but nobody turns that into a message
-- Hidden damage found at teardown is approved over the phone and never written down
+- Hidden damage found at teardown is approved over the phone and never written down; bike shops avoid this by [texting the mechanic's quote for approval](https://mikeautomations.github.io/en/bike-shop-service-bookings-and-repair-updates/) before any chargeable work
 - Insurer authorisations and supplements wait in an inbox with no follow-up date
 - Calls come in while the estimator is with a customer, and missed callers try another shop: a [missed-call text-back](https://mikeautomations.github.io/en/missed-call-text-back-contractors/) helps there
 
 ### The stages worth a message
-Use the stages your shop already tracks. Each change of stage sends one message. Nothing is sent for steps the customer doesn't care about.
+Use the stages your shop already tracks. Each change of stage sends one message. Nothing is sent for steps the customer doesn't care about. Phone repair shops use the same idea, with one message per stage [from check-in to collection](https://mikeautomations.github.io/en/phone-repair-shop-job-updates/).
 Stage | Who gets a message | What it says
 --- | --- | ---
 Vehicle dropped off or towed in | Customer | We have your car, your job number, who to contact and what happens next
@@ -4894,7 +5729,7 @@ Checked on the official sources in November 2026. They decide when an order is s
 - If a cancellation period applies, the safe default is to place non-refundable orders only after it ends, or after the client has asked in writing for work to start sooner.
 
 ### From selection to delivery, step by step
-1. You finish a selection (one room or one batch of items) in your usual spec sheet.
+1. You finish a selection (one room or one batch of items) in your usual spec sheet. If a decorator is painting the rooms, the paint colours can go through [a written colour and finish sign-off](https://mikeautomations.github.io/en/painters-decorators-quotes-and-colour-sign-off/) in the same way.
 2. The workflow sends the client a selection sheet: photo or sample image, supplier, finish, quantity, price, lead time and whether the item can be returned. Each line has approve, change or remove.
 3. If no reply comes in 3 working days, one reminder goes out. After 7, the item goes on your call list.
 4. Approved items wait until the deposit or full payment for them is received. The client gets an invoice or payment link for exactly the approved lines, and the [payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/) cover anyone who forgets.
@@ -5384,7 +6219,7 @@ Fitness studio intro offer follow-up is the set of messages a yoga, pilates or b
 Fitness studio intro offer follow-up is where most new members are won or lost. Someone buys a two-week intro or a three-class pass, comes once, enjoys it, then life gets busy. Nobody notices until the offer has run out, and by then the moment has passed. Instructors are teaching, the front desk is checking people in, and the follow-up sits on a list nobody gets to. This page gives you a timeline to copy, a message you can paste into your own system, the same idea for class packs that are about to expire, and the consent rules for email and texts in the UK and the US.
 
 ### What a good intro offer follow-up does
-It doesn't push. It helps the person come back a second and third time, because that's when the habit forms, and it makes the next step obvious before the offer ends. Every message should come from a named person at the studio, be short, and have one link: book a class, or choose a plan. It also stops the moment they buy a membership or a pack, so nobody gets a "don't miss out" message the day after they signed up.
+It doesn't push. It helps the person come back a second and third time, because that's when the habit forms, and it makes the next step obvious before the offer ends. Every message should come from a named person at the studio, be short, and have one link: book a class, or choose a plan. It also stops the moment they buy a membership or a pack, so nobody gets a "don't miss out" message the day after they signed up. Martial arts schools follow up a trial class the same way, [until the student joins or says no](https://mikeautomations.github.io/en/martial-arts-school-memberships-and-gradings/).
 
 ### An intro offer timeline you can copy
 This assumes a two-week intro offer. Stretch or shorten the gaps for a 30-day offer or a three-class pass:
@@ -5542,7 +6377,7 @@ Client says yes | Booking confirmation, contract or terms, and the deposit reque
 Every date here is counted back from the event, so a new booking gets its whole schedule the moment you enter the event date. Set the actual cut-offs in your own terms; the ones below are an example.
 1. On booking: confirmation of date, venue, menu, price per head and the deposit paid. If you take a deposit, the post on [how to ask for a deposit on a quote](https://mikeautomations.github.io/en/blog/how-to-ask-for-a-deposit-on-a-quote/) has wording you can use.
 2. 4 weeks before: menu choices locked in, and a link to a short form for final details (numbers, dietary requirements, timings, venue contact, access and parking).
-3. 2 weeks before: final numbers and dietary requirements due. Anyone who hasn't filled in the form gets a reminder that day, and another 2 days later.
+3. 2 weeks before: final numbers and dietary requirements due. Anyone who hasn't filled in the form gets a reminder that day, and another 2 days later. If a separate baker makes the cake, [the custom cake order needs its own allergen answers](https://mikeautomations.github.io/en/custom-cake-orders-and-deposits/), collected on the baker's form.
 4. 10 days before: the balance invoice goes out, with reminders if it isn't paid. The [invoice payment reminder workflow](https://mikeautomations.github.io/en/invoice-payment-reminders/) covers this part.
 5. 1 week before: the event sheet goes to your kitchen and event lead, built from the client's own answers, with each dietary requirement and allergy listed by guest or table.
 6. After the event: a thank-you message and one review request. Sent once, never chased.
@@ -5985,10 +6820,10 @@ Delivery | Gallery link, how long it stays online, how to order prints | You cho
 A few days after delivery | A short thank you and a review request, sent to every client | Automatic
 
 ### Reply fast, and say whether the date is free
-Most enquiries are really one question: are you free on this date, and what does it cost? An automatic reply that checks your calendar and sends the right package guide answers both while the client is still looking. If the date is taken, it says so politely. Wedding and event venues face the same first question, and the [venue enquiry follow-up workflow](https://mikeautomations.github.io/en/event-venue-enquiry-follow-up/) answers it the same way.
+Most enquiries are really one question: are you free on this date, and what does it cost? An automatic reply that checks your calendar and sends the right package guide answers both while the client is still looking. If the date is taken, it says so politely. Wedding and event venues face the same first question, and the [venue enquiry follow-up workflow](https://mikeautomations.github.io/en/event-venue-enquiry-follow-up/) answers it the same way. Florists get the same question about a wedding date, and [an automatic reply with availability and starting prices](https://mikeautomations.github.io/en/florist-wedding-and-event-orders/) works for them too.
 
 ### Contract and deposit together
-Send the contract and the deposit invoice in the same message, and only block the date when both are done. Your contract should say what the deposit is for (holding the date and turning other work away), when it is not refundable, when the balance is due and what happens if either side cancels. Our guide on [how to ask for a deposit on a quote](https://mikeautomations.github.io/en/blog/how-to-ask-for-a-deposit-on-a-quote/) covers the wording, and a [wedding planner's payment schedule](https://mikeautomations.github.io/en/wedding-planner-supplier-and-payment-schedules/) shows how deposits and balances fit around one date. A [tattoo studio's design deposit](https://mikeautomations.github.io/en/tattoo-studio-consent-and-deposits/) works on the same principle, with a consent form added.
+Send the contract and the deposit invoice in the same message, and only block the date when both are done. Your contract should say what the deposit is for (holding the date and turning other work away), when it is not refundable, when the balance is due and what happens if either side cancels. Our guide on [how to ask for a deposit on a quote](https://mikeautomations.github.io/en/blog/how-to-ask-for-a-deposit-on-a-quote/) covers the wording, and a [wedding planner's payment schedule](https://mikeautomations.github.io/en/wedding-planner-supplier-and-payment-schedules/) shows how deposits and balances fit around one date. A [tattoo studio's design deposit](https://mikeautomations.github.io/en/tattoo-studio-consent-and-deposits/) works on the same principle, with a consent form added. Bakers taking [custom cake orders](https://mikeautomations.github.io/en/custom-cake-orders-and-deposits/) can send the confirmed design and the deposit request together in the same way.
 
 ### Cancellation rights: check before you rely on the deposit
 Consumer law can give clients a right to cancel shortly after booking. In the UK, the Consumer Contracts Regulations 2013 give consumers 14 days to cancel a service contract made at a distance (online, by email or by phone) or away from your business premises, starting the day the contract is made, and regulation 36 says you must not start the service in that period unless the client expressly asks you to. There are exceptions, so take advice. In the US, the FTC's Cooling-Off Rule gives buyers until midnight of the third business day to cancel some sales made at their home or at a temporary location such as a convention centre or a fair, for sales of $130 or more at temporary locations; sales made entirely online, by mail or by phone are not covered. That matters if you take bookings at wedding fairs, and state laws vary too. The workflow can send the right cancellation wording with every contract, but the wording itself should come from you and your adviser.
@@ -6066,7 +6901,7 @@ About 1 week before | Final timeline and contact sheet | Final timeline, confirm
 2. A few days before each of the couple's instalments, they get a friendly reminder with the amount and how to pay. Once the payment shows in your accounts, the reminder stops.
 3. Before each supplier deposit or balance is due, you get a reminder to pay it, or the couple does if they pay that supplier directly.
 4. At your chosen point before the day, the couple gets the final details questionnaire as a form. Missing answers are chased by name, not with another "please complete the form".
-5. Each supplier gets a short request to confirm arrival time, set-up needs and their contact on the day. Replies are logged against the booking.
+5. Each supplier gets a short request to confirm arrival time, set-up needs and their contact on the day. Replies are logged against the booking. The florist can run the same check on their side with [a wedding and event order workflow for florists](https://mikeautomations.github.io/en/florist-wedding-and-event-orders/).
 6. The timeline is built from the questionnaire and the supplier replies. You check and edit it, then it goes to the couple and every supplier as one link, so everyone always sees the latest version.
 7. Each morning you get a list: payments due this week, suppliers who haven't confirmed, couples with unanswered questions.
 
@@ -6130,8 +6965,8 @@ Tutoring centre enrolment runs in waves. A parent enquires on Sunday night, a tr
 1. A parent enquires by form, email or phone message. Within minutes they get a reply with trial lesson times for the subject and year group, and a link to book one. [Driving instructors](https://mikeautomations.github.io/en/driving-instructor-lesson-bookings-and-test-reminders/) run the same booking and payment steps for one-to-one pupils.
 2. The day before the trial, the parent gets a reminder with the address, what to bring and the tutor's name.
 3. After the trial, the tutor adds a short note. You decide whether to offer a place, and the parent gets the enrolment form and your terms.
-4. The enrolment form checks that required answers are there before it can be sent, then adds the pupil to the register and the class list.
-5. At the start of each term, an invoice for every family is drafted from the register: the classes, the number of weeks and any sibling discount you set. You check the batch and send it.
+4. The enrolment form checks that required answers are there before it can be sent, then adds the pupil to the register and the class list. Swim schools do the same each term, asking current families to [re-enrol before the term ends](https://mikeautomations.github.io/en/swim-school-term-bookings-and-waiting-list/).
+5. At the start of each term, an invoice for every family is drafted from the register: the classes, the number of weeks and any sibling discount you set. You check the batch and send it. Music schools build [term fee invoices from the lesson timetable](https://mikeautomations.github.io/en/music-school-lesson-scheduling-and-term-fees/) in the same way.
 6. Parents who haven't paid by your due date get a polite reminder, then a second one. Anyone still unpaid goes on your list for a call. See [automated invoice payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/) for a schedule.
 7. Attendance is logged in the register, and missed lessons trigger a short message to the parent the same day.
 8. Halfway through and at the end of each term, tutors write a few lines on each pupil. A person checks each note before it goes to the parent.
@@ -6204,7 +7039,7 @@ Driving instructor bookings fill your evenings. Pupils text to move a lesson, fo
 - Test dates and theory pass dates kept in your head or on scraps of paper
 
 ### The DVSA rules that shape test reminders
-The test itself belongs to the pupil, so the workflow reminds and records; it never books. Gov.uk says you must book your driving test yourself, that your driving instructor is not allowed to do it for you, and that it's against the law to book a car driving test for someone else. The same applies to changing and cancelling. For car tests, gov.uk (checked November 2026) says the pupil needs to give 10 full working days' notice to change or cancel without paying again, counting Monday to Saturday but not Sundays or public holidays, and a car test can only be changed 2 times. A theory test pass certificate number lasts 2 years, and if the pupil hasn't passed the practical test in that time they have to take the theory test again. These rules cover England, Scotland and Wales, and DVSA changes them from time to time, so check gov.uk first.
+The test itself belongs to the pupil, so the workflow reminds and records; it never books. Gov.uk says you must book your driving test yourself, that your driving instructor is not allowed to do it for you, and that it's against the law to book a car driving test for someone else. The same applies to changing and cancelling. For car tests, gov.uk (checked November 2026) says the pupil needs to give 10 full working days' notice to change or cancel without paying again, counting Monday to Saturday but not Sundays or public holidays, and a car test can only be changed 2 times. A theory test pass certificate number lasts 2 years, and if the pupil hasn't passed the practical test in that time they have to take the theory test again. These rules cover England, Scotland and Wales, and DVSA changes them from time to time, so check gov.uk first. Music schools have a similar date to watch: [exam entry closing dates set by the exam board](https://mikeautomations.github.io/en/music-school-lesson-scheduling-and-term-fees/).
 
 ### A reminder schedule you can copy
 For illustration. Change the timings to suit how you work. Every lesson message stops if the lesson is cancelled or moved.
@@ -6230,7 +7065,7 @@ See you tomorrow,
 ```
 
 ### Block bookings and payments
-1. Each pupil's record holds the block they bought and the lessons used, updated after every lesson.
+1. Each pupil's record holds the block they bought and the lessons used, updated after every lesson. Swim schools keep a similar record for each swimmer, with [their stage, class and term payment](https://mikeautomations.github.io/en/swim-school-term-bookings-and-waiting-list/).
 2. When two lessons are left, the pupil gets a payment link for the next block.
 3. When the payment arrives, the block resets and you get a one-line note.
 4. Pay-as-you-go pupils get a payment link after each lesson.
@@ -6363,7 +7198,7 @@ Thanks,
 ```
 
 ### What to automate and what to keep with a person
-1. Read recall dates and recall types from your practice system each week, so sight test and aftercare patients get the right message.
+1. Read recall dates and recall types from your practice system each week, so sight test and aftercare patients get the right message. Audiology practices run the same weekly read for [hearing checks and hearing aid services](https://mikeautomations.github.io/en/hearing-care-recall-reminders/).
 2. Send the second and third reminders on the other channel, and stop them as soon as a booking appears.
 3. Move failed texts and bounced emails straight to the call list with a note to update the details.
 4. Build one weekly call list, oldest overdue first, with family members grouped and lens wearers flagged.
@@ -6811,7 +7646,7 @@ Billing details and PO number | So the invoice is right the first time
 
 ### What an automated intake and quote workflow does
 1. Receives the request from the form, or from a shared inbox, and creates a job with a reference number.
-2. Saves the files to a job folder in Google Drive, Dropbox or SharePoint, and confirms to the client what arrived.
+2. Saves the files to a job folder in Google Drive, Dropbox or SharePoint, and confirms to the client what arrived. Sign and print shops confirm files the same way, then [send a proof for the customer to approve](https://mikeautomations.github.io/en/sign-and-print-shop-artwork-approvals/).
 3. Counts words in editable files, or reads your CAT tool's analysis export, and flags scanned PDFs and images for a person to count or estimate.
 4. Builds a draft quote from your own rates for that language pair, deadline and service, for a project manager to check and send.
 5. Follows up quotes that get no reply, then marks them lost after the last reminder.
@@ -6976,8 +7811,8 @@ Hi [first name], the MOT on your [make model, reg] runs out on [expiry date]. Yo
 
 ### The other messages a garage sends every day
 1. Booking confirmation: date, time, what's booked (MOT, service or both), drop-off time and how to cancel, sent as soon as the booking is made, then a reminder the day before.
-2. Service reminders: due by date or mileage from your last service record, sent with the MOT reminder when the dates are close so the customer books both in one visit.
-3. Extra work found: the technician's note, a photo and the price go to the customer by text or email with a link to approve or decline. Nothing is done until the customer says yes, and the reply is saved on the job. Collision repairers send a longer run of updates, covered in [body shop repair status messages](https://mikeautomations.github.io/en/body-shop-repair-updates/).
+2. Service reminders: due by date or mileage from your last service record, sent with the MOT reminder when the dates are close so the customer books both in one visit. Bike shops do the same with [a reminder when each bike's next service is due](https://mikeautomations.github.io/en/bike-shop-service-bookings-and-repair-updates/).
+3. Extra work found: the technician's note, a photo and the price go to the customer by text or email with a link to approve or decline. Nothing is done until the customer says yes, and the reply is saved on the job. Collision repairers send a longer run of updates, covered in [body shop repair status messages](https://mikeautomations.github.io/en/body-shop-repair-updates/). Phone repair shops send [the diagnosis and price to approve by text](https://mikeautomations.github.io/en/phone-repair-shop-job-updates/) in the same way.
 4. Car ready: a text when the job is marked complete, with the total, how to pay and your closing time. If you take payment by link, the [payment reminder workflow](https://mikeautomations.github.io/en/invoice-payment-reminders/) covers anyone who forgets.
 5. Review request: one message a day or two after collection, asking how it went and linking to your review page. Sent once, never chased.
 
@@ -9411,7 +10246,7 @@ Text 2: Hi [first name], [your name] here. We have an opening the week of [date]
 
 ### Tips that make follow-ups work
 - Reply in the same email thread, so the estimate is one tap away.
-- Name the job and the address. Customers who requested three bids need to know which one you are.
+- Name the job and the address. Customers who requested three bids need to know which one you are. Roofers can also attach [the photos and findings from the roof inspection](https://mikeautomations.github.io/en/roofing-inspection-reports-and-quote-follow-up/), so the customer sees what the estimate is for.
 - Ask one question per message. "Would you like to go ahead?" gets more replies than a paragraph.
 - Keep a list of every open estimate with its date and value, so the big ones get a phone call. When a customer says yes, [ask for the deposit in writing](https://mikeautomations.github.io/en/blog/how-to-ask-for-a-deposit-on-a-quote/).
 - Selling to UK customers? Say "quote" instead of "estimate" and adjust the spelling. The schedule works the same way.
@@ -9441,7 +10276,7 @@ Most no-shows aren't rude. People forget, or something comes up and cancelling f
 
 ### The four things that work
 1. Confirm right after booking, with the date, time, address and anything the customer needs to prepare. For a cosmetic treatment, that includes the pre-treatment instructions covered in [aesthetics clinic consent and aftercare](https://mikeautomations.github.io/en/med-spa-consent-forms-and-aftercare/).
-2. Remind the day before, and ask for a quick confirmation ("Reply YES to confirm"), so you know who to chase.
+2. Remind the day before, and ask for a quick confirmation ("Reply YES to confirm"), so you know who to chase. For a bike service, the customer then gets [a drop-off receipt with the bike's details](https://mikeautomations.github.io/en/bike-shop-service-bookings-and-repair-updates/).
 3. Make rescheduling one tap. A customer who can move the slot easily won't just disappear. The same goes for a missed parcel: [failed delivery messages](https://mikeautomations.github.io/en/courier-proof-of-delivery-and-failed-delivery-messages/) with a rebooking link get it delivered next time.
 4. Call the unconfirmed ones. A short list each morning or the evening before is enough.
 
@@ -9472,7 +10307,7 @@ Hi [first name], a reminder that [company] is booked for [job] tomorrow, [day] a
 ```
 
 ### After a no-show
-Keep it friendly. The aim is to rebook the job, not to win an argument. If you charge a fee for missed appointments, it should already have been stated clearly at booking.
+Keep it friendly. The aim is to rebook the job, not to win an argument. If you charge a fee for missed appointments, it should already have been stated clearly at booking. A music school can offer [a make-up lesson from its timetable](https://mikeautomations.github.io/en/music-school-lesson-scheduling-and-term-fees/) instead of a charge.
 Text or email, same day:
 ```
 Hi [first name], we were booked for [job] today at [time] but couldn't reach you. No problem, things come up. Would you like a new time? You can pick one here: [booking link], or just reply to this message.
@@ -9525,7 +10360,7 @@ Customers need a Google account to leave a review. The direct link saves them se
 3. Copy the link, or right-click the QR code and save the image for receipts, invoices or a card you leave after the job.
 
 ### When and how to ask
-1. Ask shortly after the job is finished and paid, while it's fresh: the same day or the next morning.
+1. Ask shortly after the job is finished and paid, while it's fresh: the same day or the next morning. For a phone repair, that's [the day the customer collects the device](https://mikeautomations.github.io/en/phone-repair-shop-job-updates/).
 2. Use the direct review link, so the form opens in one tap.
 3. Keep it short and personal: name the job, thank them, one line with the link.
 4. Send one reminder a few days later if they haven't left a review, then stop.
@@ -11987,7 +12822,7 @@ If you want to ask for a deposit on a quote without it feeling awkward, the tric
 This post covers when a deposit is worth asking for, how much to think about, what UK and US rules say, the exact wording for the quote, the invoice and the reminder, and how a paid deposit can confirm the booking on its own. It's written for trades and [service businesses](https://mikeautomations.github.io/en/service-businesses/) in the UK and the US, from [removal firms](https://mikeautomations.github.io/en/removals-company-surveys-and-move-day/) and [photographers](https://mikeautomations.github.io/en/photographer-booking-contracts-and-deposits/) to [wedding planners](https://mikeautomations.github.io/en/wedding-planner-supplier-and-payment-schedules/). In the US, read "estimate" wherever it says "quote".
 
 ### First decide: does this job need a deposit?
-A deposit should protect you from a real cost, not just make you feel safer. There's no single rule for every trade, so decide by job type. This table is a starting point, not a legal rule. Hospitality works the same way: a restaurant taking a [private dining or group booking](https://mikeautomations.github.io/en/restaurant-group-booking-and-private-dining-enquiries/) can hold the table until a deposit is paid. Tattoo artists often take one to cover design time, as in [deposits and consent forms for tattoo studios](https://mikeautomations.github.io/en/tattoo-studio-consent-and-deposits/).
+A deposit should protect you from a real cost, not just make you feel safer. There's no single rule for every trade, so decide by job type. This table is a starting point, not a legal rule. Hospitality works the same way: a restaurant taking a [private dining or group booking](https://mikeautomations.github.io/en/restaurant-group-booking-and-private-dining-enquiries/) can hold the table until a deposit is paid. Tattoo artists often take one to cover design time, as in [deposits and consent forms for tattoo studios](https://mikeautomations.github.io/en/tattoo-studio-consent-and-deposits/). A baker making [a custom cake to a set design](https://mikeautomations.github.io/en/custom-cake-orders-and-deposits/) is in the same position, because the cake can't be sold to anyone else.
 Job type | Deposit? | Why
 --- | --- | ---
 Special-order materials (bespoke kitchen, made-to-measure windows) | Usually yes | You pay suppliers before you start and may not get that money back
@@ -12014,7 +12849,7 @@ Many trades get caught out here. Under the Consumer Contracts (Information, Canc
 In the US, the FTC's Cooling-Off Rule gives customers until midnight of the third business day to cancel many sales made at their home for $25 or more, with a full refund. The FTC lists exemptions, including sales needed to meet an emergency and repairs or maintenance the customer asked for (anything extra you sell on that visit is still covered). Many states add their own home improvement rules on top, so check yours.
 
 ### Wording for the quote
-Put the deposit on the quote, near the total, in plain words. Change the bracketed parts to suit your job.
+Put the deposit on the quote, near the total, in plain words. Change the bracketed parts to suit your job. A decorator can tie the deposit to the paint order, placed once [the customer has signed off every colour in writing](https://mikeautomations.github.io/en/painters-decorators-quotes-and-colour-sign-off/).
 Deposit section for a quote or estimate:
 ```
 Deposit: [£/$ amount], due when you accept this quote.
@@ -13025,7 +13860,7 @@ This guide sets out a workflow you can run for marketing, design, content or vid
 ### Agree the rules at onboarding
 Most approval problems are fixed before the first draft. Put these in the proposal or statement of work, and repeat them in the kick-off email, so the client has agreed to them before anything is late. Content deadlines work the same way: see [how to get clients to send content on time](https://mikeautomations.github.io/en/blog/get-clients-to-send-content/).
 - One named approver per client, plus one backup for holidays. Others may comment; only the approver signs off.
-- One place to review: a shared folder, a proofing tool or your project tool. Feedback sent elsewhere gets copied there before work starts.
+- One place to review: a shared folder, a proofing tool or your project tool. Feedback sent elsewhere gets copied there before work starts. Sign and print shops follow the same rule and [record which proof version was approved, and by whom](https://mikeautomations.github.io/en/sign-and-print-shop-artwork-approvals/), before anything goes to production.
 - Response time: for example, two working days for a social post, five for a website page.
 - Revision rounds included (two is common), and what happens after that: a change request with its own price or time.
 - What happens when an approval is late: the delivery date moves by the same number of days. If you want silence to count as approval, that must be written into the contract and agreed in advance; check the wording with your own lawyer.
@@ -13616,7 +14451,7 @@ Email marketing | Offers, dates, sender name and reply address | Logo, header im
 ### Make it easy to send
 1. Create one folder per client with sub-folders that match the checklist: Copy, Photos, Brand, Legal.
 2. Send the checklist as a personal list, not a generic form. Each line says what it is, why you need it and an example.
-3. Give one place to send everything. A shared folder link works for most clients. A form works for written answers.
+3. Give one place to send everything. A shared folder link works for most clients. A form works for written answers. Print and sign work adds one more step: [checking each artwork file against the job specification](https://mikeautomations.github.io/en/sign-and-print-shop-artwork-approvals/) when it arrives.
 4. Offer a fall-back: if they'd rather talk, book a 20-minute call where you fill in the copy questions together.
 5. Track every item in one sheet: client, item, status (missing, received, approved), date received.
 6. Tell the client exactly what's still missing in every reminder, not "any update on the content?"
