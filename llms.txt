@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "Mike Automation") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-11.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "Mike Automation") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-12.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
@@ -142,6 +142,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "Mike Automation"
 - [Surveyor booking and report delivery](https://mikeautomations.github.io/en/surveyor-booking-and-report-delivery/): Surveyor booking and report delivery for UK residential surveyors: instruction intake, access with the agent, pre-survey questions, report and follow-up.
 - [Dog groomer bookings and vaccination records](https://mikeautomations.github.io/en/dog-groomer-bookings-and-vaccination-records/): Dog groomer bookings and vaccination records for groomers, daycare and kennels: reminders, rebooking, consent forms and a no-show policy, UK and US.
 - [Supplier invoice approvals](https://mikeautomations.github.io/en/supplier-invoice-approval-workflow/): Route supplier invoices to the right approver, remind them until they answer, and keep a record of who approved what before anything is paid.
+- [HMRC agent authorisation codes](https://mikeautomations.github.io/en/hmrc-agent-authorisation-code-chasing/): HMRC agent authorisation codes expire. A chasing schedule, a client message to copy and a tracker so new clients send the code or use the link in time.
+- [Lien waiver tracking](https://mikeautomations.github.io/en/lien-waiver-tracking-subcontractors/): Lien waiver tracking without the spreadsheet: request waivers from every sub each pay period, see what's missing before checks go out and keep a record.
+- [Dental treatment plan follow-up](https://mikeautomations.github.io/en/dental-treatment-plan-follow-up/): Dental treatment plan follow-up for patients who leave without booking: a follow-up sequence, a message to copy and a weekly list for the front desk.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
