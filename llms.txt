@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "Mike Automation") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-12.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-12.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
@@ -26,6 +26,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "Mike Automation"
 - [Small business automation](https://mikeautomations.github.io/en/small-business-automation/): A practical guide to small business automation: what it is, what to automate first, which tools to use, what it costs, and 100+ step-by-step workflows.
 - [Examples](https://mikeautomations.github.io/en/examples/): Four example builds with demo data: a Self Assessment records chase, agency onboarding, quote follow-ups and VAT paperwork. Not client stories.
 - [Free guide](https://mikeautomations.github.io/en/guide/): 25 AI automations for accountants and small firms, from document chasing to getting paid. Read them all here or get the free 12-page PDF, no email needed.
+- [Automation Plan Builder for Small Service Businesses](https://mikeautomations.github.io/en/plan/): Pick your business and the job that eats your week. Get a step-by-step automation plan: what runs on its own, what you approve, the fixed price.
+- [Automated Reminder Emails: Try a Demo](https://mikeautomations.github.io/en/try/): Watch automated reminder emails for client documents, quote follow-up and unpaid invoices play out in 60 seconds, and see how a reply stops them.
+- [Pay-When-Happy Automation Agreement Template](https://mikeautomations.github.io/en/agreement/): A free fixed-price automation agreement: write what "working" means, and pay only once it's running and you're happy. Print it or send it to Michael.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.

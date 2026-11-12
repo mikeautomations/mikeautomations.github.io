@@ -1,0 +1,199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mikeautomations.github.io//uk-payroll-cis-2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UK payroll and CIS deadlines 2026-27
+X-WR-TIMEZONE:Europe/London
+X-WR-CALDESC:Dates from https://mikeautomations.github.io/en/blog/uk-accoun
+ ting-practice-deadline-calendar-2026-27/ (checked on GOV.UK on 2026-11-10)
+ . A guide\, not advice: check GOV.UK before relying on a date.
+BEGIN:VEVENT
+UID:2026-04-19-eps-and-cis-monthly-return-due@mikeautomations.github.io
+DTSTAMP:20261110T080000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+RRULE:FREQ=MONTHLY;UNTIL=20270719
+SUMMARY:EPS and CIS monthly return due
+DESCRIPTION:Employer Payment Summary (EPS) if needed\, and CIS monthly retu
+ rn for the tax month to the 5th. Repeats on the 19th of every month. Check
+  GOV.UK before relying on this date. Source: https://mikeautomations.githu
+ b.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/
+URL:https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadli
+ ne-calendar-2026-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EPS and CIS monthly return due
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-22-paye-and-cis-deductions-paid-to-hmrc@mikeautomations.github.
+ io
+DTSTAMP:20261110T080000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+RRULE:FREQ=MONTHLY;UNTIL=20270722
+SUMMARY:PAYE and CIS deductions paid to HMRC
+DESCRIPTION:PAYE and CIS deductions paid to HMRC by the 22nd (19th by post)
+ . Repeats every month. Check GOV.UK before relying on this date. Source: h
+ ttps://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-c
+ alendar-2026-27/
+URL:https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadli
+ ne-calendar-2026-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE and CIS deductions paid to HMRC
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-31-p60s-for-2025-26-to-employees@mikeautomations.github.io
+DTSTAMP:20261110T080000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:P60s for 2025-26 to employees
+DESCRIPTION:P60s for 2025-26 to employees. Check GOV.UK before relying on t
+ his date. Source: https://mikeautomations.github.io/en/blog/uk-accounting-
+ practice-deadline-calendar-2026-27/
+URL:https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadli
+ ne-calendar-2026-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P60s for 2025-26 to employees
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-06-p11d-and-p11d-b-for-2025-26@mikeautomations.github.io
+DTSTAMP:20261110T080000Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:P11D and P11D(b) for 2025-26
+DESCRIPTION:P11D and P11D(b) for 2025-26. Check GOV.UK before relying on th
+ is date. Source: https://mikeautomations.github.io/en/blog/uk-accounting-p
+ ractice-deadline-calendar-2026-27/
+URL:https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadli
+ ne-calendar-2026-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P11D and P11D(b) for 2025-26
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-22-class-1a-for-2025-26-paid@mikeautomations.github.io
+DTSTAMP:20261110T080000Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:Class 1A for 2025-26 paid
+DESCRIPTION:Class 1A National Insurance for 2025-26 paid (19 July by post).
+  Check GOV.UK before relying on this date. Source: https://mikeautomations
+ .github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/
+URL:https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadli
+ ne-calendar-2026-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class 1A for 2025-26 paid
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-06-payrolling-of-company-cars-vans-fuel-and-medical-insurance@m
+ ikeautomations.github.io
+DTSTAMP:20261110T080000Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Payrolling of company cars\, vans\, fuel and medical insurance
+DESCRIPTION:Company cars\, vans\, fuel and medical insurance must be payrol
+ led from 6 April 2027. Check GOV.UK before relying on this date. Source: h
+ ttps://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-c
+ alendar-2026-27/
+URL:https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadli
+ ne-calendar-2026-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Payrolling of company cars\, vans\, fuel and medical insurance
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-19-last-date-to-correct-the-final-2026-27-fps@mikeautomations.g
+ ithub.io
+DTSTAMP:20261110T080000Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Last date to correct the final 2026-27 FPS
+DESCRIPTION:Last date to correct the final 2026-27 FPS with an additional F
+ PS. Check GOV.UK before relying on this date. Source: https://mikeautomati
+ ons.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/
+URL:https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadli
+ ne-calendar-2026-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Last date to correct the final 2026-27 FPS
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-31-p60s-for-2026-27@mikeautomations.github.io
+DTSTAMP:20261110T080000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:P60s for 2026-27
+DESCRIPTION:P60s for 2026-27 to employees. Check GOV.UK before relying on t
+ his date. Source: https://mikeautomations.github.io/en/blog/uk-accounting-
+ practice-deadline-calendar-2026-27/
+URL:https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadli
+ ne-calendar-2026-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P60s for 2026-27
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-06-p11d-and-p11d-b-for-2026-27@mikeautomations.github.io
+DTSTAMP:20261110T080000Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:P11D and P11D(b) for 2026-27
+DESCRIPTION:P11D and P11D(b) for 2026-27\, and copies to employees. Check G
+ OV.UK before relying on this date. Source: https://mikeautomations.github.
+ io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/
+URL:https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadli
+ ne-calendar-2026-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P11D and P11D(b) for 2026-27
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-22-class-1a-for-2026-27-paid@mikeautomations.github.io
+DTSTAMP:20261110T080000Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:Class 1A for 2026-27 paid
+DESCRIPTION:Class 1A National Insurance for 2026-27 paid (19 July by cheque
+ ). Check GOV.UK before relying on this date. Source: https://mikeautomatio
+ ns.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/
+URL:https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadli
+ ne-calendar-2026-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Class 1A for 2026-27 paid
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
