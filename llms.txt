@@ -142,6 +142,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "Mike Automation"
 - [Surveyor booking and report delivery](https://mikeautomations.github.io/en/surveyor-booking-and-report-delivery/): Surveyor booking and report delivery for UK residential surveyors: instruction intake, access with the agent, pre-survey questions, report and follow-up.
 - [Dog groomer bookings and vaccination records](https://mikeautomations.github.io/en/dog-groomer-bookings-and-vaccination-records/): Dog groomer bookings and vaccination records for groomers, daycare and kennels: reminders, rebooking, consent forms and a no-show policy, UK and US.
 - [Supplier invoice approvals](https://mikeautomations.github.io/en/supplier-invoice-approval-workflow/): Route supplier invoices to the right approver, remind them until they answer, and keep a record of who approved what before anything is paid.
+- [HMRC agent authorisation codes](https://mikeautomations.github.io/en/hmrc-agent-authorisation-code-chasing/): HMRC agent authorisation codes expire. A chasing schedule, a client message to copy and a tracker so new clients send the code or use the link in time.
+- [Lien waiver tracking](https://mikeautomations.github.io/en/lien-waiver-tracking-subcontractors/): Lien waiver tracking without the spreadsheet: request waivers from every sub each pay period, see what's missing before checks go out and keep a record.
+- [Dental treatment plan follow-up](https://mikeautomations.github.io/en/dental-treatment-plan-follow-up/): Dental treatment plan follow-up for patients who leave without booking: a follow-up sequence, a message to copy and a weekly list for the front desk.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
@@ -250,6 +253,7 @@ The Hebrew site serves businesses in Israel, in shekels: יצירת פעולות
 - [אוטומציה למוסך](https://mikeautomations.github.io/he/automation-garage/): תזכורת לפני טסט או טיפול, עדכון בוואטסאפ כשהרכב מוכן, מעקב אחרי הצעות מחיר שלא אושרו ובקשת משוב. סביב התוכנה שכבר יש במוסך.
 - [אוטומציה למספרה ומכון יופי](https://mikeautomations.github.io/he/automation-beauty-salon/): תזכורת לטיפול הבא בסדרה, הצהרת בריאות לפני תור ראשון, חזרה ללקוחות שלא הגיעו מזמן ובקשת ביקורת. מה שאפליקציית התורים לא עושה.
 - [אוטומציה לחברת ניקיון](https://mikeautomations.github.io/he/automation-cleaning-company/): הצעת מחיר מהירה לפנייה חדשה, שיבוץ עובדים, הודעה ללקוח לפני הגעה, אישור ביצוע וסיכום בסוף החודש. מה אפשר להפוך לאוטומטי בחברת ניקיון.
+- [אוטומציה לעסקים: המדריך](https://mikeautomations.github.io/he/business-automation/): מדריך לאוטומציה לעסקים קטנים מכל סוג: מה זה, אילו תהליכים כדאי לאטמט קודם, אילו כלים, כמה זה עולה ואיך מתחילים בלי לבזבז כסף.
 - [כמה עולה אוטומציה לעסק](https://mikeautomations.github.io/he/automation-cost/): תהליך אוטומטי אחד החל מ-5,500 ₪, מערכת ייחודית החל מ-9,000 ₪, ליווי מ-900 ₪ לחודש. מה משפיע על המחיר ומה העלויות אחרי ההקמה.
 - [תזכורות תשלום אוטומטיות ללקוחות](https://mikeautomations.github.io/he/invoice-payment-reminders/): חשבונית יוצאת בזמן, ותזכורת מנומסת נשלחת לבד עד שהתשלום נכנס. עובד עם תוכנת החשבוניות שכבר יש לכם. איך זה בנוי ומה המחיר.
 - [מערכת לניהול לקוחות לעסק קטן](https://mikeautomations.github.io/he/crm-small-business/): הצוות חזר לאקסל אחרי ה-CRM? מתי תוכנה מוכנה מספיקה, מתי כדאי מערכת שבנויה לפי איך שהעסק עובד, וכמה כל אפשרות עולה.
