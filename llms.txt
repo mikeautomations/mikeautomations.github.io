@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "Mike Automation") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-12.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-12.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
@@ -26,6 +26,10 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "Mike Automation"
 - [Small business automation](https://mikeautomations.github.io/en/small-business-automation/): A practical guide to small business automation: what it is, what to automate first, which tools to use, what it costs, and 100+ step-by-step workflows.
 - [Examples](https://mikeautomations.github.io/en/examples/): Four example builds with demo data: a Self Assessment records chase, agency onboarding, quote follow-ups and VAT paperwork. Not client stories.
 - [Free guide](https://mikeautomations.github.io/en/guide/): 25 AI automations for accountants and small firms, from document chasing to getting paid. Read them all here or get the free 12-page PDF, no email needed.
+- [Automation Plan Builder for Small Service Businesses](https://mikeautomations.github.io/en/plan/): Pick your business and the job that eats your week. Get a step-by-step automation plan: what runs on its own, what you approve, the fixed price.
+- [Automated Reminder Emails: Try a Demo](https://mikeautomations.github.io/en/try/): Watch automated reminder emails for client documents, quote follow-up and unpaid invoices play out in 60 seconds, and see how a reply stops them.
+- [Pay-When-Happy Automation Agreement Template](https://mikeautomations.github.io/en/agreement/): A free fixed-price automation agreement: write what "working" means, and pay only once it's running and you're happy. Print it or send it to Michael.
+- [Company Accounts Filing Deadline Calculator (UK)](https://mikeautomations.github.io/en/company-deadlines/): Free UK company deadline calculator: accounts due date, Corporation Tax payment and CT600, confirmation statement due date, with penalties.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
@@ -145,6 +149,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "Mike Automation"
 - [HMRC agent authorisation codes](https://mikeautomations.github.io/en/hmrc-agent-authorisation-code-chasing/): HMRC agent authorisation codes expire. A chasing schedule, a client message to copy and a tracker so new clients send the code or use the link in time.
 - [Lien waiver tracking](https://mikeautomations.github.io/en/lien-waiver-tracking-subcontractors/): Lien waiver tracking without the spreadsheet: request waivers from every sub each pay period, see what's missing before checks go out and keep a record.
 - [Dental treatment plan follow-up](https://mikeautomations.github.io/en/dental-treatment-plan-follow-up/): Dental treatment plan follow-up for patients who leave without booking: a follow-up sequence, a message to copy and a weekly list for the front desk.
+- [Boiler service reminders](https://mikeautomations.github.io/en/boiler-service-reminders-heating-engineers/): Boiler service reminders that send themselves: a message before each annual service is due, a booking link and a list of who hasn't replied.
+- [Medical records request tracking](https://mikeautomations.github.io/en/medical-records-request-tracking-personal-injury/): Medical records request tracking for personal injury firms: one log per provider, follow-ups on a schedule and a weekly list of what is still missing.
+- [Form E document collection](https://mikeautomations.github.io/en/form-e-financial-disclosure-document-collection/): Form E documents without the chasing: one checklist per client, reminders for bank statements, pension valuations and payslips, and a missing list.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
@@ -253,10 +260,15 @@ The Hebrew site serves businesses in Israel, in shekels: יצירת פעולות
 - [אוטומציה למוסך](https://mikeautomations.github.io/he/automation-garage/): תזכורת לפני טסט או טיפול, עדכון בוואטסאפ כשהרכב מוכן, מעקב אחרי הצעות מחיר שלא אושרו ובקשת משוב. סביב התוכנה שכבר יש במוסך.
 - [אוטומציה למספרה ומכון יופי](https://mikeautomations.github.io/he/automation-beauty-salon/): תזכורת לטיפול הבא בסדרה, הצהרת בריאות לפני תור ראשון, חזרה ללקוחות שלא הגיעו מזמן ובקשת ביקורת. מה שאפליקציית התורים לא עושה.
 - [אוטומציה לחברת ניקיון](https://mikeautomations.github.io/he/automation-cleaning-company/): הצעת מחיר מהירה לפנייה חדשה, שיבוץ עובדים, הודעה ללקוח לפני הגעה, אישור ביצוע וסיכום בסוף החודש. מה אפשר להפוך לאוטומטי בחברת ניקיון.
+- [אוטומציה לצלמים ולספקי אירועים](https://mikeautomations.github.io/he/automation-photographers/): מענה לפנייה עם זמינות ומחירון, חוזה ומקדמה שנסגרים בלי מרדפים, תזכורות לפני האירוע ומסירת גלריה מסודרת. לצלמים ולספקי אירועים.
+- [אוטומציה לחוגים ומרכזי העשרה](https://mikeautomations.github.io/he/automation-classes-courses/): טופס הרשמה אחד עם פרטי הורה ואישורים, רשימת המתנה שמתעדכנת לבד, תזכורות תשלום והודעות על ביטול שיעור. לחוגים, סדנאות ומרכזי לימוד.
+- [אוטומציה למשרדי אדריכלים](https://mikeautomations.github.io/he/automation-architects/): איסוף מסמכים לפרויקט, אישור לקוח על כל שלב תכנון, מעקב אחרי שלבי שכר טרחה ועדכון ללקוח איפה הפרויקט עומד. למשרדי אדריכלים קטנים.
+- [אוטומציה לעמותות](https://mikeautomations.github.io/he/automation-nonprofits/): תודה וקבלה לתורם שיוצאות לבד, מעקב אחרי הוראות קבע שנכשלו, שיבוץ מתנדבים ותזכורות לדיווחים לקרנות. לעמותות קטנות עם צוות מצומצם.
 - [אוטומציה לעסקים: המדריך](https://mikeautomations.github.io/he/business-automation/): מדריך לאוטומציה לעסקים קטנים מכל סוג: מה זה, מאיפה מתחילים, מה כדאי שיעבוד לבד, באילו כלים, כמה זה עולה ואיך עושים את זה בלי לבזבז כסף.
 - [כמה עולה אוטומציה לעסק](https://mikeautomations.github.io/he/automation-cost/): תהליך אוטומטי אחד החל מ-5,500 ₪, מערכת ייחודית החל מ-9,000 ₪, ליווי מ-900 ₪ לחודש. מה משפיע על המחיר ומה העלויות אחרי ההקמה.
 - [תזכורות תשלום אוטומטיות ללקוחות](https://mikeautomations.github.io/he/invoice-payment-reminders/): חשבונית יוצאת בזמן, ותזכורת מנומסת נשלחת לבד עד שהתשלום נכנס. עובד עם תוכנת החשבוניות שכבר יש לכם. איך זה בנוי ומה המחיר.
 - [מערכת לניהול לקוחות לעסק קטן](https://mikeautomations.github.io/he/crm-small-business/): הצוות חזר לאקסל אחרי ה-CRM? מתי תוכנה מוכנה מספיקה, מתי כדאי מערכת שבנויה לפי איך שהעסק עובד, וכמה כל אפשרות עולה.
+- [בניית מערכת פנימית לעסק](https://mikeautomations.github.io/he/custom-business-system/): מה זו מערכת פנימית שבנויה לעסק, איך עובר תהליך הבנייה מהמיפוי ועד המסירה, מה מקבלים, למי שייכים הנתונים וכמה זה עולה.
 - [סוכן AI לעסק: מתי כן ומתי לא](https://mikeautomations.github.io/he/ai-agent-for-business/): סוכן AI קורא הודעות ומסמכים, ממיין ומכין טיוטה, ואדם מאשר. מתי הוא שווה את זה, מתי אוטומציה רגילה עדיפה, וכמה זה עולה.
 - [מעקב אחרי הצעות מחיר](https://mikeautomations.github.io/he/quote-follow-up/): הלקוח אמר שיחזור ולא חזר? מעקב אוטומטי ומנומס אחרי כל הצעת מחיר, בלי להיות נודניק, ורשימה של מה שמחכה לשיחה מכם.
 - [Make, n8n או Zapier: מה לבחור](https://mikeautomations.github.io/he/make-n8n-zapier/): השוואה בעברית פשוטה: מה ההבדל בין Make, n8n ו-Zapier, מי יתחזק את זה ביום-יום, איפה המידע עובר, ומתי לא צריך אף אחד מהם.
