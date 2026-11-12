@@ -921,7 +921,7 @@ Chasing year-end records from limited company clients means asking each director
 Chasing year-end records from limited company clients never stops, because each client has their own year end. Records drift in whenever the director finds time, and work bunches up in the last months before each filing deadline. A workflow tied to each client's year end turns that rolling calendar into something that runs on its own, like the other [automations for UK accounting practices](https://mikeautomations.github.io/en/accountants/).
 
 ### The deadlines that start counting at each year end
-Every date below is measured from the end of the company's accounting period, so each client has their own set. The dates that are the same for everyone are in our [UK accounting practice deadline calendar](https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/). The figures are from gov.uk (Companies House "Late filing penalties" and HMRC "Company Tax Returns" and "Pay your Corporation Tax bill", checked November 2026). The last column is a worked example for a company with a 31 March 2026 year end.
+Every date below is measured from the end of the company's accounting period, so each client has their own set. The dates that are the same for everyone are in our [UK accounting practice deadline calendar](https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/). To work them out for a whole client list at once, use the free [company filing deadline calculator](https://mikeautomations.github.io/en/company-deadlines/). The figures are from gov.uk (Companies House "Late filing penalties" and HMRC "Company Tax Returns" and "Pay your Corporation Tax bill", checked November 2026). The last column is a worked example for a company with a 31 March 2026 year end.
 | What | Deadline | Year end 31 March 2026 |
 | --- | --- | --- |
 | Corporation Tax payment (taxable profits up to £1.5 million) | 9 months and 1 day after the end of the accounting period | 1 January 2027 |
@@ -15643,6 +15643,7 @@ The tax year ends on 5 April 2027, but several 2026-27 deadlines fall in the mon
 | 31 July 2027 | Second payment on account for 2026-27 | Mid July |
 
 ### Dates that depend on the client's year end
+To work out these dates for one company or a whole client list, with calendar and CSV downloads, use our free [company filing deadline calculator](https://mikeautomations.github.io/en/company-deadlines/).
 Companies House and Corporation Tax deadlines run from each company's own dates, so a calendar can only give the rule. GOV.UK sets them out for private limited companies:
 - Companies with taxable profits over £1.5 million pay Corporation Tax in instalments, on different dates.
 - Companies House now won't accept a confirmation statement until every director has verified their identity and the company gives each director's personal code. Ask for codes well before the statement is due: our [Companies House identity verification tracker](https://mikeautomations.github.io/en/blog/companies-house-identity-verification-client-tracker/) shows one way to track them.

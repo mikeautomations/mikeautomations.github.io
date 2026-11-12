@@ -29,6 +29,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Automation Plan Builder for Small Service Businesses](https://mikeautomations.github.io/en/plan/): Pick your business and the job that eats your week. Get a step-by-step automation plan: what runs on its own, what you approve, the fixed price.
 - [Automated Reminder Emails: Try a Demo](https://mikeautomations.github.io/en/try/): Watch automated reminder emails for client documents, quote follow-up and unpaid invoices play out in 60 seconds, and see how a reply stops them.
 - [Pay-When-Happy Automation Agreement Template](https://mikeautomations.github.io/en/agreement/): A free fixed-price automation agreement: write what "working" means, and pay only once it's running and you're happy. Print it or send it to Michael.
+- [Company Accounts Filing Deadline Calculator (UK)](https://mikeautomations.github.io/en/company-deadlines/): Free UK company deadline calculator: accounts due date, Corporation Tax payment and CT600, confirmation statement due date, with penalties.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
