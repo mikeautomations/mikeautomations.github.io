@@ -30,6 +30,8 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Automated Reminder Emails: Try a Demo](https://mikeautomations.github.io/en/try/): Watch automated reminder emails for client documents, quote follow-up and unpaid invoices play out in 60 seconds, and see how a reply stops them.
 - [Pay-When-Happy Automation Agreement Template](https://mikeautomations.github.io/en/agreement/): A free fixed-price automation agreement: write what "working" means, and pay only once it's running and you're happy. Print it or send it to Michael.
 - [Company Accounts Filing Deadline Calculator (UK)](https://mikeautomations.github.io/en/company-deadlines/): Free UK company deadline calculator: accounts due date, Corporation Tax payment and CT600, confirmation statement due date, with penalties.
+- [Self Assessment Checklist 2025-26: What Do I Need?](https://mikeautomations.github.io/en/self-assessment-checklist/): Free Self Assessment checklist for the 2025-26 tax return: tick your income types and get the documents you need, with GOV.UK sources. Print, copy or CSV.
+- [1099 Checker 2026: Do I Need to Send a 1099?](https://mikeautomations.github.io/en/1099-checker/): Free 1099 checker for 2026 payments: see if each payee likely needs a 1099-NEC or 1099-MISC, and which box, under the new $2,000 threshold. W-9 tracker.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
