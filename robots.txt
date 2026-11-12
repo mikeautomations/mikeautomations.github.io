@@ -39,4 +39,3 @@ Allow: /
 
 Sitemap: https://mikeautomations.github.io/sitemap.xml
 Sitemap: https://mikeautomations.github.io/sitemap_index.xml
-Sitemap: https://mikeautomations.github.io/en/feed.xml
