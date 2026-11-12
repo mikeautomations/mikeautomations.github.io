@@ -145,9 +145,6 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "Mike Automation"
 - [HMRC agent authorisation codes](https://mikeautomations.github.io/en/hmrc-agent-authorisation-code-chasing/): HMRC agent authorisation codes expire. A chasing schedule, a client message to copy and a tracker so new clients send the code or use the link in time.
 - [Lien waiver tracking](https://mikeautomations.github.io/en/lien-waiver-tracking-subcontractors/): Lien waiver tracking without the spreadsheet: request waivers from every sub each pay period, see what's missing before checks go out and keep a record.
 - [Dental treatment plan follow-up](https://mikeautomations.github.io/en/dental-treatment-plan-follow-up/): Dental treatment plan follow-up for patients who leave without booking: a follow-up sequence, a message to copy and a weekly list for the front desk.
-- [Boiler service reminders](https://mikeautomations.github.io/en/boiler-service-reminders-heating-engineers/): Boiler service reminders that send themselves: a message before each annual service is due, a booking link and a list of who hasn't replied.
-- [Medical records request tracking](https://mikeautomations.github.io/en/medical-records-request-tracking-personal-injury/): Medical records request tracking for personal injury firms: one log per provider, follow-ups on a schedule and a weekly list of what is still missing.
-- [Form E document collection](https://mikeautomations.github.io/en/form-e-financial-disclosure-document-collection/): Form E documents without the chasing: one checklist per client, reminders for bank statements, pension valuations and payslips, and a missing list.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
