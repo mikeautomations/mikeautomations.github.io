@@ -9283,6 +9283,228 @@ No. Messages say only that the dentist recommended some treatment. Details are d
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Boiler service reminders for heating engineers: every customer, every year
+Source: https://mikeautomations.github.io/en/boiler-service-reminders-heating-engineers/
+
+Boiler service reminders work when every job you finish leaves a due date behind it. A simple workflow can keep one list of customers and landlords with the date their next service or gas safety check is due, message them a few weeks before, let them pick a slot, and show you who hasn't replied. You still decide the diary, the price and anything about the appliance.
+
+Boiler service reminders are easy to promise and hard to keep up. You fit or service a boiler in October, tell the customer you'll be in touch next year, and by next October the date is in a notebook, an old invoice or nowhere. The customer books whoever sends them a text first. Landlords are stricter: their gas safety check has a date, and they want it done before that date, not after. The list of who is due this month is the same job every month, so it can run on its own while you stay on the tools.
+
+### Why the yearly service gets missed
+- The due date lives on last year's invoice or certificate, not in a list anyone looks at
+- Reminders go out in a quiet week, and then not at all from October to February
+- A reminder goes out once, the customer means to reply, and nobody follows up
+- Landlords with several properties get separate messages on different dates, or none
+- Customers reply by text, WhatsApp, email and voicemail, and some replies are never answered
+- Summer is quiet and winter is full, because nobody was asked to book early
+
+### What landlords need, and what the workflow tracks
+For rented homes there is a date to hit. The Health and Safety Executive says landlords must have gas appliances and flues checked every 12 months by a Gas Safe registered engineer, give existing tenants a copy of the record within 28 days of the check, and give it to new tenants before they move in. HSE also says a check can be done up to 2 months before the due date and keep the original date, which is the reason to remind landlords early. Homeowners are different: for them the annual service is a recommendation, and a boiler warranty may ask for one, so point them to their manufacturer's terms. This page is about keeping the dates, not about the regulations.
+Customer | What is due | When to remind | What to track
+--- | --- | --- | ---
+Homeowner | Annual boiler service | A few weeks before last year's date | Date of last service, appliance, how they like to be contacted
+Landlord, one property | Gas safety check, with a service if they want one | Early enough to book inside the 2 months before the due date | Due date, tenant contact for access, where the record is sent
+Landlord or agent, several properties | Checks on different dates | One message a month listing every property due soon | Each property's due date and access details
+
+### A service list you can copy
+Keep one row per appliance, not per customer. For illustration, as it might look in early October:
+Customer | Address | Type | Due | Status | Next action
+--- | --- | --- | --- | --- | ---
+Homeowner | 14 Hill Road | Annual service | 28 October | Booked for 21 October | Reminder the day before
+Landlord | Flat 2, 9 Park Street | Gas safety check | 12 November | First message sent, no reply | Second message on Monday
+Landlord | Flat 3, 9 Park Street | Gas safety check | 12 November | First message sent, no reply | Second message on Monday
+Homeowner | 3 Mill Lane | Annual service | 5 November | Replied: call me after 5pm | You call today
+Homeowner | 27 Bridge Street | Annual service | 30 October | Two messages, no reply | On Friday's call list
+
+### A reminder you can copy
+Text or email to a homeowner (edit the words in brackets):
+```
+Hi [first name], it's [your name] from [business]. Your boiler at [address] was last serviced on [date], so it's due again this month.
+
+You can pick a time here: [booking link]. Or reply with a day that suits you and I'll confirm.
+
+The price is [price]. If you'd rather not get these reminders, reply STOP.
+```
+
+### How the workflow runs
+1. When you finish a service or a gas safety check, the job is logged with the date, the address and the appliance. The next due date is set from it.
+2. A few weeks before the due date, the customer gets a message with your wording and a link to book, or an invitation to reply with a day.
+3. If they book, the slot goes in your calendar and they get a confirmation and a reminder the day before.
+4. If they don't reply, a second message goes out on the schedule you choose. After that they go on a short call list, and the messages stop.
+5. Landlords and agents with several properties get one message listing every property due soon, with the access contact for each.
+6. Any reply that isn't a booking goes straight to you. If AI drafts an answer to a question, you read and approve it before it is sent.
+7. Once a month you get a list: due this month, booked, no reply, and overdue.
+
+### What stays with you
+The work, the record and every judgement about the appliance. The workflow doesn't issue gas safety records, doesn't give advice about a boiler and doesn't change a price. It keeps dates, sends the messages you approved and tells you who needs a call. If a landlord's agent sends the reminders themselves, that side is covered in [compliance certificate reminders for letting agents](https://mikeautomations.github.io/en/letting-agent-compliance-certificate-reminders/). For breakdowns that arrive while you're on a job, see [emergency call-out triage](https://mikeautomations.github.io/en/emergency-call-out-triage-plumbers/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you record jobs and book services today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your phone, your calendar, a spreadsheet or your job software where it allows a connection), so there's no new app to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already sends service reminders and you're happy with them, you don't need this, and we'll say so on the call.
+
+### My job software already sends service reminders. Do I need this?
+Maybe not. If it sends them on time, follows up when nobody replies and gives you a list of who to call, keep using it. This is for engineers who work from a phone, a diary and a spreadsheet, or whose software sends one email and stops.
+
+### Can it send the gas safety record to the landlord and the tenant?
+It can email the record you produced to the addresses on file and note the date it was sent. It doesn't create the record or fill it in. That stays with the engineer who did the check.
+
+### Will customers get messages they didn't ask for?
+They get reminders about a service they've had from you before, with a way to stop them in every message. You approve the wording and the timing before anything is sent.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Medical records request tracking for personal injury firms
+Source: https://mikeautomations.github.io/en/medical-records-request-tracking-personal-injury/
+
+Medical records request tracking means knowing, for every client and every provider, what you asked for, when you asked, and what has come back. A simple workflow can keep one log, send follow-ups to providers on a schedule you set, file what arrives and give each case manager a weekly list of open requests. A person still reviews every authorization, every request and every record.
+
+Medical records request tracking is where a personal injury case slows down. A client treated with six providers, and each one needs a request for records and a request for bills. Some take a portal upload, some want a fax, some use a records vendor, and one says the request never arrived. The case manager is supposed to follow up, but there are forty other files. The demand can't go out until the last record is in. Sending the request, checking on it and filing the result is the same routine for every provider, so it can run on a schedule while your team does the legal work.
+
+### Where requests stall
+- Requests are sent from individual inboxes and fax lines, and the only record is a note in the file
+- Records and billing are separate departments at many providers, and only one of them was asked
+- A provider rejects the authorization or asks for a fee, and the letter sits unopened
+- Follow-up happens when someone remembers, not on a date
+- The client mentions a new provider on a call, and it never reaches the list
+- Records arrive, but nobody checks that the dates of treatment are all there
+
+### A request log you can copy
+Keep one row per provider per request type. For illustration, as it might look for one client:
+Provider | Request | Sent | How | Status | Next action
+--- | --- | --- | --- | --- | ---
+Hospital emergency department | Records | 3 March | Provider portal | Received | Case manager to review dates of treatment
+Hospital emergency department | Bills | 3 March | Fax to billing office | No response | Second follow-up due Monday
+Orthopedic clinic | Records and bills | 5 March | Records vendor | Fee invoice received | Approve and pay the fee
+Physical therapy | Records and bills | 5 March | Fax | Rejected: authorization incomplete | Paralegal to get a new signed authorization
+Imaging center | Records and films | Not sent |  | Waiting for provider address | Ask the client
+
+### The authorization comes first
+Every request rides on the client's signed authorization, and providers send requests back when it is incomplete. The federal privacy rule lists the core elements of a valid authorization: a description of the information, who may disclose it, who may receive it, the purpose, an expiration date or event, and the individual's signature and date. An authorization that has expired or is not fully filled out is not valid. Your attorneys decide the form your firm uses and whether a state needs something more. The workflow can check that a signed copy is on file and not past its expiration before a request goes out, and stop if it isn't. How long a provider has to respond and what it can charge depend on the state and the type of request, so the follow-up schedule is one you set.
+
+### A follow-up you can copy
+Follow-up to a provider's records department (edit the words in brackets):
+```
+Subject: Follow-up on records request for [patient name], date of birth [date]
+
+To the records department,
+
+On [date sent] we sent a request for [records / itemized bills] for the patient above, for treatment from [start date] to [end date]. A signed authorization was included. We sent it by [fax / portal / mail] to [number or address].
+
+We have not received the records or a response. Please let us know:
+1. Whether you have the request.
+2. Whether anything else is needed, including any fee.
+3. When we can expect the records.
+
+You can reply to this email or call [name] at [phone].
+
+Thank you,
+[name], [firm]
+```
+
+### How the workflow runs
+1. When a provider is added to a case, a row is created for records and a row for bills, with the provider's request method and contact details.
+2. A person prepares and approves each request. The workflow sends it by email where the provider accepts that, or creates a task for the fax, portal or vendor.
+3. It logs the date sent and sets the first follow-up date from your schedule.
+4. On each follow-up date, it sends the follow-up you approved or puts a call on the case manager's list, and logs the attempt.
+5. Letters back from providers, such as a rejection or a fee invoice, are logged against the right row and sent to the person who handles them.
+6. When records arrive they are filed under the client and the provider. AI can list the dates of treatment it finds and point out gaps against the dates you asked for, and a person checks that list before anything is marked complete.
+7. Each week, every case manager gets one list: requests sent, received, overdue and blocked.
+
+### What stays with you
+Which providers to request from, what the request says, whether an authorization is good, and what the records mean for the case. The workflow doesn't review medical records for you, doesn't write a demand and doesn't decide anything about a claim. It keeps the log, follows up and tells you what is still missing. Client records are sensitive, so the build keeps them in the systems your firm already uses and limits who can see them. If you want the start of the file tidier too, see [client intake for small law firms](https://mikeautomations.github.io/en/law-firm-client-intake/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how requests go out and get followed up at your firm today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your email, your document storage, a spreadsheet and your case management software where it allows a connection), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your volume is high enough that a records retrieval service makes more sense, we'll say so on the call.
+
+### Does the workflow send requests without a person seeing them?
+No. A person prepares and approves each request and each follow-up template. The workflow sends what was approved, on the dates you set, and logs it.
+
+### Many providers only take fax or a portal. Does it still help?
+Yes. Where a request can't be sent by email, the workflow creates the task, logs the date it was done and still runs the follow-up schedule and the weekly list.
+
+### Can AI summarize the medical records?
+That is a different job and not part of this workflow. Here AI only helps check that the records received cover the dates requested, and a person confirms it.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Form E document collection for family solicitors: one checklist, fewer chasing emails
+Source: https://mikeautomations.github.io/en/form-e-financial-disclosure-document-collection/
+
+Form E document collection means getting a full set of financial papers from a client before the date for exchange. A simple workflow can send each client one checklist built from your own list, give them one place to upload, remind them about what is still missing and show the fee earner where every file stands. A solicitor still reviews every document and decides what goes into the form.
+
+Form E documents arrive in pieces. The client sends three months of statements for one account, a photo of a payslip and a promise to find the pension paperwork. The paralegal writes back, the client sends two more things, and the list of what is still missing lives in someone's head. The date for exchange gets closer. Clients are going through a divorce and paperwork is the last thing they want to do, so they need short, kind, specific reminders. That part is routine, and it can run on its own while the solicitor does the advising.
+
+### Why disclosure takes so long to collect
+- The first email lists everything at once, and the client doesn't know where to start
+- Statements arrive for part of the period, as screenshots or as dozens of separate files
+- Some papers have to be requested from someone else, such as a pension provider or a lender, and the client hasn't asked yet
+- Documents come by email, WhatsApp, post and in person, and get saved in different places
+- Chasing depends on a paralegal who is also preparing three other files
+- Nobody can say in one line what is missing for each client
+
+### A Form E checklist you can copy
+The form itself lists the documents to attach, so build your checklist from the current version on GOV.UK. For each bank account listed, it asks for statements covering the last 12 months. The other rows below are what firms commonly ask for; check each against the form and the client's circumstances. Form E1 and Form E2 are separate forms with their own lists.
+Document | Who the client gets it from | What to track
+--- | --- | ---
+Bank and savings statements, last 12 months, every account | Online banking or the bank | Each account separately, with the first and last date covered
+Mortgage statement and property valuation | The lender and an estate agent | Requested, received
+Payslips and the latest P60 | Their employer | Received, and whether the period matches your list
+Pension valuation | Each pension provider | Date the client requested it, date it arrived
+Business accounts, if self-employed or a company owner | Their accountant | Requested, received
+Loan, credit card and other debt statements | Each lender | Each account separately
+
+### A reminder you can copy
+Email to a client with items outstanding (edit the words in brackets):
+```
+Subject: Your financial documents: [number] items still to send
+
+Dear [first name],
+
+Thank you for what you have sent so far. We now have [list of items received].
+
+We still need:
+1. [Item, for example: statements for your savings account ending 1234, from [date] to [date]]
+2. [Item]
+3. [Item]
+
+You can upload them here: [upload link]. Photos are fine if they are clear and show the whole page.
+
+If you have asked your pension provider for a valuation, please tell us the date you asked, so we know when to expect it.
+
+We need everything by [date] so that we can prepare your Form E in time. If anything on this list is hard to get, reply to this email or call [name] on [phone] and we will help.
+
+Kind regards,
+[name], [firm]
+```
+
+### How the workflow runs
+1. When a matter reaches the disclosure stage, the fee earner ticks the items that apply to this client. The checklist is built from your firm's own list.
+2. The client gets one email with the checklist in plain words and one secure upload link. Items they must request from someone else are marked, so they start those first.
+3. Each upload is saved in the matter folder under the right item, and the checklist updates.
+4. AI can read a statement's account and dates and say which months seem to be missing. A person checks that before the client is asked for anything.
+5. Reminders go out on the schedule you choose and list only what is still missing. They stop when the item arrives or when a person pauses them.
+6. Any reply from the client goes to the fee earner or paralegal. Nothing is answered automatically.
+7. Each week the team gets one list: every disclosure file, what is missing and the date it is needed by.
+
+### What stays with you
+The advice, the form and every judgement about what a document shows. The workflow doesn't fill in Form E, doesn't decide what must be disclosed and doesn't talk to the other side. A solicitor approves the checklist, the wording and the timing, and can pause reminders for any client at any time, which matters when a client is struggling. The papers are sensitive, so they stay in the storage your firm already uses, with access limited to the people on the matter. The same routine works for other files that wait on a client: [source of funds in conveyancing](https://mikeautomations.github.io/en/conveyancing-source-of-funds-document-chasing/) and [probate document collection](https://mikeautomations.github.io/en/probate-document-collection/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how disclosure is collected at your firm today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your email, your document storage and your case management software where it allows a connection), so the team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your case management system already has a client portal that does this well, we'll say so on the call.
+
+### Does the workflow fill in Form E?
+No. It collects and organises the supporting documents. The form is completed by the client with their solicitor, and a solicitor reviews everything before it is used.
+
+### Can reminders be paused for a client who is having a hard time?
+Yes. Anyone on the matter can pause or stop reminders for a client with one change, and every reminder uses wording your firm approved.
+
+### Where are the documents kept?
+In your firm's own storage, in the matter folder. We agree who has access before the build, and nothing is kept in a separate system.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
