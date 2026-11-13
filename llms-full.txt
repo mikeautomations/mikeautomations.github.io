@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Updated: 2026-11-12. Facts summary: https://mikeautomations.github.io/llms.txt
+Updated: 2026-11-13. Facts summary: https://mikeautomations.github.io/llms.txt
 
 ## Home: Mike Automations
 Source: https://mikeautomations.github.io/en/
@@ -9501,6 +9501,177 @@ Yes. Anyone on the matter can pause or stop reminders for a client with one chan
 
 ### Where are the documents kept?
 In your firm's own storage, in the matter folder. We agree who has access before the build, and nothing is kept in a separate system.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Off-hire reminders for plant and tool hire: end or extend, in writing, every time
+Source: https://mikeautomations.github.io/en/plant-hire-off-hire-reminders/
+
+Off-hire reminders work when every hire has an expected end date and someone asks the hirer about it before that date. A simple workflow can message the site contact a day or two before, take a reply to end or extend, send back an off-hire number in writing and put the collection on your list. You still set the rates, the terms and every decision about a dispute.
+
+Most arguments in plant and tool hire start at the end of the hire, not the start. The hirer says they rang to off-hire on Tuesday. Your counter has no note of it. The machine sat on site for another week, the invoice says so, and now there's a credit request. Or the opposite: the hire runs on because nobody asked, and the customer is annoyed when the bill arrives. Asking before the expected end date, and confirming every off-hire in writing with a number, is the same small job on every hire, so it can run on its own.
+
+### Where off-hires go wrong
+- The expected end date is on the hire contract, but nobody looks at it until the invoice run
+- Off-hires come in by phone to whoever picks up, and the note never reaches the system
+- The site contact who booked the hire isn't the person who knows the job has finished
+- An off-hire is taken but no number is sent back, so there's no proof for either side
+- Collections are booked from a list on the wall, and a machine waits on site for days
+- Hire extensions are agreed on the phone and the new date is never recorded
+
+### What the workflow keeps for each hire
+One row per item on hire, not per customer. Most hire companies already have the contract details; the workflow only needs the dates and the contacts. Your own terms decide when a hire ends and what is charged. The workflow follows them, it doesn't change them.
+| Field | Why it matters |
+| --- | --- |
+| Hire number and item | So the reminder and the off-hire number match the contract |
+| Site address and site contact | The person who knows when the job is finished, not only the buyer |
+| Expected off-hire date | When the first reminder goes out |
+| Status: on hire, extended, off-hire requested, off-hired, collected | So the counter, the drivers and accounts see the same thing |
+| Off-hire number and time | Proof of when the off-hire was confirmed, sent to the hirer in writing |
+
+### A reminder you can copy
+Text or email to the site contact (edit the words in brackets):
+```
+Hi [first name], it's [business]. The [item] on hire to [site address] under hire [number] is due off hire on [date].
+
+Reply OFF to end the hire on that date, or EXTEND with a new date. If you'd rather talk to someone, call [phone].
+
+The hire stays live until you get an off-hire number back from us.
+```
+
+### How the workflow runs
+1. When a hire goes out, the item, site contact and expected off-hire date are logged from your hire contract or booking.
+2. A day or two before that date, the site contact gets a message asking them to end or extend the hire.
+3. If they reply OFF, the request is logged with the time, and the counter confirms it. The hirer then gets an off-hire number in writing.
+4. The confirmed off-hire goes on the drivers' collection list for the depot, with the site address and contact.
+5. If they reply EXTEND, the new date is recorded and the next reminder is set from it.
+6. If nobody replies, a second message goes out, then the hire goes on a short call list for the counter. The hire is not ended without the customer.
+7. Anything that isn't a clear OFF or EXTEND goes straight to a person. If AI drafts an answer, someone at the counter reads and approves it before it is sent.
+
+### What stays with you
+Rates, terms, damage and every dispute about dates. The workflow doesn't decide when a hire ended, doesn't credit invoices and doesn't argue with customers. It asks the question on time, keeps a written record and puts the collections in front of your drivers. If you also chase unpaid hire invoices, see [invoice payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/). For trades who hire plant in, [change order approvals](https://mikeautomations.github.io/en/change-order-approval-workflow/) covers the paperwork on their side.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how off-hires reach you today and where they get lost. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your hire software where it allows a connection, a spreadsheet, email and text), so there's no new system for the counter to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your hire software already sends off-hire reminders and numbers and you're happy with it, you don't need this, and we'll say so on the call.
+
+### Does it end hires on its own?
+No. A hire ends when the customer asks and your counter confirms it. The workflow asks the question, records the answer and the time, and sends the off-hire number once a person has confirmed it.
+
+### Our hire software already has off-hire numbers. Do we need this?
+Maybe not. If it already reminds hirers before the end date and sends the number in writing, keep it. This is for hire companies where off-hires still arrive by phone and live on paper, or where the software has no reminders.
+
+### What about open-ended hires with no end date?
+You set a check-in date instead, for example every two weeks. The site contact is asked whether they still need the item, and the answer is logged the same way.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Permit and inspection tracking for contractors: every job, every inspection, one list
+Source: https://mikeautomations.github.io/en/building-permit-inspection-tracking-contractors/
+
+Permit and inspection tracking works when every job has one row per permit and one line per inspection, with a date and a status. A simple workflow can remind your office to check on applications, prompt the crew lead to request each inspection when the work is ready, log the result and tell the customer what's next. Your team still decides when work is ready and talks to the building department.
+
+Permits rarely stop a job because the work is hard. They stop it because nobody noticed the application was still under review, the framing inspection was never requested, or a failed inspection's correction list sat in someone's inbox. Every building department has its own portal, phone line and rules, and every job goes through the same few gates. Keeping the list of where each job stands is the same job every week, so it can run on its own while your crews work.
+
+### Where permits and inspections slip
+- Application status lives in a city portal that someone checks when they remember
+- The crew finishes rough-in on Friday and the inspection request goes in on Tuesday
+- Inspection windows are emailed to the office and never reach the crew or the homeowner
+- A correction notice arrives, and nobody owns the re-inspection
+- Permit expiry dates are on the permit card, not in any list
+- The final inspection passes, but the closed permit never gets to the customer's file
+
+### Check your building department first
+There is no single national process. Each local building department (the authority having jurisdiction) sets which work needs a permit, which inspections apply, how they are requested and how long a permit stays valid. Some have online portals and online booking, others take requests by phone. The workflow follows the steps you give it for each department you work with. It doesn't decide what needs a permit, and it shouldn't promise a homeowner a date the department hasn't confirmed.
+
+### A tracker you can copy
+One row per inspection, grouped by job. For illustration, on a kitchen remodel:
+| Job | Permit | Inspection | Status | Next action | Owner |
+| --- | --- | --- | --- | --- | --- |
+| 12 Oak St kitchen | Building, issued | Rough framing | Passed | None | - |
+| 12 Oak St kitchen | Electrical, issued | Rough electrical | Work ready Thursday | Request inspection Thursday | Crew lead |
+| 12 Oak St kitchen | Plumbing, issued | Rough plumbing | Failed, correction list received | Fix and request re-inspection | Plumbing sub |
+| 12 Oak St kitchen | Building | Insulation | Not ready | Wait for rough inspections | - |
+| 40 Elm Ave deck | Building, under review | - | Submitted, no decision | Check portal Monday | Office |
+
+### How the workflow runs
+1. When a permit is applied for, the job, permit type, department and application date are logged.
+2. While it's under review, the office gets a reminder on the schedule you choose to check the portal or call.
+3. Once issued, the inspections you list for that department are added to the job, with the permit expiry date.
+4. When the crew lead marks a stage ready, the office gets a prompt to request the inspection, or the request link for departments that book online.
+5. The confirmed inspection window goes to the crew lead and a short note goes to the homeowner.
+6. The result is logged. A failed inspection creates a task for the correction list and a reminder to request the re-inspection.
+7. Every Monday the office gets one list: inspections due, results waiting, corrections open and permits close to expiry.
+
+### What stays with you
+When work is ready, every conversation with the inspector and every message about delays. Customer notes are drafted from the tracker; if AI writes one, a person reads and approves it before it's sent. The workflow doesn't submit applications for you or sign anything. For the paperwork between you and the customer, see [change order approvals](https://mikeautomations.github.io/en/change-order-approval-workflow/) and [job sign-off with completion photos](https://mikeautomations.github.io/en/job-sign-off-and-completion-photos/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about the departments you work with and how you track permits today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your calendar, email and text, or your job software where it allows a connection). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your project software already tracks inspections and your team uses it, you don't need this, and we'll say so on the call.
+
+### Can it book inspections with the city for us?
+Only where the department offers online booking you're allowed to use that way, and only after a person on your team says the work is ready. For phone-only departments, it reminds your office to call and logs the result.
+
+### Does it know which inspections a job needs?
+No. You give it the inspections each department requires for each type of work. It tracks them; it doesn't decide them.
+
+### We use subcontractors for plumbing and electrical. Does that work?
+Yes. Each inspection has an owner. A sub can get the prompt and the correction list directly, and the office still sees the whole job.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Uncategorized transactions: one list a month, answers clients can actually give
+Source: https://mikeautomations.github.io/en/uncategorized-transactions-client-questions/
+
+Asking clients about uncategorized transactions works best as one list per client per month, not one email per transaction. A simple workflow can collect the unclear items after your review, send each client a short list they can answer in a minute or two, remind them, and put the answers back next to each transaction for you to post. You still decide every category.
+
+Every month ends the same way. Twenty transactions in the suspense or uncategorized account, half of them a card payment to a name nobody recognizes. You email the client, they answer three, you email again, and the month can't be closed. Some clients reply in a text, some in the email thread from last quarter, some on a call. The list of questions is different every month, but sending it, chasing it and matching the answers back is the same job, so it can run on its own.
+
+### Why the questions don't get answered
+- One email per transaction, so the client sees a pile and answers none
+- Questions use account names and bank feed text the client doesn't recognize
+- There's no deadline, so the list waits until the client has a free afternoon
+- Answers come back by text, email and phone, and someone has to match them to the right line
+- Old questions roll into new months and nobody knows which are still open
+- Clients aren't asked for the receipt at the same time, so you ask twice
+
+### What a good question list looks like
+Short, in the client's words, with the answer options they can pick from. Ask for the receipt in the same line when you need one. For illustration:
+| Date | Amount | What the bank shows | Our question | Client answer |
+| --- | --- | --- | --- | --- |
+| Oct 3 | $84.20 | SQ *JMS DELI | Client lunch, team meal or personal? | Client lunch with ABC Co |
+| Oct 9 | $1,250.00 | ZELLE TO M RIVERA | What was this payment for? Is M Rivera a contractor? | Yes, contractor, tiling job |
+| Oct 14 | $39.99 | AMZN MKTP US | What was bought? Please attach the receipt if you have it | Printer ink, receipt attached |
+| Oct 22 | $500.00 | TRANSFER FROM 4471 | Is this a loan, your own money or a customer payment? | No reply yet |
+
+### How the workflow runs
+1. After you review the month, you mark the transactions you need help with, in your accounting software or a sheet.
+2. Each client gets one message with their list and a link to answer: pick an option, type a note or upload a receipt.
+3. If they don't answer, a reminder goes out on the schedule you choose, listing only what's still open.
+4. Answers come back next to each transaction, so you can post them without searching email threads.
+5. Anything unclear, like "ask my wife" or a long explanation, goes to you to read. Nothing is categorized without your approval.
+6. Items still open at the next month's review carry forward and are marked as overdue.
+7. Every week you get one view: who has open questions, how many, and how long they've waited.
+
+### Software that already asks the client
+Some accounting and practice software has its own way to send transaction questions to a client. If your clients use it and reply, keep it. A workflow helps when clients don't log in, when you work across different software for different clients, or when the questions stop after one email. It can send the same list by email or text, chase it and bring the answers back to the place you work. If AI drafts a question in plainer words, you read and approve it before it's sent.
+
+### What stays with you
+Every category, every journal and every conversation about whether something is a business expense. The workflow asks, reminds and organizes the answers; it doesn't post to the ledger on its own. For the rest of the monthly records, see [document collection for bookkeepers](https://mikeautomations.github.io/en/bookkeeper-document-collection/). If you work in QuickBooks Online, [QuickBooks automation services](https://mikeautomations.github.io/en/quickbooks-online-automation-services/) covers the connection side.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you send questions to clients today and where the answers end up. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your accounting software where it allows a connection, a sheet, email and text). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/).
+
+### Does it categorize transactions for me?
+No. It collects the client's answers and puts them next to each transaction. You decide the category and post it.
+
+### Will clients need a new login?
+Not if you don't want one. The list can be a link that opens without an account, or a reply by text or email. Some firms prefer their portal, and the workflow can send people there instead.
+
+### Is it safe to send transaction details by text?
+You choose what goes in the message. Many firms send only a link and keep the details behind it, with nothing more than the date and amount in the text itself.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
