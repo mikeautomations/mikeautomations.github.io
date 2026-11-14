@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-13.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-14.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
@@ -157,6 +157,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Off-hire reminders for plant hire](https://mikeautomations.github.io/en/plant-hire-off-hire-reminders/): Off-hire reminders for plant and tool hire: ask hirers before the expected end date, confirm every off-hire with a number and book the collection.
 - [Permit and inspection tracking](https://mikeautomations.github.io/en/building-permit-inspection-tracking-contractors/): Permit and inspection tracking for contractors: one list of every permit, the next inspection on each job, reminders to book it and results logged.
 - [Uncategorized transaction questions](https://mikeautomations.github.io/en/uncategorized-transactions-client-questions/): How bookkeepers can ask clients about uncategorized transactions once a month: one list per client, simple answers, reminders and a month-end view.
+- [Fire extinguisher service reminders](https://mikeautomations.github.io/en/fire-extinguisher-service-reminders/): Fire extinguisher service reminders for fire protection companies: a message before each service is due, a booked visit and the record sent after.
+- [Estimated tax payment reminders](https://mikeautomations.github.io/en/quarterly-estimated-tax-payment-reminders/): Remind clients about quarterly estimated tax payments: each client's amount, the due date and how to pay, sent before every deadline and confirmed after.
+- [Chimney sweep reminders](https://mikeautomations.github.io/en/chimney-sweep-annual-reminders/): Chimney sweep reminders that rebook last year's customers before the busy season: one message, a booking link and a list of who hasn't replied.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

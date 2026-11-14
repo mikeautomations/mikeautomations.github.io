@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Updated: 2026-11-13. Facts summary: https://mikeautomations.github.io/llms.txt
+Updated: 2026-11-14. Facts summary: https://mikeautomations.github.io/llms.txt
 
 ## Home: Mike Automations
 Source: https://mikeautomations.github.io/en/
@@ -9672,6 +9672,191 @@ Not if you don't want one. The list can be a link that opens without an account,
 
 ### Is it safe to send transaction details by text?
 You choose what goes in the message. Many firms send only a link and keep the details behind it, with nothing more than the date and amount in the text itself.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Fire extinguisher service reminders: every site, every year, without the wall planner
+Source: https://mikeautomations.github.io/en/fire-extinguisher-service-reminders/
+
+Fire extinguisher service reminders work when every site you service has a next-due date and someone contacts the customer before it. A simple workflow can keep one list of sites, message the site contact a few weeks before the service is due, offer visit dates, and send the service record once your engineer finishes. Your engineers still do the servicing and decide what passes, fails or needs replacing.
+
+Most small fire protection companies know their renewals are worth more than any new lead. The problem is the list. Service dates live on the engineer's tablet, last year's invoices and a wall planner in the office. A shop changes manager, the reminder letter goes to someone who left, and the customer books whoever rang them first. Or the visit happens, but the service record sits in a van for a week. Who is due next month, who has booked and who hasn't replied is the same question every month, so it can run on its own.
+
+### Where service renewals slip
+- Due dates sit in the job software or on paper, and nobody pulls the list until the month has started
+- The reminder goes to the person who booked last year, who has since left the business
+- Multi-site customers want one visit plan, but get a separate letter for each shop
+- Customers say "yes, book us in" by phone and the date never reaches the diary
+- The service record is filled in on site but not sent to the customer for days
+- Extinguishers flagged for replacement are noted, but nobody follows up the quote
+
+### What the workflow keeps for each site
+One row per site, not per customer. If you already use job or asset software for the extinguishers themselves, the workflow only needs the site, the contact and the dates. The service interval is the one you set and recommend. The workflow follows it, it doesn't decide it.
+| Field | Why it matters |
+| --- | --- |
+| Customer and site address | So a multi-site customer gets one plan, not ten letters |
+| Site contact and a backup contact | Reminders reach someone who still works there |
+| Last service date and next due date | When the first reminder goes out |
+| Status: due, reminded, booked, serviced, record sent | The office sees who needs a call today |
+| Items flagged for replacement | So the quote for new units is followed up, not forgotten |
+
+### A reminder you can copy
+Email or text to the site contact (edit the words in brackets):
+```
+Hi [first name], it's [business]. The fire extinguishers at [site address] are due their service in [month].
+
+Pick a visit date here: [booking link]. Or reply with a day that suits and we'll confirm it.
+
+If you're no longer the right contact for this site, reply with the name of the person who is.
+```
+
+### How the workflow runs
+1. When a service is done, the site's next due date is set from the interval you use.
+2. A few weeks before that date, the site contact gets a message with a booking link or a request to reply with a day.
+3. When they pick a date, it goes on the engineers' diary and the contact gets a confirmation and a reminder the day before.
+4. If nobody replies, a second message goes to the backup contact, then the site goes on a short call list for the office.
+5. After the visit, the engineer's service record is sent to the customer, and the next due date is set.
+6. Items your engineer flagged for replacement create a quote task, so someone follows it up.
+7. Anything that isn't a simple booking goes to a person. If AI drafts a reply, someone in the office reads and approves it before it is sent.
+
+### What stays with you
+The servicing itself, every pass or fail, every replacement and every price. The workflow doesn't decide what a site needs and doesn't give fire safety advice. It asks customers on time, books the visit and sends the paperwork. For a similar pattern in heating, see [boiler service reminders](https://mikeautomations.github.io/en/boiler-service-reminders-heating-engineers/). For scheduled visits under a contract, see [pest control contract visits](https://mikeautomations.github.io/en/pest-control-contract-visits-and-reports/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about where your service dates live today and where renewals get lost. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your job software where it allows a connection, a spreadsheet, email and text), so there's no new system for the office to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already sends renewal reminders and service records and you're happy with it, you don't need this, and we'll say so on the call.
+
+### Does it decide how often a site is serviced?
+No. You set the interval for each site based on the standard you work to and what you've agreed with the customer. The workflow only uses that date to time the reminders.
+
+### Our job software already stores service dates. Do we need this?
+Maybe not. If it already reminds customers and sends the record after each visit, keep it. This is for firms where the due list is pulled by hand, or where reminders go out but nobody tracks who replied.
+
+### Can it handle customers with many sites?
+Yes. Sites are grouped under the customer, so a chain gets one message with all its sites due that month, and one person can book them together.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Quarterly estimated tax reminders: the right amount, to the right client, before every due date
+Source: https://mikeautomations.github.io/en/quarterly-estimated-tax-payment-reminders/
+
+Estimated tax payment reminders work when every client who pays estimates has their amounts on one list. A simple workflow can send each client their own amount and how to pay about a week before each federal due date, ask them to confirm once they've paid, and show your team who hasn't. You still calculate the estimates and answer every tax question.
+
+You work out a client's estimates in April, hand over four vouchers or amounts, and hope they remember. By September half of them have lost the letter. Some pay the wrong amount, some pay the state but not the IRS, and some don't pay at all. Then next spring the questions start. Sending each client a short reminder with their own number, before each of the four quarterly dates, is the same job every quarter, so it can run on its own while your team does the actual tax work.
+
+### Where estimated payments get missed
+- Amounts are in the return file, but the client only saw them once, in April
+- The firm sends one general newsletter reminder, without each client's own amount
+- Clients pay federal and forget the state, or the other way round
+- Nobody knows who paid until the next return is being prepared
+- Mid-year changes, like a big sale or a new job, never reach the preparer
+- Reminders go out by hand from one person's inbox, and stop when they're busy
+
+### What the workflow keeps for each client
+One row per client who pays estimates. Your team sets the amounts; the workflow only sends them. The federal dates fall in mid-April, mid-June, mid-September and mid-January, and move to the next business day when a date lands on a weekend or holiday. State dates can differ, so they get their own column.
+| Field | Why it matters |
+| --- | --- |
+| Client and contact preference | Email or text, to the person who actually pays |
+| Federal amount per quarter | So the reminder carries their number, not a general note |
+| State amount and state due dates | So the state payment isn't forgotten |
+| Status: reminded, paid (client confirmed), not paid, question | Your team sees who needs a call |
+| Change flag | Clients can say their income changed, so a preparer reviews the amount |
+
+### A reminder you can copy
+Email to the client (edit the words in brackets):
+```
+Hi [first name], a reminder from [firm]: your [quarter] estimated tax payment is due on [date].
+
+Federal: [amount]. [State]: [amount], due [state date].
+You can pay the IRS online at [IRS payment link] and [state] at [state link].
+
+Once you've paid, reply PAID. If your income has changed a lot this year, reply CHANGED and we'll take a look before you pay.
+```
+
+### How the workflow runs
+1. After the return is done, your team enters each client's estimated amounts for the year, or the workflow reads them from the file you already export.
+2. About a week before each due date, each client gets a reminder with their own federal and state amounts and how to pay.
+3. Clients reply PAID, and the status is logged with the date. Replies saying CHANGED go to a preparer.
+4. Two days before the date, clients who haven't confirmed get a short second reminder.
+5. After the date, your team gets a list of clients with no confirmation, to call or note on the file.
+6. Every reply that isn't a simple PAID goes to a person. If AI drafts an answer, a preparer reads and approves it before it is sent.
+
+### What stays with you
+Every amount, every tax question and every decision about penalties or changes. The workflow doesn't calculate estimates, doesn't move money and doesn't give tax advice. It sends each client their own number on time and tells you who confirmed. For the rest of the tax year's client emails, see the [tax season client email calendar](https://mikeautomations.github.io/en/blog/tax-season-client-email-calendar/). For document chasing before the return, see [tax return approval chasing](https://mikeautomations.github.io/en/tax-return-approval-chasing/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you send estimates today and which clients slip. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software where it allows a connection, a spreadsheet, email and text), so there's no new system for clients. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already sends each client their own estimate reminders and you're happy with it, you don't need this, and we'll say so on the call.
+
+### Does it work out the estimated amounts?
+No. Your team calculates them as part of the return or a mid-year review. The workflow only sends each client the amounts you entered.
+
+### Does it check whether a client actually paid?
+It records what the client tells you. It doesn't log in to IRS or state accounts. If you need proof, the reminder can ask clients to forward their payment confirmation.
+
+### What about state estimated payments?
+Each client can have state amounts and state dates alongside the federal ones. State dates can differ from federal dates, so your team sets them per state.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Chimney sweep reminders: fill the diary before the phones start ringing
+Source: https://mikeautomations.github.io/en/chimney-sweep-annual-reminders/
+
+Chimney sweep reminders work when every sweep you finish leaves a next-due date behind it. A simple workflow can keep one list of past customers, message them before the busy season with a booking link or a few dates, confirm the visit, and show you who hasn't replied. You still set the interval, the price and every judgement about the chimney.
+
+Every sweep knows the pattern. Quiet months, then the first cold week and the phone doesn't stop. Customers you swept last year are calling at the same time as new ones, and some of them book whoever answers first. The fix is simple: ask last year's customers before the rush, while the diary still has room. The list of who is due is the same job every year, so it can run on its own while you're on a roof.
+
+### Why repeat customers drift away
+- Last year's jobs live in a notebook, a diary or old invoices, not a list you can message
+- You mean to send reminders in late summer, but it's your quietest time to get other work done
+- Customers who move house leave, and the new owners never hear from you
+- Bookings come in by phone, text and social messages, and some never reach the diary
+- Nobody notes which customers asked about a cowl, a liner or a stove service
+- There's no record of who said "not this year", so they get asked again and again
+
+### What the workflow keeps for each customer
+One row per address. If you already use job software, the workflow only needs the address, the contact and the dates. The interval is the one you recommend for each appliance and fuel. The workflow follows it, it doesn't set it.
+| Field | Why it matters |
+| --- | --- |
+| Name, address and contact | So the reminder reaches the person living there now |
+| Appliance and fuel | Your notes for the visit, and your recommended interval |
+| Last sweep date and next due date | When the reminder goes out |
+| Status: reminded, booked, swept, not this year, moved | You see who needs a nudge and who to leave alone |
+| Follow-up notes | Cowls, repairs or quotes you mentioned on the last visit |
+
+### A reminder you can copy
+Text or email to a past customer (edit the words in brackets):
+```
+Hi [first name], it's [name] from [business]. It's been about a year since we swept your chimney at [address].
+
+Want to book before the busy season? Pick a slot here: [booking link], or reply with a day that suits.
+
+Reply NOT THIS YEAR and we won't ask again until next year.
+```
+
+### How the workflow runs
+1. Every finished sweep is logged with the address, appliance and the next due date you set.
+2. A few weeks before that date, or in one batch before your busy season, the customer gets a message with a booking link or a request to reply with a day.
+3. When they book, the visit goes in your diary and they get a reminder the day before, with any access notes you need.
+4. If there's no reply, one more message goes out. After that the customer goes on a short call list, or is left until next year.
+5. Replies like NOT THIS YEAR or WE'VE MOVED are recorded, so nobody is asked twice.
+6. Any question about the chimney or the stove goes to you. If AI drafts a reply, you read and approve it before it is sent.
+
+### What stays with you
+The sweep, the inspection, any certificate you issue and every safety judgement. The workflow doesn't give advice about chimneys or appliances. It asks your past customers on time and keeps the diary straight. For trades with a yearly service, see [boiler service reminders](https://mikeautomations.github.io/en/boiler-service-reminders-heating-engineers/). To get jobs signed off with photos, see [job sign-off and completion photos](https://mikeautomations.github.io/en/job-sign-off-and-completion-photos/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about where your customer list lives today and how bookings reach you. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your job or booking software where it allows a connection, a spreadsheet, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already sends yearly reminders and you're happy with it, you don't need this, and we'll say so on the call.
+
+### Does it tell customers how often to sweep?
+No. You set the interval for each customer from your own judgement about the appliance and fuel. The workflow only uses that date to time the reminder.
+
+### I already use job software. Do I need this?
+Maybe not. If it already sends yearly reminders and books the reply into your diary, keep it. This is for sweeps whose customer list is on paper or in a spreadsheet, or whose software has no reminders.
+
+### Can it send everyone at once before the season?
+Yes. You can send by due date, or in one batch at the time of year you choose, for example before the first cold weeks.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
