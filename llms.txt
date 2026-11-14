@@ -160,6 +160,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Fire extinguisher service reminders](https://mikeautomations.github.io/en/fire-extinguisher-service-reminders/): Fire extinguisher service reminders for fire protection companies: a message before each service is due, a booked visit and the record sent after.
 - [Estimated tax payment reminders](https://mikeautomations.github.io/en/quarterly-estimated-tax-payment-reminders/): Remind clients about quarterly estimated tax payments: each client's amount, the due date and how to pay, sent before every deadline and confirmed after.
 - [Chimney sweep reminders](https://mikeautomations.github.io/en/chimney-sweep-annual-reminders/): Chimney sweep reminders that rebook last year's customers before the busy season: one message, a booking link and a list of who hasn't replied.
+- [Septic pumping reminders](https://mikeautomations.github.io/en/septic-pumping-reminders/): Septic pumping reminders sent before each customer's next pump-out is due: one list of tanks, a text with dates, and a list of who hasn't booked.
+- [Retainer replenishment requests](https://mikeautomations.github.io/en/law-firm-retainer-replenishment-requests/): Retainer replenishment requests sent when a matter's trust balance falls below the minimum, with a payment link, polite follow-ups and a list for the lawyer.
+- [Builder warranty requests](https://mikeautomations.github.io/en/home-builder-warranty-request-tracking/): Warranty request tracking for home builders: one form for homeowners, photos on every request, the right trade booked and a sign-off when it's fixed.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

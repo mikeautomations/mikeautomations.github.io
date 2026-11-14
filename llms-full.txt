@@ -9861,6 +9861,196 @@ Yes. You can send by due date, or in one batch at the time of year you choose, f
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Septic pumping reminders: book the next pump-out before the customer forgets
+Source: https://mikeautomations.github.io/en/septic-pumping-reminders/
+
+Septic pumping reminders work when every pump-out you finish leaves a next due date behind it. A simple workflow keeps one list of tanks, texts or emails each customer a few weeks before that date with days you can offer, puts confirmed jobs on the schedule and shows you who hasn't replied. You still set the interval for each tank and every judgement about the system.
+
+A septic customer may only need you every few years. That's the problem. By the time the tank is due, they've forgotten your name, the fridge magnet is gone, and they call whoever shows up first in a search. Or they wait until something backs up. The dates are already in your records. A reminder that goes out on time, with a couple of days to choose from, is the cheapest job you'll ever book.
+
+### Why repeat pump-outs slip away
+- Past jobs sit in paper tickets, old invoices or a desk calendar, not a list you can message
+- The gap between visits is long, so customers forget who did the last one
+- Homes change hands and the new owner never hears from you
+- Reminder cards in the mail cost money and nobody tracks who answered
+- Customers who said "call me next spring" are never called
+- Office staff spend the busy months answering the phone, not working the due list
+
+### What the workflow keeps for each tank
+One row per property. If your dispatch software already holds the jobs, the workflow only needs the address, the contact and the dates. The interval is the one you recommend for that tank and household. The workflow follows it, it doesn't set it.
+| Field | Why it matters |
+| --- | --- |
+| Name, service address and contact | So the reminder reaches whoever lives there now |
+| Tank details and access notes | Lid location, distance from the driveway, gate codes |
+| Last pump-out date and next due date | When the reminder goes out |
+| Status: reminded, booked, done, not yet, sold home | You see who needs a nudge and who to leave alone |
+| Notes from the last visit | Repairs, risers or filters you mentioned to the customer |
+
+### A reminder you can copy
+Text or email to a past customer (edit the words in brackets):
+```
+Hi [first name], it's [name] from [company]. Our records show your septic tank at [address] was last pumped on [date], and we suggested the next service around [month].
+
+We're in your area on [day 1] and [day 2]. Reply 1 or 2 to book, or reply with a day that works.
+
+Reply LATER and we'll check back in a few months. Reply MOVED if you've sold the home.
+```
+
+### How the workflow runs
+1. Every finished pump-out is logged with the address, the tank notes and the next due date you set.
+2. A few weeks before that date, the customer gets a text or email with days your trucks are already near them, or a booking link.
+3. When they reply, the job goes on the schedule and they get a reminder the day before, asking them to unlock gates and mark the lid if needed.
+4. If there's no reply, one more message goes out. After that the customer lands on a short call list for the office.
+5. LATER, MOVED and NOT INTERESTED replies are recorded, so nobody is asked twice. A MOVED reply flags the address so you can write to the new owner.
+6. Questions about the system, odors or backups go straight to you. If AI drafts a reply, a person reads and approves it before it's sent.
+
+### What stays with you
+The pump-out, any inspection, every report you write for a county or a home sale, and every judgement about the system. The workflow gives no advice about septic systems. It asks your past customers on time and keeps the schedule straight. Trades with a yearly visit use the same idea, see [chimney sweep reminders](https://mikeautomations.github.io/en/chimney-sweep-annual-reminders/). For contract work on a fixed visit schedule, see [pest control contract visits and reports](https://mikeautomations.github.io/en/pest-control-contract-visits-and-reports/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about where your job history lives today and how bookings reach your office. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your dispatch software where it allows a connection, a spreadsheet, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your septic software already sends reminders and you're happy with them, you don't need this, and we'll say so on the call.
+
+### Does it tell customers how often to pump?
+No. You set the interval for each tank from your own judgement and local rules. The workflow only uses that date to time the reminder.
+
+### I already use septic software. Do I need this?
+Maybe not. If it already sends reminders and puts the reply on your schedule, keep it. This is for companies whose job history is on paper or in a spreadsheet, or whose software sends reminders nobody follows up.
+
+### Can it group reminders by area so the trucks run full routes?
+Yes. Reminders can offer only the days a truck is already near that address, so bookings land on routes you're running anyway.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Retainer replenishment requests: top up the retainer before the work stops
+Source: https://mikeautomations.github.io/en/law-firm-retainer-replenishment-requests/
+
+A retainer replenishment workflow watches each matter's trust balance against the minimum in the engagement letter. When the balance drops below it, the client gets a clear request with the amount and a payment link, one or two polite follow-ups, and the responsible lawyer gets a list of matters that are still short. A person approves every request and decides what happens to the work. The workflow never touches client money.
+
+Evergreen retainers only work if someone notices when the balance runs low. In a small firm, that someone is usually the lawyer, at month end, after more work has gone in. The request goes out late, the client is surprised, and the firm carries the risk while it waits. Your billing software may already flag low balances. What tends to fall through is the follow-up: who was asked, who paid, and who needs a call from the lawyer.
+
+### Where replenishment goes wrong
+- Low balances are spotted at billing time, weeks after they dropped
+- Requests are written by hand, so the amount and wording differ from client to client
+- Nobody tracks who was asked, so some clients get nothing and some get three emails
+- The lawyer only hears about an unpaid request when the matter is already well into the next phase
+- Clients ask why they owe more, and the answer sits in a bill they haven't opened
+- Hard conversations about pausing work get put off because nobody has the full picture
+
+### What the workflow checks
+The minimum balance and the top-up amount come from your engagement letter and your billing software. The workflow reads them. It doesn't set them, and it doesn't decide what the firm can do when a client doesn't pay. That depends on your state's rules and your agreement with the client.
+| Step | What happens | Who decides |
+| --- | --- | --- |
+| Balance check | Each matter's trust balance is compared with its minimum, daily or weekly | Rules you set |
+| Draft request | A request with the amount, a short reason and a payment link is prepared | Workflow |
+| Approval | The responsible lawyer or billing staff approves or edits it | A person |
+| Follow-ups | One or two polite reminders if nothing arrives | Schedule you set |
+| Still short | The matter goes on the lawyer's list with the full history | The lawyer |
+
+### A request you can copy
+Email to a client (edit the words in brackets):
+```
+Subject: Retainer top-up for [matter name]
+
+Hi [first name],
+
+Under our engagement letter, we keep a minimum of [minimum amount] in trust for your matter. After our latest bill, the balance is [current balance], so we're asking for a deposit of [amount] to bring it back to the agreed level.
+
+You can pay here: [payment link]. Your latest bill is attached if you'd like to see the work it covers.
+
+If you have questions about the amount, reply to this email or call [lawyer name] at [phone].
+
+Thank you,
+[firm name]
+```
+
+### How the workflow runs
+1. On the schedule you choose, the workflow reads each open matter's trust balance and its minimum from your billing software or a report.
+2. For every matter below its minimum, it drafts a request with the client's own amounts and your payment link.
+3. The responsible lawyer or billing staff reviews the drafts and approves, edits or holds each one. Nothing goes out without that approval.
+4. Approved requests are sent and logged. When the deposit shows up in your billing software, the matter is marked as topped up and the reminders stop.
+5. If nothing arrives, one or two reminders go out on your schedule, each approved the same way.
+6. Matters that are still short go on a weekly list for the lawyer, with every request and reply, ready for a call.
+
+### What stays with you
+The engagement letter, the minimum and the top-up amount, trust accounting, applying funds to bills, every legal question and every decision about pausing or withdrawing. The workflow only sends requests you've approved and keeps track of the replies. For the start of the relationship, see [client intake for small law firms](https://mikeautomations.github.io/en/law-firm-client-intake/). For overdue bills, see [invoice payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you bill, where trust balances show up today and who sends requests now. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice management or billing software where it allows a connection, a report export, your email and your payment provider), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your billing software already sends replenishment requests and tracks the follow-ups well, you don't need this, and we'll say so on the call.
+
+### Does the workflow move or apply money in trust?
+No. It reads balances and sends requests you approve. Deposits, transfers and applying funds to bills stay in your billing software and with your staff.
+
+### Does it follow our state's trust accounting rules?
+It doesn't decide anything those rules cover. Your firm sets the minimums, the wording and what happens when a client doesn't pay, and a person approves every request. Check your own rules and engagement letter before you switch it on.
+
+### We use Clio or similar. Does it already do this?
+Some practice tools can send a replenishment request automatically or alert staff to low balances. If yours covers the request and the follow-ups the way you want, keep it. This is for firms where the follow-up still lives in someone's head.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Warranty request tracking for home builders: every homeowner issue logged, assigned and closed
+Source: https://mikeautomations.github.io/en/home-builder-warranty-request-tracking/
+
+Warranty request tracking means every issue a homeowner reports after handover goes into one list through one form, with photos, the plot and the room. The builder decides what is covered, the right trade gets the job with the details, the homeowner gets updates and a booking, and the request closes with a sign-off. A person makes every coverage decision and approves anything AI drafts.
+
+After handover, the homeowner's issues arrive any way they can: a text to the site manager, an email to the office, a call to sales, a message to the trade who fitted the kitchen. Some get fixed twice. Some never get fixed, and the first you hear is an angry review or a call from the warranty provider. Small builders don't need a big warranty system to fix this. They need one front door and one list that shows what's open.
+
+### Where warranty requests get lost
+- Requests come in by text, email, phone and social media, to whoever the homeowner knows
+- There are no photos, so someone drives out just to see the problem
+- Nobody records which trade did the work, so the request bounces between subcontractors
+- Homeowners chase for updates because they don't know a job is booked
+- Items are fixed but never signed off, so they come back as new complaints
+- At the end of the year there's no record of what kept going wrong, plot by plot
+
+### What the request form asks for
+One short form, on your website or sent as a link at handover. It's the same form whether the homeowner is reporting a sticking door or a leak. Anything marked urgent goes straight to a person by phone or text.
+| Field | Why it matters |
+| --- | --- |
+| Name, address or plot number and contact | So you know which home and who to call |
+| Room or area, and a short description | So the right trade is chosen first time |
+| Photos or a short video | Many issues can be judged without a site visit |
+| Is it urgent? (water, heating, power, security) | Urgent requests skip the queue and go to a person |
+| Best days and times for access | So the booking works the first time |
+
+### How the workflow runs
+1. The homeowner fills in the form. The request is logged with a number, the plot and the photos, and they get a message saying it has been received.
+2. Urgent requests go to the person on call straight away. Everything else lands in the warranty list.
+3. A person reviews each request, decides whether it is covered and which trade did the work. The workflow never makes that call.
+4. The trade gets the details and photos and is asked to confirm a date. The homeowner gets the booking and a reminder the day before.
+5. When the work is done, the homeowner is asked to confirm it's fixed. If they say no, the request reopens. If they don't reply, a second message goes out before it closes.
+6. Every Monday, you get a list of open requests by age and trade, and a count of issues by type, so repeat problems show up.
+
+### Replies homeowners actually want
+Message after a request is reviewed (edit the words in brackets):
+```
+Hi [first name], thanks for reporting [issue] at [address]. We've looked at your photos and [trade or team] will fix it. They'll contact you to book, or you can pick a slot here: [booking link].
+
+Your request number is [number]. Reply to this message any time if anything changes.
+
+[name], [builder]
+```
+
+### What stays with you
+What is covered under your warranty and any warranty provider's policy, every judgement about the work, payments to trades, and every conversation with an unhappy homeowner. The workflow gives the requests one front door and keeps them moving. It doesn't decide anything. For snags before handover, see [job sign-off and completion photos](https://mikeautomations.github.io/en/job-sign-off-and-completion-photos/). For changes during the build, see [change order approvals](https://mikeautomations.github.io/en/change-order-approval-workflow/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how homeowner issues reach you today and who deals with them. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a form, a spreadsheet or your project software, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If you already use a warranty system and your team keeps it up to date, you don't need this, and we'll say so on the call.
+
+### Does it decide what's covered by the warranty?
+No. A person reads every request and decides. The workflow only collects the details and moves the request along once you've decided.
+
+### Do homeowners need to download an app?
+No. They use a web form and get updates by text or email.
+
+### Can subcontractors use it without logins?
+Yes. Trades get the job by email or text with the photos and a link to confirm a date. Nobody needs a new account.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
