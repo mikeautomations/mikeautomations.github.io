@@ -10243,6 +10243,186 @@ You choose a new day for that round, and everyone on it gets one text with the n
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Court date reminders that reach the client, not just the calendar
+Source: https://mikeautomations.github.io/en/court-date-reminders-law-firms/
+
+Court date reminders work when every hearing on your calendar also creates messages to the client. A simple workflow takes each date your team enters, texts and emails the client a week before and the day before with the time, courtroom, address and what to bring, asks them to reply YES, and gives your staff a list of clients who haven't confirmed. Your attorneys still set the dates, decide what clients are told and handle every call.
+
+Your calendar knows about the hearing. Your client may not. The court's notice went to an old address, or it's under a pile of mail, or they wrote down the wrong day. Someone on your staff usually calls the night before, if they remember and if the client picks up. The date, the courtroom and the client's phone number are already in your system. A reminder that goes out on its own, and a short list of clients who haven't confirmed, takes that worry off your staff.
+
+### Why clients still miss hearings
+- Court notices arrive by mail, weeks ahead, and get lost or forgotten
+- Clients change phone numbers and addresses during the case
+- Hearings get continued, and the client remembers the old date
+- Reminder calls depend on one person having time the day before
+- Clients don't know which courtroom, what to wear or what to bring
+- Nobody can see, at a glance, which clients have confirmed this week
+
+### What each reminder includes
+The reminder only repeats what your firm has already entered and approved. It doesn't give legal advice and it doesn't set dates. Every message template is written and approved by your attorneys before anything goes out.
+| In the message | Where it comes from |
+| --- | --- |
+| Date, time and type of hearing | Your calendar or case management software |
+| Courthouse address and courtroom | The entry your staff made for the hearing |
+| What to bring and when to arrive | A short note your attorney writes for that hearing type |
+| Who to call with a question | The case's assigned paralegal or attorney |
+| Reply YES to confirm, or CALL for a call back | So staff only phone the clients who need it |
+
+### A reminder you can copy
+Text to a client (your attorney approves the wording first):
+```
+Hi [first name], this is [firm name]. Reminder: you have a [hearing type] on [day, date] at [time] at [courthouse], [address], courtroom [number]. Please arrive by [arrival time] and bring [items].
+
+Reply YES to confirm you'll be there, or CALL and we'll ring you today. Questions: [paralegal name], [phone].
+```
+
+### How the workflow runs
+1. Your staff enter the hearing as usual. The workflow picks it up with the client and the hearing type.
+2. A week before, the client gets a text and an email with the details and the note for that hearing type.
+3. The day before, a second text goes out. A YES reply marks the client as confirmed.
+4. If a hearing is moved, staff update the date once and the client gets a message with the new date, so the old one isn't remembered.
+5. Clients who haven't replied, or who replied CALL, land on a short list for staff each morning, with their phone number.
+6. Questions that come back by text go to the assigned person. If AI drafts a reply, an attorney or paralegal reads and approves it before it's sent.
+
+### What stays with you
+Every court date and deadline, how your firm calendars them, what clients are told and every conversation with a client. Check your bar's guidance and your firm's own rules on texting clients and getting their consent before you switch anything on; the workflow follows whatever you decide. For the first steps with a new client, see [law firm client intake](https://mikeautomations.github.io/en/law-firm-client-intake/). For keeping retainers topped up, see [retainer replenishment requests](https://mikeautomations.github.io/en/law-firm-retainer-replenishment-requests/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about where your hearings are calendared today and how you reach clients. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your case management software where it allows a connection, your calendar, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already texts clients before hearings and your staff are happy with it, you don't need this, and we'll say so on the call.
+
+### Does it work out court dates or deadlines?
+No. Your firm sets every date in its own calendar. The workflow only reminds the client about dates your staff have entered.
+
+### What if a hearing is continued or cancelled?
+Staff change the date once in your calendar. The client gets a message with the new date, and the old reminders are cancelled.
+
+### Can clients reply to the text?
+Yes. YES marks them confirmed, CALL puts them on the call list, and anything else goes to the assigned paralegal or attorney. Nothing is answered without a person approving it.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Subcontractor pay applications in by the cutoff, complete the first time
+Source: https://mikeautomations.github.io/en/subcontractor-pay-application-reminders/
+
+Subcontractor pay application reminders work when every active sub gets the same request, on the same day, before your monthly cutoff. A simple workflow emails each sub on the job a reminder with the cutoff date, the schedule of values to bill against and an upload link, checks that each pay app arrives with the pieces you need, and gives your project manager a list of who hasn't billed and what's missing before you put the owner's draw together. Your team still reviews every line, approves percentages and decides what gets paid.
+
+Every month it's the same chase. The owner's draw is due, half the subs haven't sent their pay apps, two of the ones that did forgot the waiver or billed a change order nobody approved, and the project manager is working through texts and emails to work out who's still missing. Your subcontracts already say when pay apps are due and what goes with them. A reminder that goes out on its own, and a list that shows what's in and what isn't, gets the draw together without the last-minute calls.
+
+### Why pay apps come in late or incomplete
+- Subs work on several jobs, each with its own cutoff
+- The reminder depends on a project manager remembering to send it
+- Pay apps arrive in different formats, by email, text or a portal
+- Waivers, certified payroll or updated insurance certificates are missing
+- Unapproved change orders are billed on the same pay app
+- Nobody can see, for the whole job, who has billed this month
+
+### What the workflow checks on each pay app
+The checklist comes from your subcontracts and from what the owner needs for the draw. The workflow only checks that the pieces are there and the numbers line up. Your project manager reviews and approves the billing.
+| Check | Why it matters |
+| --- | --- |
+| Pay app received by the cutoff | Late ones are flagged for this cycle or the next, as your subcontract says |
+| Billed against the current schedule of values | So the lines match what the owner sees |
+| Change orders billed are approved | Unapproved ones are flagged for your PM, not paid by mistake |
+| Waiver attached for the right period | Nothing goes to the owner with a gap |
+| Other documents your contract asks for | Certified payroll, insurance certificate, retainage figures |
+
+### A reminder you can copy
+Email to a subcontractor before the cutoff (edit the words in brackets):
+```
+Hi [first name], pay applications for [job name] for work through [period end date] are due by [cutoff date].
+
+Please bill against the current schedule of values (attached) and include: [waiver type], [other documents]. Only approved change orders can be billed: [list of approved change orders].
+
+Upload here: [link]. Questions: [project manager name], [phone]. Pay apps received after [cutoff date] are handled as set out in your subcontract.
+```
+
+### How the workflow runs
+1. A few days before each job's cutoff, every active sub on the job gets the reminder with their schedule of values and an upload link.
+2. Each pay app that arrives is filed by job, sub and period, and checked against the list above.
+3. A sub with something missing gets a short note naming exactly what, while there's still time before the cutoff.
+4. Subs who haven't billed get one more reminder the day before the cutoff.
+5. On cutoff day, the project manager gets one list: complete, incomplete, and not received, with the amounts billed.
+6. Your PM reviews every line and approves the percentages. If AI drafts a note to a sub, a person reads and approves it before it's sent.
+
+### What stays with you
+The cutoff, what counts as complete, every percentage, retainage and every payment. The workflow follows your subcontracts and your state's payment rules as you set them; it doesn't decide them. For the waivers that go with each payment, see [lien waiver tracking](https://mikeautomations.github.io/en/lien-waiver-tracking-subcontractors/). For the paperwork behind changes, see [change order approvals](https://mikeautomations.github.io/en/change-order-approval-workflow/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how pay apps reach you today and what each owner needs for the draw. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your accounting or project software where it allows a connection, a spreadsheet, email and shared folders), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your construction software already collects pay apps the way you want, you don't need this, and we'll say so on the call.
+
+### Does it approve pay applications?
+No. It checks that the pieces are there and flags anything that doesn't line up. Your project manager reviews and approves every line.
+
+### Can subs keep using their own pay app format?
+Yes, if your contracts allow it. The workflow files whatever arrives and checks for the pieces you need. If you require one form, the reminder includes it.
+
+### What about jobs with different cutoffs?
+Each job has its own cutoff date, and each sub is reminded for every job they're on, in one message per job.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Physical therapy prior authorization tracking: renew before the last approved visit
+Source: https://mikeautomations.github.io/en/physical-therapy-prior-authorization-tracking/
+
+Physical therapy prior authorization tracking means knowing, for every patient on an authorized plan, how many visits were approved, how many are used, and when the authorization ends. A simple workflow updates those numbers from your schedule after each visit, alerts the front desk and the treating therapist a set number of visits or days before either runs out, and keeps a list of renewals requested and still waiting. Your therapists still write the notes and decide on continued care, and your staff still submit every request.
+
+The authorization was approved for a number of visits by a date. The patient is doing well, keeps coming, and nobody notices that today is the last approved visit until the claim comes back. Or the dates run out with visits still left. The numbers are on the approval letter and in the payer portal, but not where the front desk looks when booking. A count that updates itself after every visit, and an alert in good time, means renewals are asked for while there's still room.
+
+### Why authorizations run out unnoticed
+- Each payer, and often each plan, has its own rules and portal
+- The approval sits in a portal or a PDF, not in the schedule
+- Visits used are counted by hand, if at all
+- There are two limits, visits and an end date, and either can run out first
+- Renewal needs updated notes from the therapist, which takes time
+- Requests sent are tracked in someone's inbox, not in one list
+
+### What the tracker keeps for each authorization
+One row per authorization, linked to the patient's appointments. Payer rules change often, so your billing team enters the approved visits and dates from each approval. The workflow does the counting and the reminding; it doesn't decide what needs authorization.
+| Field | Why it matters |
+| --- | --- |
+| Patient, payer and plan | Who to ask and where |
+| Authorization number, approved visits, start and end dates | From the approval, entered once |
+| Visits used and visits left | Updated from your schedule after each attended visit |
+| Alert point: visits or days before the limit | Set per payer, to leave time for the renewal |
+| Renewal status: needed, notes ready, requested, approved, denied | So nothing waits in an inbox |
+
+### An alert you can copy
+Internal alert to the front desk and therapist (edit the words in brackets):
+```
+Authorization check for [patient initials], [payer]: [visits left] visits left, ends [end date]. Next booked visit: [date].
+
+[Therapist name]: please update the progress note by [date] if you're asking for more visits.
+[Billing name]: renewal request to go to [payer] by [date]. Reply DONE when submitted.
+```
+
+### How the workflow runs
+1. When an authorization is approved, billing enters the visits and dates once. The tracker links it to the patient's appointments.
+2. After each attended visit, visits used and visits left update on their own.
+3. At the alert point you set for that payer, the front desk, the therapist and billing get the alert above.
+4. When the therapist marks the notes ready, billing gets a task to submit the renewal, and it moves to requested.
+5. Each morning, staff see a short list: renewals due, requested and still waiting, and patients booked past their last approved visit.
+6. If AI drafts a summary for a renewal, the treating therapist reads and approves it. Nothing goes to a payer without a person submitting it.
+
+### What stays with you
+Clinical notes, decisions about continued care, every request to a payer and every conversation with a patient about cost. Patient information should only go into tools your practice is allowed to use for it, which your compliance lead decides; we build on those. For keeping patients booked through their plan of care, see [physio rebooking reminders](https://mikeautomations.github.io/en/physio-rebooking-reminders/). For forms before the first visit, see [patient intake forms](https://mikeautomations.github.io/en/physio-clinic-patient-intake-forms/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how authorizations are tracked today and which payers cause the most trouble. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice management software where it allows a connection, your schedule, a secure spreadsheet and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your EMR already counts authorized visits and alerts your team in time, you don't need this, and we'll say so on the call.
+
+### Does it know each payer's rules?
+No. Payer rules differ by plan and change often. Your billing team enters what each approval says, and sets how early the alert should come for each payer.
+
+### Does it submit authorization requests?
+No. Most payers use their own portals. The workflow tells your team when a renewal is due and tracks it once it's sent.
+
+### Does it read our clinical notes?
+Only if you want it to help draft a renewal summary, and then the treating therapist approves every word. It doesn't need notes to count visits.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 

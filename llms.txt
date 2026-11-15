@@ -166,6 +166,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Backflow test reminders](https://mikeautomations.github.io/en/backflow-test-reminders-plumbers/): Backflow test reminders sent before each assembly is due: one list of devices, a text or email with dates, and a list of reports still to send.
 - [Confirmation statement reminders](https://mikeautomations.github.io/en/confirmation-statement-client-reminders/): Confirmation statement reminders for limited company clients: a check-your-details message, ID verification status and a list of who hasn't replied.
 - [Window cleaning round messages](https://mikeautomations.github.io/en/window-cleaning-round-messages-and-payments/): For window cleaners: a text before each clean, a 'cleaned today' message with a pay link, polite reminders for unpaid cleans and one list of who owes what.
+- [Court date reminders](https://mikeautomations.github.io/en/court-date-reminders-law-firms/): Court date reminders for law firm clients: texts and emails before each hearing with the time, place and what to bring, and a list of who hasn't confirmed.
+- [Pay application reminders](https://mikeautomations.github.io/en/subcontractor-pay-application-reminders/): Pay application reminders for subcontractors: a request before each cutoff, a check for missing pieces and a list of who hasn't billed before the draw.
+- [PT prior authorization tracking](https://mikeautomations.github.io/en/physical-therapy-prior-authorization-tracking/): Prior authorization tracking for PT clinics: visits used, visits left and end dates per patient, with alerts before the last approved visit.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
