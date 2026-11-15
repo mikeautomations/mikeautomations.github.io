@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Updated: 2026-11-14. Facts summary: https://mikeautomations.github.io/llms.txt
+Updated: 2026-11-15. Facts summary: https://mikeautomations.github.io/llms.txt
 
 ## Home: Mike Automations
 Source: https://mikeautomations.github.io/en/
@@ -10047,6 +10047,198 @@ No. They use a web form and get updates by text or email.
 
 ### Can subcontractors use it without logins?
 Yes. Trades get the job by email or text with the photos and a link to confirm a date. Nobody needs a new account.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Backflow test reminders: book the retest before the water authority's notice lands
+Source: https://mikeautomations.github.io/en/backflow-test-reminders-plumbers/
+
+Backflow test reminders work when every test you finish leaves a next due date behind it. A simple workflow keeps one list of assemblies by property, emails or texts each customer a few weeks before the due date with days you can offer, books the replies, and shows you which test reports still need to go to the water authority. You still do the test, sign the report and decide on any repair.
+
+Most of your backflow customers only need you once a year. Then the water authority's notice arrives, the property manager forwards it to whoever answers first, and the test you did last year goes to someone else. The due dates are already in your records. A reminder that reaches the customer before the notice does, with a couple of dates to pick from, keeps the work with you.
+
+### Why annual backflow work slips away
+- Test dates live in old invoices, paper reports or the tester's own notebook
+- Each city or water district sends its own notices, on its own dates
+- Property managers look after many sites and book whoever replies first
+- One building can have several assemblies, each with its own due date
+- Test reports sit in a truck waiting to be entered into the water authority's system
+- Failed tests need a repair and a retest, and the follow-up gets lost
+
+### What the workflow keeps for each assembly
+One row per device, grouped by property. If your field service software already holds the jobs, the workflow only needs the contact and the dates. The due date comes from the customer's water authority. The workflow follows it, it doesn't set it.
+| Field | Why it matters |
+| --- | --- |
+| Property, contact and who pays | Owner, tenant or property manager: the reminder reaches the person who books |
+| Assembly type, size, location and serial number | So the tester brings the right kit and finds the device |
+| Water authority and how it takes reports | Online portal, email or paper, and its own due date |
+| Last test date, result and next due date | When the reminder goes out |
+| Status: reminded, booked, tested, report sent, repair needed | You see what's open at a glance |
+
+### A reminder you can copy
+Email or text to a past customer (edit the words in brackets):
+```
+Hi [first name], it's [name] from [company]. The backflow assembly at [address] ([location, e.g. by the meter]) was last tested on [date], and [water authority] will expect the next test by [due date].
+
+We have a tester near you on [day 1] and [day 2]. Reply 1 or 2 to book, or reply with a day that works.
+
+We'll send the report to [water authority] for you and email you a copy. If you manage several sites, reply SITES and we'll send one list with every due date.
+```
+
+### How the workflow runs
+1. Every finished test is logged with the assembly, the result and the next due date from the customer's water authority.
+2. A few weeks before that date, the customer gets an email or text with days a tester is near them, or a booking link.
+3. When they reply, the test goes on the schedule and they get a reminder the day before about access and a short water shut-off.
+4. If there's no reply, one more message goes out. After that the customer lands on a short call list for the office.
+5. After the visit, the office sees which reports still need to go to the water authority, and the customer gets their copy.
+6. A failed test opens a repair quote and a retest reminder. Questions go to you. If AI drafts a reply, a person reads and approves it before it's sent.
+
+### What stays with you
+The test, the report and your signature on it, any repair and every price. The workflow doesn't decide which assemblies need testing or when; the customer's water authority does. It asks your past customers on time and keeps the paperwork moving. For yearly service contracts on heating and cooling, see [HVAC maintenance agreement renewals](https://mikeautomations.github.io/en/hvac-maintenance-agreement-renewals/). For another test-and-tag style visit, see [fire extinguisher service reminders](https://mikeautomations.github.io/en/fire-extinguisher-service-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about where your test history lives today and how each water authority you deal with takes reports. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your field service software where it allows a connection, a spreadsheet, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your software already sends backflow reminders and you're happy with them, you don't need this, and we'll say so on the call.
+
+### Does it tell customers when their test is due?
+It uses the due date from the customer's water authority, which you enter or copy from the notice. It doesn't set testing rules or intervals.
+
+### Can it submit test reports to the water authority?
+Usually not directly. Most water authorities use their own portal. The workflow lists which reports still need sending and who sent them, so nothing sits in the truck.
+
+### Can it handle property managers with many sites?
+Yes. Assemblies are grouped by who books, so a property manager gets one message with every site and due date, not one message per device.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Confirmation statement reminders: get clients to check their details before you file
+Source: https://mikeautomations.github.io/en/confirmation-statement-client-reminders/
+
+A confirmation statement reminder works best when it asks the client one question: is anything different? A simple workflow keeps one list of client companies with each confirmation statement date, sends the director what Companies House currently shows a few weeks before, records "no changes" or the changes they send, flags directors who still need identity verification, and gives you a list of who hasn't replied. You still check the register and file.
+
+The filing itself takes minutes. The wait for the client doesn't. You need to know if a director left, shares changed hands or the registered office moved, and the director answers the email a week after the date, or never. Companies House will email a reminder, but it won't ask your client the questions you need answered, and it won't tell you who's gone quiet.
+
+### Why confirmation statements end up last-minute
+- Each company has its own date, spread across the year, so there's no season to plan around
+- Companies House reminders go to whoever was signed up, not always the practice
+- Clients don't think to tell you about a new shareholder or a director leaving
+- Changes to officers, the registered office or PSCs need their own filings first
+- Directors who haven't verified their identity can hold the filing up
+- Nobody has one view of which clients replied and which went quiet
+
+### What the workflow keeps for each company
+One row per client company. If your practice software already holds the dates, the workflow reads them from there. The facts come from the register and from the client. The workflow only asks and records.
+| Field | Why it matters |
+| --- | --- |
+| Company, number and confirmation statement date | When the reminder goes out |
+| Directors, shareholders and PSCs as the register shows them | What you ask the client to check |
+| Identity verification status for each director | So a missing code doesn't hold the filing up |
+| Client reply: no changes, changes sent, no reply | You see who's ready to file |
+| Fee and whether it's in the engagement letter | So the filing is billed the way you agreed |
+
+### A client message you can copy
+Email to a director (edit the words in brackets):
+```
+Hi [first name],
+
+[Company name]'s confirmation statement is due by [date]. Here's what Companies House shows today:
+
+Directors: [names]
+Shareholders: [names and shares]
+Registered office: [address]
+
+Is anything different? Please reply NO CHANGES, or tell us what's changed and when.
+
+[If needed: we also need your Companies House personal code for identity verification. Here's how to get one: [link].]
+
+Thanks,
+[name], [practice]
+```
+
+### How the workflow runs
+1. A few weeks before each company's date, the director gets an email showing what the register holds today.
+2. A reply of NO CHANGES marks the company ready to file. Any other reply goes to you with the company's details attached.
+3. Directors still missing identity verification get their own short request, with the link and a reminder.
+4. If there's no reply, one or two more reminders go out on your schedule. Then the company goes on your call list.
+5. Each Monday you see which companies are ready, which have changes to file first and which have gone quiet.
+6. You check the register, file any change forms and the statement. If AI drafts a reply to a client, a person reads and approves it before it's sent.
+
+### What stays with you
+Checking the register, every filing and every judgement about who counts as a PSC or what a change means. The workflow gives no legal advice and files nothing on its own. It asks clients at the right time and keeps the replies in one place. For the yearly accounts on the same companies, see [limited company year-end records](https://mikeautomations.github.io/en/limited-company-year-end-records/). For getting new clients to authorise you with HMRC, see [HMRC agent authorisation codes](https://mikeautomations.github.io/en/hmrc-agent-authorisation-code-chasing/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about where your client dates live and how you file today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software where it allows a connection, Outlook or Gmail, a spreadsheet), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already sends these reminders and you're happy with them, you don't need this, and we'll say so on the call.
+
+### Doesn't Companies House send reminders already?
+It does, by email, to the people signed up for them. Those reminders don't ask your client whether anything changed, and they don't show you who replied. This workflow does both.
+
+### Does it file the confirmation statement?
+No. You or your team check the register and file, as you do today. The workflow gets the client's answers in before you sit down to do it.
+
+### Can it track directors' identity verification?
+Yes. Each director's status is kept on the company's row, and anyone still missing gets their own reminder before the confirmation statement date.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Window cleaning rounds: tell customers you're coming, then get paid without knocking twice
+Source: https://mikeautomations.github.io/en/window-cleaning-round-messages-and-payments/
+
+Most window cleaning customers aren't in when you clean, so getting paid depends on what you send afterwards. A simple workflow keeps your round in one list, texts each customer the day before, sends a "cleaned today" message with the amount and a pay link once you mark the job done, reminds anyone who hasn't paid, and shows you who owes what. You still set the round, the prices and how you deal with late payers.
+
+The cleaning is the easy part. The round is in a notebook, half the customers pay by bank transfer with a reference you can't match, a few still leave cash under the mat, and every Sunday goes on working out who owes for which clean. Then someone says they didn't know you'd been. A short text before and after each clean, and one list that shows who's paid, fixes most of that.
+
+### Where the round costs you time
+- Customers aren't home, so you can't take payment at the door
+- Bank transfers arrive with no reference, or the wrong one
+- Knocking back on doors to collect means a second trip down the same street
+- Weather moves the round, and customers don't hear about it
+- Gates are locked or the dog is out because nobody knew you were coming
+- Owed amounts pile up over several cleans before anyone notices
+
+### What the workflow keeps for each customer
+One row per property. If you already use a round app, the workflow can sit beside it or you can keep what you have. The prices and frequency are yours. The workflow only sends and records.
+| Field | Why it matters |
+| --- | --- |
+| Name, address, mobile and how they like to pay | So messages reach them and the right link goes out |
+| Frequency and the round day or area | Weekly, four-weekly, eight-weekly: when the next text goes out |
+| Price, and what's included (frames, sills, conservatory) | So the amount in the message is right |
+| Access notes: gate code, side gate, dog | So you don't lose a clean at the gate |
+| Each clean: date, amount, paid or owed | One view of who owes for what |
+
+### Messages you can copy
+Texts before and after a clean (edit the words in brackets):
+```
+Day before:
+Hi [first name], it's [name], your window cleaner. I'm due at [address] tomorrow, [day]. Please leave the side gate unlocked if you can. Reply SKIP if this one doesn't suit.
+
+After the clean:
+Hi [first name], your windows at [address] were cleaned today. That's [amount]. You can pay here: [link], or by bank transfer with the reference [ref]. Thank you!
+```
+
+### How the workflow runs
+1. The day before each round, every customer on it gets a short text. SKIP replies move them to the next clean.
+2. If rain cancels the day, one tap sends everyone on that round a message with the new day.
+3. When you mark a job done on your phone, the customer gets a "cleaned today" text with the amount and a pay link.
+4. Payments by link are marked paid on their own. Bank transfers are matched by reference, and anything unclear goes on a short list for you.
+5. Anyone still unpaid after a few days gets a polite reminder. Customers owing for two cleans go on your list to deal with yourself.
+6. Complaints, new quotes and anything unusual come straight to you. If AI drafts a reply, a person reads and approves it before it's sent.
+
+### What stays with you
+The round, the prices, who you take on and how you handle someone who doesn't pay. The workflow doesn't drop or chase customers on its own beyond the reminders you set. For cleaning businesses that work inside the home, see [cleaning business automation](https://mikeautomations.github.io/en/cleaning-business-automation/). For chasing unpaid invoices in general, see [invoice payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how your round is kept today and how customers pay. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your round app where it allows a connection, text messages, a card or direct debit link), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your round app already sends these messages and you're happy with it, you don't need this, and we'll say so on the call.
+
+### I already use a round app. Do I need this?
+Maybe not. If it already sends texts before and after each clean and shows you who owes, keep it. This is for rounds kept in a notebook or spreadsheet, or where the app's messages aren't followed up.
+
+### Can customers still pay cash or by bank transfer?
+Yes. You mark cash as paid when you collect it. Bank transfers are matched by the reference in the text, and anything that doesn't match goes on a short list for you to check.
+
+### What happens when it rains?
+You choose a new day for that round, and everyone on it gets one text with the new day. Nobody is told twice.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.

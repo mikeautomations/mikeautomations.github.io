@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-14.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-15.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
@@ -163,6 +163,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Septic pumping reminders](https://mikeautomations.github.io/en/septic-pumping-reminders/): Septic pumping reminders sent before each customer's next pump-out is due: one list of tanks, a text with dates, and a list of who hasn't booked.
 - [Retainer replenishment requests](https://mikeautomations.github.io/en/law-firm-retainer-replenishment-requests/): Retainer replenishment requests sent when a matter's trust balance falls below the minimum, with a payment link, polite follow-ups and a list for the lawyer.
 - [Builder warranty requests](https://mikeautomations.github.io/en/home-builder-warranty-request-tracking/): Warranty request tracking for home builders: one form for homeowners, photos on every request, the right trade booked and a sign-off when it's fixed.
+- [Backflow test reminders](https://mikeautomations.github.io/en/backflow-test-reminders-plumbers/): Backflow test reminders sent before each assembly is due: one list of devices, a text or email with dates, and a list of reports still to send.
+- [Confirmation statement reminders](https://mikeautomations.github.io/en/confirmation-statement-client-reminders/): Confirmation statement reminders for limited company clients: a check-your-details message, ID verification status and a list of who hasn't replied.
+- [Window cleaning round messages](https://mikeautomations.github.io/en/window-cleaning-round-messages-and-payments/): For window cleaners: a text before each clean, a 'cleaned today' message with a pay link, polite reminders for unpaid cleans and one list of who owes what.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
