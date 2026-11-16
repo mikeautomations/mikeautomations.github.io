@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Updated: 2026-11-15. Facts summary: https://mikeautomations.github.io/llms.txt
+Updated: 2026-11-16. Facts summary: https://mikeautomations.github.io/llms.txt
 
 ## Home: Mike Automations
 Source: https://mikeautomations.github.io/en/
@@ -10419,6 +10419,196 @@ No. Most payers use their own portals. The workflow tells your team when a renew
 
 ### Does it read our clinical notes?
 Only if you want it to help draft a renewal summary, and then the treating therapist approves every word. It doesn't need notes to count visits.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## HOA violation tracking: every notice, photo and cure date in one place
+Source: https://mikeautomations.github.io/en/hoa-violation-notice-tracking/
+
+HOA violation tracking works when every violation has one record: the lot, the rule, the photos, the notice sent and the cure date. A simple workflow logs each finding from the drive-by, drafts the next notice from your board's approved letters when a cure date passes, files the homeowner's reply with the record, and gives the board a list before each meeting. The manager approves every letter, and the board decides every fine and hearing.
+
+A community manager can drive ten communities in a week. The violations are noted on a phone, a clipboard or a spreadsheet, the letters are typed one at a time, and the follow-up drive is planned from memory. Then a homeowner asks why their neighbor's trailer has been there three months, or disputes a fine because the second notice never went out. The steps your board adopted are already written down. A workflow that keeps every case on those steps protects the manager, the board and the homeowner.
+
+### Where violation follow-up breaks down
+- Findings from the drive-by sit in phone photos with no lot number
+- Each community has its own rules, letters and enforcement steps
+- Cure dates pass without a re-inspection, so the case goes stale
+- Homeowners reply by email, phone or the portal, and the reply isn't on the record
+- Repeat violations aren't linked, so the second offence starts at step one again
+- The board asks for a status list the night before the meeting
+
+### What the workflow keeps for each violation
+One row per case, grouped by community. If your HOA software already logs violations, the workflow works around it and only fills the gaps. The steps, letters and any fines come from each community's governing documents and the policy its board adopted. The workflow follows them; it doesn't write them.
+| Field | Why it matters |
+| --- | --- |
+| Community, lot, owner and mailing address | Letters go to the owner of record, not just the address |
+| Rule broken and the wording from the governing documents | Every notice quotes the same rule |
+| Photos with date and time | The record shows what was seen and when |
+| Notice step, date sent and cure date | When the next re-inspection is due |
+| Owner replies and any request for a hearing | Nothing the homeowner said goes missing |
+| Status: open, cured, escalated to board, closed | The board sees every open case at a glance |
+
+### A first notice you can adapt
+Courtesy notice to a homeowner (edit the words in brackets; your board's approved letter comes first):
+```
+Dear [owner name],
+
+During a routine inspection of [community] on [date], we noted the following at [address]: [what was seen, e.g. trash bins visible from the street]. This relates to [rule or section] of the community's rules. A photo is attached.
+
+Please correct this by [cure date]. If it's already been fixed, or there's a reason we should know about, just reply to this email and it will be added to the record.
+
+If you'd like to discuss it, reply or call [manager name] at [phone].
+
+Thank you,
+[manager name], on behalf of the [community] Board of Directors
+```
+
+### How the workflow runs
+1. On the drive-by, the manager takes a photo and picks the community, lot and rule on a short phone form.
+2. The workflow opens a case and drafts the first notice from the board's approved letter. The manager checks it and sends it.
+3. A day after the cure date, the case goes on the next drive-by list for that community.
+4. If it's cured, the case closes and the owner gets a short thank-you. If not, the next notice in the board's policy is drafted for the manager to approve.
+5. Owner replies, photos and hearing requests are filed with the case. Anything that needs a decision goes to the manager.
+6. Before each board meeting, the board gets one list of open and escalated cases. If AI drafts a letter or a summary, a person reads and approves it before it's sent.
+
+### What stays with you and the board
+Every finding, every letter that goes out, every fine and every hearing. The workflow doesn't decide what counts as a violation or what the penalty is. Your community's governing documents, state law and the board do. It keeps each case on the steps already agreed and shows what's open. For another property workflow with approval limits, see [landlord repair approval limits](https://mikeautomations.github.io/en/landlord-repair-approval-limits/). For UK block management, see [service charge reminders](https://mikeautomations.github.io/en/block-management-service-charge-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how your managers log violations today and which communities have their own letters. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your HOA software where it allows a connection, a phone form, a spreadsheet and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your HOA software already handles violations the way your boards want, you don't need this, and we'll say so on the call.
+
+### Does it decide fines or hearings?
+No. The board decides every fine and hearing under its governing documents and state law. The workflow drafts the letters the board approved and keeps the record.
+
+### Can each community have different letters and steps?
+Yes. Each community keeps its own rules, letters and enforcement steps, and every case follows the policy of the community it belongs to.
+
+### Does it work with our HOA software?
+Often, if the software allows a connection or an export. If it doesn't, the log can live in a spreadsheet the managers already use, and the letters still go out by email or mail.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Estate agent viewing feedback: asked the same evening, summarised for the vendor
+Source: https://mikeautomations.github.io/en/estate-agent-viewing-feedback/
+
+Estate agent viewing feedback works when every viewing ends with the same short question to the buyer, sent the same day. A simple workflow texts or emails each viewer after the viewing, files the answers by property, reminds the negotiator about anyone who hasn't replied, and drafts a weekly summary for the vendor that a negotiator checks before it goes out. Offers, price advice and anything sensitive stay with you.
+
+Vendors ring for one reason more than any other: "Any feedback from Saturday?" The negotiator did six viewings, means to call every buyer and gets to two. The rest of the feedback is lost, the vendor feels ignored, and the next price conversation has nothing to stand on. Asking every viewer the same short question the same evening, and sending the vendor a tidy summary each week, gives you the record without adding calls.
+
+### Why viewing feedback goes missing
+- Feedback calls slip behind new viewings and valuations
+- Buyers don't answer unknown numbers, but they'll reply to a text
+- Notes sit in a negotiator's phone, not on the property record
+- Vendors hear about feedback only when they ring to ask
+- Accompanied and unaccompanied viewings are handled differently
+- Price conversations happen without the feedback written down
+
+### What the workflow keeps for each viewing
+One row per viewing, grouped by property. If your agency software already books viewings, the workflow picks them up from there and only adds the follow-up.
+| Field | Why it matters |
+| --- | --- |
+| Property, date and who did the viewing | Feedback lands on the right listing |
+| Buyer name, contact and buying position | The vendor sees who viewed, not just what they said |
+| Interest: offer likely, second viewing, not for us | The negotiator knows who to call first |
+| What they liked and any concerns, in their words | The vendor summary quotes real comments |
+| Status: asked, replied, chased, passed to vendor | Nothing waits until the vendor rings |
+
+### A feedback text you can copy
+Text or email to the buyer on the evening of the viewing (edit the words in brackets):
+```
+Hi [first name], it's [name] from [agency]. Thanks for viewing [address] today.
+
+How did you find it? Reply 1 if you'd like to make an offer or talk numbers, 2 for a second viewing, or 3 if it's not for you. Any comments help the owner too.
+
+If you'd rather talk, reply CALL and I'll ring you tomorrow.
+```
+
+### How the workflow runs
+1. When a viewing is marked done in your diary or software, the buyer gets the feedback text that evening.
+2. Replies are filed on the property record. A 1 or CALL goes straight to the negotiator's list for the next morning.
+3. If there's no reply, one gentle reminder goes out the next day. After that the buyer lands on the negotiator's call list.
+4. Once a week, each vendor gets a short summary: viewings, interest and comments. AI can draft it, and a negotiator reads and edits it before it's sent.
+5. Any offer is handled by the negotiator in person. The workflow never passes on an offer or a price comment by itself.
+6. The branch sees one list of properties with lots of viewings and no second viewings, for the next price review.
+
+### What stays with you
+Every offer, every price conversation and every judgement about what the vendor should hear. The workflow asks, files and drafts. It doesn't negotiate or advise. Once an offer is accepted, the next stage is [sales progression updates](https://mikeautomations.github.io/en/estate-agent-sales-progression-updates/). For new buyer enquiries, see [real estate lead follow-up](https://mikeautomations.github.io/en/real-estate-agent-lead-follow-up/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how viewings are booked today and how your vendors like to hear from you. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your agency software where it allows a connection, your diary, text and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your software already collects feedback and your vendors are happy with it, you don't need this, and we'll say so on the call.
+
+### Will buyers actually reply?
+Some will and some won't. A short text with numbered answers is quick to reply to, and anyone who doesn't reply lands on the negotiator's call list, so nobody is skipped.
+
+### Does the vendor see raw buyer comments?
+Only what a negotiator approves. The weekly summary is a draft until someone at the agency reads, edits and sends it.
+
+### Does it work with our agency software?
+Often, if it allows a connection or sends viewing confirmations by email. If not, viewings can be picked up from a shared diary.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## LOLER thorough examination reminders: book the visit before the due date
+Source: https://mikeautomations.github.io/en/loler-thorough-examination-reminders/
+
+LOLER thorough examination reminders work when every report you issue leaves a next due date behind it. A simple workflow keeps one register of items by customer and site, emails the customer a few weeks before the earliest due date with visit dates, books the reply, sends the reports after the visit and follows up any defects. Your competent person still examines the equipment, writes the report and sets the next date.
+
+Your customers have hoists, forklifts, slings and shackles, and each one has its own next examination date. Most of them don't track those dates; they wait for you. If the reminder is late, the visit is rushed or the work goes to whoever rings first. The dates are already on the reports you wrote. A reminder built from them, sent per site rather than per item, keeps customers on time and keeps the work with you.
+
+### Why examination dates slip
+- One site can have dozens of items, each on its own interval
+- Equipment that lifts people and accessories usually run on shorter intervals than other kit
+- Some customers have a written examination scheme with its own dates
+- Reports go out, but the next due date isn't put in anyone's diary
+- Defects found on the day need repair and a re-examination, and the follow-up gets lost
+- New kit arrives between visits and isn't added to the register
+
+### What the workflow keeps for each item
+One row per item, grouped by customer and site. If your inspection software already holds the register, the workflow only needs the contacts and the dates. The next due date is the one your competent person puts on the report, from the legal maximum interval or the customer's written scheme. The workflow follows it; it doesn't set it.
+| Field | Why it matters |
+| --- | --- |
+| Customer, site and the person who books | The reminder reaches someone who can say yes |
+| Item, ID or serial number and safe working load | The examiner knows what to expect on site |
+| Interval basis: 6 months, 12 months or written scheme | Why the date is what it is |
+| Last examination, report number and next due date | When the reminder goes out |
+| Defects and the date they must be fixed by | Serious defects get followed up, not filed |
+| Status: reminded, booked, examined, report sent | You see what's open at a glance |
+
+### A reminder you can copy
+Email to a site contact (edit the words in brackets):
+```
+Hi [first name], it's [name] from [company]. The next thorough examinations at [site] are due from [earliest due date]. That covers [number] items, including [examples, e.g. the two pallet trucks and the slings in the loading bay]. The full list is attached.
+
+We can visit on [day 1] or [day 2]. Reply 1 or 2 to book, or reply with a day that works.
+
+If you've bought or hired any new lifting kit since our last visit, reply with what it is and we'll add it to the list.
+```
+
+### How the workflow runs
+1. Every report you issue updates the register with the item, the result and the next due date your examiner set.
+2. A few weeks before the earliest date at each site, the site contact gets one email listing every item due, with visit dates.
+3. When they reply, the visit goes in the examiner's diary and the site gets a reminder the day before about access and having the kit ready.
+4. If there's no reply, one more message goes out. After that the site lands on a short call list for the office.
+5. After the visit, the reports go to the customer and the register gets the new due dates.
+6. Defects open a repair quote and a re-examination reminder. Questions go to you. If AI drafts a reply, a person reads and approves it before it's sent.
+
+### What stays with you
+The examination, the report and every judgement in it, including any defect and the next due date. The workflow doesn't decide intervals or whether equipment is safe to use; your competent person does. It reminds customers on time and keeps the paperwork moving. For another test-and-record visit, see [fire extinguisher service reminders](https://mikeautomations.github.io/en/fire-extinguisher-service-reminders/). For hire firms, see [plant hire off-hire reminders](https://mikeautomations.github.io/en/plant-hire-off-hire-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about where your register lives today and how your reports go out. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your inspection software where it allows a connection, a spreadsheet, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your software already sends reminders your customers act on, you don't need this, and we'll say so on the call.
+
+### Does it work out when examinations are due?
+No. It uses the next due date your competent person puts on each report, based on the legal maximum interval or the customer's written scheme. It doesn't set intervals.
+
+### Can it handle written examination schemes?
+Yes. Each item records whether its date comes from a standard interval or a scheme, and the reminder simply follows the date on the report.
+
+### Will customers get one email per item?
+No. Items are grouped by site and contact, so each site gets one reminder listing everything due around the same time.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.

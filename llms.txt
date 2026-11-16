@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-15.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-16.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
@@ -169,6 +169,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Court date reminders](https://mikeautomations.github.io/en/court-date-reminders-law-firms/): Court date reminders for law firm clients: texts and emails before each hearing with the time, place and what to bring, and a list of who hasn't confirmed.
 - [Pay application reminders](https://mikeautomations.github.io/en/subcontractor-pay-application-reminders/): Pay application reminders for subcontractors: a request before each cutoff, a check for missing pieces and a list of who hasn't billed before the draw.
 - [PT prior authorization tracking](https://mikeautomations.github.io/en/physical-therapy-prior-authorization-tracking/): Prior authorization tracking for PT clinics: visits used, visits left and end dates per patient, with alerts before the last approved visit.
+- [HOA violation tracking](https://mikeautomations.github.io/en/hoa-violation-notice-tracking/): HOA violation tracking for community managers: one log per community, photos and cure dates, notices drafted on schedule, and a board list before each meeting.
+- [Viewing feedback for estate agents](https://mikeautomations.github.io/en/estate-agent-viewing-feedback/): Estate agent viewing feedback: ask every buyer the same evening, file answers by property and send the vendor a weekly summary you've checked first.
+- [LOLER examination reminders](https://mikeautomations.github.io/en/loler-thorough-examination-reminders/): LOLER thorough examination reminders for inspection firms: one register per site, customers asked before each due date, reports sent and defects followed up.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
