@@ -10613,6 +10613,185 @@ No. Items are grouped by site and contact, so each site gets one reminder listin
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## PAT testing reminders: rebook the site before the retest date
+Source: https://mikeautomations.github.io/en/pat-testing-reminders/
+
+PAT testing reminders work when every visit leaves a retest date on each site, not just on each label. A simple workflow keeps the asset list by customer and site, emails the customer a few weeks before the earliest retest date with visit dates, books the reply, sends the certificate and asset register after the visit and follows up failed items. The retest interval stays a risk-based decision made by you and the customer.
+
+Offices, shops, schools and landlords all have kettles, laptops, extension leads and power tools with a sticker on them. The sticker shows a date, but nobody at the site looks at it until something fails or an insurer asks. If your reminder doesn't arrive in time, the work goes to whoever leaflets the business park next. The dates are already in your test records. A reminder built from them, sent per site, keeps customers on schedule and keeps the work with you.
+
+### Why PAT retests get missed
+- There is no single legal interval, so each customer can be on a different cycle
+- Different kinds of equipment at one site may be on different intervals
+- The person who booked last time has left, and nobody else knows
+- Certificates go out, but the retest date never reaches anyone's diary
+- Failed items need repair or replacement, and the follow-up gets lost
+- New equipment arrives between visits and isn't on the asset list
+
+### What the workflow keeps for each site
+One row per site, linked to the asset list from your testing software or a spreadsheet. The retest interval is set by you and the customer from the type of equipment and where it's used, in line with HSE guidance. The workflow records that decision and follows it; it doesn't set it.
+| Field | Why it matters |
+| --- | --- |
+| Customer, site and the person who books | The reminder reaches someone who can say yes |
+| Number of items and kinds of equipment | You can plan the time on site |
+| Agreed retest interval and who agreed it | The date has a reason behind it |
+| Last visit, certificate number and next retest date | When the reminder goes out |
+| Failed items and what was agreed for each | Repairs and replacements get followed up |
+| Status: reminded, booked, tested, certificate sent | You see what's open at a glance |
+
+### A reminder you can copy
+Email to a site contact (edit the words in brackets):
+```
+Hi [first name], it's [name] from [company]. The next PAT test at [site] is due from [retest date]. Last time we tested [number] items there. Your last certificate is attached.
+
+We can visit on [day 1] or [day 2]. Reply 1 or 2 to book, or reply with a day that works. We can start early or work around opening hours if that helps.
+
+If you've added a lot of new equipment since our last visit, reply with roughly how much so we can plan the time.
+```
+
+### How the workflow runs
+1. Every visit you finish updates the site with the item count, the certificate and the next retest date you agreed.
+2. A few weeks before that date, the site contact gets one email with the last certificate and two visit dates.
+3. When they reply, the visit goes in the tester's diary and the site gets a reminder the day before about access and timing.
+4. If there's no reply, one more message goes out. After that the site lands on a short call list for the office.
+5. After the visit, the certificate and asset register go to the customer and the site gets its new retest date.
+6. Failed items open a repair or replacement quote. Questions go to you. If AI drafts a reply, a person reads and approves it before it's sent.
+
+### What stays with you
+The testing, the pass or fail on each item and the advice on intervals. The workflow doesn't decide how often equipment is tested or whether it's safe to use; you and the customer do. It reminds customers on time and gets the paperwork to them. For a similar visit-and-certificate job, see [fire extinguisher service reminders](https://mikeautomations.github.io/en/fire-extinguisher-service-reminders/). For fixed wiring work, see [EICR remedial work follow-up](https://mikeautomations.github.io/en/eicr-remedial-work-follow-up-electricians/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about where your test records live today and how certificates go out. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your PAT software's exports, a spreadsheet, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your software already sends reminders your customers act on, you don't need this, and we'll say so on the call.
+
+### Does it decide how often equipment is tested?
+No. There's no fixed legal interval for PAT, and HSE advises a risk-based approach. You and the customer agree the interval; the workflow records it and reminds the site before the date.
+
+### Will it work with my PAT testing software?
+Usually. Most testers can export results to a spreadsheet. The workflow needs the site, the contact and the retest date, not every item reading.
+
+### Can it handle sites on different cycles?
+Yes. Each site has its own retest date, so a café on a short cycle and an office on a longer one are reminded at the right time.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Appliance repair parts on order: keep customers updated without the calls
+Source: https://mikeautomations.github.io/en/appliance-repair-parts-on-order-updates/
+
+Parts-on-order updates for an appliance repair business are short messages tied to the job's status. When a technician orders a part, the customer hears what was ordered and roughly when it's expected. When the part arrives, they get a text with return visit times. If the part is late, they hear before they have to call. Your team still diagnoses, quotes and fixes; the workflow keeps the customer informed.
+
+A washing machine that doesn't work is a problem every day it sits there. Most repairs need a second visit for a part, and that gap is where the phone calls start: "Is the part in yet?" Each call pulls someone off the desk to look it up. The answer is usually already in your system or the supplier's email. Turning it into a message to the customer saves the call and makes the wait feel shorter.
+
+### Where the waiting goes wrong
+- The customer leaves the first visit unsure what happens next
+- Parts arrive at the office, but nobody tells the customer or books the return visit
+- Supplier delays only come to light when the customer rings
+- Wrong or damaged parts restart the wait with no message
+- Parts sit on the shelf because the customer can't be reached
+- The office spends its mornings answering "any news?" calls
+
+### The four messages that cover most jobs
+| When | What the customer hears |
+| --- | --- |
+| Part ordered | What was ordered, the expected date, and that you'll text when it arrives |
+| Expected date passes | That it's late, what you're doing about it, and a new estimate if you have one |
+| Part arrives | Two return visit slots to choose from |
+| Day before the visit | The time window and anything they need to do, like clearing access |
+
+### A message you can copy
+Text when the part arrives (edit the words in brackets):
+```
+Hi [first name], it's [company]. The [part] for your [appliance] has arrived. We can come back on [day 1, time window] or [day 2, time window]. Reply 1 or 2 to book, or reply with a better day.
+```
+
+### How the workflow runs
+1. The technician marks the job "waiting on parts" in your job software or a shared sheet, with the part and the supplier.
+2. The customer gets the "part ordered" message with the expected date.
+3. When the part is booked in at the office, the customer gets the "part arrived" text with return visit slots.
+4. Their reply puts the visit in the technician's diary and sends a reminder the day before.
+5. If the expected date passes with no part, the office gets a nudge to check with the supplier, and the customer gets a short update a person has approved.
+6. Questions and complaints go to you. If AI drafts a reply, a person reads and approves it before it's sent.
+
+### What stays with you
+The diagnosis, the quote, which part to order and every conversation about cost or warranty. The workflow sends status messages and books return visits; it doesn't promise delivery dates your supplier hasn't given. For walk-in repairs, see [phone repair shop job updates](https://mikeautomations.github.io/en/phone-repair-shop-job-updates/). For calls you miss while you're on a job, see [missed call text back](https://mikeautomations.github.io/en/missed-call-text-back-contractors/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how jobs and parts are tracked today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your job software where it allows a connection, a spreadsheet, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already sends these messages and your team uses them, you don't need this, and we'll say so on the call.
+
+### Does it track parts with the supplier?
+Not directly, unless your supplier sends order and delivery emails the workflow can read. Most businesses mark parts as arrived when they're booked in, and that triggers the customer text.
+
+### Will it work with my job software?
+Often, if the software lets you change a job status that another tool can see. If not, a shared sheet with a "waiting on parts" column works too.
+
+### Can customers book the return visit themselves?
+Yes. The arrival text offers two slots, and a reply books one. You can also send a booking link if you already use one.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## E-file rejection follow-up: tell the client fast and get the fix back in time
+Source: https://mikeautomations.github.io/en/e-file-rejection-client-follow-up/
+
+E-file rejection follow-up is what a tax preparer does after the IRS rejects a return: read the reject code, fix what you can, and ask the client for what you can't. Summaries of IRS Publication 1345 say that if you can't fix it, you must take reasonable steps to tell the taxpayer within 24 hours that the return wasn't filed and why. A simple workflow puts every reject on one list, drafts the client message for you to approve and reminds you before the perfection period ends.
+
+In peak season, rejects arrive in the acknowledgement list between everything else. Some you fix in a minute. Others need the client: a dependent claimed by someone else, a wrong prior-year AGI, an IP PIN they didn't send. Those are the ones that slip, because the client doesn't know there's a problem and the clock to retransmit and keep the original filing date is short. A workflow can't fix the return, but it can make sure no reject sits unseen.
+
+### Where rejects slip
+- Acknowledgements are checked when someone remembers, not every day
+- The reject needs something from the client, and the email to them is never sent
+- The client replies with half the answer, and the thread goes quiet
+- The fix changes the return, and the client needs to authorize the corrected version
+- Nobody tracks how many days are left to retransmit
+- The client assumes the return was filed because they signed it
+
+### What the workflow keeps for each reject
+One row per rejected return, from your tax software's acknowledgement report or the reject emails it sends. How long you have to retransmit depends on the return type, so check the current Publication 1345 and your software's guidance; the workflow uses the date you set.
+| Field | Why it matters |
+| --- | --- |
+| Client, return type and reject date | You know what was rejected and when |
+| Reject code and a short note on the cause | Anyone on the team can pick it up |
+| Fix in-house or needs the client | Only the right rejects create a client message |
+| Date the client was told | Shows you met the notification step |
+| Retransmit-by date | The reminder you can't afford to miss |
+| Status: open, waiting on client, retransmitted, accepted | You see what's open at a glance |
+
+### A client message you can copy
+Email to the client (edit the words in brackets):
+```
+Hi [first name], your [year] federal return was not accepted by the IRS when we sent it on [date], so it has not been filed yet. The reason is [plain-English cause, e.g. the prior-year AGI on file doesn't match].
+
+To fix it we need [what you need, e.g. a photo of last year's return, page 1]. Please reply with it by [date] so we can send the return again in time.
+
+If anything changes on the return, we'll send it to you to approve before we file.
+```
+
+### How the workflow runs
+1. Each day, new rejects from your software are added to one list with the code and the return type.
+2. You or a preparer mark each one: fix in-house, or needs the client.
+3. For client rejects, the workflow drafts a plain-English message. A person reads and approves it before it's sent, and the date sent is recorded.
+4. If the client hasn't replied, a reminder goes out, and the preparer gets a nudge as the retransmit-by date gets close.
+5. If the fix changes the return, the corrected version goes to the client for authorization through your usual signing tool.
+6. Once you retransmit, the row waits for the new acknowledgement and closes when it's accepted.
+
+### What stays with you
+Reading the reject, deciding the fix, any change to the return and every word that goes to the client about it. The workflow doesn't touch your tax software's data or transmit anything. It keeps the list, drafts the messages for approval and watches the dates. Before you put client data through any automation or AI, read [Section 7216 consent before automation or AI](https://mikeautomations.github.io/en/blog/section-7216-consent-before-automation-or-ai/). For getting returns signed in the first place, see [tax return approval chasing](https://mikeautomations.github.io/en/tax-return-approval-chasing/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how acknowledgements reach you today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your tax software's reports or emails, your practice software, a spreadsheet and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already tracks rejects and your team works from it, you don't need this, and we'll say so on the call.
+
+### How long do I have to fix a rejected return?
+The IRS gives a short perfection period to correct and retransmit while keeping the original filing date. The length depends on the return type, so check the current Publication 1345 and your software's guidance.
+
+### Do I have to tell the client about every reject?
+Summaries of Publication 1345 say that if you can't fix the reject yourself, you must take reasonable steps to tell the taxpayer within 24 hours that the return wasn't filed and why. Many preparers tell clients about every reject anyway.
+
+### Does the workflow send anything to the IRS?
+No. It reads reject reports, keeps the list, drafts client messages for approval and reminds you. You correct and retransmit in your tax software.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 

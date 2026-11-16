@@ -172,6 +172,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [HOA violation tracking](https://mikeautomations.github.io/en/hoa-violation-notice-tracking/): HOA violation tracking for community managers: one log per community, photos and cure dates, notices drafted on schedule, and a board list before each meeting.
 - [Viewing feedback for estate agents](https://mikeautomations.github.io/en/estate-agent-viewing-feedback/): Estate agent viewing feedback: ask every buyer the same evening, file answers by property and send the vendor a weekly summary you've checked first.
 - [LOLER examination reminders](https://mikeautomations.github.io/en/loler-thorough-examination-reminders/): LOLER thorough examination reminders for inspection firms: one register per site, customers asked before each due date, reports sent and defects followed up.
+- [PAT testing reminders](https://mikeautomations.github.io/en/pat-testing-reminders/): PAT testing reminders for testers and electricians: one asset list per site, customers asked before the retest date, certificates sent and failures followed up.
+- [Parts-on-order updates](https://mikeautomations.github.io/en/appliance-repair-parts-on-order-updates/): Parts-on-order updates for appliance repair: tell customers what was ordered, text them when it arrives, book the return visit and stop the chasing calls.
+- [E-file rejection follow-up](https://mikeautomations.github.io/en/e-file-rejection-client-follow-up/): E-file rejection follow-up for tax preparers: every reject on one list, the client told fast, missing info requested and the return retransmitted in time.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
