@@ -11323,6 +11323,200 @@ The operator of the equipment, which is usually your customer. The workflow send
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## New hire paperwork: every form in before the first week is over
+Source: https://mikeautomations.github.io/en/new-hire-paperwork-collection-small-business/
+
+New hire paperwork works when every hire has one row with a checklist: the forms you need, what's arrived and the dates that matter. Section 1 of Form I-9 is due no later than the first day of work, and the employer completes Section 2 within three business days of that day. A simple workflow sends the forms once an offer is accepted, reminds the hire about only what's missing, and shows the manager which I-9 is still open.
+
+A small business hires a few people a year, or a few people a month in the busy season. Each time, someone has to remember the same pile of forms: the I-9, the W-4, the state forms, direct deposit, the handbook sign-off. The new hire starts Monday, the owner is on a job, and the paperwork is a folder on a desk. By Thursday payroll is asking for a W-4 that nobody has, and the I-9 is still blank.
+
+### Why new hire paperwork slips
+- The list of forms lives in one person's head, and that person is busy on the hire's first day
+- Forms go out as email attachments and come back as phone photos, or not at all
+- The hire forgets to bring identity documents on day one
+- Nobody is watching the three business days for Section 2 of the I-9
+- Payroll finds out about the hire when the first timesheet arrives
+- Seasonal hires start in a group, and one missing form hides among ten complete sets
+
+### What goes on each hire's checklist
+You decide the list once, with your payroll provider or accountant, and the workflow follows it for every hire. Your state may add its own forms, so the checklist is yours, not a fixed template. For the I-9 rules and the list of acceptable documents, see the USCIS page for Form I-9.
+| Item | Who completes it | What the row tracks |
+| --- | --- | --- |
+| Form I-9, Section 1 | The new hire | Done by the first day of work |
+| Form I-9, Section 2 | You, after examining the hire's documents | Done within three business days of the first day |
+| Form W-4 and your state's withholding form | The new hire | Received, and passed to payroll |
+| Direct deposit details | The new hire | Entered in your payroll system, not kept in email |
+| Handbook and policy sign-off | The new hire | Signed and filed |
+| Emergency contact and uniform or tool sizes | The new hire | Received |
+
+### A message you can copy
+Email to the new hire once the offer is accepted (edit the words in brackets):
+```
+Hi [first name], welcome to [company]. Your first day is [date], [time], at [place]. Ask for [name] when you arrive.
+
+Before then, please fill in your new hire forms here: [link]. It takes about [time]. You can do it on your phone.
+
+On your first day, bring original documents for your Form I-9. The list of documents you can choose from is on the last page of the form: [link]. We need to see the originals, not photos.
+
+Any questions, reply here or call [number].
+```
+
+### How the workflow runs
+1. When you mark an offer as accepted, the hire gets a row with your checklist and their start date.
+2. The hire gets an email or text you've approved, with one link to the forms and a note about what to bring on day one.
+3. Each form that arrives is ticked off on the row. A reminder goes out two days before the start date, about only what's still missing.
+4. On the first day, the manager gets a short list: who starts today, whose Section 1 is done and whose documents need to be examined.
+5. A person examines the documents and completes Section 2. The workflow only records the date it was done.
+6. Any I-9 still open on the second business day goes to the owner. Completed forms go to payroll before the first pay run.
+
+### What stays with you
+Examining the hire's documents, completing Section 2 and every hiring decision. The workflow can't mark an I-9 as complete on its own, and it doesn't judge whether a document is acceptable. Social Security numbers and bank details go straight into your payroll system or a secure form, not into email threads or the tracking sheet. If you take on staff through an agency, see [candidate compliance document chasing](https://mikeautomations.github.io/en/candidate-compliance-document-chasing/). For payroll details from clients, see [collecting payroll inputs](https://mikeautomations.github.io/en/blog/collect-payroll-inputs-from-clients/). If AI drafts a message to a new hire, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you onboard a new hire today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, an online form, your payroll provider's forms and email or text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your payroll provider's onboarding already sends the forms and chases what's missing, you don't need this, and we'll say so on the call.
+
+### When does Form I-9 have to be completed?
+The employee completes Section 1 no later than the first day of work. The employer examines the documents and completes Section 2 within three business days of that day. See the USCIS page for Form I-9 for the details.
+
+### Does the workflow check the hire's documents?
+No. A person at your business examines the original documents and completes Section 2. The workflow sends the forms, reminds the hire and shows what's still open.
+
+### Where do Social Security numbers and bank details go?
+Into your payroll system or a secure form. The tracking sheet only records that each item arrived, and the date.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Security deposit returns: every move-out's deadline on one list
+Source: https://mikeautomations.github.io/en/security-deposit-return-deadline-tracking/
+
+Security deposit return tracking works when every move-out has one row with the move-out date, the deadline your state sets, and the steps still open: forwarding address, inspection, vendor invoices, itemized statement and payment. Each state sets its own deadline, so the number of days is entered per property. A simple workflow counts down each row, chases the missing pieces, and shows the manager which statements are due this week.
+
+A small property management company handles a handful of move-outs in a quiet month and dozens at the end of summer. Each one starts a clock. The inspection has to happen, the cleaner's invoice has to arrive, the owner has to agree the deductions, and the statement and the check have to go to an address the tenant may not have given yet. In a busy month, one move-out sits in an inbox until the deadline has already passed.
+
+### Why deposit deadlines get missed
+- The clock starts at move-out, but nobody writes the deadline down that day
+- The tenant left without giving a forwarding address
+- The statement waits on a vendor invoice that hasn't arrived
+- The owner hasn't answered the email about deductions
+- Properties in two states have two different deadlines, and both are kept from memory
+- August brings thirty move-outs in two weeks
+
+### What each move-out row holds
+One row per move-out. The deadline comes from your state's law and the lease, and you or your attorney enter the number of days for each property once. Some states also set rules about receipts, interest or how the statement is delivered. The workflow follows what you entered and never works out the law for you.
+| Field | Why it matters |
+| --- | --- |
+| Property, unit and tenant names | One record for the whole move-out |
+| Move-out date and the deadline in days | Sets the date the statement is due |
+| Forwarding address | The statement and payment need somewhere to go |
+| Move-out inspection: date, photos and notes | The evidence behind each deduction |
+| Vendor invoices or estimates | Each deduction has a figure and a document |
+| Owner's approval of the deductions | The decision is on file |
+| Statement sent and payment made: dates | Proof it went out on time |
+
+### A message you can copy
+Email to the tenant when notice to move out is received (edit the words in brackets):
+```
+Hi [first name], we've received your notice for [address]. Your move-out date is [date].
+
+Two things help us return your deposit on time:
+
+1. Your forwarding address. Please send it here: [link].
+2. A time for the move-out inspection. We can do [day 1] or [day 2]. Reply with the one that suits you.
+
+After you move out, we'll send your deposit statement to the address you give us.
+
+Thanks, [name], [company]
+```
+
+### How the workflow runs
+1. When notice is logged, the move-out gets a row with the move-out date and the property's deadline.
+2. The tenant gets an email you've approved, asking for a forwarding address and an inspection time. One reminder follows if there's no reply.
+3. After the inspection, the photos and notes are filed on the row from a phone form, and vendors are asked for invoices with a date to send them by.
+4. The manager lists the proposed deductions. The owner gets one email to approve them, and a reminder if they don't answer.
+5. Every morning the manager sees the rows in order of days left, with what each one is waiting for.
+6. A person prepares and sends the itemized statement and the payment. The row closes only when both dates are filled in.
+
+### What stays with you
+Every deduction, every statement and every payment. The workflow doesn't decide what counts as damage or normal wear, and it doesn't send a statement on its own. The deadline on each row is the one you entered, so check it against your state's current law, especially if you manage in more than one state. For the start of a tenancy, see [rental application document collection](https://mikeautomations.github.io/en/rental-application-document-collection/). For routine visits, see [property inspection scheduling](https://mikeautomations.github.io/en/property-inspection-scheduling/). If AI drafts a message to a tenant or an owner, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you handle a move-out today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your property management software, a phone form, shared folders and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your property management software already counts down each deposit deadline and chases the missing pieces, you don't need this, and we'll say so on the call.
+
+### How long do I have to return a security deposit?
+It depends on the state. Each state sets its own deadline, and most require a written itemized list of deductions. Check your state's current law or ask your attorney, then enter the number of days once for each property.
+
+### Does the workflow decide the deductions?
+No. The manager and the owner decide every deduction. The workflow keeps the photos, invoices and approval together and shows how many days are left.
+
+### What if the tenant gives no forwarding address?
+The row shows it as missing from the first day, and the tenant is asked again. What you do if they never answer depends on your state's rules, so that step stays with you.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## CSCS card and training expiry reminders: no one turned away at the gate
+Source: https://mikeautomations.github.io/en/cscs-card-and-training-expiry-reminders/
+
+CSCS card and training expiry reminders work when every card and certificate has its own row: the person, the card, the expiry date printed on it and a photo. Most CSCS cards last five years and can be renewed from six months before they expire. A simple workflow flags each card months ahead, tells the operative and the office what to book, and keeps a training matrix ready to send to a main contractor.
+
+A building contractor with twenty operatives holds well over a hundred cards and certificates between them: CSCS cards, first aid, plant tickets, access tickets, asbestos awareness. Each one has its own expiry date. The dates sit in a spreadsheet that was right last spring. Then an operative is turned away at a site induction because a card ran out last month, the job is a person short, and the office spends the morning looking for a test slot.
+
+### Why expiry dates get missed
+- The matrix is updated when someone remembers, not when a card changes
+- Each ticket has its own period, set by its own scheme
+- The card is in the operative's wallet and the office has never seen the back of it
+- Renewal needs a test or a course, and those have to be booked ahead
+- New starters bring cards that expire in a few weeks, and nobody checks
+- The main contractor asks for the matrix tomorrow, and it takes a day to rebuild
+
+### What the matrix keeps for each card
+One row per card or certificate, not per person. The expiry date is read from the card itself and entered by your office. CSCS card types differ and some run for less than five years, and other schemes set their own periods, so the workflow follows the printed date and never assumes one. For renewal rules, see the CSCS page on renewing or replacing a card.
+| Field | Why it matters |
+| --- | --- |
+| Operative and trade | Who holds the card |
+| Card or certificate, and the scheme | What has to be renewed, and with whom |
+| Expiry date printed on the card | Sets every reminder |
+| Photo of both sides | Proof for the main contractor |
+| What renewal needs: test, course or application | The office knows what to book |
+| Status: valid, due soon, booked, renewed, expired | You see what's open at a glance |
+
+### A message you can copy
+Text to the operative when a card is coming up for renewal (edit the words in brackets):
+```
+Hi [first name], it's [name] at [company]. Your [card or ticket] runs out on [date]. To renew it you need [test or course].
+
+We can book you in on [day 1] or [day 2]. Reply 1 or 2, or ring the office on [number].
+
+When the new card arrives, send a photo of both sides to this number.
+```
+
+### How the workflow runs
+1. Each card goes on the matrix once, with its expiry date and a photo. New starters send photos on a phone form before their first day.
+2. On the first of each month the office gets a list of everything expiring in the next six months, in date order.
+3. The operative gets a text you've approved, saying what runs out, what renewal needs and two dates the office can book.
+4. The office books the test or course. The row moves to booked, with the date.
+5. When the new card arrives, the operative sends a photo. The office checks it, and the row gets its new expiry date.
+6. Anything inside 30 days with nothing booked goes to the contracts manager, with the sites that person is due on.
+
+### What stays with you
+Deciding who is competent for which work, who goes on which site and what training each role needs. The workflow doesn't judge a card, and it can't mark one as renewed without a photo your office has checked. It also doesn't book or pay for anything on its own. For subcontractors' insurance documents, see [subcontractor COI tracking](https://mikeautomations.github.io/en/subcontractor-coi-tracking/). For dated checks on equipment, see [scaffold inspection reminders](https://mikeautomations.github.io/en/scaffold-inspection-reminders/). If AI drafts a message to an operative, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you keep your training matrix today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, a phone form, shared folders and text or email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your HR or site software already tracks every card and sends the reminders, you don't need this, and we'll say so on the call.
+
+### How long does a CSCS card last?
+Most CSCS cards last five years, and some card types are shorter. The expiry date is printed on the card. CSCS says a card can be renewed from six months before that date.
+
+### Does the workflow cover tickets other than CSCS?
+Yes. Any card or certificate with an expiry date can have a row: first aid, plant, access, asbestos awareness and others. The date comes from the certificate, not from the workflow.
+
+### Does it decide who can go on site?
+No. Your contracts manager and the site's own rules decide that. The workflow shows what's valid, what's due and what's booked.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 

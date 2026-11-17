@@ -182,6 +182,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Pension re-enrolment reminders](https://mikeautomations.github.io/en/pension-re-enrolment-client-reminders/): Pension re-enrolment reminders for payroll bureaus: each client's three-year date on one list, the employer told early and the re-declaration tracked.
 - [Certified payroll reminders](https://mikeautomations.github.io/en/certified-payroll-report-reminders-subcontractors/): Certified payroll report reminders for subcontractors: every sub and every week on one list, missing reports chased and gaps seen before the pay app.
 - [F-gas leak check reminders](https://mikeautomations.github.io/en/f-gas-leak-check-reminders/): F-gas leak check reminders for air conditioning and refrigeration firms: every system on one list, the next check booked and the record sent on.
+- [New hire paperwork](https://mikeautomations.github.io/en/new-hire-paperwork-collection-small-business/): New hire paperwork for small businesses: one checklist per hire, forms sent before day one, reminders for what's missing and the I-9 dates on one list.
+- [Security deposit return tracking](https://mikeautomations.github.io/en/security-deposit-return-deadline-tracking/): Security deposit return tracking for property managers: one row per move-out, the state deadline counted down, and the itemized statement out on time.
+- [CSCS and training expiry reminders](https://mikeautomations.github.io/en/cscs-card-and-training-expiry-reminders/): CSCS card and training expiry reminders for contractors: one row per card, renewals flagged months ahead and a clean matrix for the main contractor.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
