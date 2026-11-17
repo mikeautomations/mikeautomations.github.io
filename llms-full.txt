@@ -1060,7 +1060,7 @@ It connects to the tools you already have where they allow it, so leads can go s
 ## Subcontractor COI tracking for general contractors, without the spreadsheet
 Source: https://mikeautomations.github.io/en/subcontractor-coi-tracking/
 
-Subcontractor COI tracking means collecting a current certificate of insurance from every sub, logging each policy's expiration date and asking for the renewed certificate before it lapses. A simple workflow on your own email, drive and spreadsheet can request certificates, remind subs 60, 30 and 7 days before expiration, and give you a weekly list of who is current, expiring or missing.
+To track subcontractor certificates of insurance, collect a COI from every sub before they start, log each policy's expiration date in one tracker, and request the renewal before it lapses. A simple workflow can remind subs 60, 30 and 7 days out and give you a weekly list of who is current, expiring or missing.
 
 Subcontractor COI tracking sounds simple: every sub on your jobs should have a current certificate of insurance on file. In practice the COIs sit in an inbox, the expiration dates live in a spreadsheet nobody updates, and you find out a policy lapsed when someone asks for it. Collecting, logging and chasing certificates is the same routine every time, so it can run on its own while you keep the decisions, the same way a [change order approval workflow](https://mikeautomations.github.io/en/change-order-approval-workflow/) does.
 
@@ -1096,6 +1096,25 @@ Keep one row per policy, not per sub, because a sub's general liability and work
 3. It emails the sub, and their agent if you have the address, for a renewed certificate on a schedule you choose, for example 60, 30 and 7 days before expiration.
 4. It stops reminding as soon as a new certificate comes in and the new dates are confirmed. If you also collect [lien waivers from subcontractors](https://mikeautomations.github.io/en/lien-waiver-tracking-subcontractors/) with each payment, the same tracker can hold them.
 5. It sends you a weekly list: who's current, who expires in the next 30 days, who has lapsed and who still owes you a certificate. Open RFIs and late submittals fit the same weekly list, as set out in [RFI and submittal tracking for contractors](https://mikeautomations.github.io/en/construction-rfi-and-submittal-tracking/).
+
+### A certificate is not the same as live coverage
+A COI is a snapshot of what an insurance agent reported on the day it was issued. It can show a policy that has since been cancelled, for example for non-payment. So a current-looking certificate is a starting point, not proof. For higher-risk subs, ask the agent or insurer to confirm the policy is in force, and ask for the renewal early enough to leave a gap-free handover. Your insurance agent or lawyer can tell you what your contract and state rules need.
+
+### When to check certificates
+| When | What to do |
+| --- | --- |
+| Before the sub's first day on site | Collect the COI, check it against the contract and log every policy's dates |
+| Within a couple of days of receiving a certificate | Review it and ask for corrections while the sub is still motivated to send them |
+| 60, 30 and 7 days before each expiration | Automatic request for the renewed certificate |
+| Day of expiration with nothing received | A person calls the sub and decides whether they stay on site |
+| Each time a long job passes a policy renewal | Confirm the new certificate covers the rest of the job |
+
+### What to do when a COI expires
+1. Flag the sub on your weekly list the day it expires, not the day someone asks for the certificate.
+2. Call the sub and their agent the same day and ask for the renewed certificate.
+3. Decide, as a person, whether the sub stays on site, is held off site or has payment held, within what your subcontract allows.
+4. When the new certificate arrives, check the dates, limits and endorsements, then update the tracker.
+5. Note any gap between the old and new policy, and ask your insurance agent whether it matters for your work.
 
 ### A renewal request you can copy
 Email to a sub 30 days before expiration:
@@ -1134,6 +1153,18 @@ No. They get an email with an upload link that works on a phone or a computer.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+### How do you track subcontractor certificates of insurance?
+Keep one row per policy in a tracker with the sub, policy type, expiration date and status. Request renewals on a schedule and review the list weekly. A workflow can do the requests and reminders for you.
+
+### How often should I check a subcontractor's COI?
+Check it when it arrives, before the sub starts, and again at each policy renewal. For long jobs, the renewal date is the one that matters. A reminder 60, 30 and 7 days before expiration keeps you ahead of it.
+
+### What happens if a subcontractor's COI expires?
+A person decides: a call, a hold from site or holding payment if your subcontract allows it. Ask your insurance agent or lawyer how a lapse affects your own exposure.
+
+### Can a COI tracker be a spreadsheet?
+Yes, as long as something sends the reminders. A spreadsheet alone doesn't, which is the gap a simple workflow fills. Live in 2-3 days. You pay once it's running and you're happy with it.
 
 ## A maintenance request workflow for UK letting agents
 Source: https://mikeautomations.github.io/en/letting-agent-maintenance-requests/
@@ -1207,7 +1238,7 @@ Workflow automation is a fixed $2,000, paid once it's running and you're happy w
 ## Law firm client intake automation for solicitors
 Source: https://mikeautomations.github.io/en/law-firm-client-intake/
 
-Law firm client intake automation runs the repeatable steps between a new enquiry and a signed client care letter: an instant reply with a short form, a conflict check before any consultation is booked, the engagement letter, and the ID and documents you need. A person makes every legal decision, including whether there is a conflict and whether to take the matter on.
+To automate law firm client intake, reply to every enquiry within minutes with a short form, send the names to whoever runs your conflict check before a consultation is booked, then send the client care letter and ID request and chase anything missing. A solicitor decides on conflicts, whether to act and what the letter says.
 
 Law firm client intake automation starts the moment [a new enquiry](https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/) comes in, because the same steps follow every time: call back, ask the same questions, check for conflicts, book a consultation, send the client care letter, chase the signature and the ID documents. When that runs from memory, enquiries wait and some go elsewhere. Intake is a process, and most of it can run on its own while your solicitors keep every decision. This page is written for small firms in England and Wales regulated by the SRA. Once a matter is open, [progress updates for conveyancing clients](https://mikeautomations.github.io/en/conveyancing-client-progress-updates/) can run the same way.
 
@@ -1252,6 +1283,24 @@ Kind regards,
 [firm name]
 ```
 
+### How to automate law firm client intake, step by step
+1. Write down your current intake in one page: where enquiries arrive (phone, email, web form), who replies, and what you ask every time.
+2. Put one intake form behind every channel, so each enquiry lands in the same list with the same fields, including the names of other parties.
+3. Decide where the conflict check happens (your practice software or your own records) and make the booking link wait until a person has cleared it.
+4. Turn your client care letter into a template with merge fields for the client and matter, and keep a fee earner as the person who approves it.
+5. Add your ID and due diligence requests, with reminders at the gaps you choose, and a named person who is told when something is still missing.
+6. Test it with a few dummy enquiries before real clients see it, including an awkward one such as a missing name or a possible conflict.
+
+### How long it takes and what it costs
+For a small firm, the build is a short job, not a software project. With Mike Automations it goes live in 2-3 days, and you pay once it's running and you're happy with it. Workflow automation is a fixed $2,000, and the first 3 businesses pay $1,500. Optional support is $150 a month. Your own time is a call to describe how enquiries arrive and a review of the letter and form wording. Full practice management or case management systems are a bigger purchase and a different job. See [how much business automation costs](https://mikeautomations.github.io/en/blog/business-automation-cost/).
+
+### Common mistakes
+- Booking the consultation before the conflict check, so the firm has already given advice when a conflict turns up
+- Letting an AI-drafted reply go out without a person reading it
+- Asking for ID or sensitive documents in an open email, instead of a secure link
+- Having several forms and lists, so no one can see where an enquiry stands
+- Automating before agreeing who clears conflicts and who signs off the client care letter
+
 ### Why speed matters
 People who need a solicitor often contact more than one firm. A reply within minutes keeps the enquiry warm while the conflict check runs, and it tells the client what happens next instead of leaving them to wonder. The general approach for any business is in our guide to replying to new enquiries fast.
 
@@ -1275,6 +1324,18 @@ The data stays in your accounts: your email, your drive, your software. I only g
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+### How do I automate client intake for a small law firm?
+Put one form behind every enquiry channel, send an instant reply, pass the names to your conflict check before booking, then send the client care letter and ID request with reminders. A person makes each legal decision.
+
+### Should the conflict check happen before the first consultation?
+Yes, that is the safe order. Offer booking times only after a person has cleared the check, because the SRA Code says you must not act where there is a conflict of interest, apart from narrow exceptions.
+
+### Can AI answer enquiries for a law firm?
+AI can draft a first reply or sort enquiries by matter type. A person approves anything it prepares before it reaches a prospective client, and it never gives legal advice or decides whether to take a matter.
+
+### How long does it take to set up?
+Live in 2-3 days. You pay once it's running and you're happy with it.
 
 ## Gas safety, EICR and EPC reminders for letting agents
 Source: https://mikeautomations.github.io/en/letting-agent-compliance-certificate-reminders/
@@ -1308,6 +1369,27 @@ These are the main certificates for a private let in England, from the official 
 6. If an EICR lists remedial work, starts a 28-day tracker for that property and chases the contractor for written confirmation.
 7. Tells a named person when a date is close and nothing has been booked.
 
+### A reminder schedule that works
+These lead times are a suggestion, not a legal rule. Set them to match how quickly your engineers can book.
+| Days before expiry | Gas safety | EICR | EPC |
+| --- | --- | --- | --- |
+| 90 | Appears on the weekly list | Contact engineer or landlord to book | Check if it expires this year |
+| 60 | Ask for a visit date (a check from here keeps the original date) | Chase if no date booked | Order a new one if re-letting soon |
+| 30 | Chase the booking, tell the tenant | Agree access with the tenant | Order a new one if not done |
+| 14 | Name a person to phone | Name a person to phone | Hold the re-let until sorted |
+| Expired | Escalate the same day | Escalate the same day | Escalate before marketing |
+
+### What to check on a new certificate
+- The address matches the property in your list, including the flat number
+- The date of the check or inspection, and the next due date, are shown
+- The engineer's name and Gas Safe number (for gas) or qualification details (for an EICR) are there
+- The result is satisfactory, and any remedial work or unsafe appliance is flagged to a person at once
+- Every appliance or circuit the landlord needs covered is listed
+- The tenant copy is sent within the deadline, and the date is logged
+
+### Who is responsible, agent or landlord
+The duty sits with whoever manages the property, and your management agreement should say which certificates you handle and which the landlord does. Put the answer for each property in your list, so the workflow chases the right person. If you are unsure which of you holds a duty for a given property, ask your trade body or a solicitor.
+
 ### A reminder you can copy
 Email to a landlord who arranges their own gas safety check:
 ```
@@ -1340,6 +1422,18 @@ You set which certificates each property needs and how early to start the renewa
 
 ### What about landlords who arrange their own checks?
 They get the reminder instead of your engineer, plus a link to upload the new certificate. If nothing arrives, the reminders continue and you're told.
+
+### How do letting agents keep track of gas safety, EICR and EPC expiry dates?
+Keep one list with a row per property and certificate, and sort it by expiry date. Start renewals 60 to 90 days out and review the list weekly. A workflow can send the reminders, book the engineer and file each new certificate.
+
+### How far ahead should a letting agent start a gas safety renewal?
+HSE says the check can be done up to 2 months before the due date and keep the original deadline, so starting about 8 weeks out is sensible. Starting earlier leaves room if an engineer is busy.
+
+### Do I have to give tenants a copy of every certificate?
+For gas safety and EICR, the guidance above sets deadlines for giving tenants a copy, so log the date each one goes out. Check the current GOV.UK and HSE pages for your case.
+
+### Can a spreadsheet do this?
+A spreadsheet stores the dates but doesn't chase anyone. The workflow adds the reminders and filing on top of the spreadsheet you already use. Live in 2-3 days. You pay once it's running and you're happy with it.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
@@ -2290,7 +2384,7 @@ That's fine. The photo is saved to the right worker and week, and the hours are 
 ## AI agent for small business: what it can and can't do
 Source: https://mikeautomations.github.io/en/ai-agent-for-small-business/
 
-An AI agent for a small business is software that uses an AI model to read something (an email, a form, a document), decide which step comes next and use your tools to prepare it, such as a draft reply, a sorted enquiry or a filled-in record. Today it is reliable at reading, sorting and drafting, and unreliable at anything that must be right every time without checking. The safe setup is that the agent prepares the work and a person approves it before anything reaches a customer or moves money.
+An AI agent for a small business is software that reads something (an email, a form, a document), decides the next step and uses your tools to prepare it, such as a draft reply or a filled-in record. It is reliable at reading, sorting and drafting, not at anything that must be exact. A person approves its work before anything reaches a customer or moves money.
 
 An AI agent for small business is one of the most talked-about tools right now, and one of the most oversold. This page covers what it is, what it does reliably, where it fits next to [ordinary automation](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/), and how to keep a person in charge and client data safe.
 
@@ -2330,6 +2424,22 @@ Most small-business work is rule-based and needs no AI: reminders on a date, a f
 | Quotes | Drafts the quote from your price list and the job notes | Checks the numbers and sends it | Giving a discount |
 | Payment reminders | Drafts a reminder for overdue invoices | Approves who gets one | Threatening action or changing terms |
 
+### Practical examples of an AI agent for a small business
+- For illustration: a [law firm intake](https://mikeautomations.github.io/en/law-firm-client-intake/): the agent sorts a new enquiry by matter type and drafts the first reply. A solicitor decides on conflicts and approves the reply.
+- For illustration: a letting agency: the agent reads a certificate and pulls out the expiry date, and a person confirms it before the [reminder list](https://mikeautomations.github.io/en/letting-agent-compliance-certificate-reminders/) is updated.
+- For illustration: a contractor: the agent reads a certificate of insurance from a sub and fills in the dates for the [COI tracker](https://mikeautomations.github.io/en/subcontractor-coi-tracking/). A person checks them.
+- For illustration: an accountant or bookkeeper: the agent checks which client documents are still missing and drafts the chase. See [AI in accounting firms](https://mikeautomations.github.io/en/blog/ai-in-accounting-firms-what-to-automate/).
+
+### What an AI agent costs
+Costs range from a few dollars a month for a ready-made tool to a custom build, and the figures you see online mostly come from firms selling them. Look at four things: the tool's monthly plan, the price of the AI model it calls, the time you spend checking its drafts, and the cost of setting it up around your own process. Our own price is a fixed $2,000 for a workflow, paid once it's running and you're happy with it; the first 3 businesses pay $1,500, and optional support is $150 a month. More on this in [what business automation costs](https://mikeautomations.github.io/en/blog/business-automation-cost/).
+
+### How to start with an AI agent: five steps
+1. Pick one task that is repeated, takes you time and has messy input, such as reading enquiry emails.
+2. Write down the steps a person follows today, and who checks the result.
+3. Decide what the agent may prepare and what always needs a person's approval.
+4. Test it on 20 or so past examples before it touches anything live, and read every output.
+5. Run it for a few weeks with a person approving everything, then widen it only if the drafts hold up.
+
 ### Keeping a person in charge
 Human approval is built into the tools. n8n's documentation describes a human review step for an AI agent's tools: when the agent wants to use a tool that needs review, the workflow pauses and sends an approval request through a channel you choose, such as Slack, Microsoft Teams, Gmail or n8n's own chat. If the person approves, the action runs. If they deny it, it doesn't run. Whatever tool you use, the rule is the same: the agent prepares, a person approves, and the agent has no permission to send, pay or delete on its own.
 
@@ -2350,6 +2460,18 @@ It can draft replies well, but sending them without a check is a risk: it can st
 
 ### Is it safe to use client data with an AI agent?
 It can be, if you use business terms that don't allow training on your data, send only the fields needed and keep significant decisions with a person. Take advice if you handle health, legal or financial data.
+
+### What can an AI agent do for a small business?
+It can read and sort messages, pull details out of documents, check a document against a list and draft replies. A person approves anything it prepares.
+
+### How much does an AI agent for a small business cost?
+Ready-made tools start low per month, and custom builds cost more. Our workflow automation is a fixed $2,000, paid once it's running and you're happy with it; the first 3 businesses pay $1,500.
+
+### Do I need an AI agent or just automation?
+If the steps are the same every time, ordinary automation is cheaper and more predictable. Add AI only for the step where the input is messy text a person currently reads. Live in 2-3 days.
+
+### What is the biggest risk of an AI agent?
+It can sound confident and be wrong. Keep it to preparing drafts, give it only the data it needs, and have a person approve anything that reaches a customer or moves money.
 
 ## Salon cancellation policy template with deposits
 Source: https://mikeautomations.github.io/en/salon-cancellation-policy-and-deposits/
@@ -13563,9 +13685,9 @@ Only for software you choose to use, such as an automation platform, paid direct
 Prices are set in US dollars and invoiced in pounds or euros at the equivalent rate.
 
 ## How to stop chasing clients for VAT records every quarter
-Source: https://mikeautomations.github.io/en/blog/vat-quarter-records-chasing/ (2026-11-10)
+Source: https://mikeautomations.github.io/en/blog/vat-quarter-records-chasing/ (2026-11-17)
 
-A UK VAT return and payment are usually due one calendar month and 7 days after the end of the VAT period, so a quarter ending 31 December is due by 7 February. To stop chasing clients for VAT records, set your own cut-off about two weeks after the quarter ends, send each client a personal list of what's missing the day after the quarter closes, ask only about items the bank feed doesn't explain, and remind on a fixed rhythm until the list is complete.
+A UK VAT return and payment are usually due 1 month and 7 days after the VAT period ends, so a quarter ending 31 December is due by 7 February. To stop chasing, set your own cut-off two weeks after the quarter, send each client a personal list of what is missing the next day, and remind weekly until it is complete.
 
 Chasing clients for VAT records comes round four times a year for quarterly filers, and each time the same clients send their [invoices and receipts](https://mikeautomations.github.io/en/blog/collect-receipts-from-bookkeeping-clients/) at the last minute. The work isn't the return. It's getting everything in early enough to check it.
 Since 2023 there's also a clearer reason for clients to care: late VAT returns now earn penalty points, and late payments attract penalties that grow with time. Below: the deadline you work back from, the penalties in plain English, a quarterly routine, the messages to send and a timeline you can copy.
@@ -13589,6 +13711,17 @@ For VAT periods starting on or after 1 January 2023, the old default surcharge w
 5. Remind on a fixed rhythm (every 5 to 7 days) until the list is complete, then stop.
 6. Keep one daily view for the team: ready to prepare, waiting on client, or close to the deadline.
 7. Ten days before the HMRC deadline, phone anyone who still hasn't responded. A person decides whether to file with what you have.
+
+### What records you are asking for
+GOV.UK says VAT records cover everything the business buys and sells, including zero-rated, reduced-rate and exempt items, and that most businesses must keep them digitally in compatible software. Use this as your checklist, and ask only for what is not already in the software.
+- GOV.UK says to keep VAT records for at least 6 years.
+- Clients on the annual accounting scheme have different return dates, so check their set-up before you send a request.
+| Record | Ask the client for it when |
+| --- | --- |
+| Sales invoices, and debit and credit notes | Sales are not raised in the accounting software |
+| Purchase invoices and receipts | A bank payment has no invoice attached |
+| Bank statements, cash book, till rolls | The bank feed is not connected, or cash is taken |
+| Anything that adjusts the return | Bad debts, or a change in how the business works out VAT |
 
 ### A timeline for a quarter ending 31 December
 For illustration only. Move the dates to suit your own stagger groups and workload.
@@ -13636,6 +13769,15 @@ It starts with a [free 15-minute call](https://mikeautomations.github.io/call/) 
 
 ### When is a quarterly VAT return due?
 Usually one calendar month and 7 days after the end of the VAT period, for both the return and the payment. A quarter ending 31 March is due by 7 May. Check the client's online VAT account for their exact dates.
+
+### What VAT records do I need to keep?
+Sales and purchase invoices, credit and debit notes, bank statements, cash books and till rolls, plus anything that adjusts a return. GOV.UK says to keep them for at least 6 years, and most businesses must keep them digitally.
+
+### How do I get clients to send VAT records on time?
+Send a personal list the day after the quarter ends, with one upload link and your own cut-off about two weeks before HMRC's. Remind only on what is still missing, and phone anyone silent ten days before the deadline.
+
+### What happens if a client files their VAT return late?
+Each late return earns a penalty point. A quarterly filer who reaches 4 points gets a £200 penalty, and late payment penalties start from day 16. Check the GOV.UK penalty pages for the current rules.
 
 ### Does this replace our accounting software?
 No. The returns are still prepared and filed in your MTD-compatible software. The workflow handles the requests, reminders and the list of who's ready.
@@ -17257,9 +17399,9 @@ For the 2026 to 2027 tax year, yes: P11D and P11D(b) are due by 6 July 2027 for 
 Payment for work benefits must reach HMRC by 22 July after the tax year ends, or 19 July if you pay by post.
 
 ## UK accounting practice deadline calendar 2026-27, with when to ask clients
-Source: https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/ (2026-11-11)
+Source: https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/ (2026-11-17)
 
-A UK accounting practice deadline calendar for 2026-27 has fixed dates for everyone, such as the 31 January 2027 Self Assessment deadline, payments on account on 31 January and 31 July, MTD for Income Tax quarterly updates on 7 August, 7 November, 7 February and 7 May, and P60s by 31 May. Corporation Tax, company accounts, confirmation statements and VAT depend on each client's own year end or VAT period, so they work as rules: accounts 9 months after the year end, Corporation Tax payment 9 months and 1 day after, the tax return 12 months after, and VAT 1 month and 7 days after each period.
+The next big UK deadline is 31 January 2027: the 2025-26 Self Assessment return, the balancing payment and the first payment on account for 2026-27 are all due. MTD for Income Tax quarterly updates fall on 7 August, 7 November, 7 February and 7 May. VAT is due 1 month and 7 days after each period.
 
 This UK accounting practice deadline calendar lists every recurring date that should trigger a request to a client in the 2026 to 2027 tax year, which runs from 6 April 2026 to 5 April 2027. Each row has a suggested date to send the request, so you can turn the calendar straight into client reminders.
 Every date below was checked on GOV.UK in November 2026. Dates that depend on a client's year end are written as rules with a worked example. Payments have to reach HMRC by the deadline, and GOV.UK says a VAT return and payment are due on the date even when it falls on a weekend or bank holiday, so build in a margin.
@@ -17354,6 +17496,16 @@ Thanks,
 [your name]
 ```
 
+### Which deadlines apply to which client?
+Not every client has every deadline. Tag each client by type once, and the right dates follow. This table uses only the dates in this post.
+| Client type | Dates that apply | Where to look |
+| --- | --- | --- |
+| Self Assessment client (not MTD) | 31 January 2027 return and balancing payment, 31 January and 31 July payments on account | Month-by-month table above |
+| Sole trader or landlord in MTD for Income Tax | Quarterly updates 7 August, 7 November, 7 February, 7 May, plus the year-end return | MTD section above |
+| VAT-registered business | 1 month and 7 days after each VAT period | Monthly table, and each client's VAT account for exact dates |
+| Employer | FPS each payday, 22nd for payments, P60s by 31 May, P11D by 6 July | Monthly and month-by-month tables |
+| Limited company | Accounts, Corporation Tax payment, CT600 and confirmation statement, all from the company's own year end | Year-end table above |
+
 ### How we would build it for you
 It starts with a [free 15-minute call](https://mikeautomations.github.io/call/) about which deadlines cause the most chasing in your practice. Within 48 hours you get a written plan with a fixed price. It's built on the tools you already use, such as your practice or accounting software, email and cloud storage, where they allow a connection, and is usually live in 2-3 days. [Workflow automation is $2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), and you pay only once it's running and you're happy with it.
 
@@ -17365,6 +17517,15 @@ The online return and the tax owed are due by 11:59pm on 31 January 2027. Paper 
 
 ### When are company accounts and Corporation Tax due?
 For a private limited company, accounts go to Companies House 9 months after the financial year ends. Corporation Tax is paid 9 months and 1 day after the accounting period ends (for taxable profits up to £1.5 million), and the Company Tax Return is due 12 months after it ends.
+
+### When is a VAT return due?
+A VAT return and the payment are usually due 1 month and 7 days after the end of the VAT period, so a quarter ending 31 December is due by 7 February. GOV.UK says the date applies even when it falls on a weekend or bank holiday.
+
+### When are payments on account due?
+31 January and 31 July. The first payment on account for 2026-27 is due on 31 January 2027 with the balancing payment for 2025-26, and the second on 31 July 2027.
+
+### When are P60s due?
+Employers give employees their P60 by 31 May after the tax year ends. For 2026-27 that is 31 May 2027.
 
 ### Can a company file its confirmation statement if a director hasn't verified their identity?
 No. Companies House says it will not accept a company's confirmation statement until all directors have verified their identity, and the statement must give each director's Companies House personal code.
@@ -17990,9 +18151,9 @@ Use what you would bill a client for that hour, or what you would pay someone el
 Yes. Use any currency, as long as every line uses the same one. Our prices are set in US dollars and invoiced in pounds or euros at the equivalent rate.
 
 ## Automation glossary: 35 terms a small business owner meets, explained simply
-Source: https://mikeautomations.github.io/en/blog/automation-glossary-small-business/ (2026-11-11)
+Source: https://mikeautomations.github.io/en/blog/automation-glossary-small-business/ (2026-11-17)
 
-This automation glossary explains, in plain words, the 35 terms a small business owner is most likely to hear when someone offers to automate their admin: from trigger, action and webhook to AI agent, human in the loop, A2P 10DLC and DPIA. Each definition stands on its own and links to a longer guide where one exists.
+Automation means software does repeated steps for you. A trigger is the event that starts it, an action is what it then does, and an integration connects your apps. An AI agent reads and drafts, and a person approves. This glossary explains 35 such terms in plain words, each readable on its own.
 
 This automation glossary is for owners of small service firms who keep hearing words like "webhook", "integration" or "AI agent" and want a straight answer. The terms are grouped by letter. Each one starts with the term itself, so you can find it quickly with your browser's search. To see how the pieces fit together in a real business, read [what small business automation is and where to start](https://mikeautomations.github.io/en/small-business-automation/).
 A few terms are rules rather than technology, because rules decide what an automation is allowed to do. Some apply only in the UK (MTD, the UK GDPR) or only in the US (A2P 10DLC, Section 7216). Where a rule is involved, the definition says which country it belongs to and who publishes it.
@@ -18043,6 +18204,23 @@ WISP. A WISP (written information security plan) is the document that says how a
 Workflow automation. Workflow automation is using software to carry out the repeated steps of a business process without someone doing each one by hand, for example sending reminders until every document is in. It handles the routine; a person still handles the exceptions and approvals. See [our workflow automation services](https://mikeautomations.github.io/en/services/).
 Zapier. Zapier is an automation platform that connects thousands of apps through workflows called Zaps, each made of one trigger and one or more actions. It is the easiest to start with, and it bills by tasks. Compared in [Zapier vs Make vs n8n](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/).
 
+### Terms that sound alike
+| Pair | The difference in one line |
+| --- | --- |
+| Trigger and action | A trigger starts the automation. An action is a step it carries out afterwards. |
+| API and webhook | An API answers when asked. A webhook sends a message the moment something happens. |
+| Webhook and polling | A webhook pushes instantly. Polling checks on a schedule, so it can lag by minutes. |
+| Automation and AI agent | An automation follows fixed rules. An AI agent decides the next step, so a person should approve its work. |
+| API and RPA | An API is an official connection. RPA copies clicks on screen and breaks more easily. |
+| Controller and processor | The controller decides why data is used. The processor handles it on the controller's behalf. |
+
+### Questions to ask a supplier who uses these words
+- Which trigger starts each workflow, and which actions follow?
+- Does it run in my own account, so the workflows belong to me?
+- Does a person approve anything AI prepares before a client sees it?
+- Which apps have an API, and which would need RPA?
+- Is client data handled by a processor, and is there a data processing agreement?
+
 ### Which terms matter first
 If you're new to this, five terms cover most conversations: trigger, action, integration, automation platform and human in the loop. Rules come next, and only the ones for your country and trade: the UK GDPR and AML rules for UK firms, A2P 10DLC and Section 7216 for US firms that text clients or prepare tax returns.
 The best way to make the words concrete is to write down one of your own processes and label each step. Our guide on [what to automate first](https://mikeautomations.github.io/en/blog/what-to-automate-first-small-business/) helps you pick the process.
@@ -18055,6 +18233,15 @@ A trigger is the event that starts an automation, such as a new form submission.
 
 ### What is the difference between a webhook and an API?
 An API is the official way one app lets another read or change its data when asked. A webhook is a message an app sends by itself the moment something happens. Automations often use both: a webhook to start, and the API to fetch or update details.
+
+### What is workflow automation in simple terms?
+Workflow automation is using software to carry out the repeated steps of a business process, for example sending reminders until every document is in. A person still handles anything that needs judgement.
+
+### What does no-code mean?
+No-code tools let you build workflows by clicking and filling in settings instead of writing software code. It does not mean no thought: you still have to decide exactly what should happen.
+
+### Do I need to learn these terms before hiring someone to automate my admin?
+No. Five terms cover most conversations: trigger, action, integration, automation platform and human in the loop. A good supplier explains the rest in plain words.
 
 ### Is an AI agent the same as an automation?
 No. A standard automation follows fixed rules you set. An AI agent uses an AI model to read and decide which step comes next, which makes it more flexible but less predictable, so a person should approve what it prepares.
