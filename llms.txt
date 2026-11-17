@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-16.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-17.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
@@ -175,6 +175,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [PAT testing reminders](https://mikeautomations.github.io/en/pat-testing-reminders/): PAT testing reminders for testers and electricians: one asset list per site, customers asked before the retest date, certificates sent and failures followed up.
 - [Parts-on-order updates](https://mikeautomations.github.io/en/appliance-repair-parts-on-order-updates/): Parts-on-order updates for appliance repair: tell customers what was ordered, text them when it arrives, book the return visit and stop the chasing calls.
 - [E-file rejection follow-up](https://mikeautomations.github.io/en/e-file-rejection-client-follow-up/): E-file rejection follow-up for tax preparers: every reject on one list, the client told fast, missing info requested and the return retransmitted in time.
+- [Scaffold inspection reminders](https://mikeautomations.github.io/en/scaffold-inspection-reminders/): Scaffold inspection reminders for scaffolding firms: every scaffold on one list, the 7-day check due each morning and the report sent to the site that day.
+- [Declined services follow-up](https://mikeautomations.github.io/en/auto-repair-declined-services-follow-up/): Declined services follow-up for auto repair shops: every deferred job on one list, a plain reminder when it's due and an easy way for the customer to book.
+- [Dental insurance verification](https://mikeautomations.github.io/en/dental-insurance-verification-before-appointments/): Dental insurance verification before appointments: one daily list of who to verify, patients asked for new details early and every result on record.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

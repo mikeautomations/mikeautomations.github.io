@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Updated: 2026-11-16. Facts summary: https://mikeautomations.github.io/llms.txt
+Updated: 2026-11-17. Facts summary: https://mikeautomations.github.io/llms.txt
 
 ## Home: Mike Automations
 Source: https://mikeautomations.github.io/en/
@@ -10788,6 +10788,188 @@ Summaries of Publication 1345 say that if you can't fix the reject yourself, you
 
 ### Does the workflow send anything to the IRS?
 No. It reads reject reports, keeps the list, drafts client messages for approval and reminds you. You correct and retransmit in your tax software.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Scaffold inspection reminders: never let a scaffold pass seven days unchecked
+Source: https://mikeautomations.github.io/en/scaffold-inspection-reminders/
+
+Scaffold inspection reminders work when every scaffold on hire has its own row with the date of the last inspection. Under the Work at Height Regulations 2005, a scaffold is inspected before first use, at intervals of no more than 7 days and after anything likely to affect its stability. A simple workflow shows the inspector what's due each morning, sends the signed report to the site contact and flags any scaffold that is close to the limit.
+
+A scaffolding firm with thirty jobs up has thirty clocks running, each started on a different day. The dates live on tags, in a diary and in the inspector's head. Then a week of rain moves the round, one house at the end of a lane is missed, and the site keeps working from a scaffold whose last report is nine days old. The inspection itself takes a competent person and a few minutes. Remembering which scaffold is due today is the part a workflow can carry.
+
+### Why weekly inspections get missed
+- Every scaffold went up on a different day, so every seven-day clock is different
+- The round is planned by area, not by due date
+- Nobody is sure whether the weekly check is yours or the site's under this contract
+- High winds or an alteration mean an extra inspection, and nobody tells the inspector
+- The report is written on paper and never reaches the site contact
+- The job runs past the hire period and falls off the list
+
+### What the workflow keeps for each scaffold
+One row per scaffold, started from the handover certificate. Who carries out the weekly inspection depends on your contract with the customer, so the row records it. Check HSE's scaffold guidance for the current rules; the workflow follows the dates and never judges the scaffold.
+| Field | Why it matters |
+| --- | --- |
+| Site address, customer and site contact | The report reaches someone on site |
+| Handover date and certificate | The first inspection and the start of the clock |
+| Who inspects weekly: you or the site | No scaffold is left between two firms |
+| Last inspection date and inspector | Shows what's due and by when |
+| Extra inspections after wind, impact or alterations | The record shows why and when |
+| Status: on hire, due, inspected, defect open, struck | You see what's open at a glance |
+
+### A message you can copy
+Email to the site contact after an inspection (edit the words in brackets):
+```
+Hi [first name], it's [name] from [company]. We inspected the scaffold at [site address] today, [date]. The inspection report is attached. Please keep it with your site records.
+
+[No defects were found. / We found the following and have dealt with it: ...]
+
+The next inspection is due by [date]. If the scaffold is hit, altered or there is bad weather before then, please stop using it and call us on [number] so we can inspect it before work carries on.
+```
+
+### How the workflow runs
+1. When a scaffold is handed over, a row is created from the handover certificate with the site contact and who inspects weekly.
+2. Each morning the inspector gets one list: scaffolds due today and tomorrow, in route order, with any due today at the top.
+3. The inspector fills in the report on a phone form. The competent person signs it; the workflow only files it.
+4. The report goes to the site contact the same day and the row gets its new due date.
+5. If a site reports wind damage, an impact or an alteration, an extra inspection goes on the list and you decide who attends.
+6. Any scaffold that reaches day six with no report is flagged to the office. When a scaffold is struck, the row closes.
+
+### What stays with you
+Every inspection, every decision that a scaffold is safe to use and every repair. The workflow doesn't inspect anything and can't mark a scaffold as passed without a signed report from your competent person. It keeps the dates, builds the round and gets the paperwork to the site. For other dated inspections, see [LOLER examination reminders](https://mikeautomations.github.io/en/loler-thorough-examination-reminders/). For the daily paperwork on a build, see [construction daily site reports](https://mikeautomations.github.io/en/construction-daily-site-reports/). If AI drafts a message to a customer, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how handovers and inspections are recorded today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, a phone form, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your scaffold software already builds the inspection round and sends the reports, you don't need this, and we'll say so on the call.
+
+### How often does a scaffold need inspecting?
+Under the Work at Height Regulations 2005, before first use, then at intervals of no more than 7 days, and after anything likely to affect its stability, such as high winds or alterations. Check HSE's guidance for the detail.
+
+### Does the workflow do the inspection?
+No. A competent person inspects and signs the report. The workflow shows what's due, files the report, sends it to the site and flags anything close to the limit.
+
+### What if the site does its own weekly checks?
+The row records who inspects under the contract. For those scaffolds the workflow can remind the site contact and ask for a copy of their report instead.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Declined services follow-up: remind customers about the work they put off
+Source: https://mikeautomations.github.io/en/auto-repair-declined-services-follow-up/
+
+Declined services follow-up means going back to customers about recommended work they said no to, at the time the work should be done. A simple workflow takes each declined line from the repair order, keeps it on one list with the advisor's note and a follow-up date, sends one plain text or email when that date comes, and books the reply. Safety items go to a person to call instead.
+
+The inspection found worn rear brake pads and a seeping water pump. The customer approved the oil change and said "not today" to the rest. The advisor wrote it on the repair order, the car left, and that was the last anyone thought about it. Three months later the customer has the brakes done somewhere else, or doesn't, and comes back on a tow truck. The recommendation was honest and the customer meant to deal with it. Nobody reminded them.
+
+### Why declined work is never followed up
+- The declined lines sit on a closed repair order nobody opens again
+- Advisors are busy with today's cars, not last quarter's
+- Nobody wrote down why the customer said no: price, time, or a second opinion
+- A reminder a week later feels pushy; one when the work is due gets forgotten
+- Safety items and "keep an eye on it" items get the same treatment
+- The customer changed their number and the text never arrives
+
+### What the workflow keeps for each declined item
+One row per declined line, from your shop management system's report or export. The advisor sets the follow-up date when the car leaves, based on the part and how the customer drives. The workflow follows that date; it doesn't decide when work is needed.
+| Field | Why it matters |
+| --- | --- |
+| Customer, vehicle and mileage at the visit | The message is about their car, not a mail-out |
+| The declined job in plain words and the quoted price | The customer knows what you mean |
+| Why they declined, in a few words | The follow-up fits the reason |
+| Urgency: safety, soon, or monitor | Safety items go to a person to call |
+| Follow-up date set by the advisor | The reminder arrives when the work is due |
+| Status: waiting, reminded, booked, done elsewhere, closed | You see what's open at a glance |
+
+### A reminder you can copy
+Text to the customer (edit the words in brackets):
+```
+Hi [first name], it's [advisor] at [shop]. When your [year make model] was in on [date], we noted the [job in plain words] would need doing around now. The price we quoted was [price].
+
+Want us to take care of it? Reply YES and we'll text you two times to choose from, or call us at [number]. If you've already had it done, reply DONE and we'll update our notes. Reply STOP to opt out.
+```
+
+### How the workflow runs
+1. When a repair order closes with declined lines, each one is added to the list with the advisor's note, urgency and follow-up date.
+2. Safety items skip the automatic message. They go on a short call list for the advisor the next day.
+3. On the follow-up date, the customer gets one text or email naming the job and the quoted price.
+4. A YES reply gets two appointment times and the booking goes on the shop calendar. A DONE or STOP reply closes the row.
+5. If there's no reply, one more message goes out later. After that the row waits for the customer's next visit.
+6. When the customer books anything, the advisor sees their open declined items before the car arrives.
+
+### What stays with you
+The inspection, the recommendation, the price and every conversation about safety. The workflow doesn't diagnose anything or decide what a car needs. Text only customers who agreed to get texts from you, and honor every opt-out. For keeping customers informed while the car is with you, see [body shop repair updates](https://mikeautomations.github.io/en/body-shop-repair-updates/). For jobs waiting on a part, see [parts-on-order updates](https://mikeautomations.github.io/en/appliance-repair-parts-on-order-updates/). If AI drafts a reply, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how declined work is recorded on your repair orders today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your shop software's reports, a spreadsheet, text and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). Many shop management systems already have a declined-work reminder. If yours does and customers respond to it, turn that on first; you don't need this, and we'll say so on the call.
+
+### When should the follow-up go out?
+When the work should be done, not a fixed number of days later. The advisor sets the date from the part and how the customer drives. Safety items get a phone call instead.
+
+### My shop software already has this. Do I need a workflow?
+Probably not. Many shop management systems send declined-work reminders. Check that first. A separate workflow helps when yours doesn't, or when you want a call list and the reason recorded.
+
+### Will it feel pushy to customers?
+It's one plain message about their own car, naming the job and the price you already quoted, with an easy way to say it's done or to opt out. You approve the wording.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Dental insurance verification: check every patient before they sit in the chair
+Source: https://mikeautomations.github.io/en/dental-insurance-verification-before-appointments/
+
+Dental insurance verification before appointments works when the front office checks each patient's coverage a few days ahead, not at the desk. A simple workflow reads the schedule, builds a daily list of patients to verify, asks patients ahead of time whether their insurance has changed, and records what the coordinator found. A person always does the verification with the payer; the workflow makes sure nobody is skipped.
+
+The patient is in the waiting room, the hygienist is ready, and the front desk finds out the plan ended in June. Now someone has to explain a bill nobody expected, or the visit is moved and the chair sits empty. Most offices know they should verify a few days ahead. It slips because the list is built by hand from the schedule, new bookings arrive after the list was made, and nobody asked the patient whether they changed jobs.
+
+### Why verification gets skipped
+- The list of who to verify is copied by hand from the schedule
+- Appointments booked after the list was made are never added
+- Nobody asks the patient about a new employer or plan until they arrive
+- The card on file is last year's, and the photo is unreadable
+- Verification was done, but the result is on a sticky note
+- Patients verified months ago are assumed to be fine
+
+### What the workflow keeps for each appointment
+One row per upcoming appointment with insurance on file, from your practice software's schedule report. How many days ahead you verify, and when an old verification is too old to trust, are your office's rules. The workflow follows them.
+| Field | Why it matters |
+| --- | --- |
+| Patient, appointment date and visit type | Bigger treatment may need a closer look |
+| Plan on file and date last verified | Shows who needs checking again |
+| Patient's reply: no change, or new details | You verify the right plan |
+| Verify-by date | The coordinator's daily list is built from it |
+| Result and notes from the coordinator | The whole team sees it, not one person |
+| Status: to verify, waiting on patient, verified, problem | You see what's open at a glance |
+
+### A message you can copy
+Text to the patient before the visit (edit the words in brackets):
+```
+Hi [first name], it's [office name]. We're looking forward to seeing you on [date] at [time]. Has your dental insurance changed since your last visit?
+
+Reply NO if it's the same. If it has changed, reply NEW and we'll send you a secure link to upload a photo of your new card. This helps us check your benefits before you arrive. Questions? Call us at [number].
+```
+
+### How the workflow runs
+1. Each morning the workflow reads the schedule and adds new appointments, including ones booked late.
+2. Patients get one message ahead of the visit asking whether their insurance has changed.
+3. A NEW reply sends a secure upload link for the card, and the row waits for it. No reply after one reminder goes on the call list.
+4. The coordinator gets one list for the day, ordered by verify-by date, and checks each plan with the payer as they do now.
+5. The coordinator records the result on the row. Problems are flagged so someone calls the patient before the visit.
+6. Same-day and next-day bookings go to the top of the list as soon as they appear.
+
+### What stays with you
+The verification itself, every estimate and every conversation with a patient about what they'll owe. The workflow doesn't contact insurers, read benefits or tell patients what's covered. Patient details are confidential health information, so we agree with you which tools they pass through and what your compliance adviser needs in place before anything is switched on. For the next step after the exam, see [dental treatment plan follow-up](https://mikeautomations.github.io/en/dental-treatment-plan-follow-up/). For overdue check-ups, see [dental recall follow-up](https://mikeautomations.github.io/en/dental-recall-follow-up/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how your verification list is made today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software's schedule report, a spreadsheet, text and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already has a verification list your team works from every day, you don't need this, and we'll say so on the call.
+
+### Does the workflow verify insurance itself?
+No. A person checks each plan with the payer, the way your office does now. The workflow builds the list, asks patients about changes and keeps the results in one place.
+
+### How far ahead should we verify?
+Most guidance says a few days before the visit: early enough to fix problems, not so early that benefits change. You set the lead time and the workflow follows it.
+
+### Will it work with our practice software?
+Usually. It needs a schedule report or export with the patient, appointment date and plan on file. We check that on the call before anything is promised.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
