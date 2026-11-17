@@ -10974,6 +10974,192 @@ Usually. It needs a schedule report or export with the patient, appointment date
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Pension re-enrolment reminders: every client's three-year date on one list
+Source: https://mikeautomations.github.io/en/pension-re-enrolment-client-reminders/
+
+Pension re-enrolment reminders work when every payroll client has a row with the date their next re-enrolment falls due. Automatic enrolment duties come round every three years, and The Pensions Regulator expects a re-declaration of compliance within five months of the third anniversary. A simple workflow tells the bureau and the employer ahead of the date, collects the answers needed for the form and keeps the row open until the re-declaration is confirmed.
+
+Re-enrolment is easy to forget because it happens once every three years. The client has forgotten it exists. The person at your practice who handled it last time may have left. The date is in a letter from The Pensions Regulator that went to the employer, not to you. Then a reminder arrives with a deadline a few weeks away, and someone has to find the last declaration, work out who does what and explain it all to a client who thought payroll was taken care of.
+
+### Why re-enrolment gets missed
+- It comes round every three years, so nobody has a habit for it
+- Each client's date is different, because it follows their own start date
+- The regulator writes to the employer, and the letter never reaches the bureau
+- Nobody agreed whether the bureau or the client completes the re-declaration
+- The staff are assessed in payroll, but the re-declaration is never sent
+- New clients arrive with no record of their last re-enrolment date
+
+### What the workflow keeps for each client
+One row per payroll client. The dates come from the client's last declaration or their letter from The Pensions Regulator. Check the regulator's guidance for the current rules; the workflow follows the dates you enter and never works them out for you.
+| Field | Why it matters |
+| --- | --- |
+| Client, payroll contact and pension scheme | The reminder reaches the right person |
+| Duties start date or last re-enrolment date | The three-year cycle runs from it |
+| Third anniversary and re-declaration deadline | Shows what's due and by when |
+| Who completes the re-declaration: you or the client | Nothing is left between two desks |
+| Date staff were assessed and the outcome | The form needs it |
+| Status: upcoming, client told, assessed, re-declared | You see what's open at a glance |
+
+### A message you can copy
+Email to the employer ahead of the date (edit the words in brackets):
+```
+Hi [first name], it's [name] from [practice]. Your workplace pension re-enrolment is coming up. Every three years, employers have to put certain staff back into the pension scheme and then tell The Pensions Regulator they've done it. Your date is [third anniversary], and the re-declaration has to be in by [deadline].
+
+We'll assess your staff in payroll. To complete the re-declaration we need two things from you: [the letter code from The Pensions Regulator] and [confirmation of your contact details]. Please reply to this email with them by [date].
+
+The re-declaration is your legal duty as the employer, so we'll confirm in writing once it's been sent.
+```
+
+### How the workflow runs
+1. Each client's start date or last re-enrolment date is entered once, and the third anniversary and deadline go on the row.
+2. Ahead of the anniversary, the payroll manager gets a list of clients coming up, and each employer gets a plain email you've approved.
+3. The client replies with what you need. If there's no reply, one reminder goes out, then the client goes on a call list.
+4. Your payroll team assesses the staff in your payroll software, as they do now, and records the date on the row.
+5. Whoever completes the re-declaration marks it done and saves the confirmation. The row then rolls forward three years.
+6. Any client with a deadline approaching and no confirmation is flagged to the payroll manager each week.
+
+### What stays with you
+Assessing staff, every decision about who goes back into the scheme, and the re-declaration itself. The legal duty is the employer's, even when a bureau completes the form, so the workflow never marks a client as done without a confirmation on file. For the regular payroll cycle, see [collecting payroll inputs from clients](https://mikeautomations.github.io/en/blog/collect-payroll-inputs-from-clients/). For another dated filing you track for clients, see [confirmation statement reminders](https://mikeautomations.github.io/en/confirmation-statement-client-reminders/). If AI drafts a message to a client, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track re-enrolment dates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your payroll software's client list and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your payroll software already alerts you to each client's re-enrolment date and you act on it, you don't need this, and we'll say so on the call.
+
+### How often does re-enrolment happen?
+Every three years. The Pensions Regulator expects a re-declaration of compliance within five months of the third anniversary of the employer's duties start date. Check the regulator's guidance for the detail.
+
+### Can the bureau complete the re-declaration for a client?
+Yes, a bureau can complete it, but the legal duty stays with the employer. The row records who is doing it, so it isn't left between you and the client.
+
+### Does the workflow assess staff?
+No. Your payroll team assesses staff in your payroll software. The workflow keeps the dates, tells the client, collects what's needed and tracks the confirmation.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Certified payroll reminders: every subcontractor, every week, on one list
+Source: https://mikeautomations.github.io/en/certified-payroll-report-reminders-subcontractors/
+
+Certified payroll report reminders work when every subcontractor on a prevailing-wage job has a row for every week they were on site. On Davis-Bacon work, certified payrolls are due weekly, within seven days after the regular payment date, each with a signed Statement of Compliance. A simple workflow reminds each sub, logs what arrives, chases what's missing and shows the gaps before the next pay application goes in.
+
+On a prevailing-wage job, the general contractor answers for every tier's paperwork. Six subs means six reports a week, and a week when a sub wasn't on site still needs an answer. The reports arrive by email, by upload and sometimes on paper in the trailer. Nobody notices the missing week until the agency holds a payment, and then someone spends two days asking a drywall sub for a report from March.
+
+### Why certified payrolls go missing
+- Each sub has its own pay week and pay date, so each report is due on a different day
+- Nobody tells the office which subs were on site that week
+- A sub with no work that week sends nothing, and nobody knows if that's a gap
+- The report arrives without a signed Statement of Compliance
+- Lower-tier subs send reports to the sub above them, and they stop there
+- Missing weeks are found at pay application time, months later
+
+### What the workflow keeps for each sub and week
+One row per subcontractor per week, for each job with prevailing-wage rules. Federal jobs, state jobs and local jobs can have different forms and deadlines, so the row follows what the contract says. The workflow tracks whether a report arrived. It never judges whether the wages on it are right.
+| Field | Why it matters |
+| --- | --- |
+| Job, subcontractor, tier and payroll contact | The reminder reaches the person who runs their payroll |
+| Week ending and the sub's regular pay date | The due date is counted from it |
+| On site that week: yes, no or not known | A no-work week is answered, not guessed |
+| Report received, with signed statement: yes or no | An unsigned report isn't finished |
+| Reviewed by, and sent to the agency on | Shows the report didn't stop on your desk |
+| Status: due, received, sent back, complete, missing | You see what's open at a glance |
+
+### A message you can copy
+Email to the sub's payroll contact (edit the words in brackets):
+```
+Hi [first name], it's [name] from [general contractor]. We don't have your certified payroll report for [job name] for the week ending [date]. It was due on [due date].
+
+Please upload it here: [link]. It needs the signed Statement of Compliance. If your crew wasn't on site that week, use the same link to tell us, so we can record it.
+
+[We can't include your work in the next pay application until the reports are up to date.] Questions? Call me at [number].
+```
+
+### How the workflow runs
+1. When a sub starts on a prevailing-wage job, they're added once with their payroll contact, pay week and pay date.
+2. Each week a row opens for every active sub. Their payroll contact gets one reminder with an upload link, a day or two ahead of the due date.
+3. The sub uploads the report or marks the week as no work. The row records the time it arrived.
+4. Your payroll or compliance person reviews each report, as they do now, and marks it complete or sends it back with a note.
+5. Anything past its due date gets one more reminder. After that the project manager gets it on a call list.
+6. Before each pay application, the project manager gets one page per job: every sub, every week, and what's still missing.
+
+### What stays with you
+Reviewing every report, checking wage rates and classifications, and every decision to hold a sub's payment. The workflow doesn't read wage determinations and can't tell you a report is correct. It makes sure the report exists, is signed and reached the right person. For the payment side, see [pay application reminders](https://mikeautomations.github.io/en/subcontractor-pay-application-reminders/) and [lien waiver tracking](https://mikeautomations.github.io/en/lien-waiver-tracking-subcontractors/). For insurance paperwork, see [subcontractor COI tracking](https://mikeautomations.github.io/en/subcontractor-coi-tracking/). If AI drafts a message to a sub, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how certified payrolls reach you today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, a shared folder, an upload form and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If the agency's portal or your compliance software already chases every sub and shows you the gaps, you don't need this, and we'll say so on the call.
+
+### How often are certified payrolls due?
+On Davis-Bacon work, weekly, within seven days after the regular payment date for that payroll period. State and local prevailing-wage jobs can differ, so follow the contract.
+
+### Does the workflow check the wage rates?
+No. A person reviews every report. The workflow tracks whether each report arrived, whether it's signed and who it went to.
+
+### What about weeks when a sub wasn't on site?
+The sub marks the week as no work through the same link. What they need to file for that week depends on the contract, so the row records the answer and you decide.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## F-gas leak check reminders: every system's next check on one list
+Source: https://mikeautomations.github.io/en/f-gas-leak-check-reminders/
+
+F-gas leak check reminders work when every system you look after has its own row with its charge, its check interval and the date of the last check. Equipment holding F gas equivalent to 5 tonnes of CO2 or more needs leak checks at least every 12, 6 or 3 months, depending on its size. A simple workflow shows what's due, offers the customer a visit, and sends the record after your certified engineer has done the check.
+
+A small air conditioning firm looks after hundreds of systems across shops, offices and restaurants. Some need a leak check once a year, some twice, a few every three months. The dates sit in job sheets and in one engineer's memory. The customer assumes you're tracking it. Then a facilities manager asks for the leak check records for an audit, and you find one rooftop unit hasn't been checked since the summer before last.
+
+### Why leak checks get missed
+- Each system has its own interval, set by the type and amount of refrigerant
+- The charge and gas type were never written down in one place
+- The customer thinks the annual service and the leak check are the same visit
+- A leak was repaired, and nobody booked the check that follows a repair
+- The record stays on the engineer's job sheet and never reaches the customer
+- Customers with no service contract are only seen when something breaks
+
+### What the workflow keeps for each system
+One row per system, not per customer. The interval is entered by your certified engineer from the equipment's charge. Intervals can be longer where a leak detection system is fitted, and some sealed equipment is treated differently, so check gov.uk's guidance on checking F gas equipment for leaks. The workflow follows the dates and never judges the equipment.
+| Field | Why it matters |
+| --- | --- |
+| Customer, site and where the unit is | The engineer finds the right unit |
+| Refrigerant, charge and CO2 equivalent | The check interval comes from it |
+| Check interval: 12, 6 or 3 months | Sets the next due date |
+| Last check: date, engineer and result | The record the customer has to keep |
+| Repairs and the check that follows them | A repaired leak isn't left unchecked |
+| Status: due, offered, booked, checked, follow-up open | You see what's open at a glance |
+
+### A message you can copy
+Email to the customer when a check is coming up (edit the words in brackets):
+```
+Hi [first name], it's [name] from [company]. The air conditioning at [site] is due its F-gas leak check by [date]. This is a legal check on systems of this size, and it's separate from a breakdown visit.
+
+We can come on [day 1] or [day 2]. Reply with the one that suits, or call [number] to pick another time. The visit takes about [time].
+
+Afterwards we'll send you the leak check record to keep with your site records.
+```
+
+### How the workflow runs
+1. Each system goes on the list once, with its charge and interval entered by your engineer.
+2. Each week the office gets a list of checks coming up, grouped by site so one visit covers every unit there.
+3. The customer gets an email you've approved, offering two dates. A reply books the visit in the engineer's calendar.
+4. No reply after one reminder puts the customer on a call list. The office decides what to say.
+5. Your certified engineer does the check and fills in the result on a phone form. The workflow only files it.
+6. The record goes to the customer the same day and the row gets its next due date. A repair opens a follow-up check on the list.
+
+### What stays with you
+Every leak check, every repair and every decision about a system. The workflow doesn't check anything and can't mark a system as checked without a result from your certified engineer. Keeping the records is the equipment operator's duty, which is usually your customer, so the workflow makes sure they get a copy each time. For contract renewals, see [maintenance agreement renewals](https://mikeautomations.github.io/en/hvac-maintenance-agreement-renewals/). For another dated check, see [boiler service reminders](https://mikeautomations.github.io/en/boiler-service-reminders-heating-engineers/). If AI drafts a message to a customer, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track leak check dates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your job software's asset list, a phone form, a calendar and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already tracks each asset's leak check date and sends the reminders, you don't need this, and we'll say so on the call.
+
+### How often does equipment need an F-gas leak check?
+For equipment holding F gas equivalent to 5 tonnes of CO2 or more: at least every 12 months, every 6 months from 50 tonnes and every 3 months from 500 tonnes. There are exceptions, so check gov.uk's guidance.
+
+### Does the workflow do the leak check?
+No. A certified engineer does every check and records the result. The workflow shows what's due, books the visit and sends the record.
+
+### Who has to keep the records?
+The operator of the equipment, which is usually your customer. The workflow sends them a copy after each check and keeps one on the row for you.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 

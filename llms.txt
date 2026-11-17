@@ -178,6 +178,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Scaffold inspection reminders](https://mikeautomations.github.io/en/scaffold-inspection-reminders/): Scaffold inspection reminders for scaffolding firms: every scaffold on one list, the 7-day check due each morning and the report sent to the site that day.
 - [Declined services follow-up](https://mikeautomations.github.io/en/auto-repair-declined-services-follow-up/): Declined services follow-up for auto repair shops: every deferred job on one list, a plain reminder when it's due and an easy way for the customer to book.
 - [Dental insurance verification](https://mikeautomations.github.io/en/dental-insurance-verification-before-appointments/): Dental insurance verification before appointments: one daily list of who to verify, patients asked for new details early and every result on record.
+- [Pension re-enrolment reminders](https://mikeautomations.github.io/en/pension-re-enrolment-client-reminders/): Pension re-enrolment reminders for payroll bureaus: each client's three-year date on one list, the employer told early and the re-declaration tracked.
+- [Certified payroll reminders](https://mikeautomations.github.io/en/certified-payroll-report-reminders-subcontractors/): Certified payroll report reminders for subcontractors: every sub and every week on one list, missing reports chased and gaps seen before the pay app.
+- [F-gas leak check reminders](https://mikeautomations.github.io/en/f-gas-leak-check-reminders/): F-gas leak check reminders for air conditioning and refrigeration firms: every system on one list, the next check booked and the record sent on.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
