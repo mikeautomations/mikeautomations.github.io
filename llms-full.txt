@@ -345,6 +345,47 @@ $2,000, or $1,500 for the first 3 firms. Prices in US dollars, invoiced in $, £
 
 ### Useful reading
 
+## Law firms (Mike Automations): Workflow automation for law firms: less admin between you and the work.
+Source: https://mikeautomations.github.io/en/law-firms/
+
+Workflow automation for law firms takes the repeat admin off your team: client intake, the details you need for conflict checks, engagement letters sent for e-signature, document chasing, matter updates and invoice reminders. It's built on the tools you already use, live in 2-3 days, for a fixed $2,000, paid once it's running and you're happy with it.
+It's for small law firms and solicitors in the UK and US. We build it. It runs. Then you pay.
+
+### The problem
+Most of a small firm's admin isn't legal work. A new client sends half the details by email. The ID is still missing. The engagement letter waits for a signature. A matter goes quiet and the client rings for an update. An invoice sits unpaid. Each one is small, and together they take hours every week.
+
+### What gets automated
+- Client intake one clear form, so every new enquiry arrives with the same details, in one place, instead of in scattered emails.
+- Information for conflict checks the names and details you need are collected and listed together. A person runs the check and decides.
+- Engagement letters the letter is filled in from the intake and sent for e-signature once a person has approved it.
+- Document chasing a list of what's needed from each client, and polite reminders until it arrives. They stop when it does.
+- Matter updates short, scheduled messages to clients at set points, written by you and approved once before they run.
+- Invoice reminders a friendly note before the due date and on the day, stopping the moment the client pays.
+
+### A new client, start to finish
+Here's how a new client can move through, with a person at every point that matters:
+1. The client fills in the intake form. The details land in your client list.
+2. A person reviews the intake and runs the conflict check.
+3. The engagement letter is drafted from the intake. A solicitor approves it, then it goes out for e-signature.
+4. The client gets a checklist of documents, with reminders until each one is in.
+5. Once the letter is signed and the documents are in, the right person is told the matter can start.
+
+### What stays with you
+- Every legal judgment: conflicts, advice, risk and what goes in a letter.
+- Anything an AI tool prepares is read and approved by a person before it reaches a client.
+- The relationship with the client, and every conversation that needs a person.
+- The wording of every message, approved by you once before it runs.
+
+### Guides for law firms and conveyancing
+Step-by-step guides for specific workflows. Each one shows what's automated and what stays with a person.
+
+### Useful reading
+
+### Works with
+
+### Price
+$2,000, or $1,500 for the first 3 firms. Prices in US dollars, invoiced in $, £ or € at the equivalent rate. Paid once it's running and you're happy with it.
+
 ## Service businesses (Mike Automations): Automation for small service businesses: no enquiry left waiting.
 Source: https://mikeautomations.github.io/en/service-businesses/
 
