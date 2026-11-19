@@ -14,6 +14,17 @@
   const endpoint = "https://script.google.com/macros/s/AKfycbwh8GhUq0JYhJmF-F_FXLD4jeKJQtCeXOL7AOQG6fAf1lKcs7pZz_xwYFyf3d_V5RJY/exec";
   const accessKey = "";
   const viaScript = true;
+  // One page view to Michael's own visits sheet (apps-script/lead-booking.gs): page, referring site, language and
+  // phone or desktop. No cookies, nothing stored on the device, nothing personal. Only on the live site.
+  try {
+    if (viaScript && location.hostname === "mikeautomations.github.io" && !/bot|crawl|spider|headless|lighthouse/i.test(navigator.userAgent)) {
+      let from = "";
+      try { from = document.referrer ? new URL(document.referrer).hostname : ""; } catch {}
+      if (from === location.hostname) from = "(this site)";
+      const q = "?hit=1&p=" + encodeURIComponent(location.pathname) + "&r=" + encodeURIComponent(from) + "&l=" + lang + "&d=" + (innerWidth < 768 ? "m" : "d");
+      fetch(endpoint + q, { mode: "no-cors", keepalive: true }).catch(() => {});
+    }
+  } catch {}
   document.querySelectorAll("dialog form").forEach((f) => f.addEventListener("submit", async (e) => {
     e.preventDefault();
     const v = (n) => (f.elements[n] && f.elements[n].value || "").trim();
