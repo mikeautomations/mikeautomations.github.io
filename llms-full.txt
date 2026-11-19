@@ -5592,6 +5592,9 @@ Pricing, colour advice, prep decisions and every judgement about the work. The w
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you quote and agree colours today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on tools you already use: a form, email, texts or WhatsApp, your calendar or job software. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your business first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=painters-decorators-quotes-and-colour-sign-off).
 
+### Free tools for quotes
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds a quote PDF with labour, materials and VAT, and the [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes the nudge when a quote goes quiet.
+
 ### What if the customer changes a colour after signing off?
 They can ask, and the change is recorded with the date. If paint has been ordered, you decide whether there is a cost and the customer confirms it before you go ahead.
 
@@ -5744,6 +5747,9 @@ Every real conversation, pricing advice, offers and negotiation. The workflow se
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about where your leads come from and how you follow up today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your CRM or a spreadsheet, email, texts, your calendar and booking link), so you don't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your business first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=real-estate-agent-lead-follow-up).
+
+### Free tool: an instant reply to new leads
+The free [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes a reply for new enquiries, out-of-hours messages and busy periods, for email, WhatsApp or your website form.
 
 ### How fast should a real estate agent reply to a new lead?
 As fast as you can, ideally within minutes, because the person is often asking several agents at once. An automated first reply gets a personal message out while you're busy, then hands the conversation to you.
@@ -6775,6 +6781,9 @@ Your prices, packages and contract terms. Every viewing, every conversation abou
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how enquiries reach you and how you hold dates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working" (see [the pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/)). It's built on the tools you already use: your website form, email, diary or booking system, a spreadsheet, your e-signature tool and your payment links, so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. To see the steps for your venue first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=event-venue-enquiry-follow-up), or [try the demo](https://mikeautomations.github.io/en/try/).
 
+### Free tools for enquiries
+The free [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes a follow-up for a proposal that has gone quiet, and the [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes the instant reply for new enquiries outside opening hours.
+
 ### How fast should a venue reply to an enquiry?
 As fast as you can. The workflow can send the first reply within minutes, at any hour, with availability and prices, and a person picks up from there.
 
@@ -7342,6 +7351,9 @@ Every decision about a tenant stays with a person: whether to agree a plan, when
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how your agency spots and chases missed rent today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your bank feed or accounting software, your property management software where it allows a connection, a shared spreadsheet, email and texts), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under a simple [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your agency first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=rent-arrears-reminders-letting-agents).
 
+### Free tool: reminder wording
+For a single overdue payment, the free [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes a polite reminder by how late it is, which you can adapt for rent.
+
 ### How much rent must a tenant owe before a landlord can use Ground 8?
 In England, since 1 May 2026, gov.uk says at least 3 months' rent (or 13 weeks if rent is weekly or fortnightly), both when notice is given and at the hearing. The notice period is 4 weeks. Arrears caused only by a Universal Credit payment that hasn't arrived don't count.
 
@@ -7411,6 +7423,9 @@ Your classes, your prices and every conversation about which plan suits someone.
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you sell intro offers and packs today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your booking or studio software's exports, a spreadsheet, email, texts or WhatsApp), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under a [simple pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your studio first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=fitness-studio-intro-offer-follow-up).
+
+### Free tool: a WhatsApp chat link
+The free [WhatsApp link generator](https://mikeautomations.github.io/en/whatsapp-link-generator/) makes a chat link and website button with a ready message, so people can ask about the intro offer in one tap.
 
 ### Doesn't my booking software already do this?
 Many booking apps send a welcome email and booking confirmations. Fewer check who hasn't booked again, stop messages the moment someone buys, or hand you a list of people to speak to. The workflow can start from your app's data and add only what's missing.
@@ -9510,6 +9525,9 @@ Every clinical decision and every conversation about the treatment or the cost. 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how open treatment plans are followed up today and what your practice software can export. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your practice software where it allows a connection, your text and email service and a spreadsheet), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already has a follow-up feature that does this, we'll tell you to switch it on instead.
 
+### Free tool: follow-up wording
+The free [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes a friendly follow-up by how long it has been, which works for a treatment plan as well as a quote.
+
 ### Our practice software already sends reminders. Is this different?
 Most software reminds patients about appointments that exist and check-ups that are due. This follows up treatment that was recommended and never booked. If your software already does that well, you don't need us.
 
@@ -10409,6 +10427,9 @@ Checking the register, every filing and every judgement about who counts as a PS
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about where your client dates live and how you file today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software where it allows a connection, Outlook or Gmail, a spreadsheet), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already sends these reminders and you're happy with them, you don't need this, and we'll say so on the call.
 
+### Free tool: a company's deadlines
+The free [company deadlines calculator](https://mikeautomations.github.io/en/company-deadlines/) gives the confirmation statement, accounts and Corporation Tax dates for a company in one place.
+
 ### Doesn't Companies House send reminders already?
 It does, by email, to the people signed up for them. Those reminders don't ask your client whether anything changed, and they don't show you who replied. This workflow does both.
 
@@ -10469,6 +10490,9 @@ The round, the prices, who you take on and how you handle someone who doesn't pa
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how your round is kept today and how customers pay. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your round app where it allows a connection, text messages, a card or direct debit link), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your round app already sends these messages and you're happy with it, you don't need this, and we'll say so on the call.
+
+### Free tools for rounds and payments
+The free [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes the reminder for a missed payment, and the [WhatsApp link generator](https://mikeautomations.github.io/en/whatsapp-link-generator/) gives customers a one-tap way to message you.
 
 ### I already use a round app. Do I need this?
 Maybe not. If it already sends texts before and after each clean and shows you who owes, keep it. This is for rounds kept in a notebook or spreadsheet, or where the app's messages aren't followed up.
@@ -11651,6 +11675,9 @@ Working out the tax, deciding whether an estimate is safe to send, and every con
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you tell clients what to pay today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your practice software's client list, and your own email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already sends these reminders with the amount and tracks replies, you don't need this, and we'll say so on the call.
+
+### Free tool: a company's deadlines
+The free [company deadlines calculator](https://mikeautomations.github.io/en/company-deadlines/) works out a company's accounts filing date, Corporation Tax payment date and confirmation statement date from its year end. No sign-up.
 
 ### When is Corporation Tax due?
 For a company with taxable profits up to £1.5 million, 9 months and 1 day after the end of its accounting period. That is earlier than the deadline for the Company Tax Return. Larger companies normally pay in instalments.
@@ -15329,6 +15356,9 @@ If you're reading this in November and haven't sent requests, you can still get 
 ### How Mike Automations would build this
 A timeline only works if every message goes out on the right date to the right clients, and stops when they're complete. That's hard to do by hand for 150 people. A workflow can send each request and reminder on your dates, list only what each client still owes, file what arrives, and give you a morning list of who's complete, partial or silent.
 It starts with a [free 15-minute call](https://mikeautomations.github.io/call/) about your season. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your email, your shared drive or practice software where it allows a connection, and your client list), so nobody learns a new system. Live in 2-3 days, [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. Every message uses wording you approved.
+
+### Free tool: the Self Assessment document checklist
+The free [Self Assessment checklist](https://mikeautomations.github.io/en/self-assessment-checklist/) lists the documents a client needs for their 2025-26 return from the income types they tick, so the chase starts with a clear list.
 
 ### When should an accountant start chasing Self Assessment records?
 Send the first full request in June or July, once employers have issued P60s (by 31 May) and P11D information (by 6 July). Remind on a steady rhythm through the autumn, and set a records cut-off well before Christmas.
