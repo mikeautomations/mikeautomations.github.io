@@ -1768,7 +1768,7 @@ Workflow automation is a fixed $2,000, paid once it's running and you're happy w
 ## Conveyancing client updates without the chasing calls
 Source: https://mikeautomations.github.io/en/conveyancing-client-progress-updates/
 
-Conveyancing client updates are short messages sent to a buyer or seller each time their file reaches a milestone, such as searches ordered, mortgage offer received or exchange. Sent automatically when the fee earner records the milestone, they tell the client what has happened, what comes next and whether anything is needed from them, which cuts the number of "any update?" calls.
+Conveyancing client updates are short messages sent to a buyer or seller each time their file reaches a milestone, such as searches ordered, mortgage offer received or exchange. Sent when the fee earner records the milestone, they say what happened, what comes next and whether the client needs to do anything, so fewer clients call to ask for an update.
 
 Conveyancing client updates are the answer to the question every buyer and seller asks: where does my move stand? Without them, clients phone, and so do their [estate agents](https://mikeautomations.github.io/en/estate-agent-sales-progression-updates/) and brokers. Each call pulls a fee earner away from the file, and most ask the same thing: has anything happened yet? Telling clients what has happened at each milestone is the same message every time, so it can go out as a workflow while your fee earners keep the legal work. It picks up where [client intake](https://mikeautomations.github.io/en/law-firm-client-intake/) leaves off.
 
@@ -1801,6 +1801,25 @@ These are the milestones most purchase files go through in England and Wales. Yo
 | Exchanged | Contracts have exchanged and the purchase is now legally binding, with the completion date | No |
 | Completed | Keys can be collected, and what happens next with Stamp Duty and registration | No |
 
+### A sale update sequence you can adapt
+Sellers want different things from buyers: they wait on the buyer's side and on their own paperwork. Your firm's stages may differ, so treat this as a starting point.
+| Milestone recorded | What the client is told | Anything needed from them? |
+| --- | --- | --- |
+| File opened | Who their fee earner is and how updates will arrive | ID, and property forms if not yet returned |
+| Draft contract sent | The contract pack has gone to the buyer's solicitor | No |
+| Buyer's enquiries received | The buyer's solicitor has raised questions; the firm will ask for the seller's answers if needed | Possibly, a short reply on the property |
+| Mortgage redemption requested | The firm has asked the lender for the figure to pay off the existing mortgage | No |
+| Exchanged | Contracts have exchanged and the sale is now legally binding, with the completion date | Arrange to leave the keys, and the move itself |
+| Completed | The sale has completed and what the firm does next | No |
+
+### Checklist: a good client update
+To see which part of the file process to automate first, read [what to automate first](https://mikeautomations.github.io/en/blog/what-to-automate-first-small-business/), or see how the [build works](https://mikeautomations.github.io/en/how-it-works/).
+- One milestone per message, in plain words, with no legal jargon.
+- What has happened, what happens next, and a rough idea of the wait, without promising a date you don't control.
+- A clear line saying whether the client needs to do anything.
+- Who to reply to, and a reminder that replies go to a person.
+- Anything advisory is left out: the fee earner calls for that.
+
 ### Message you can copy
 Update when searches are ordered:
 ```
@@ -1826,6 +1845,15 @@ All legal advice and every judgement on the file. The workflow sends pre-approve
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you keep clients updated today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your case management system, email and text messaging, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
+
+### How often should a conveyancer update their client?
+There's no single rule we've verified, so each firm decides. A sensible habit is an update at every milestone, plus a personal check-in when a file hasn't moved for a set number of days.
+
+### Why does conveyancing take so long, and can updates help?
+Searches, mortgage offers, the other side's replies and property chains can all cause waits. Updates don't speed up the file, but they stop the silence that makes clients phone to ask what is happening.
+
+### Can updates be sent by text as well as email?
+Yes, if the client chose text at the start and your messaging provider allows it. Each message is written and approved by your firm in advance. A person always approves anything AI drafts before it goes out.
 
 ### Will clients feel they're getting automated messages?
 The messages are written in your firm's voice and approved by you. Clients still talk to their fee earner about anything that needs a conversation.
@@ -4598,7 +4626,7 @@ A fixed $2,000 one-off per workflow, or $1,500 for the first 3 clients, paid onc
 ## Make.com consultant for small business: what to hire for and what to check
 Source: https://mikeautomations.github.io/en/make-com-consultant/
 
-A Make.com consultant for a small business plans, builds and fixes scenarios in Make, the visual automation tool, so your forms, email, spreadsheets, accounting and booking apps pass work to each other without anyone retyping it. Hire one when a workflow has branches, reshapes data or has to run reliably every day; do it yourself when it's two apps in a straight line. Whoever you hire, the scenarios should live in your own Make organization, with you as the owner.
+A Make.com consultant for a small business plans, builds and fixes scenarios in Make, the visual automation tool, so your apps pass work to each other without retyping. Hire one when a workflow has branches, reshapes data or must run reliably every day. Do simple two-app jobs yourself, and build in your own Make organization.
 
 Looking for a Make.com consultant or a Make expert for your small business? Usually a scenario turned out harder than the videos suggested, one someone else built has stopped, or you know the workflow you want but lack the hours. This page covers the jobs worth paying for, what Make costs, the limits in Make's own documentation, and what to ask anyone before you hire them, including us.
 
@@ -4655,12 +4683,31 @@ Checklist to send any Make.com consultant:
 ### When Make isn't the right tool
 A good consultant will say so. Two or three popular apps in a straight line are often quicker in Zapier; long, high-volume workflows or data that must stay on your own server may suit n8n; and if everything lives in Microsoft 365, Power Automate may already be in your licence. [Zapier vs Make vs n8n](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/) and [n8n cloud vs self-hosted](https://mikeautomations.github.io/en/blog/n8n-cloud-vs-self-hosted-small-business/) set out the trade-offs. If the job is mostly judgement rather than moving data, read about [AI agents for small business](https://mikeautomations.github.io/en/ai-agent-for-small-business/) first.
 
+### How to choose a Make consultant: green and red flags
+If you are unsure what to automate first, read [what to automate first](https://mikeautomations.github.io/en/blog/what-to-automate-first-small-business/). Our [services](https://mikeautomations.github.io/en/services/) page lists what we build, and [how it works](https://mikeautomations.github.io/en/how-it-works/) shows the steps.
+| Green flag | Red flag |
+| --- | --- |
+| Builds in your Make organization and invites themselves | Builds in their own account and "hands over later" |
+| Fixed price and a written definition of working | Open-ended hours with no end point |
+| Talks about error alerts and what happens when a run fails | Only talks about how fast it will be built |
+| Tells you when Zapier or n8n would fit better | Says Make is the answer to everything |
+| Gives you written notes at handover | Your only copy of the logic is in their head |
+
 ### How Mike Automations would do it
 1. A [free 15-minute call](https://mikeautomations.github.io/call/) about the process and the apps you use. Mike Automations is not a Make partner or reseller: Make is recommended only when it fits best, and the plan says why.
 2. Within 48 hours, a written plan with a fixed price and a clear definition of "working". You can sketch it first in the [plan builder](https://mikeautomations.github.io/en/plan/?g=make-com-consultant).
 3. Built in your own Make organization with your app connections, so you own every scenario.
 4. Instant triggers where possible, filters early, error handlers and an alert to a named person when a run fails. Any AI step drafts; a person approves.
 5. Live in 2-3 days, with a written handover. Workflow automation is [$2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). Optional support is $150 a month. Make's subscription is billed to you by Make.
+
+### Is Make.com hard to learn for a small business owner?
+Simple scenarios are manageable with Make's templates. Branches, error handling and reshaping data take longer to learn, which is the point where many owners ask for help.
+
+### Can I hire a Make.com consultant for a one-off fix?
+Yes. A scenario that keeps failing is a common one-off job. Ask them to read the run history, fix the cause, add an alert and write down what they changed.
+
+### What should a Make.com consultant hand over?
+Scenarios in your own organization, a written description of each one, the list of app connections, and how to pause it. Compare it with our handover checklist.
 
 ### What does a Make.com consultant do?
 Plans, builds and fixes scenarios in Make: the automated steps that move information between your forms, email, spreadsheets, accounting and booking apps. A good one also sets up error handling, keeps credit use down and hands over written notes so you're not dependent on them.
@@ -4680,7 +4727,7 @@ It depends on the workflow. Make suits steps with branches and data that needs r
 ## Zapier expert for small business: what to hire for, and what to check first
 Source: https://mikeautomations.github.io/en/zapier-expert-for-small-business/
 
-A Zapier expert for a small business is someone you pay to plan, build and fix Zaps, Zapier's automated workflows, so that your forms, inbox, spreadsheet, CRM and accounts software pass information to each other without retyping. It's worth hiring help when a workflow has several steps, touches money or client data, or keeps breaking; simple two-app Zaps are usually fine to build yourself. Whoever builds it, the Zaps should live in your own Zapier account, with a written list of what each one does.
+A Zapier expert for a small business is someone you pay to plan, build and fix Zaps, the automated workflows that pass information between your apps. Hire one when a workflow has several steps, touches money or client data, or keeps breaking. Simple two-app Zaps are fine to build yourself. Ask for the Zaps to be built in your own Zapier account.
 
 Searching for a Zapier expert or a Zapier consultant for your small business usually means one of three things: you know what you want automated but not how, you've built a few Zaps and they keep failing, or your task bill has crept up and you're not sure why. Below: the jobs worth paying for, what to ask before hiring, what Zapier costs and the limits in its own help docs. It also says plainly what Mike Automations is: one person who builds automations on the tools you already use, not a certified Zapier partner.
 
@@ -4733,6 +4780,17 @@ Ask these whoever you're talking to: a freelancer, an agency or Mike Automations
 - What documentation do I get at the end? Compare it with this [handover checklist](https://mikeautomations.github.io/en/blog/automation-handover-checklist/).
 - If they say "certified" or "partner", check it: Zapier lists its partners in its own Solution Partner Directory.
 
+### How Zapier experts charge, and how to choose one
+Rates vary widely, so compare like with like. Most people charge in one of three ways, and each has a catch. Our own build prices are in [how much business automation costs](https://mikeautomations.github.io/en/blog/business-automation-cost/) and on the [services page](https://mikeautomations.github.io/en/services/).
+- Ask to see a Zap they built, or a short test on your own example, before you commit.
+- Be careful with anyone who wants your logins instead of being invited as a user.
+- A good expert asks what should stay with a person before they ask which Zapier plan you're on.
+| How they charge | Good for | Watch out for |
+| --- | --- | --- |
+| Hourly rate | Small fixes and reviews | The bill grows if the job takes longer than guessed |
+| Fixed price per workflow | A clear job you can describe in a paragraph | Check what counts as "done" and what is left out |
+| Monthly retainer | Ongoing changes and monitoring | What you keep, and who owns the Zaps, if you stop paying |
+
 ### A brief you can send to any Zapier helper
 Copy, fill in the brackets and send:
 ```
@@ -4755,6 +4813,15 @@ To see the steps first, [build your plan](https://mikeautomations.github.io/en/p
 3. The build happens in your own Zapier account and your own apps, so you own everything. On Team you add Michael as a member and remove him afterwards; Professional is a one-user plan, so the written plan sets out how access works without you sharing your password.
 4. Live in 2-3 days, tested with real examples, with written notes on what each Zap does and what to do if one stops.
 5. [Workflow automation is a fixed $2,000 one-off](https://mikeautomations.github.io/en/pricing/), $1,500 for the first 3 clients, and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). Optional support is $150 a month. Your Zapier subscription stays separate and is paid to Zapier.
+
+### What does a Zapier expert do?
+A Zapier expert plans, builds and fixes Zaps, the automated workflows that move information between your apps. They also set up error alerts, keep task use down and leave written notes so you can see what each Zap does.
+
+### How much does a Zapier expert cost?
+It varies a lot by person and by job, so get a fixed price in writing. Mike Automations charges a fixed $2,000 per workflow ($1,500 for the first 3 businesses), paid once it's running and you're happy with it. Your Zapier plan is billed separately by Zapier.
+
+### Do I need a Zapier expert or can I do it myself?
+Build simple two-app Zaps yourself. Get help when a workflow has several steps, handles money or client documents, or keeps failing. A short review before you launch is often enough.
 
 ### Is Mike Automations a certified Zapier partner?
 No. Michael builds automations on the tools a business already uses, Zapier included, but he isn't a Zapier partner and doesn't claim to be. If certification matters to you, Zapier lists its partners in its Solution Partner Directory.
@@ -12274,9 +12341,9 @@ Only if a step genuinely needs reading or writing text, such as sorting enquirie
 A single process with clear steps usually takes days, not weeks. Ours go live in 2-3 days after the written plan is agreed.
 
 ## Zapier vs Make vs n8n: which one suits a small business?
-Source: https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/ (2026-11-10)
+Source: https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/ (2026-11-19)
 
-Zapier vs Make vs n8n, in short: Zapier is the easiest to start with and connects the most apps, but it charges per task, so busy multi-step workflows cost more. Make handles branching workflows on a visual canvas and charges per credit, roughly one per step. n8n charges per workflow run on its cloud plans and can be self-hosted, which suits firms that want data on their own server and have someone technical to look after it.
+Zapier vs Make vs n8n: Zapier is the easiest to learn and has the most app connections, but charges per task. Make suits workflows with many branches and charges per credit, roughly one per step. n8n charges per workflow run on its cloud plans and can be self-hosted, which suits firms with someone technical to look after it.
 
 Zapier vs Make vs n8n is the question most small businesses hit as soon as they decide to automate something. All three connect your apps and move information between them: a form is filled in, a row is added, an email goes out. The differences are how much they ask of you, how they handle complicated workflows, where they run, and above all how they charge.
 This comparison is written for [small service businesses](https://mikeautomations.github.io/en/service-businesses/) with no developer on staff: accountants, trades, clinics, agencies. Prices below were checked on each vendor's own pricing page on 10 November 2026. Prices change often, so check them again before you buy.
@@ -12329,11 +12396,30 @@ At this size, all three cost less than an hour of someone's time each month. The
 3. Does it have many conditions, loops or data to reshape? Make or n8n will be cleaner and usually cheaper per run. If you'd rather hire help, see what to check in a [Make.com consultant](https://mikeautomations.github.io/en/make-com-consultant/) or an [n8n consultant](https://mikeautomations.github.io/en/n8n-consultant/).
 4. Must the data stay on servers you control, or will it run thousands of times a month? n8n, self-hosted or on its cloud, is the usual answer, as long as someone can maintain it.
 
+### Which one for which job: quick picks
+Unsure which process to start with? Read [what to automate first](https://mikeautomations.github.io/en/blog/what-to-automate-first-small-business/). If you want it built for you, see our [services](https://mikeautomations.github.io/en/services/).
+| Your job | Usually pick | Why |
+| --- | --- | --- |
+| Form or booking goes into a spreadsheet and sends an email | Zapier | Short straight line between popular apps |
+| Reminders that change by client type or status | Make | Branches and conditions are easier to see on the canvas |
+| Hundreds of runs a day, or client data that must stay on your server | n8n | Per-run pricing, and you can self-host |
+| You live in Microsoft 365 | Check Power Automate first | See [Power Automate vs Zapier](https://mikeautomations.github.io/en/blog/power-automate-vs-zapier-small-business/) |
+| You have no time to learn any of them | Hire a builder | See [how it works](https://mikeautomations.github.io/en/how-it-works/) |
+
 ### What matters more than the tool
 The tool is rarely what makes an automation reliable. What matters is handling the cases that go wrong: a missing field, a duplicate, an email that bounces, an app that changes its login. Whichever you choose, make sure someone is told when a run fails, and that the workflow lives in your own account, not someone else's, so you're never locked in.
 
 ### Or skip choosing
 If you'd rather not learn any of them, book a [free 15-minute call](https://mikeautomations.github.io/call/). Within 48 hours you get a written plan with a fixed price and a clear definition of "working". The workflow is built on whichever tool fits the process, in your own accounts, and documented. Live in 2-3 days. [Workflow automation is $2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), and you pay once it's running and you're happy with it.
+
+### Is Zapier or Make better for a small business?
+Zapier is quicker to learn and suits straight-line workflows between popular apps. Make suits workflows with many conditions and data to reshape. For a few simple workflows, either will do.
+
+### Is n8n harder to use than Zapier?
+Generally yes, especially if you self-host it, because someone has to install, update, back up and secure it. n8n's cloud plans remove the hosting work.
+
+### Which should I choose if I have never automated anything?
+Start with one small process written down step by step, and try the tool that fits it best. Zapier is usually the gentlest start, and you can rebuild later if you outgrow it.
 
 ### Is n8n free?
 The self-hosted Community Edition has no licence fee for your own internal business use, but you pay for the server and someone's time to run it. n8n's hosted cloud plans start at €20 a month billed yearly (checked 10 November 2026).
@@ -14071,9 +14157,9 @@ Only in tools whose data terms you've checked and approved, with a record of whi
 Usually reminders. Scheduled requests and filing give the biggest time savings with the least risk. AI comes next, for reading documents and drafting replies, with a person approving.
 
 ## How much does business automation cost for a small business?
-Source: https://mikeautomations.github.io/en/blog/business-automation-cost/ (2026-11-10)
+Source: https://mikeautomations.github.io/en/blog/business-automation-cost/ (2026-11-19)
 
-Business automation cost for a small business comes in three parts: a one-off build, a few software subscriptions, and optional support. With Mike Automations, automating one process end to end costs $2,000 one-off ($1,500 for the first 3 clients), [custom systems](https://mikeautomations.github.io/en/blog/custom-software-vs-off-the-shelf-small-business/) start at $5,000, and support is optional at $150 a month. The automation platform underneath usually adds somewhere between nothing and a few tens of dollars a month for a small firm.
+How much does business automation cost? For a small business it has three parts: a one-off build, software subscriptions and optional support. With Mike Automations one process costs $2,000 once ($1,500 for the first 3 clients), and support is optional at $150 a month. The platform underneath often adds little or nothing a month.
 
 Business automation cost is hard to compare, because providers quote in different ways: hourly rates, day rates, monthly retainers, per-workflow prices. This guide splits the cost into its three real parts, shows what drives each one, and gives [our own prices in full](https://mikeautomations.github.io/en/pricing/) so you can compare like with like. If you're still working out what automation could do for you, start with the [guide to small business automation](https://mikeautomations.github.io/en/small-business-automation/).
 Prices for the automation platforms were checked on each vendor's own pricing page on 10 November 2026. They change often, so check them again before you buy.
@@ -14109,6 +14195,23 @@ Prices are in US dollars, invoiced in pounds or euros at the equivalent rate. No
 - Custom system (clients, jobs, documents and tasks in one place): from $5,000, by scope, agreed in writing before any work starts.
 - Optional monthly support: $150 a month, cancel with 30 days' notice. Small fixes in the first 60 days are included.
 
+### Cost by approach: DIY, freelancer, agency or us
+Rates for freelancers and agencies vary a lot, so we don't quote a range for them. What you can compare is where the risk sits. See also [consultant vs freelancer vs DIY](https://mikeautomations.github.io/en/blog/automation-consultant-vs-freelancer-vs-diy/).
+| Approach | How you usually pay | Where the cost hides |
+| --- | --- | --- |
+| DIY | Platform subscription only | Your own time, plus mistakes on live client data |
+| Freelancer | Hourly or per project | Hours overrun, and no one to call when an app changes |
+| Agency | Project fee or monthly retainer | Retainers with no defined deliverables |
+| Mike Automations | Fixed $2,000 per workflow, paid once it's running and you're happy | Platform subscription, paid by you to the vendor |
+
+### What to ask any provider before you get a quote
+Not sure which process to automate first? Read [what to automate first](https://mikeautomations.github.io/en/blog/what-to-automate-first-small-business/), then see our [services](https://mikeautomations.github.io/en/services/).
+- Is the price fixed, and what exactly is included?
+- Which of my software plans need upgrading for the connection to work?
+- Will it be built in my own accounts?
+- When is payment due: before it works, or after?
+- What does support cost, and can I cancel it?
+
 ### How to judge whether it's worth it
 1. Write down the hours the process takes each month, including the reminders and the chasing.
 2. Multiply by what an hour of that person's time is worth to you.
@@ -14124,6 +14227,15 @@ For illustration only, with made-up inputs you should replace with your own: a f
 - Workflows built in the provider's account, not yours: you pay again if you ever leave.
 - "Done" never defined: without a written definition of working, the build can drag on and the bill with it. A [short brief](https://mikeautomations.github.io/en/blog/how-to-brief-an-automation-project/) fixes that before work starts.
 - Paying before it works: ask whether any money is due before the workflow is running.
+
+### Why do automation quotes vary so much?
+Providers quote in different ways: hourly, per workflow or as a monthly retainer, and the scope differs. Ask what is included, what counts as done, and who owns the workflow at the end.
+
+### Is business automation worth it for a very small business?
+It can be, if it removes a repeated job such as chasing documents or payments. Add up the monthly hours the job takes, what those hours are worth, and compare that with the build plus a year of subscriptions.
+
+### What is the cheapest way to start?
+Pick one repeated process, build it on a free or entry plan yourself, or ask for a fixed price for that single process. Don't pay for a large system before one small workflow has proved itself.
 
 ### How much does it cost to automate one process?
 With Mike Automations, $2,000 one-off for one process end to end ($1,500 for the first 3 clients), paid once it's running and you're happy with it. Add a platform subscription, which for a small firm is often free to a few tens of dollars a month.
