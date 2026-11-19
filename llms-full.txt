@@ -942,6 +942,9 @@ A [free 15-minute call](https://mikeautomations.github.io/call/) about how you i
 ### What stays with you
 The client relationship. You approve every message template before anything goes out, you decide when a reminder becomes a phone call, and you agree any payment plan, extension or interest charge yourself. If AI drafts a reply to a client, a person always approves it first.
 
+### Free tools for chasing an overdue invoice
+Need a reminder today, before anything is automated? The free [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes a polite email for how late the invoice is, and the [late payment interest calculator](https://mikeautomations.github.io/en/late-payment-interest-calculator/) works out the statutory interest and fixed compensation a UK business can add. Both run in your browser with no sign-up.
+
 ### Will clients find automated reminders pushy?
 The wording and timing are yours. You can start with a courteous note before the due date and keep later reminders short and polite.
 
@@ -1931,6 +1934,9 @@ The ICO's guidance on direct marketing treats purely administrative or customer 
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you send quotes today and where they go quiet. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your quoting or job software, Google Sheets, and your WhatsApp Business number where it can be connected), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. If AI drafts a reply to a customer, a person always approves it first.
+
+### Free tools for quote follow-ups
+For a one-off follow-up, the free [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes a short WhatsApp or email nudge by how many days have passed, and the [WhatsApp link generator](https://mikeautomations.github.io/en/whatsapp-link-generator/) gives you a WhatsApp chat link and button so customers can message you in one tap.
 
 ### How many times should I chase a quote?
 Three messages over about two weeks is a sensible default for most domestic jobs. After the third, stop. A customer who wants the job will come back, and one who's been chased five times usually won't.
@@ -5657,6 +5663,9 @@ Every judgement about the roof, every price and every decision to take a job on.
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you inspect, quote and chase today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already have: your phone's camera, a form, email, texts or WhatsApp, and your calendar or job software. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your firm first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=roofing-inspection-reports-and-quote-follow-up).
+
+### Free tool: quote follow-up messages
+If you just need the wording for one follow-up, the free [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes it for email or WhatsApp, by how many days it has been since the quote. No sign-up.
 
 ### Do I have to write the report on site?
 No. You take photos and short notes on the roof. The report is built from your template, and you approve it from your phone or the van.
@@ -12508,6 +12517,9 @@ For illustration, these are the jobs where the Platform earns its cost for a ser
 We would start with what you already use: your booking system, CRM, spreadsheet or invoicing tool. We connect WhatsApp through the Platform, keep your app on the same number where that works, write the templates with you and submit them for approval, and route anything that needs a person back to a person. AI only drafts; you approve. You can sketch your own version first in the [plan builder](https://mikeautomations.github.io/en/plan/) or see a [demo](https://mikeautomations.github.io/en/try/).
 It starts with a [free 15-minute call](https://mikeautomations.github.io/call/). Within 48 hours you get a written plan with a fixed price. It's built on the tools you already use, it's live in 2-3 days, and it costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under our [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). Meta's own message charges are paid by you directly to Meta.
 
+### Free tools for WhatsApp Business
+The free [WhatsApp link generator](https://mikeautomations.github.io/en/whatsapp-link-generator/) makes a WhatsApp chat link and website button with a ready message, and the [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes away and greeting messages you can paste into the WhatsApp Business app.
+
 ### Is the WhatsApp Business API free?
 No. Meta's pricing page says it charges per delivered message the business sends, by type (marketing, utility, authentication, service). Since 1 October 2026 each business phone number gets 1,000 free service messages a month, and messages customers send you are not charged.
 
@@ -13933,6 +13945,9 @@ A workflow can send these on schedule for every estimate, stop the moment the cu
 ### How we would set it up for you
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you send estimates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use, so your crew doesn't learn a new system. Live in 2-3 days. [Workflow automation is $2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), and you pay once it's running and you're happy with it.
 
+### Free tools for quotes and follow-ups
+Two free tools go with these templates: the [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) fills in the client, the job and the timing for you, and the [free quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the quote itself as a PDF with labour, materials and VAT.
+
 ### How many times should I follow up on an estimate?
 Two or three times over two to three weeks is enough for most jobs: a check that it arrived, one useful detail, and a polite close-out. Add a phone call for larger jobs. Stop as soon as the customer replies.
 
@@ -14073,6 +14088,9 @@ Critical: Thanks for the feedback, [first name], and I'm sorry the [issue] wasn'
 
 ### How we would set it up for you
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how jobs are closed and invoiced today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your job or accounting software, email and texting, where they allow a connection). Live in 2-3 days. [Workflow automation is $2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), and you pay once it's running and you're happy with it.
+
+### Free tool: your Google review link and QR code
+The free [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) turns your Place ID into a direct link to the review box and a QR code you can print, plus request messages you can copy.
 
 ### Can I offer a discount for a review?
 No. Google's policy bans incentives for reviews. In the UK, reviews that hide an incentive are banned under the DMCC Act 2024, and in the US the FTC's rule bans incentives conditioned on a positive or negative review. Just ask.
@@ -14228,6 +14246,9 @@ For illustration only, with made-up inputs you should replace with your own: a f
 - "Done" never defined: without a written definition of working, the build can drag on and the bill with it. A [short brief](https://mikeautomations.github.io/en/blog/how-to-brief-an-automation-project/) fixes that before work starts.
 - Paying before it works: ask whether any money is due before the workflow is running.
 
+### Free tool: what manual admin costs you now
+Before weighing the cost of automation, it helps to know the cost of doing it by hand. The free [admin time and cost calculator](https://mikeautomations.github.io/en/admin-time-calculator/) adds up the hours your repeated tasks take each week and what they cost a year. It shows the current cost only, not a promised saving.
+
 ### Why do automation quotes vary so much?
 Providers quote in different ways: hourly, per workflow or as a monthly retainer, and the scope differs. Ask what is included, what counts as done, and who owns the workflow at the end.
 
@@ -14328,6 +14349,9 @@ The same routine works for [MTD for Income Tax quarterly updates](https://mikeau
 
 ### How we would build it for you
 It starts with a [free 15-minute call](https://mikeautomations.github.io/call/) about how your VAT chase works today. Within 48 hours you get a written plan with a fixed price. It's built on the tools you already use (Xero, QuickBooks or FreeAgent, your email and cloud storage, where they allow a connection) and is usually live in 2-3 days. [Workflow automation is $2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), and you pay only once it's running and you're happy with it.
+
+### Free tool: UK VAT calculator
+For quick checks while you chase records, the free [UK VAT calculator](https://mikeautomations.github.io/en/uk-vat-calculator/) adds or removes VAT at 20%, 5% or any rate and shows the formula.
 
 ### When is a quarterly VAT return due?
 Usually one calendar month and 7 days after the end of the VAT period, for both the return and the payment. A quarter ending 31 March is due by 7 May. Check the client's online VAT account for their exact dates.
@@ -16628,6 +16652,9 @@ A [free 15-minute call](https://mikeautomations.github.io/call/) about how you q
 ### For illustration
 For illustration: a kitchen fitter sends a quote with a deposit to cover the worktops, which are cut to size. The customer accepts by email on a Monday. The deposit invoice goes out at once, the customer pays on Tuesday, and the fitting dates appear in the calendar with a confirmation sent. Because the quote was accepted by email, the fitter knows the customer could still cancel within 14 days, so the worktops are ordered once the customer has asked in writing for work to start.
 
+### Free tool: a quote with the deposit on it
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds a quote PDF with your terms, so the deposit and when it is due are written down from the start.
+
 ### Is it rude to ask for a deposit?
 No. Put it on the quote with the reason and the refund terms, so it's part of the deal from the start rather than a surprise afterwards.
 
@@ -18070,6 +18097,9 @@ Not every client has every deadline. Tag each client by type once, and the right
 
 ### How we would build it for you
 It starts with a [free 15-minute call](https://mikeautomations.github.io/call/) about which deadlines cause the most chasing in your practice. Within 48 hours you get a written plan with a fixed price. It's built on the tools you already use, such as your practice or accounting software, email and cloud storage, where they allow a connection, and is usually live in 2-3 days. [Workflow automation is $2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), and you pay only once it's running and you're happy with it.
+
+### Free tools for deadlines
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts working days around UK bank holidays for England and Wales, Scotland and Northern Ireland, and the [company deadlines calculator](https://mikeautomations.github.io/en/company-deadlines/) works out accounts, Corporation Tax and confirmation statement dates for a company.
 
 ### When is the 2025-26 Self Assessment deadline?
 The online return and the tax owed are due by 11:59pm on 31 January 2027. Paper returns were due by 31 October 2026. To pay through a tax code, the online return must be in by 30 December 2026.
