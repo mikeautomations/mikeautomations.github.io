@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Updated: 2026-11-17. Facts summary: https://mikeautomations.github.io/llms.txt
+Updated: 2026-11-19. Facts summary: https://mikeautomations.github.io/llms.txt
 
 ## Home: Mike Automations
 Source: https://mikeautomations.github.io/en/
@@ -11513,6 +11513,221 @@ Yes. Any card or certificate with an expiry date can have a row: first aid, plan
 
 ### Does it decide who can go on site?
 No. Your contracts manager and the site's own rules decide that. The workflow shows what's valid, what's due and what's booked.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Corporation Tax payment reminders: every client told what to pay, and by when
+Source: https://mikeautomations.github.io/en/corporation-tax-payment-reminders-for-clients/
+
+Corporation Tax payment reminders work when each client company has its own row: the accounting period end, the payment date, the amount once you've agreed it and the payment reference. For companies with taxable profits up to £1.5 million, the payment is due 9 months and 1 day after the period ends, which is before the return is due. A simple workflow emails each director ahead of the date and lists who hasn't confirmed they've paid.
+
+Self Assessment has one payment date that every client half remembers. Corporation Tax doesn't. Each company pays on its own date, set by its year end, and that date falls before the return has to be filed. So a practice with sixty limited company clients has sixty payment dates spread across the year. The director hears the figure once, in a long email with the accounts attached, and then nothing. A few months later a letter about interest arrives, and they ring you.
+
+### Why Corporation Tax payments get missed
+- Every company has a different date, so there's no busy season to prompt anyone
+- The payment is due before the return, so "we haven't filed yet" feels like "nothing is due yet"
+- The figure went out once, inside the accounts email, months before the date
+- The payment reference changes with each accounting period, and clients reuse last year's
+- The accounts aren't final close to the date, so nobody tells the client anything
+- Nobody at the practice has a list of who has paid
+
+### What each client row keeps
+One row per company and accounting period. The payment date is worked out from the period end, and your team enters the amount and the reference. The rule here is for companies with taxable profits up to £1.5 million. Larger companies normally pay in instalments, and they need their own schedule from you. To work out the dates for a whole client list at once, use the free [company filing deadline calculator](https://mikeautomations.github.io/en/company-deadlines/).
+| Field | Why it matters |
+| --- | --- |
+| Company and director's email | Who gets the reminder |
+| Accounting period end | Sets the payment date |
+| Payment date: 9 months and 1 day after the period end | Sets every reminder |
+| Amount: agreed, estimated or nothing to pay | The client sees a figure you've approved |
+| Payment reference for this period | The payment lands against the right period |
+| Status: not told, told, confirmed paid, no reply | You see who is open at a glance |
+
+### A message you can copy
+Email to the director a few weeks before the payment date (edit the words in brackets):
+```
+Subject: [Company name]: Corporation Tax of [amount] is due by [date]
+
+Hi [first name],
+
+The Corporation Tax for the year ended [period end] is [amount]. HMRC needs to receive it by [date].
+
+Please use this payment reference, which is only for this period: [reference].
+
+HMRC's page on how to pay is here: https://www.gov.uk/pay-corporation-tax. Some payment methods take a few working days, so please don't leave it to the last day.
+
+When you've paid, reply "paid" to this email so we can update our records.
+
+[Your name]
+[Practice name]
+```
+
+### How the workflow runs
+1. Each company goes on the list once, with its period end. The payment date is worked out and shown for you to check.
+2. Two months before the date, your team gets a list of companies with no agreed amount yet, so the accounts can be moved up.
+3. When you enter the amount and the reference, the director gets the email you've approved, a few weeks before the date.
+4. A shorter reminder goes a week before the date to anyone who hasn't replied "paid".
+5. Replies are matched to the row and the status moves to confirmed paid.
+6. Three working days before the date, anyone still open goes on your call list with their phone number.
+
+### What stays with you
+Working out the tax, deciding whether an estimate is safe to send, and every conversation about a client who can't pay on time. The workflow doesn't calculate anything, doesn't log in to HMRC and can't see whether a payment has arrived: "paid" means the client said so. It also doesn't cover companies that pay in instalments. For getting the records in first, see [year-end records from limited companies](https://mikeautomations.github.io/en/limited-company-year-end-records/). For the other date directors forget, see [confirmation statement reminders](https://mikeautomations.github.io/en/confirmation-statement-client-reminders/). If AI drafts a message to a client, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you tell clients what to pay today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your practice software's client list, and your own email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already sends these reminders with the amount and tracks replies, you don't need this, and we'll say so on the call.
+
+### When is Corporation Tax due?
+For a company with taxable profits up to £1.5 million, 9 months and 1 day after the end of its accounting period. That is earlier than the deadline for the Company Tax Return. Larger companies normally pay in instalments.
+
+### What if the accounts aren't finished before the payment date?
+The workflow shows you those companies two months ahead. Whether to send an estimate, and how much, is your decision. Nothing goes to the client until you've entered a figure.
+
+### Can it check that the client really paid?
+No. It records the client's reply. It doesn't connect to HMRC or to the client's bank, so your team still checks the HMRC account where that matters.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Preliminary notice deadline tracking: every new job, before the clock runs out
+Source: https://mikeautomations.github.io/en/preliminary-notice-deadline-tracking-subcontractors/
+
+Preliminary notice deadline tracking works when every new job opens a row on the day it's awarded: the first day on site, the state, the deadline your office enters for that state and the names the notice has to reach. Many states require this notice early in a job to keep lien rights, and the rules differ from state to state. A simple workflow chases the missing job details, counts down the days and files proof of sending.
+
+The notice itself is a short form. The hard part is everything around it. A crew starts on a new job on Monday. The office hears about it on Thursday, from a timesheet. Nobody has the owner's name, the lender or the legal address, and the general contractor's project manager doesn't answer email. The deadline started running on the first day of work, and three weeks later it has passed. Nobody notices until an invoice goes unpaid months later, and by then the lien right may be gone.
+
+### Why preliminary notices go out late
+- The clock starts when work or deliveries start, not when the office hears about the job
+- The notice needs names the subcontractor doesn't have: owner, lender, sometimes the surety
+- Each state has its own deadline, its own name for the notice and its own delivery rules
+- Small jobs get skipped because "we never have trouble with this GC"
+- Proof of mailing sits in someone's truck or inbox
+- Nobody has one list of open jobs with the days left on each
+
+### What each job row keeps
+One row per job. The deadline comes from your state's rules, and it can depend on your role, the type of project and whether other notices were filed on the job. So your office or your attorney enters it, once per state and job type, and the workflow follows it. It never assumes a number of days.
+| Field | Why it matters |
+| --- | --- |
+| Job, address and state | Which rules apply |
+| First day of work or first delivery | The date most deadlines count from |
+| Notice deadline, entered by your office | Sets every reminder |
+| Owner, general contractor, lender and anyone else the notice must reach | The notice can't go without them |
+| How it was sent, the date and the receipt or tracking number | Proof if it's ever questioned |
+| Status: details missing, ready, sent, proof filed, not required | You see what's open at a glance |
+
+### A message you can copy
+Email to the general contractor's project manager on the day a job is awarded (edit the words in brackets):
+```
+Subject: [Job name]: project information request
+
+Hi [first name],
+
+Thanks for the award on [job name]. We send a preliminary notice on every job as standard practice. It isn't a lien and it doesn't mean there's a problem.
+
+To fill it in, could you send:
+1. The property owner's name and mailing address
+2. The construction lender's name and address, if there is one
+3. The legal address or parcel number of the property
+4. The surety's name, if the job is bonded
+
+A reply to this email is fine. We start on [date], so we'd be grateful to have it by [date].
+
+[Your name]
+[Company]
+```
+
+### How the workflow runs
+1. A job is awarded. The estimator fills in a short form and a row opens with the state and the planned start date.
+2. The project manager at the general contractor gets the information request you've approved.
+3. When the crew logs its first day, the row gets the real start date and shows the deadline your office set for that state.
+4. Missing details are chased every two working days. Only what's still missing is asked for.
+5. When the row is complete, the office gets one page with everything the notice needs. A person prepares, checks and sends it.
+6. The receipt or tracking number is filed on the row. Any job inside five days of its deadline with nothing sent goes to the owner of the business each morning.
+
+### What stays with you
+Deciding whether a notice is required, what it must say, who must receive it and how it has to be delivered. Those are legal questions, and the answers differ by state, so they belong with you and your attorney. The workflow doesn't prepare a legal document, doesn't send one on its own and can't tell you a notice was valid or on time. It keeps the dates, the details and the proof in one place. For the payment side of the same jobs, see [lien waiver tracking](https://mikeautomations.github.io/en/lien-waiver-tracking-subcontractors/) and [pay application reminders](https://mikeautomations.github.io/en/subcontractor-pay-application-reminders/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how new jobs reach your office today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, a phone form, shared folders and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If you already use a lien notice service that tracks every job and sends the notices, you don't need this, and we'll say so on the call.
+
+### How many days do I have to send a preliminary notice?
+It depends on the state, and often on your role and the type of project. Some states don't require one at all. The workflow doesn't supply the number. Your office or your attorney enters it, and the reminders follow it.
+
+### Does the workflow send the notice for me?
+No. It gathers what the notice needs and shows the deadline. A person prepares the notice, checks it and sends it the way your state requires.
+
+### Will a general contractor mind being asked?
+Most are used to it. The request says plainly that the notice is standard practice and isn't a lien. You can edit the wording before anything is sent.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Retention release reminders: the money you've already earned, asked for on time
+Source: https://mikeautomations.github.io/en/retention-release-reminders-subcontractors/
+
+Retention release reminders work when every finished job keeps a row: the amount held, the two release dates from the subcontract and who to ask. Retention is commonly released in two parts, the first around practical completion and the rest at the end of the defects period, which can be a year or more later. A simple workflow reminds your office before each date, sends the request you've approved and chases it until it's paid.
+
+Retention is easy to forget because it comes due long after the job has left your head. The work finished in spring. The last part of the retention falls due the following year, when the crew is on other sites, the contracts manager who ran the job has moved on and the main contractor has no reason to remind you. A subcontractor with thirty jobs a year can have a large sum spread across old jobs, and no list that says which of it can be asked for today.
+
+### Why retention goes unclaimed
+- The second release date is a year or more after the work finished
+- The date depends on completion paperwork that the subcontractor never received
+- Each subcontract has its own percentages, dates and conditions
+- The accounts system shows the invoice as part paid, not as retention with a date
+- Nobody is asked for it, so nobody pays it
+- Defects are raised late, and nobody recorded that they were fixed
+
+### What each job row keeps
+One row per job. The amounts and dates come from the subcontract and from the completion paperwork, and your office enters them. Subcontracts differ, so the workflow follows what yours says and never assumes a percentage or a period. If a date isn't known yet, the row says so and asks for it.
+| Field | Why it matters |
+| --- | --- |
+| Job, main contractor and who to ask | Where the request goes |
+| Total retention held | What you're owed across the job |
+| First release: date or event, and amount | Usually tied to completion |
+| Second release: date and amount | Usually the end of the defects period |
+| Completion certificate or email, and any defects raised and closed | The answers to the usual objections |
+| Status: held, due soon, requested, paid, in dispute | You see what's open at a glance |
+
+### A message you can copy
+Email to the main contractor's quantity surveyor when a release falls due (edit the words in brackets):
+```
+Subject: [Job name]: release of retention, [amount]
+
+Hi [first name],
+
+Under our subcontract for [job name], the [first / final] part of the retention falls due on [date]. The amount is [amount] plus VAT where it applies.
+
+Our works were completed on [date]. [All defects notified to us were closed on [date]. / No defects have been notified to us.]
+
+Our application is attached. Could you confirm it's been received and when it will be paid?
+
+Thanks,
+[Your name]
+[Company]
+[Phone]
+```
+
+### How the workflow runs
+1. When a job finishes, the contracts manager fills in a short form: the retention held, the release dates and who to ask. The completion paperwork is filed on the row.
+2. If the completion date isn't confirmed, the main contractor is asked for it, and asked again every two weeks until it's on file.
+3. On the first of each month the office gets a list of every release falling due in the next 60 days, with the amounts.
+4. A person checks the row and approves the request. It goes out with the application attached.
+5. No reply after seven days sends a short follow-up, then puts the job on the call list.
+6. When the payment is matched in your accounts, the row moves to paid. A defect raised late opens a task for the contracts manager, with a date.
+
+### What stays with you
+Reading the subcontract, deciding what is due and when, answering defects and deciding what to do when a main contractor won't pay. The workflow doesn't interpret a contract, and it isn't legal advice. If a release is disputed, the row holds the dates and the paperwork your adviser will ask for. For money owed on ordinary invoices, see [invoice payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/). For proof that the work was finished, see [job sign-off and completion photos](https://mikeautomations.github.io/en/job-sign-off-and-completion-photos/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track retention today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your accounts software, shared folders and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your accounts or contract software already lists every retention with its release date and reminds you, you don't need this, and we'll say so on the call.
+
+### When is retention released?
+When your subcontract says. Commonly the first part is released around practical completion and the rest at the end of the defects period, but the amounts, dates and conditions differ from one subcontract to the next.
+
+### Does the workflow decide what I'm owed?
+No. Your office enters the amounts and dates from the subcontract. The workflow reminds, sends the request you've approved and tracks the reply.
+
+### What about old jobs with retention still held?
+They can be added at the start, one row each, with whatever dates you can find. Jobs with a date already passed show first on the list.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
