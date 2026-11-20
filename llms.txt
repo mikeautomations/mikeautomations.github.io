@@ -235,6 +235,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Generator maintenance reminders](https://mikeautomations.github.io/en/generator-maintenance-reminders/): Generator maintenance reminders for standby generator dealers: every unit's service due date on one list, visits booked and reports sent.
 - [Sales tax filing reminders](https://mikeautomations.github.io/en/sales-tax-filing-reminders-bookkeepers/): Sales tax filing reminders for bookkeepers: every client's states, frequencies and due dates on one list, records chased and returns approved in time.
 - [Grease trap pumping reminders](https://mikeautomations.github.io/en/grease-trap-pumping-reminders/): Grease trap pumping reminders for pumping and plumbing companies: every restaurant's next service on one list, visits confirmed and manifests sent.
+- [Claim denial follow-up](https://mikeautomations.github.io/en/insurance-claim-denial-follow-up-medical-practices/): Claim denial follow-up for small practices: every denied claim on one list with its reason and appeal deadline, worked in order before time runs out.
+- [Statute of limitations tracking](https://mikeautomations.github.io/en/statute-of-limitations-tracking-law-firms/): Statute of limitations tracking for small law firms: every matter's limitation date set by an attorney, checked twice and warned about well before it runs.
+- [Calibration reminders](https://mikeautomations.github.io/en/test-equipment-calibration-reminders/): Calibration reminders for trade and engineering firms: every instrument's due date on one list, sent to the lab in time, with each certificate filed.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

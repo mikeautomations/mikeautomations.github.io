@@ -12394,6 +12394,173 @@ Yes. Grease trap accounts can sit alongside your other jobs, with their own sche
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Claim denial follow-up: every denied claim worked before the deadline
+Source: https://mikeautomations.github.io/en/insurance-claim-denial-follow-up-medical-practices/
+
+Claim denial follow-up works when every denial lands on one list the day it arrives, with the payer, the reason code, the amount and the last date to appeal or resubmit. A simple workflow builds that list from your remittances, sorts it by deadline, gives each claim an owner, and warns you before a window closes, while your biller decides what to correct, appeal or write off.
+
+In a small practice, denials pile up quietly. The remittance comes in, someone means to look at it, and the patient is already back for the next visit. By the time anyone opens the denial, the payer's window to appeal or send a corrected claim may be close to closing. The work itself needs a person who knows billing. What usually breaks is the list: nobody can see which denials are open, why they were denied and how long is left.
+
+### Why denied claims get lost
+- Denials arrive on remittances that nobody opens the same week
+- The reason code is noted on paper or not at all
+- Each payer has its own window, and nobody has them written down
+- Corrected claims go out without anyone checking the filing window
+- Appeals are sent and never followed up
+- Small denials are left to expire instead of being decided on
+
+### What each denial row keeps
+One row per denied claim. Your biller enters each payer's appeal and corrected-claim windows once; the workflow never assumes them. If a payer's window is missing, the row says so and asks for it.
+| Field | Why it matters |
+| --- | --- |
+| Patient account number, date of service, payer | Find the claim fast, without extra patient details on the list |
+| Denial reason code and short note | See patterns, like the same missing modifier |
+| Amount | Work the larger and older claims first |
+| Last date to appeal or resubmit | Set from the payer's window you entered |
+| Owner and next step | Correct, appeal, call the payer, bill the patient or write off |
+| Date sent and payer response | Appeals are followed up, not forgotten |
+
+### How the workflow runs
+1. When a remittance with denials comes in, the workflow adds each denied claim to the list with its reason code and amount.
+2. It works out the last date from the payer's window you entered and gives the claim to its owner.
+3. Each morning the biller sees the list sorted by deadline, with anything due in the next two weeks at the top.
+4. The biller corrects, appeals or decides to write off. The workflow records what was sent and when.
+5. If the payer hasn't answered by your follow-up date, the claim comes back to the top of the list.
+6. Every Monday the practice manager gets a short summary: open denials, the most common reasons and anything close to its deadline.
+
+### What stays with you
+Every billing decision: coding, corrections, appeal letters, what to write off and what to bill the patient. The workflow keeps the list and the dates; it doesn't decide whether a denial is right. Patient data stays in the systems you already use and approve. If AI drafts an appeal letter or a note to a payer, a person reads and approves it before it's sent. For the step before the claim, see [physical therapy prior authorization tracking](https://mikeautomations.github.io/en/physical-therapy-prior-authorization-tracking/) and [dental insurance verification](https://mikeautomations.github.io/en/dental-insurance-verification-before-appointments/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you handle denials today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice management or billing system's exports, a shared sheet and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your billing software or billing company already tracks every denial to its deadline, you don't need this, and we'll say so on the call.
+
+### Does it know each payer's appeal deadline?
+No. Your biller enters each payer's windows once, from the payer's own rules or contract. The workflow then counts from the denial date and warns you before the date.
+
+### Will it write and send appeals for us?
+It can draft a letter from your template, but a person checks and approves every appeal before it goes. Billing decisions stay with your team.
+
+### Does it work with our practice management system?
+Usually, through the reports or exports your system already produces. We confirm on the call what your system can export before quoting.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Statute of limitations tracking: no matter without a checked date
+Source: https://mikeautomations.github.io/en/statute-of-limitations-tracking-law-firms/
+
+Statute of limitations tracking works when every open matter has a limitation date that an attorney set and a second person checked, kept on one list apart from the everyday calendar. A simple workflow refuses to leave a new matter without a date, sends warnings to more than one person as the date gets closer, and stops only when someone records that the case was filed or the date no longer applies.
+
+A missed limitation date can't be fixed later. Most small firms know this, and still the date often lives in one attorney's calendar, typed once at intake, with nobody checking it again. When that attorney is out, a matter changes hands, or a new fact moves the date, the reminder can be wrong or missing. The legal judgment is the attorney's. The tracking around it is clerical, and it's where gaps appear.
+
+### Where limitation dates go wrong
+- A new matter is opened and nobody enters a date
+- The date is entered once and never checked by a second person
+- Reminders go only to one attorney's calendar
+- A matter moves to another attorney and the reminders don't follow
+- New facts change the date, but the old date stays on file
+- Nobody records when the date stops applying, so the list fills with noise
+
+### What each matter row keeps
+One row per potential claim. The attorney sets the date and the reason for it; the workflow never calculates or suggests a limitation period. A row without a checked date is shown as a problem until it has one.
+| Field | Why it matters |
+| --- | --- |
+| Matter, client and responsible attorney | Someone owns the date |
+| Limitation date and the note on how it was set | The reasoning is on file, not in someone's head |
+| Set by, checked by, and when | Every date has a second pair of eyes |
+| Warning dates | Chosen by the firm, sent to more than one person |
+| Status: open, filed, resolved or not pursued | Warnings stop only when someone records why |
+
+### How the workflow runs
+1. When a new matter is opened, the workflow adds a row and asks the responsible attorney for the limitation date and a short note.
+2. Until the date is entered, the matter shows on a daily "no date" list for the attorney and the office manager.
+3. Once a date is entered, a second person you name is asked to check it and mark it checked.
+4. At the warning points your firm chooses, the attorney, the backup and the office manager each get a reminder.
+5. If a matter changes attorney, the warnings move with it, and the new attorney is asked to confirm the date.
+6. Every Monday the partners get one list: dates in the next 90 days, dates not yet checked and matters with no date.
+
+### What stays with you
+Every legal decision: what the limitation period is, when it started, whether anything pauses it, and when to file. The workflow keeps the list and sends the warnings; it doesn't give legal advice or work out dates. It should sit alongside your court docket, not replace it. For court and hearing dates, see [court date reminders](https://mikeautomations.github.io/en/court-date-reminders-law-firms/). For the first step with a new client, see [law firm client intake](https://mikeautomations.github.io/en/law-firm-client-intake/). If AI drafts a reminder or a summary, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how your firm records limitation dates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your case management system, Outlook or Gmail and a shared list), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your case management software already handles limitation dates with a second check and backup warnings, you don't need this, and we'll say so on the call.
+
+### Does it calculate the statute of limitations?
+No. An attorney sets every date and notes how it was set. The workflow only tracks the date, asks for a second check and sends warnings.
+
+### Who gets the warnings?
+The responsible attorney, a backup and whoever else you choose, such as the office manager. Not one person alone.
+
+### We already use Clio or MyCase. Do we need this?
+Maybe not. Many case management tools track these dates. If yours already does the second check and backup warnings, we'll tell you on the call.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Test equipment calibration reminders: no instrument out of date
+Source: https://mikeautomations.github.io/en/test-equipment-calibration-reminders/
+
+Calibration reminders work when every instrument has one row: who has it, its serial number, when it was last calibrated, when it's due and where the certificate is. A simple workflow warns the holder and the office before the due date, plans who sends what to the lab so no van is left without a tester, files the new certificate when it comes back and flags anything overdue.
+
+Testers, gas analysers, torque wrenches and meters spend their lives in vans. The calibration date is on a sticker nobody reads until a customer, an auditor or a scheme assessor asks for the certificate. Then someone finds the instrument is weeks out of date, the certificate is in an old email, and the engineer needs a spare before the next job.
+
+### Why calibration dates slip
+- Due dates live on stickers, not on a list anyone checks
+- Instruments move between engineers and vans
+- Several tools fall due in the same week and nobody plans spares
+- Certificates come back by email and never get filed
+- Nobody notices a tool that went out of date mid-job
+- Lost or broken instruments stay on the list for months
+
+### What each instrument row keeps
+One row per instrument. Your office sets the calibration interval from the maker's guidance, your lab or your own procedures; the workflow never guesses it. A tool with no interval or no certificate on file shows as a problem until someone fills it in.
+| Field | Why it matters |
+| --- | --- |
+| Instrument, make, model and serial number | The right tool goes to the lab |
+| Current holder or van | The reminder reaches whoever has it |
+| Last calibration date and interval | Due date worked out from your own interval |
+| Next due date | Warnings go out ahead of it |
+| Certificate file and lab | Ready when a customer or assessor asks |
+| Status: in use, at lab, spare, retired | Retired tools stop sending reminders |
+
+### A message you can copy
+Message to an engineer before a tool is due (edit the words in brackets):
+```
+Hi [first name], your [instrument] (serial [number]) is due for calibration on [date].
+
+Please drop it at the office by [drop-off date]. A spare [instrument] will be ready for you to take so you can keep working.
+
+Reply if the tool is lost, damaged or with someone else.
+
+[Your name], [company]
+```
+
+### How the workflow runs
+1. Each week the workflow lists instruments due in the next month and who holds them.
+2. The office sees which tools fall due together and plans spares and lab send dates.
+3. Each holder gets a message ahead of the drop-off date. No reply gets a reminder.
+4. When a tool goes to the lab, its status changes to "at lab" so nobody expects it back yet.
+5. When the certificate arrives, it's filed against the instrument and the next due date is set.
+6. Anything past its due date goes on a red list for the office every morning until it's sorted.
+
+### What stays with you
+Calibration intervals, the lab you use, what counts as a pass, and whether a tool can be used. The workflow keeps the list, sends reminders and files certificates; it doesn't judge results or replace your quality procedures. For other kit on a test cycle, see [PAT testing reminders](https://mikeautomations.github.io/en/pat-testing-reminders/) and [LOLER thorough examination reminders](https://mikeautomations.github.io/en/loler-thorough-examination-reminders/). For engineers' own cards and training, see [CSCS and training expiry reminders](https://mikeautomations.github.io/en/cscs-card-and-training-expiry-reminders/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track instruments today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email and text or WhatsApp), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job management software already tracks every instrument and certificate, you don't need this, and we'll say so on the call.
+
+### Who decides how often a tool is calibrated?
+You do, from the maker's guidance, your calibration lab and your own procedures or scheme requirements. The workflow uses the interval you enter.
+
+### Can it keep certificates ready for audits?
+Yes. Each certificate is filed against its instrument, so you can send it to a customer or assessor in a minute.
+
+### Does it work for a firm with only a few instruments?
+Yes, though with a handful of tools a shared calendar may be enough. We'll say so on the call if it is.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
