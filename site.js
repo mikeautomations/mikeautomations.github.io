@@ -34,7 +34,7 @@
   // One page view to Michael's own visits sheet (apps-script/lead-booking.gs): page, referring site, language and
   // phone or desktop. No cookies, nothing stored on the device, nothing personal. Only on the live site.
   try {
-    if (viaScript && location.hostname === "mikeautomations.github.io" && !/bot|crawl|spider|headless|lighthouse/i.test(navigator.userAgent)) {
+    if (viaScript && location.hostname === "mikeautomations.github.io" && !/bot|crawl|spider|headless|lighthouse|inspectiontool|google-|googleother|bingpreview|preview|slurp|facebookexternalhit|embedly|pingdom|uptime|monitor/i.test(navigator.userAgent) && !navigator.webdriver) {
       let from = "";
       try { from = document.referrer ? new URL(document.referrer).hostname : ""; } catch {}
       if (from === location.hostname) from = "(this site)";
