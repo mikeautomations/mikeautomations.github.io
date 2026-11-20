@@ -12753,6 +12753,70 @@ Only if you choose to and the fire department accepts them that way. By default 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Fire sprinkler inspection reminders: every building inspected on time
+Source: https://mikeautomations.github.io/en/fire-sprinkler-inspection-reminders/
+
+Fire sprinkler inspection reminders work when every building has one row per inspection cycle: the system, the contact, what's due and when. A simple workflow confirms each visit with the building contact, tells them about any water flow or alarm testing, sends the inspection report after the visit, turns deficiencies into quote tasks, and flags buildings that are close to overdue.
+
+Inspection contracts are steady work, but they only pay when the visits actually happen. Each building has its own mix of cycles, access needs a facility manager or tenant, and the alarm company may need a call before testing. When the schedule lives in a spreadsheet and reports stay on a tablet, inspections drift, deficiencies go unquoted and the customer hears about it from the fire marshal first.
+
+### Why sprinkler inspections slip
+- Each building has several cycles with different due dates
+- The facility manager or property manager changed
+- Tests need the alarm company or monitoring station told in advance
+- Inspection reports sit on a tablet instead of reaching the owner
+- Deficiencies found on the visit never become a quote
+- Nobody sees which buildings are about to go overdue
+
+### What each building row keeps
+One row per inspection cycle per system. Your office sets the cycles from the contract, the NFPA 25 edition your area uses and anything the AHJ requires; the workflow never sets them. If something is missing, the row says so and the office is asked to fill it in.
+| Field | Why it matters |
+| --- | --- |
+| Building, contact and access notes | The inspector gets in on the day |
+| System type, risers and valves | The right inspector and parts |
+| Cycle and next due date | Set by your office, not assumed |
+| Alarm company or monitoring contact | Testing doesn't trigger a dispatch |
+| Inspection report | Sent to the owner and kept on the account |
+| Deficiencies and quote status | Every one has an owner and a date |
+
+### A message you can copy
+Email to a building contact before a sprinkler inspection (edit the words in brackets):
+```
+Hi [first name], this is [company]. The [cycle] sprinkler inspection at [building] is due by [due date].
+
+We can come on [date], [time window]. Please reply to confirm, or pick another time here: [booking link].
+
+Our inspector will need access to [riser room / valves / fire pump]. We'll contact your monitoring company before any testing, and email the inspection report after the visit.
+
+[Your name], [company], [phone]
+```
+
+### How the workflow runs
+1. Each week the workflow lists inspections due in the coming weeks, grouped by building so one visit covers what's due.
+2. Each building contact gets the message with a proposed time. Confirmed visits go on the inspector's schedule; no reply gets a reminder, then a call task.
+3. Before the visit, the office gets a reminder to notify the monitoring company.
+4. After the visit, the inspector completes the report on a tablet. The workflow emails it to the owner and sets the next due dates.
+5. Each deficiency becomes a quote task for the office, with the inspector's notes and photos attached.
+6. Every Monday you get a list of buildings close to overdue and quotes still waiting for an answer.
+
+### What stays with you
+The inspection, every result and deficiency, the cycles in each contract, anything about NFPA 25 or the local fire code, and every repair. The workflow books visits and sends paperwork; it doesn't decide whether a system passes. For kitchen systems, see [kitchen hood cleaning reminders](https://mikeautomations.github.io/en/kitchen-hood-cleaning-reminders/). For extinguishers, see [fire extinguisher service reminders](https://mikeautomations.github.io/en/fire-extinguisher-service-reminders/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you schedule inspections today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your inspection software, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your inspection software already books every visit and sends every report, you don't need this, and we'll say so on the call.
+
+### Who decides which inspections each building needs?
+Your office, from the contract, the NFPA 25 edition used locally and the AHJ. The workflow only schedules the cycles you enter.
+
+### Can it send reports to the fire marshal?
+Only if you choose to and the AHJ accepts them that way. By default the report goes to the owner, and a copy stays on the account.
+
+### Does it work alongside our inspection software?
+Yes. If your software allows a connection or a regular export, the workflow uses it and only adds the booking, reminders and follow-ups it's missing.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
@@ -20760,6 +20824,11 @@ Source: https://mikeautomations.github.io/he/automation-architects/ (2026-11-12)
 Source: https://mikeautomations.github.io/he/automation-nonprofits/ (2026-11-12)
 
 אוטומציה לעמותה מטפלת לבד בעבודה המשרדית שחוזרת כל חודש: הודעת תודה וקבלה לכל תורם, התראה כשהוראת קבע נכשלת, שיבוץ ותזכורות למתנדבים, ותזכורות לפני מועדי דיווח לקרנות. הכול נשמר ברשימה אחת שכל הצוות רואה. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
+
+### אוטומציה לטכנאי מיזוג: לקוחות שחוזרים כל עונה, בלי לרדוף אחריהם
+Source: https://mikeautomations.github.io/he/automation-hvac-technicians/ (2026-11-20)
+
+אוטומציה לטכנאי מיזוג שולחת לכל לקוח תזכורת לפני מועד הניקוי או הטיפול שקבעתם לו, מאשרת את הביקור בוואטסאפ, מזכירה יום לפני, ושולחת אחרי הביקור סיכום עם התאריך הבא. הצעות מחיר שלא נענו חוזרות אליכם כתזכורת להתקשר. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
 ### אוטומציה לעסקים: מאיפה מתחילים, ומה כדאי שיעבוד לבד
 Source: https://mikeautomations.github.io/he/business-automation/ (2026-11-12)

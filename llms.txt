@@ -241,6 +241,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Fire alarm service reminders](https://mikeautomations.github.io/en/fire-alarm-service-reminders/): Fire alarm service reminders for UK fire alarm companies: every site's next visit on one list, visits booked with the site and certificates sent.
 - [Legionella monitoring reminders](https://mikeautomations.github.io/en/legionella-monitoring-visit-reminders/): Legionella monitoring reminders for UK water hygiene companies: every site's monthly checks and reviews on one list, visits booked and logs sent.
 - [Kitchen hood cleaning reminders](https://mikeautomations.github.io/en/kitchen-hood-cleaning-reminders/): Hood cleaning reminders for kitchen exhaust cleaning companies: each restaurant's next cleaning on one list, night visits confirmed and certificates sent.
+- [Fire sprinkler inspection reminders](https://mikeautomations.github.io/en/fire-sprinkler-inspection-reminders/): Fire sprinkler inspection reminders for sprinkler contractors: every building's next inspection on one list, visits confirmed and reports sent.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
@@ -353,6 +354,7 @@ The Hebrew site serves businesses in Israel, in shekels: יצירת פעולות
 - [אוטומציה לחוגים ומרכזי העשרה](https://mikeautomations.github.io/he/automation-classes-courses/): טופס הרשמה אחד עם פרטי הורה ואישורים, רשימת המתנה שמתעדכנת לבד, תזכורות תשלום והודעות על ביטול שיעור. לחוגים, סדנאות ומרכזי לימוד.
 - [אוטומציה למשרדי אדריכלים](https://mikeautomations.github.io/he/automation-architects/): איסוף מסמכים לפרויקט, אישור לקוח על כל שלב תכנון, מעקב אחרי שלבי שכר טרחה ועדכון ללקוח איפה הפרויקט עומד. למשרדי אדריכלים קטנים.
 - [אוטומציה לעמותות](https://mikeautomations.github.io/he/automation-nonprofits/): תודה וקבלה לתורם שיוצאות לבד, מעקב אחרי הוראות קבע שנכשלו, שיבוץ מתנדבים ותזכורות לדיווחים לקרנות. לעמותות קטנות עם צוות מצומצם.
+- [אוטומציה לטכנאי מיזוג](https://mikeautomations.github.io/he/automation-hvac-technicians/): תזכורת ללקוח לפני ניקוי או טיפול במזגן, אישור ביקור בוואטסאפ, הצעות מחיר שלא נענו ועדכון אחרי הביקור. סביב מה שכבר יש לכם.
 - [אוטומציה לעסקים: המדריך](https://mikeautomations.github.io/he/business-automation/): מדריך לאוטומציה לעסקים קטנים מכל סוג: מה זה, מאיפה מתחילים, מה כדאי שיעבוד לבד, באילו כלים, כמה זה עולה ואיך עושים את זה בלי לבזבז כסף.
 - [כמה עולה אוטומציה לעסק](https://mikeautomations.github.io/he/automation-cost/): תהליך אוטומטי אחד החל מ-5,500 ₪, מערכת ייחודית החל מ-9,000 ₪, ליווי מ-900 ₪ לחודש. מה משפיע על המחיר ומה העלויות אחרי ההקמה.
 - [תזכורות תשלום אוטומטיות ללקוחות](https://mikeautomations.github.io/he/invoice-payment-reminders/): חשבונית יוצאת בזמן, ותזכורת מנומסת נשלחת לבד עד שהתשלום נכנס. עובד עם תוכנת החשבוניות שכבר יש לכם. איך זה בנוי ומה המחיר.
