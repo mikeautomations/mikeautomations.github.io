@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-19.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-20.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
@@ -207,6 +207,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Corporation Tax payment reminders](https://mikeautomations.github.io/en/corporation-tax-payment-reminders-for-clients/): Corporation Tax payment reminders for clients: each company's own due date, the amount and reference in one email, and a list of who hasn't confirmed.
 - [Preliminary notice tracking](https://mikeautomations.github.io/en/preliminary-notice-deadline-tracking-subcontractors/): Preliminary notice deadline tracking for subcontractors: one row per job, the deadline your state sets, job details chased and proof of sending on file.
 - [Retention release reminders](https://mikeautomations.github.io/en/retention-release-reminders-subcontractors/): Retention release reminders for subcontractors: one row per job, both release dates from the subcontract, and the request sent when each one falls due.
+- [IRS notice tracking](https://mikeautomations.github.io/en/irs-notice-tracking-tax-practices/): IRS notice tracking for small tax practices: one list of every client letter, the response date from the notice, and reminders before it passes.
+- [Bid invitation tracking](https://mikeautomations.github.io/en/bid-invitation-tracking-subcontractors/): Bid invitation tracking for subcontractors: every invitation to bid on one list, due dates and addenda kept current, and follow-ups after you submit.
+- [Emergency lighting test reminders](https://mikeautomations.github.io/en/emergency-lighting-test-reminders/): Emergency lighting test reminders for electrical and fire safety firms: every site's annual test booked on time, and monthly test logs asked for.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

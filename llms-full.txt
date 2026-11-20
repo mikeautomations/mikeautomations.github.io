@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Updated: 2026-11-19. Facts summary: https://mikeautomations.github.io/llms.txt
+Updated: 2026-11-20. Facts summary: https://mikeautomations.github.io/llms.txt
 
 ## Home: Mike Automations
 Source: https://mikeautomations.github.io/en/
@@ -11831,6 +11831,224 @@ No. Your office enters the amounts and dates from the subcontract. The workflow 
 
 ### What about old jobs with retention still held?
 They can be added at the start, one row each, with whatever dates you can find. Jobs with a date already passed show first on the list.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## IRS notice tracking: every client letter on one list, with its response date
+Source: https://mikeautomations.github.io/en/irs-notice-tracking-tax-practices/
+
+IRS notice tracking works when every letter a client forwards becomes one row: the client, the notice number, the date on the notice, the response date printed on it and who owns it. Response periods differ by notice type, so the preparer enters the date from the letter itself. A simple workflow collects the letters, reminds the owner before the date, asks the client for anything missing and keeps proof of what was sent.
+
+Client notices arrive the worst possible way: a photo in a text, a scan attached to an email about something else, an envelope dropped at the front desk. Each one has its own response date, and some come with a matching state letter. In a small practice the notices live in three inboxes and one person's memory. Nobody notices a letter has been forgotten until a second, sharper letter arrives.
+
+### Why notices slip
+- Clients send letters by text, email, upload or in person
+- The response date is on page one, and nobody copies it anywhere
+- The letter sits with whoever happened to receive it
+- A state notice on the same issue is tracked separately, or not at all
+- Documents needed from the client take longer than expected
+- Proof of the response is in a sent folder, not on the client file
+
+### What each notice row keeps
+One row per notice. A person reads the letter and fills in the dates; the workflow never guesses a deadline. If the response date can't be read, the row says so and stays at the top of the list until someone checks.
+| Field | Why it matters |
+| --- | --- |
+| Client and tax year | Which return the letter is about |
+| Notice number and date on the notice | What kind of letter it is |
+| Response date and any payment date, from the letter | Kept separately, since they can differ |
+| Matching state notice, if any | So both are answered |
+| Owner and documents needed from the client | Who acts and what they're waiting for |
+| Status and proof of response | Open, waiting on client, sent, closed |
+
+### A message you can copy
+Email to a client after their notice is logged (edit the words in brackets):
+```
+Subject: Your IRS letter dated [date]: next steps
+
+Hi [first name],
+
+Thanks for sending the IRS letter dated [date]. We've logged it and [preparer name] is looking after it.
+
+To respond, we need:
+- [document 1]
+- [document 2]
+
+Please upload them here: [secure upload link]. We'd like them by [date] so we can reply before the date on the letter.
+
+Please don't pay or reply to the IRS yourself until we've spoken. If you get another letter about this, send it to us straight away.
+
+Thanks,
+[Your name]
+[Firm]
+```
+
+### How the workflow runs
+1. Clients send letters to one address or upload link. Each upload opens a row and files the letter on the client's record.
+2. A preparer reads the notice and enters the notice number, the dates and what's needed. Until then the row is flagged as unread.
+3. The client gets the approved message with the list of documents and a secure upload link.
+4. Missing documents are chased every few days, and the owner is told when the client hasn't replied.
+5. Each morning the team sees every open notice sorted by response date, with the ones in the next 14 days at the top.
+6. When the response is sent, the proof is filed on the row and a follow-up date is set to check for the IRS reply.
+
+### What stays with you
+Reading each notice, deciding whether to agree, pay or dispute, preparing the response and every conversation about tax. The workflow tracks dates and documents; it isn't tax advice. Using client tax information in any tool needs the right care, so see [Section 7216 consent before automation or AI](https://mikeautomations.github.io/en/blog/section-7216-consent-before-automation-or-ai/). For returns that bounce back from e-file, see [e-file rejection follow-up](https://mikeautomations.github.io/en/e-file-rejection-client-follow-up/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how notices reach you today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software or a spreadsheet, your portal or shared folders, and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already logs every notice with its response date and reminds the owner, you don't need this, and we'll say so on the call.
+
+### Does the workflow read the notice and set the deadline?
+No. A preparer reads the letter and enters the dates printed on it. Response periods differ by notice type, so the workflow never guesses one.
+
+### What about state notices?
+A state letter gets its own row, linked to the federal one when they're about the same issue, so both have a date and an owner.
+
+### Can clients just text a photo of the letter?
+They can, but the workflow asks them to use one upload link or address, so every letter lands in the same place and opens a row.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Bid invitation tracking: every invitation to bid, one list, no missed due dates
+Source: https://mikeautomations.github.io/en/bid-invitation-tracking-subcontractors/
+
+Bid invitation tracking works when every invitation to bid becomes one row: the project, the general contractor, the due date, the job walk, the estimator and a bid or no-bid decision. A simple workflow pulls invitations out of email into that list, updates the row when an addendum moves the date, reminds the estimator before each deadline and follows up with the GC after you submit.
+
+A busy subcontractor can get invitations to bid from a dozen general contractors in a week, through email, bid boards and phone calls. Some are worth pricing and most aren't. The ones that matter get buried under the ones that don't, an addendum moves a due date without anyone noticing, and a bid that went out two weeks ago never gets a follow-up call. The estimator is good at pricing work, not at reading forty invitation emails a week.
+
+### Why bids get missed
+- Invitations come from many GCs, each in its own format
+- A due date changes by addendum and the spreadsheet isn't updated
+- Nobody decides bid or no-bid, so invitations just sit
+- Job walks and pre-bid meetings aren't in the diary
+- Two estimators price the same project for different GCs without knowing
+- Nobody asks the GC what happened after the bid went in
+
+### What each bid row keeps
+One row per project per general contractor. The workflow fills in what it can read from the invitation, and the estimator checks it. Anything it can't read, like a due time, is left blank and flagged rather than guessed.
+| Field | Why it matters |
+| --- | --- |
+| Project, location and general contractor | The same project can come from several GCs |
+| Bid due date and time, and any addenda | The date you actually work to |
+| Job walk or pre-bid meeting | Goes straight into the diary |
+| Bid or no-bid, with a reason | So the list only holds work you're pricing |
+| Estimator and status | Pricing, submitted, follow-up, won, lost |
+| Bid amount and follow-up date | What was sent and when to ask |
+
+### A message you can copy
+Follow-up email to the GC's estimator after a bid is submitted (edit the words in brackets):
+```
+Subject: [Project name]: our [trade] bid submitted [date]
+
+Hi [first name],
+
+We submitted our [trade] bid for [project name] on [date]. Our number was [amount], based on [drawings / addenda up to number X].
+
+Have you had a chance to level the bids yet? If you need anything clarified or a scope question answered, I can turn it around today.
+
+If the job has been awarded, I'd be grateful to know the outcome either way so we can keep our records straight.
+
+Thanks,
+[Your name]
+[Company]
+[Phone]
+```
+
+### How the workflow runs
+1. Invitations sent to your bids address open a row with the project, the GC and the dates the workflow could read. The estimator checks each new row.
+2. Each morning the estimator gets the new invitations to mark bid or no-bid. No-bid rows get a short, polite reply to the GC if you want one.
+3. Job walks and due dates go into the shared calendar. When an addendum changes a date, the row and the calendar are updated and the estimator is told.
+4. Three days and one day before each due date, the estimator gets a reminder with anything still missing, like supplier quotes.
+5. When the bid is marked submitted, a follow-up is scheduled. The approved email goes out after a set number of days with no reply, then the row goes on the call list.
+6. Won and lost results are recorded, so you can see which GCs actually award you work.
+
+### What stays with you
+Deciding what to bid, the takeoff and pricing, scope questions and every conversation with the GC. The workflow keeps the list and the dates; it doesn't price anything. For following up quotes sent to owners and homeowners, see [estimate follow-up email templates](https://mikeautomations.github.io/en/blog/estimate-follow-up-email-templates-contractors/). Once the job is won, see [subcontractor pay application reminders](https://mikeautomations.github.io/en/subcontractor-pay-application-reminders/). If AI drafts a message or reads an invitation, a person checks it before anything is sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how invitations reach you today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (email, a spreadsheet, a shared calendar and your drawings folder), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your bid board software already does all of this for every GC you work with, you don't need this, and we'll say so on the call.
+
+### Does this replace a bid board?
+No. It works with the email invitations you already get, including ones from bid boards. If one bid board already holds every invitation and reminds you, you may not need it.
+
+### Does the workflow decide what to bid?
+No. The estimator marks every invitation bid or no-bid. The workflow only keeps the list, the dates and the follow-ups.
+
+### What if the same project comes from several GCs?
+Each GC gets its own row, and the rows are grouped under the project, so you price once and send to each.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Emergency lighting test reminders: every site's annual test booked before it's due
+Source: https://mikeautomations.github.io/en/emergency-lighting-test-reminders/
+
+Emergency lighting test reminders work when every site you look after has one row: the contact, the date of the last annual full-duration test and when the next one is due. A simple workflow messages the site before that date with visit options, books the visit, sends the certificate and fault list afterwards and, if you offer it, reminds the site's own staff to do and log their short monthly test.
+
+Emergency lighting is the job nobody at the site thinks about until an insurer or a fire risk assessor asks for the log. The annual test needs the full rated duration, so it has to be planned around the building being open, which makes it easy to put off. For the electrical or fire safety firm that does the testing, the due dates sit in old certificates and the engineer's memory, and the work goes to whoever the site manager rings first.
+
+### Why tests get missed
+- Due dates are only written on last year's certificate
+- The site contact has changed since the last visit
+- The annual test needs the building out of hours or quiet, so it gets postponed
+- Monthly tests are the site's job, and nobody reminds them
+- Faults found on the day never turn into a quote
+- The certificate is emailed once and lost
+
+### What each site row keeps
+One row per site. Your engineer's results come from the test record; the workflow never fills them in. If a date or contact is unknown, the row says so and the office is asked to fill it in.
+| Field | Why it matters |
+| --- | --- |
+| Site, address and current contact | Who to ask and where to go |
+| Last annual test date and next due | Drives every reminder |
+| Access times and how long the visit takes | Booked when the building can be tested |
+| Faults found and quote status | So repairs don't stall |
+| Monthly test reminders: yes or no | Only for sites that asked for them |
+| Certificate and test record | Sent to the site and kept on file |
+
+### A message you can copy
+Email to the site contact before the annual test is due (edit the words in brackets):
+```
+Subject: [Site name]: annual emergency lighting test due [month]
+
+Hi [first name],
+
+Your annual emergency lighting test at [site name] is due by [date]. The test runs the lights for their full rated duration, so the visit takes about [time] and works best [out of hours / at a quiet time].
+
+We can come on:
+- [date and time option 1]
+- [date and time option 2]
+
+Reply with the one that suits, or pick a time here: [booking link]. If someone else looks after the building now, could you let us know who?
+
+Thanks,
+[Your name]
+[Company]
+[Phone]
+```
+
+### How the workflow runs
+1. Six weeks before the annual test is due, the site contact gets the approved email with visit options or a booking link.
+2. No reply after a week sends a short reminder. No reply after two puts the site on the office call list.
+3. A booked visit goes into the engineer's diary with the access notes, and the site is reminded the day before.
+4. After the visit, your engineer completes the test record. The certificate and any fault list go to the site, and the next due date is set.
+5. Faults open a task to quote. Quotes with no reply are followed up after a week.
+6. For sites that asked, the person responsible gets a short reminder each month to do and log their monthly test.
+
+### What stays with you
+The testing, every pass or fail, the certificate, repairs and any advice on what a building needs. The workflow books visits and sends paperwork; it doesn't certify anything and isn't fire safety advice. For the extinguishers on the same sites, see [fire extinguisher service reminders](https://mikeautomations.github.io/en/fire-extinguisher-service-reminders/). For electrical remedials after an inspection, see [EICR remedial work follow-up](https://mikeautomations.github.io/en/eicr-remedial-work-follow-up-electricians/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track test dates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your job software, a shared calendar and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job management software already reminds every site and books the visit, you don't need this, and we'll say so on the call.
+
+### Does the workflow do the monthly test for the site?
+No. It can remind the site's own responsible person each month and ask them to log it. The test itself is done by a person at the site.
+
+### Who sets the due dates?
+Your office enters each site's last annual test date from the certificate. The workflow works out the reminders from that date.
+
+### Can it handle sites with self-testing systems?
+Yes. Those rows can skip the monthly reminder and keep only what your contract with the site covers.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
