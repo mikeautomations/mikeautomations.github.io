@@ -238,6 +238,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Claim denial follow-up](https://mikeautomations.github.io/en/insurance-claim-denial-follow-up-medical-practices/): Claim denial follow-up for small practices: every denied claim on one list with its reason and appeal deadline, worked in order before time runs out.
 - [Statute of limitations tracking](https://mikeautomations.github.io/en/statute-of-limitations-tracking-law-firms/): Statute of limitations tracking for small law firms: every matter's limitation date set by an attorney, checked twice and warned about well before it runs.
 - [Calibration reminders](https://mikeautomations.github.io/en/test-equipment-calibration-reminders/): Calibration reminders for trade and engineering firms: every instrument's due date on one list, sent to the lab in time, with each certificate filed.
+- [Fire alarm service reminders](https://mikeautomations.github.io/en/fire-alarm-service-reminders/): Fire alarm service reminders for UK fire alarm companies: every site's next visit on one list, visits booked with the site and certificates sent.
+- [Legionella monitoring reminders](https://mikeautomations.github.io/en/legionella-monitoring-visit-reminders/): Legionella monitoring reminders for UK water hygiene companies: every site's monthly checks and reviews on one list, visits booked and logs sent.
+- [Kitchen hood cleaning reminders](https://mikeautomations.github.io/en/kitchen-hood-cleaning-reminders/): Hood cleaning reminders for kitchen exhaust cleaning companies: each restaurant's next cleaning on one list, night visits confirmed and certificates sent.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

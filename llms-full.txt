@@ -12561,6 +12561,198 @@ Yes, though with a handful of tools a shared calendar may be enough. We'll say s
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Fire alarm service reminders: every site visited before it's due
+Source: https://mikeautomations.github.io/en/fire-alarm-service-reminders/
+
+Fire alarm service reminders work when every system has one row: the site, the contact, the panel, the service interval in the contract and the next due date. A simple workflow asks the site contact to confirm a visit before the due date, puts it in the engineer's diary, sends the inspection and servicing certificate after the visit, and flags sites that are close to overdue or that never replied.
+
+Fire alarm maintenance contracts are repeat work, but each visit still has to be booked with someone on site who can let the engineer in and warn the building. When the schedule lives in a spreadsheet one person updates, visits drift past the due date, certificates sit in the van, and customers only call when their insurer or the council asks for paperwork.
+
+### Why fire alarm service visits slip
+- Next due dates live in one person's spreadsheet or memory
+- The site contact has changed and nobody updated the record
+- Visits need access, a quiet time and a warning to occupants, so they take several calls to book
+- Certificates are written on site but never reach the customer
+- Customers can't find the last certificate when an insurer, fire officer or council asks
+- Faults found on a visit never turn into a quote
+
+### What each system row keeps
+One row per system. Your office sets the interval from the contract and the current standard; the Fire Industry Association's guidance is that service visits under BS 5839-1 shouldn't be more than six months apart, but the workflow never decides that for you. If a detail is missing, the row says so and the office is asked to fill it in.
+| Field | Why it matters |
+| --- | --- |
+| Site, contact and access notes | The engineer gets in and the building is warned |
+| Panel make, zones and system category | The right engineer and parts on the day |
+| Contract interval and next due date | Set by your office, never assumed |
+| Last visit date and engineer notes | History in one place |
+| Inspection and servicing certificate | Sent to the customer for their fire log book |
+| Faults found and quote status | Nothing found on site is forgotten |
+
+### A message you can copy
+Email or text to a site contact before a fire alarm service (edit the words in brackets):
+```
+Hi [first name], this is [company]. The fire alarm at [site] is due its service by [due date].
+
+We can come on [date 1] or [date 2], [time window]. Please reply with the one that suits, or pick a time here: [booking link].
+
+Our engineer will need access to the panel and will test the system, so please let the building know the alarm may sound. We'll email your certificate after the visit for your fire log book.
+
+[Your name], [company], [phone]
+```
+
+### How the workflow runs
+1. Each week the workflow lists systems due in the coming weeks and sends each site contact the message with dates or a booking link.
+2. Replies and bookings go into the engineers' diary. Sites that don't reply get one reminder, then go on the office call list.
+3. The day before the visit, the site gets a reminder about access and the alarm sounding.
+4. After the visit, the engineer completes the certificate on a phone or tablet. The workflow emails it to the customer and sets the next due date.
+5. If the engineer found a fault, the office gets a task to quote, with the engineer's notes attached.
+6. Every Monday you get a list of systems that are close to overdue or past their due date, so you can call those first.
+
+### What stays with you
+The servicing itself, every pass, fail and fault, the interval in each contract, and any advice about the standard or the building's fire risk assessment. Weekly call point tests stay with the customer, as they always have. The workflow books visits and sends paperwork; it doesn't decide what a system needs. For extinguishers on the same sites, see [fire extinguisher service reminders](https://mikeautomations.github.io/en/fire-extinguisher-service-reminders/). For emergency lights, see [emergency lighting test reminders](https://mikeautomations.github.io/en/emergency-lighting-test-reminders/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about where your service dates live today and where visits get lost. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your job software where it allows a connection, a spreadsheet, email and text), so there's no new system for the office to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already books every visit and sends every certificate, you don't need this, and we'll say so on the call.
+
+### Who decides how often each system is serviced?
+Your office, from the contract and the current standard. The workflow only sends reminders based on the interval you enter for each system.
+
+### Does it replace the customer's weekly alarm tests?
+No. Weekly call point tests stay with the customer. If you want, the workflow can send customers a simple weekly reminder, but that's optional.
+
+### Can it handle sites with several systems or buildings?
+Yes. Each system gets its own row and due date, and the site contact can book them in one visit.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Legionella monitoring reminders: every check done and every log sent
+Source: https://mikeautomations.github.io/en/legionella-monitoring-visit-reminders/
+
+Legionella monitoring reminders work when every site has one row per task: monthly temperature checks, less frequent tank or calorifier checks, and the risk assessment review date, each with its own next due date taken from the site's written scheme. A simple workflow books each visit with the site, reminds the technician, sends the monitoring log to the client afterwards, and flags out-of-range readings and overdue tasks to the office.
+
+Water hygiene work is a calendar of small, repeating jobs across many sites. Monthly checks are easy to book once, then slip when a school is closed, a caretaker leaves or a technician is off sick. Logs get written up late, and clients only notice when an auditor or insurer asks for twelve months of records and three are missing.
+
+### Why monitoring visits get missed
+- Different tasks on the same site have different due dates
+- Site access depends on a caretaker or manager who changes
+- Schools, offices and holiday lets are closed on the planned day
+- Logs are written up days after the visit, or not sent at all
+- Out-of-range readings are noted but nobody follows them up
+- Risk assessment review dates are tracked nowhere
+
+### What each site row keeps
+One row per task per site. Your office takes the tasks and intervals from the site's risk assessment and written scheme; the workflow never sets them. If something is missing, the row says so and the office is asked to fill it in.
+| Field | Why it matters |
+| --- | --- |
+| Site, contact and access times | The technician gets in on the day |
+| Task (temperatures, tanks, calorifiers, flushing, review) | Each one on its own schedule |
+| Interval and next due date | Taken from the written scheme, not assumed |
+| Last visit and readings | History in one place for audits |
+| Monitoring log or report | Sent to the client after each visit |
+| Out-of-range readings and actions | Every one has an owner and a date |
+
+### A message you can copy
+Email or text to a site contact before a monitoring visit (edit the words in brackets):
+```
+Hi [first name], this is [company]. Your water hygiene checks at [site] are due by [due date].
+
+Our technician can come on [date], [time window]. Please reply to confirm, or pick another time here: [booking link].
+
+They'll need access to [plant room / tank room / outlets]. We'll email the monitoring log after the visit for your records.
+
+[Your name], [company], [phone]
+```
+
+### How the workflow runs
+1. Each week the workflow lists every task due in the coming weeks, grouped by site, so one visit covers everything due.
+2. Each site contact gets the message with a proposed time. Replies go into the technician's diary; no reply gets one reminder, then a call task.
+3. The technician gets the day's route with access notes and the tasks due at each site.
+4. After the visit, the technician records readings on a phone. The workflow emails the log to the client and sets the next due dates.
+5. If a reading is outside the range in the written scheme, the office gets a task straight away to decide what happens next.
+6. Every Monday you get a list of overdue tasks and risk assessment reviews coming up, so nothing quietly lapses.
+
+### What stays with you
+The risk assessment, the written scheme, every reading and what it means, and every remedial action. The workflow books visits and sends logs; it doesn't judge whether water is safe. Always follow the current HSE guidance and each client's scheme. For other repeat visits with reports, see [pest control contract visits and reports](https://mikeautomations.github.io/en/pest-control-contract-visits-and-reports/). For landlord certificates, see [compliance certificate reminders for letting agents](https://mikeautomations.github.io/en/letting-agent-compliance-certificate-reminders/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you schedule monitoring today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your job software, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your water hygiene software already books every visit and sends every log, you don't need this, and we'll say so on the call.
+
+### Who decides which checks each site needs?
+You do, from the site's risk assessment and written scheme. The workflow only schedules the tasks and intervals you enter.
+
+### Can it warn us about bad readings?
+It can flag any reading outside the range you've set for that outlet or plant item, and give the office a task. What to do about it stays with you.
+
+### Does it work for landlords' portfolios as well as schools?
+Yes. Each property is a site with its own tasks and contact, whether it's a school, an office or a block of flats.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Kitchen hood cleaning reminders: every restaurant cleaned on schedule
+Source: https://mikeautomations.github.io/en/kitchen-hood-cleaning-reminders/
+
+Kitchen hood cleaning reminders work when every account has one row: the site, the hood and duct system, the cleaning frequency your company set for that kitchen, and the next due date. A simple workflow confirms each after-hours visit with the restaurant, reminds the manager the day before, emails the cleaning certificate and photos after the crew leaves, and flags accounts that are overdue or where the crew couldn't get in.
+
+Hood cleaning is night work at restaurants that are busy all day. Every visit needs a manager to agree a date, leave the kitchen ready and let the crew in after closing. When schedules live in a whiteboard or a dispatcher's memory, accounts drift past their due date, crews show up to locked doors, and restaurants only call when the fire marshal asks for the last certificate.
+
+### Why hood cleaning visits slip
+- Next due dates sit on a whiteboard or in one person's head
+- Each kitchen has a different frequency, so nothing lines up
+- The crew arrives after closing and nobody is there to open up
+- The kitchen manager changed and the new one wasn't told
+- Certificates and before-and-after photos never reach the owner
+- Damaged fans or access panels found on the job never get quoted
+
+### What each account row keeps
+One row per hood system. Your office sets the frequency from the type and volume of cooking, NFPA 96 and the local fire code; the workflow never guesses it. If a detail is missing, the row says so and the office is asked to fill it in.
+| Field | Why it matters |
+| --- | --- |
+| Site, manager and after-hours access | The crew gets in when the kitchen closes |
+| Hoods, ducts, fans and access panels | The right crew and equipment on the night |
+| Cleaning frequency and next due date | Set by your office, not assumed |
+| Last cleaning date and crew notes | History in one place |
+| Certificate and photos | Sent to the owner for the fire marshal and insurer |
+| Repairs found and quote status | Nothing found on the roof is forgotten |
+
+### A message you can copy
+Text or email to a restaurant before a scheduled hood cleaning (edit the words in brackets):
+```
+Hi [first name], this is [company]. Your kitchen exhaust cleaning at [site] is booked for the night of [date], starting around [time] after you close.
+
+Please have the cooking equipment off and cooled, and let us know who will let our crew in. If that night doesn't work, reply with a better one or use this link: [booking link].
+
+We'll email your cleaning certificate and photos after the job.
+
+[Your name], [company], [phone]
+```
+
+### How the workflow runs
+1. Each week the workflow lists accounts due in the next few weeks and builds a draft schedule for your dispatcher to check.
+2. Once the dispatcher approves, each restaurant gets the confirmation with the date, start time and what to have ready.
+3. Requests for another night go to the dispatcher. No reply gets a reminder, and the day before the manager is asked who will open up.
+4. After the job, the crew lead uploads photos and completes the certificate on a phone. The workflow emails both to the owner and sets the next due date.
+5. If the crew couldn't get in or found a repair, the office gets a task to rebook or quote.
+6. Every Monday you get a list of accounts that are overdue, so you can call them first.
+
+### What stays with you
+The cleaning itself, the frequency for each kitchen, anything about the fire code, the suppression system and every repair. The workflow books jobs and sends paperwork; it doesn't decide what a kitchen needs. Always follow NFPA 96 and the local fire marshal. For the same idea with grease traps, see [grease trap pumping reminders](https://mikeautomations.github.io/en/grease-trap-pumping-reminders/). For extinguishers, see [fire extinguisher service reminders](https://mikeautomations.github.io/en/fire-extinguisher-service-reminders/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you schedule hood cleaning accounts today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your field service software, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your software already confirms every job and sends every certificate, you don't need this, and we'll say so on the call.
+
+### Who sets how often each kitchen is cleaned?
+Your office, from the type and volume of cooking, NFPA 96 and the local fire code. The workflow sends reminders based on the frequency you enter.
+
+### Can it remind restaurants about their suppression system service too?
+If you service suppression systems, they can sit on the same account with their own due date. If someone else does, the workflow can simply leave them out.
+
+### Can it send certificates to the fire marshal?
+Only if you choose to and the fire department accepts them that way. By default the certificate goes to the owner, and a copy stays on the account.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
