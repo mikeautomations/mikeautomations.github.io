@@ -52,6 +52,26 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Break-Even Calculator: Units, Revenue and Margin](https://mikeautomations.github.io/en/break-even-calculator/): Free break-even calculator. Enter fixed costs, price and variable cost to see the jobs you need each month, break-even revenue and contribution margin.
 - [Percentage and Discount Calculator](https://mikeautomations.github.io/en/percentage-calculator/): Free percentage calculator. Find X% of Y, what percent one number is of another, percentage change, a price after a discount or the price before it.
 
+## Free tools in Hebrew (for Israeli businesses, ₪ and 18% VAT)
+- [All Hebrew tools](https://mikeautomations.github.io/he/tools/): כלים חינמיים לעסקים קטנים ועצמאים: חשבון עסקה והצעת מחיר, תזכורת תשלום, מחשבון מע"מ, תעריף לשעה, קישור לוואטסאפ וביקורת בגוגל. בלי הרשמה.
+- [מחולל חשבוניות חינם: חשבון עסקה וקבלה ב-PDF](https://mikeautomations.github.io/he/invoice-generator/): מחולל חינם לחשבון עסקה, הצעת מחיר וקבלה בעברית, עם מע"מ וסכום כולל, ושמירה כ-PDF. בלי הרשמה. הכלי אינו מנפיק חשבונית מס.
+- [מחולל הצעות מחיר חינם לבעלי מקצוע, עם PDF](https://mikeautomations.github.io/he/quote-generator/): מחולל חינם להצעות מחיר בעברית: עבודה וחומרים, הנחה, מע"מ, תוקף ההצעה ותנאים. מורידים כ-PDF, בלי הרשמה, ושום דבר לא נשלח לשרת.
+- [מחולל הודעות תזכורת תשלום ללקוח: מייל ווואטסאפ](https://mikeautomations.github.io/he/payment-reminder-generator/): כותב הודעת תזכורת מנומסת ללקוח שלא שילם, במייל או בוואטסאפ, בטון ידידותי, תקיף או כהודעה אחרונה. בעברית פשוטה, חינם ובלי הרשמה.
+- [מחשבון מע"מ: הוספה והפחתה של 18% מע"מ](https://mikeautomations.github.io/he/vat-calculator/): מחשבון מע"מ חינמי: מוסיפים או מורידים מע"מ, 18% כברירת מחדל והשיעור ניתן לשינוי. רואים סכום לפני מע"מ, המע"מ והסכום הכולל, בשקלים.
+- [מחשבון חיוב לחודש עבודה חלקי לעצמאי](https://mikeautomations.github.io/he/partial-month-billing-calculator/): עבדתם רק חלק מהחודש? מחשבון חינמי לעצמאים: מזינים תשלום חודשי או תעריף ליום, ימי עבודה בחודש וימים שעבדתם, ומקבלים את הסכום לחיוב עם החישוב המלא ואפשרות להוסיף מע"מ.
+- [מחשבון תעריף לשעה: כמה לגבות לשעת עבודה](https://mikeautomations.github.io/he/hourly-rate-calculator/): מחשבון תעריף לשעה חינמי לעצמאים ולעסקים קטנים: הזינו שכר רצוי, הוצאות ושעות לחיוב וקבלו תעריף מינימלי לשעה וליום, עם הפרשה למס ומע"מ.
+- [מחשבון רווח גולמי ותמחור: מרווח מול תוספת](https://mikeautomations.github.io/he/profit-margin-calculator/): מחשבון רווח גולמי ותמחור חינמי: הזינו עלות ומחיר, או עלות והרווח הגולמי או התוספת שאתם רוצים, וקבלו את המחיר ואת שני האחוזים, גם עם מע"מ.
+- [קישור לביקורת בגוגל + קוד QR: מחולל חינם](https://mikeautomations.github.io/he/google-review-link/): כלי חינם: מדביקים Place ID של העסק בגוגל ומקבלים קישור ישיר לכתיבת ביקורת וקוד QR להדפסה, עם הודעות בקשה בעברית להעתקה.
+- [יצירת קישור לוואטסאפ עם הודעה מוכנה: כלי חינם](https://mikeautomations.github.io/he/whatsapp-link/): כלי חינם ליצירת קישור wa.me וכפתור וואטסאפ לאתר. מקלידים מספר ישראלי (052...), והקידומת 972 מתווספת לבד. הכול בדפדפן.
+- [הודעות מענה אוטומטי לעסק: וואטסאפ, מייל ואתר](https://mikeautomations.github.io/he/auto-reply-messages/): מחולל חינם להודעות מענה אוטומטי בעברית: מחוץ לשעות הפעילות, חגים וחופשות, פנייה חדשה ותקופה עמוסה. לוואטסאפ עסקי, מייל וטופס באתר.
+- [מחולל חתימה למייל בעברית, חינם](https://mikeautomations.github.io/he/email-signature-generator/): מחולל חתימה למייל בעברית חינם: מלאו פרטים, בחרו עיצוב וצבע, ראו תצוגה מקדימה והעתיקו ל-Gmail או Outlook. החתימה מוצגת נכון מימין לשמאל.
+- [מחשבון זמן אדמיניסטרציה: כמה עולה לכם עבודה ידנית](https://mikeautomations.github.io/he/admin-time-calculator/): מחשבון חינמי: מרשימים משימות חוזרות, מוסיפים ערך לשעה ורואים כמה שעות וכמה כסף הן לוקחות בשבוע, בחודש ובשנה. בלי הרשמה.
+- [מחולל הודעת מעקב להצעת מחיר: וואטסאפ ומייל](https://mikeautomations.github.io/he/quote-follow-up-generator/): כותב הודעת מעקב ללקוח שלא ענה להצעת המחיר, בוואטסאפ או במייל, בטון ידידותי או ישיר. בעברית פשוטה, חינם ובלי הרשמה.
+- [מחשבון ימי עבודה: ספירה והוספה, עם חגי ישראל](https://mikeautomations.github.io/he/working-days-calculator/): מחשבון ימי עבודה חינמי: סופרים ימי עבודה בין שני תאריכים או מוסיפים ימי עבודה לתאריך, בלי שישי-שבת וחגי ישראל 2025 עד 2027.
+- [מכתב העלאת מחירים ללקוחות: מחולל חינם](https://mikeautomations.github.io/he/price-increase-letter/): מחולל חינם למכתב העלאת מחירים ללקוחות: מייל מנומס עם שורת נושא וגרסה קצרה לוואטסאפ. אחוז העלייה מחושב לבד, והניסוח ניטרלי מבחינת מגדר.
+- [מחשבון נקודת איזון: כמה עבודות צריך בחודש](https://mikeautomations.github.io/he/break-even-calculator/): מחשבון נקודת איזון חינמי: מזינים הוצאות קבועות, מחיר ועלות משתנה ורואים כמה עבודות צריך בחודש, הכנסה לאיזון ורווח תרומה, בשקלים.
+- [מחשבון אחוזים והנחות](https://mikeautomations.github.io/he/percentage-calculator/): מחשבון אחוזים והנחות חינמי: אחוז ממספר, איזה אחוז מספר אחד הוא מהשני, שינוי באחוזים, מחיר אחרי הנחה והמחיר לפני ההנחה.
+
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
 - [Accountants (UK)](https://mikeautomations.github.io/en/accountants/): Stop chasing clients for Self Assessment, VAT and year-end records. Personal checklists, reminders and a daily list of who owes what. Live in 2-3 days.
