@@ -233,6 +233,8 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [K-1 tracking for tax preparers](https://mikeautomations.github.io/en/k1-tracking-tax-preparers/): K-1 tracking for tax practices: one list of every expected K-1 by client and issuer, clients asked to forward them, and extensions flagged early.
 - [Remortgage reminders for brokers](https://mikeautomations.github.io/en/remortgage-reminders-mortgage-brokers/): Remortgage reminders for UK mortgage brokers: every client's deal end date on one list, and a review booked before the lender writes to them.
 - [Generator maintenance reminders](https://mikeautomations.github.io/en/generator-maintenance-reminders/): Generator maintenance reminders for standby generator dealers: every unit's service due date on one list, visits booked and reports sent.
+- [Sales tax filing reminders](https://mikeautomations.github.io/en/sales-tax-filing-reminders-bookkeepers/): Sales tax filing reminders for bookkeepers: every client's states, frequencies and due dates on one list, records chased and returns approved in time.
+- [Grease trap pumping reminders](https://mikeautomations.github.io/en/grease-trap-pumping-reminders/): Grease trap pumping reminders for pumping and plumbing companies: every restaurant's next service on one list, visits confirmed and manifests sent.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

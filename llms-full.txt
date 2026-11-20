@@ -12260,6 +12260,140 @@ Yes. Commercial sites can have more than one visit a year; each visit is set fro
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Sales tax filing reminders: every client's state returns on one list
+Source: https://mikeautomations.github.io/en/sales-tax-filing-reminders-bookkeepers/
+
+Sales tax filing reminders work when every client has one row per state they file in: the filing frequency the state assigned, the due date for each period, and whether the records are in, the return is approved and the payment is made. A simple workflow asks the client for anything missing before the period closes, reminds your team as the due date gets close, and flags any return that isn't approved in time.
+
+For a bookkeeper with a handful of clients selling in more than one state, sales tax isn't hard so much as scattered. One client files monthly in one state and quarterly in another, a state changes a client's frequency after a busy year, and due dates fall on different days. The calendar lives in someone's head or a sticky note, and a missed return means penalties the client will ask you about.
+
+### Why sales tax returns slip
+- Each client has different states, frequencies and due dates
+- A state changes a client's filing frequency and nobody updates the calendar
+- The client hasn't sent sales from a marketplace or a second payment system
+- Exempt sales are missing their certificates
+- The return is ready but the client hasn't approved the payment
+- Your software shows what's due but doesn't chase anyone
+
+### What each client row keeps
+One row per client per state. Your team sets the frequency and due dates from the state's notice or online account; the workflow never guesses them. When a state sends a new frequency, the row is updated before the next period starts.
+| Field | Why it matters |
+| --- | --- |
+| Client and state | One return per row |
+| Filing frequency and due date for each period | Taken from the state's notice, not assumed |
+| Where sales come from (store, marketplace, card processor) | So nothing is left out of the return |
+| Records received: yes or no | Drives the client reminder |
+| Prepared, approved and paid | Shows exactly where each return is stuck |
+| Confirmation number and filing date | Proof the return went in on time |
+
+### A message you can copy
+Email to a client when a sales tax period closes (edit the words in brackets):
+```
+Hi [first name],
+
+Your [state] sales tax return for [period] is due by [due date]. To prepare it we still need:
+
+- [missing item, e.g. marketplace sales report for October]
+- [missing item, e.g. exemption certificate for a tax-exempt sale]
+
+Please upload them here by [date]: [upload link]
+
+Once the return is ready we'll send it to you to approve before anything is filed or paid.
+
+Thanks,
+[Your name], [firm]
+```
+
+### How the workflow runs
+1. When a period closes, the workflow checks each client's row and emails the client the approved request for anything missing.
+2. No reply after a few days sends a short reminder. Still nothing, and the client goes on your team's call list.
+3. As records arrive they're filed in the client's folder and the row is marked received.
+4. Your team prepares the return. The workflow sends the client a summary to approve, with the amount and due date.
+5. Once approved, the return goes on your filing list. After filing, your team adds the confirmation number.
+6. Every Monday you get one list of returns due in the next two weeks that aren't yet approved.
+
+### What stays with you
+Whether a client needs to register in a state, which sales are taxable, the return itself and the payment. The workflow tracks dates and chases paperwork; it doesn't give tax advice or file anything without a person approving it. Always confirm due dates and frequencies with each state. For the same idea with income tax, see [quarterly estimated tax payment reminders](https://mikeautomations.github.io/en/quarterly-estimated-tax-payment-reminders/). For monthly records in general, see [bookkeeper document collection](https://mikeautomations.github.io/en/bookkeeper-document-collection/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track sales tax returns today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (QuickBooks or Xero, a spreadsheet, email and a shared folder), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If a sales tax service already files every return for your clients and you only need the records, we'll say so on the call.
+
+### Does it know every state's due dates?
+No. Your team enters each client's frequency and due dates from the state's notice or online account. The workflow uses what you enter and reminds you to check it when a state changes a client's frequency.
+
+### Does it file the returns?
+No. Your team or your sales tax software prepares and files. The workflow chases the records, gets the client's approval and keeps the confirmation on the row.
+
+### Can clients approve by text?
+Yes, if they prefer. The approval request can go by email or text, and the reply is saved on the client's row.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Grease trap pumping reminders: every restaurant serviced on schedule
+Source: https://mikeautomations.github.io/en/grease-trap-pumping-reminders/
+
+Grease trap pumping reminders work when every account has one row: the site, the trap or interceptor, how often it's serviced and when the next visit is due. A simple workflow confirms each visit with the restaurant ahead of time, puts it on the route, sends the service record or manifest after the truck leaves, and flags accounts that are overdue or that the driver couldn't reach.
+
+Restaurants don't think about the grease trap until it backs up or an inspector asks for the records. For the pumping company, every account is a repeat visit that has to happen on time, at an hour the kitchen can take it, with paperwork the customer can find later. When schedules live in a dispatcher's head and service records sit in the truck, visits slip and customers call in a panic.
+
+### Why grease trap visits slip
+- Service schedules live in a dispatcher's head or an old spreadsheet
+- The kitchen manager changes and nobody knows the truck is coming
+- The driver arrives during service and can't get to the trap
+- Service records stay in the truck instead of reaching the customer
+- Customers can't find their records when an inspector asks
+- Repairs the driver spots never get quoted
+
+### What each account row keeps
+One row per trap or interceptor. Your office sets the interval from the customer's permit, local requirements and what the driver sees; the workflow never guesses it. If a detail is missing, the row says so and the office is asked to fill it in.
+| Field | Why it matters |
+| --- | --- |
+| Site, contact and best access times | The truck arrives when the kitchen can take it |
+| Trap or interceptor type, size and location | The right truck and hose on the day |
+| Service interval and next due date | Set by your office, not assumed |
+| Last service date and driver notes | History in one place |
+| Service record or manifest | Sent to the customer for their inspection file |
+| Repairs found and quote status | Nothing found on site is forgotten |
+
+### A message you can copy
+Text or email to a restaurant before a scheduled pump-out (edit the words in brackets):
+```
+Hi [first name], this is [company]. Your grease trap at [site] is booked for service on [date] between [time window].
+
+Please make sure our driver can reach the trap. If that time doesn't work, reply with a better one or use this link: [booking link].
+
+We'll email your service record after the visit so you have it for inspections.
+
+[Your name], [company], [phone]
+```
+
+### How the workflow runs
+1. Each week the workflow lists accounts due in the next two weeks and builds a draft route for your dispatcher to check.
+2. Once the dispatcher approves, each site gets the confirmation text or email with the time window.
+3. Replies asking for a different time go to the dispatcher. No reply gets a reminder the day before.
+4. After the visit, the driver completes the service record on a phone. The workflow emails it to the customer and sets the next due date.
+5. If the driver couldn't reach the trap or found a problem, the office gets a task to rebook or quote.
+6. Every Monday you get a list of accounts that are overdue, so you can call them first.
+
+### What stays with you
+The service itself, the interval for each site, anything about local rules or permits, and every repair. The workflow books visits and sends paperwork; it doesn't decide what a trap needs. Always follow the customer's permit and local requirements. For the same idea with homeowners, see [septic pumping reminders](https://mikeautomations.github.io/en/septic-pumping-reminders/). For regular contract visits with reports, see [pest control contract visits and reports](https://mikeautomations.github.io/en/pest-control-contract-visits-and-reports/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you schedule grease trap accounts today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your field service software, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your pumping software already confirms every visit and sends every record, you don't need this, and we'll say so on the call.
+
+### Who sets how often each trap is pumped?
+Your office, from the customer's permit, local requirements and what your drivers see. The workflow sends reminders based on the interval you enter.
+
+### Can it send records to the city or water authority?
+Only if you choose to and the authority accepts them that way. By default the record goes to the customer, and a copy stays on the account.
+
+### Does it work for plumbers who also clean grease traps?
+Yes. Grease trap accounts can sit alongside your other jobs, with their own schedule and records.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
