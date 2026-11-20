@@ -12053,6 +12053,213 @@ Yes. Those rows can skip the monthly reminder and keep only what your contract w
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## K-1 tracking for tax preparers: know which returns are waiting on which K-1
+Source: https://mikeautomations.github.io/en/k1-tracking-tax-preparers/
+
+K-1 tracking works when every expected Schedule K-1 has its own row: the client, the partnership, S corporation or trust that issues it, whether it arrived last year and when, and whether it's in this year. A simple workflow builds the list from last year's returns, asks clients to forward each K-1 as it arrives, files what comes in and shows you, well before the deadline, which returns are still waiting so you can decide on an extension early.
+
+A return with three K-1s can't be finished until the last one lands, and the client often doesn't know which ones they're due. K-1s from partnerships and investment funds tend to arrive late, and later still when the issuer extends its own return. In most practices the list of what's outstanding lives in the preparer's head or a note on the client file, so the gaps show up in April.
+
+### Why K-1s fall through
+- Nobody listed which K-1s each client should expect
+- The client gets the K-1 by email or on a portal and forgets to forward it
+- A new investment this year means a K-1 nobody knew about
+- An issuer extends, and the client isn't told
+- Returns sit at "waiting on K-1" with no date to follow up
+- Extension decisions are made in the last week
+
+### What each K-1 row keeps
+One row per client per issuer. The workflow fills the list from last year's returns and the client's answers; your staff check it. If a date isn't known, the row says so.
+| Field | Why it matters |
+| --- | --- |
+| Client and return | Which return is blocked |
+| Issuer name and type | Partnership, S corporation, trust or estate |
+| When it arrived last year | A guide to when to start asking |
+| Status: expected, received or not needed | One clear answer per row |
+| Issuer's expected date, if the client knows it | So late K-1s are planned for |
+| Extension flag and who decided | Kept with the return, not in someone's head |
+
+### A message you can copy
+Email to a client with K-1s still outstanding (edit the words in brackets):
+```
+Subject: Your [year] return: K-1s we're still waiting for
+
+Hi [first name],
+
+Thanks for the documents so far. We've received [K-1s received]. We're still waiting for K-1s from:
+- [issuer 1]
+- [issuer 2]
+
+These usually come by email or through the investment's online portal. When one arrives, please forward it or upload it here: [upload link].
+
+If you've sold an investment, or have a new one this year, just reply and let us know.
+
+Thanks,
+[Your name]
+[Practice name]
+```
+
+### How the workflow runs
+1. Before the season starts, the list of expected K-1s is built from each client's prior-year return and checked by your staff.
+2. Your organizer or first email asks the client to confirm the list and add any new investments.
+3. Every K-1 that comes in is filed with the return and its row marked received.
+4. Clients with K-1s still missing get the approved email on a set schedule, naming each issuer.
+5. Each week you get a short list of returns still waiting, with any expected dates the client gave.
+6. Before your cut-off date, returns still waiting are flagged for an extension decision. You decide.
+
+### What stays with you
+Reading every K-1, preparing the return and deciding whether to file an extension. The workflow keeps the list and sends the reminders; it doesn't give tax advice. For other clients who still haven't sent anything, see [e-file rejection follow-up](https://mikeautomations.github.io/en/e-file-rejection-client-follow-up/) and [tax return approval chasing](https://mikeautomations.github.io/en/tax-return-approval-chasing/). If AI drafts a message or reads a document, a person checks and approves it before anything is sent or entered.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track K-1s today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software or a spreadsheet, your client portal and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already tracks K-1s by issuer and reminds clients, you don't need this, and we'll say so on the call.
+
+### Where does the list of expected K-1s come from?
+From each client's prior-year return, checked by your staff, plus anything the client adds when they confirm the list.
+
+### Can it read the K-1 and enter the numbers?
+It can file the K-1 and, if you want, draft a summary for a person to check. Your preparer still reviews every K-1 before anything goes into the return.
+
+### Does it decide when to extend?
+No. It shows which returns are still waiting and flags them before your cut-off. The decision stays with you.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Remortgage reminders for mortgage brokers: every client contacted before their deal ends
+Source: https://mikeautomations.github.io/en/remortgage-reminders-mortgage-brokers/
+
+Remortgage reminders work when every client you've placed has one row with their lender, product and the date their deal ends. A simple workflow contacts each client at the point you choose, months before that date, with a link to book a review, chases clients who don't reply, and puts anyone still silent on your call list, so the lender's own letter isn't the first thing they hear.
+
+The fixed rate you arranged ends on a date that's already in your file. Lenders write to their customers before a deal ends, and many let them switch online in a few clicks. If the client hears from the lender first, they may take the product transfer without ever talking to you. Most brokers mean to call every client in time, but the dates sit in the CRM, case notes or a spreadsheet nobody checks every week.
+
+### Why clients don't come back
+- Deal end dates are on file but nobody gets a list each week
+- The lender's letter arrives before the broker's call
+- The client has moved, changed email or changed number
+- One message goes out and nobody follows up
+- Buy-to-let and second charge clients are missed because they're on a different list
+- Protection reviews that should go with the remortgage are forgotten
+
+### What each client row keeps
+One row per mortgage. The workflow reads the dates from your records; it doesn't guess. If a date is missing, the row says so and your office is asked to fill it in.
+| Field | Why it matters |
+| --- | --- |
+| Client, contact details and adviser | Who to contact and who owns the review |
+| Lender, product and deal end date | Drives every reminder |
+| When you want first contact | Your choice, set per broker or per case type |
+| Review booked: yes or no | So silence is noticed |
+| Outcome: new deal, product transfer, elsewhere or declined | So the list stays honest |
+| Protection review due | Asked at the same time, if you offer it |
+
+### A message you can copy
+Email to a client before their deal ends (edit the words in brackets):
+```
+Subject: Your mortgage deal ends in [month]
+
+Hi [first name],
+
+The [product, e.g. 5-year fixed rate] we arranged with [lender] ends on [date]. When it ends, you'll usually move to the lender's standard rate unless you choose a new deal.
+
+It's worth a quick review now so you have time to compare options. You can book a call here: [booking link], or reply with a time that suits.
+
+If anything has changed, like your income, the property or your plans, just let me know before we speak.
+
+Thanks,
+[Your name]
+[Firm name]
+[Phone]
+```
+
+### How the workflow runs
+1. Each week, the workflow finds clients whose deal ends within the window you've set.
+2. Each client gets the approved email (and a text, if you use them) with a link to book a review.
+3. No booking after a week sends a short reminder. No booking after two puts the client on the adviser's call list.
+4. A booked review goes into the adviser's diary, with the client's file and current deal attached.
+5. After the review, the adviser records the outcome. The next deal end date is set when the new case completes.
+6. Clients who decline are marked and not chased again for this deal.
+
+### What stays with you
+All advice: the review, the recommendation, suitability and every conversation with the client. The workflow only sends approved messages and keeps the list; it never recommends a product. For collecting payslips and statements once a client is ready, see [mortgage broker document collection](https://mikeautomations.github.io/en/mortgage-broker-document-collection/). For the same idea with policies, see [insurance broker renewal reminders](https://mikeautomations.github.io/en/insurance-broker-renewal-reminders/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you keep track of deal end dates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your CRM or a spreadsheet, your calendar and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your CRM already contacts every client on time and follows up, you don't need this, and we'll say so on the call.
+
+### How early does it contact clients?
+When you choose. You set the window, for example by deal type or lender, and can change it at any time.
+
+### Does it recommend products or rates?
+No. It only sends messages you've approved and books reviews. All advice stays with your advisers.
+
+### Can it work from our existing CRM?
+Usually, yes, if the CRM can export or share deal end dates. If it can't, a spreadsheet kept up to date with each completion works too.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Generator maintenance reminders: every customer's service booked before it's due
+Source: https://mikeautomations.github.io/en/generator-maintenance-reminders/
+
+Generator maintenance reminders work when every unit you've installed or serviced has one row: the customer, the model, the date of the last service and when the next one is due. A simple workflow messages the customer before that date with a link to book, puts the visit on the schedule, sends the service report afterwards and offers a quote for any parts or repairs your technician found.
+
+A standby generator sits outside for months doing nothing, so owners forget it needs service until the power goes out. For the dealer or electrician who installed it, every unit is a yearly visit that's easy to lose: the due dates are on old invoices, the owner may have sold the house, and in storm season everyone calls at once.
+
+### Why service visits get missed
+- Due dates live on old invoices or in the technician's memory
+- Customers only call when the unit fails or a storm is forecast
+- The house has been sold and the new owner isn't on file
+- Monitoring alerts go to the owner and stop there
+- Repairs found on the visit never get quoted
+- Nobody can show the service history when a warranty question comes up
+
+### What each unit row keeps
+One row per generator. Results come from your technician's report; the workflow never fills them in. If a date or model is unknown, the row says so and your office is asked to fill it in.
+| Field | Why it matters |
+| --- | --- |
+| Customer, address and phone | Who to contact and where to go |
+| Make, model and serial number | The right parts on the truck |
+| Install date and last service date | Drives the next reminder |
+| Next due date, from the manufacturer's schedule | Set by your office, not guessed |
+| Service plan: yes or no | Plan customers get booked first |
+| Report, parts used and repairs quoted | History in one place for warranty questions |
+
+### A message you can copy
+Text or email to a customer before their generator service is due (edit the words in brackets):
+```
+Hi [first name], this is [company]. Your [make] generator at [address] is due for its yearly service by [date]. The visit takes about [time] and you don't need to be home if we can reach the unit.
+
+Book a time here: [booking link], or reply with a day that suits.
+
+If you've moved, let us know so we can contact the new owner.
+
+[Your name], [company], [phone]
+```
+
+### How the workflow runs
+1. Six weeks before a unit is due, the customer gets the approved text or email with a booking link.
+2. No booking after a week sends a short reminder. No booking after two puts the customer on the office call list.
+3. Booked visits go onto the technician's schedule with the model and service history, and the customer is reminded the day before.
+4. After the visit, your technician completes the report. The workflow sends it to the customer and sets the next due date.
+5. Repairs or parts your technician recommends open a quote task. Quotes with no reply are followed up after a week.
+6. Before storm season, you get a list of units that are overdue so you can call those customers first.
+
+### What stays with you
+The service itself, every finding, repairs and anything about warranty or safety. The workflow books visits and sends paperwork; it doesn't decide what a unit needs. Always follow the manufacturer's maintenance schedule. For the same idea with heating and cooling contracts, see [HVAC maintenance agreement renewals](https://mikeautomations.github.io/en/hvac-maintenance-agreement-renewals/). For the quotes that follow a visit, see [WhatsApp quote follow-up for tradespeople](https://mikeautomations.github.io/en/whatsapp-quote-follow-up-tradespeople/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track service dates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your field service software, a shared calendar, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your field service software already reminds every customer and books the visit, you don't need this, and we'll say so on the call.
+
+### Who sets the service interval?
+Your office, from the manufacturer's schedule for each model. The workflow sends reminders based on the date you enter.
+
+### Can it use alerts from the generator's monitoring app?
+Sometimes. If the customer forwards alerts to you, or your system can share them, an alert can open a task for your office. That depends on the brand and the customer's settings.
+
+### Does it work for commercial units too?
+Yes. Commercial sites can have more than one visit a year; each visit is set from your contract with the site.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 

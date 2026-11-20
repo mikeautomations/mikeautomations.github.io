@@ -210,6 +210,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [IRS notice tracking](https://mikeautomations.github.io/en/irs-notice-tracking-tax-practices/): IRS notice tracking for small tax practices: one list of every client letter, the response date from the notice, and reminders before it passes.
 - [Bid invitation tracking](https://mikeautomations.github.io/en/bid-invitation-tracking-subcontractors/): Bid invitation tracking for subcontractors: every invitation to bid on one list, due dates and addenda kept current, and follow-ups after you submit.
 - [Emergency lighting test reminders](https://mikeautomations.github.io/en/emergency-lighting-test-reminders/): Emergency lighting test reminders for electrical and fire safety firms: every site's annual test booked on time, and monthly test logs asked for.
+- [K-1 tracking for tax preparers](https://mikeautomations.github.io/en/k1-tracking-tax-preparers/): K-1 tracking for tax practices: one list of every expected K-1 by client and issuer, clients asked to forward them, and extensions flagged early.
+- [Remortgage reminders for brokers](https://mikeautomations.github.io/en/remortgage-reminders-mortgage-brokers/): Remortgage reminders for UK mortgage brokers: every client's deal end date on one list, and a review booked before the lender writes to them.
+- [Generator maintenance reminders](https://mikeautomations.github.io/en/generator-maintenance-reminders/): Generator maintenance reminders for standby generator dealers: every unit's service due date on one list, visits booked and reports sent.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
