@@ -14,6 +14,23 @@
   const endpoint = "https://script.google.com/macros/s/AKfycbwh8GhUq0JYhJmF-F_FXLD4jeKJQtCeXOL7AOQG6fAf1lKcs7pZz_xwYFyf3d_V5RJY/exec";
   const accessKey = "";
   const viaScript = true;
+  // "Get new free tools by email" (src/app/landing/tool-skin.ts): the address goes to Michael's own sheet via his script.
+  document.querySelectorAll("form[data-subscribe]").forEach((f) => f.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const email = f.elements.email, status = f.querySelector(".tool-sub-status"), btn = f.querySelector("button");
+    if (!email.checkValidity()) { email.reportValidity(); return; }
+    if (f.elements.website && f.elements.website.value) return;
+    btn.disabled = true;
+    let ok = false;
+    try {
+      const r = await fetch(endpoint, { method: "POST", headers: { "Content-Type": "text/plain;charset=utf-8" }, body: JSON.stringify({ kind: "subscribe", email: email.value.trim(), page: location.pathname, lang }) });
+      const j = await r.json().catch(() => ({}));
+      ok = j.ok === true;
+    } catch {}
+    btn.disabled = false;
+    status.textContent = ok ? f.dataset.ok : f.dataset.err;
+    if (ok) email.value = "";
+  }));
   // One page view to Michael's own visits sheet (apps-script/lead-booking.gs): page, referring site, language and
   // phone or desktop. No cookies, nothing stored on the device, nothing personal. Only on the live site.
   try {
