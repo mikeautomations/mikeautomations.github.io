@@ -22392,6 +22392,146 @@ Usually on the home page, or the contact page if your address is there. One bloc
 ### Do I still need a Google Business Profile?
 Yes. For Google Search and Maps it's the main source for your hours and location. Schema on your website supports it; it doesn't replace it.
 
+## Why your text message costs 2 or 3 SMS, and how to keep it to one
+Source: https://mikeautomations.github.io/en/blog/why-sms-splits-into-multiple-messages/ (2026-11-21)
+
+A standard SMS holds 160 characters from the basic GSM alphabet; longer messages are split into parts of 153. If a message contains even one character outside that alphabet, such as an emoji or a curly apostrophe (’), the whole message switches to Unicode, where each part holds only 70 characters (67 when split). Most providers bill each part as one SMS.
+
+You write a friendly appointment reminder, it looks about two lines long, and your SMS provider bills it as three messages. Multiply that by every customer, every week, and the bill is two or three times what you expected.
+The cause is almost always one of two things: the message is just over a limit, or a single character has switched it to the more expensive format. Here's how SMS length really works, the characters that cause trouble, and how to keep reminders to one message.
+
+### The two formats: GSM and Unicode
+Split messages need a few characters in each part to tell the phone how to put them back together, which is why the per-part numbers are lower. A few GSM characters, such as € [ ] { } and ~, count as two.
+| Format | One SMS | Each part when split | Used when |
+| --- | --- | --- | --- |
+| GSM-7 (standard) | 160 characters | 153 characters | Every character is in the basic GSM alphabet |
+| Unicode (UCS-2) | 70 characters | 67 characters | Any character is outside it: emoji, curly quotes, many accents, Hebrew, Arabic... |
+
+### The characters that quietly double the cost
+If your reminder template was written in Word, Google Docs or on a phone, it probably contains curly apostrophes. Swapping them for straight ones (') keeps the message in the standard format.
+- Curly apostrophes and quotes (’ “ ”), which word processors and phones insert automatically.
+- Long dashes (the en dash and em dash) and the single ellipsis character (…).
+- Emoji, even one 👍 at the end.
+- Non-breaking spaces copied from websites or documents.
+- Letters with accents that aren't in the GSM set, for example ç is fine but ő isn't.
+
+### How to keep a reminder to one SMS
+1. Paste your template into a character counter that shows SMS parts and the characters forcing Unicode.
+2. Replace curly quotes, long dashes and "…" with plain ones, and remove emoji.
+3. Cut it to 160 characters: drop greetings like "Hope you're well", use the time and date only, and end with one clear action.
+4. Check the version with the longest name and address you send to, not the shortest.
+5. If it must be two parts, make sure it's well under 306 characters so it doesn't creep into three.
+
+### Before and after
+A reminder rewritten to fit one standard SMS:
+```
+Before (3 SMS, Unicode): Hi Sarah, it’s Smith Plumbing, just a reminder that we’ll be with you tomorrow between 8 and 10am for the boiler service. Reply YES to confirm or call 0113 496 0000 to change the time. Thanks! 👍
+
+After (1 SMS, standard): Smith Plumbing: boiler service tomorrow 8-10am. Reply YES to confirm or call 0113 496 0000 to change. Thanks, Sarah!
+```
+
+### Free tool: character counter and SMS calculator
+The free [character counter](https://mikeautomations.github.io/en/character-counter/) shows how many SMS parts your text needs, lists the characters that switch it to Unicode, and replaces curly quotes and dashes with plain ones in one click. It also checks the text against Google, Instagram, LinkedIn and Google Business Profile limits.
+If you send the same reminders every day by hand, they can go out on their own. Our guide to [reducing appointment no-shows](https://mikeautomations.github.io/en/blog/reduce-appointment-no-shows/) covers timing and wording.
+
+### Do WhatsApp messages have the same limits?
+No. WhatsApp messages go over the internet, not the SMS network, so the 160 and 70 character limits don't apply.
+
+### Why does my phone show one message when the customer was billed for three?
+Phones join the parts back together, so it looks like one message. The network and your provider still count each part.
+
+### Are emoji ever worth it?
+Sometimes, for a friendly tone. Just know that one emoji switches the whole message to Unicode, so keep the text under 70 characters if you want it to stay one SMS.
+
+## Facebook or LinkedIn showing the wrong image for your link? Here's the fix
+Source: https://mikeautomations.github.io/en/blog/fix-wrong-image-when-sharing-link/ (2026-11-21)
+
+Apps choose the picture, title and text for a shared link from your page's Open Graph tags (og:image, og:title, og:description). If they're missing, the app guesses, often picking a logo, an icon or nothing. Add the tags with a full https:// image address, use an image around 1200 × 630, then ask Facebook and LinkedIn to fetch the page again with their debugging tools.
+
+You share your new offer page on LinkedIn and the preview shows your cookie banner icon. On Facebook it shows a tiny logo. On WhatsApp there's no picture at all. The page itself looks fine; the problem is what the page tells other apps about itself.
+Here's what decides the preview, the four most common causes, and how to fix it once so every share, yours or a customer's, looks the way you want.
+
+### What decides the preview
+When a link is shared, the app fetches the page and reads a few lines in its <head> called Open Graph tags, a format Facebook introduced and most apps now follow. og:title, og:description and og:image set the headline, the line of text and the picture. X uses its own twitter: tags and falls back to Open Graph.
+
+### The four usual causes
+1. No og:image tag at all, so the app picks whatever image it finds first, or none.
+2. The image address is relative (/images/offer.jpg) instead of a full https:// address.
+3. The image is too small or the wrong shape, so it's shown as a tiny thumbnail or cropped badly.
+4. The tags were fixed, but the app is still showing the preview it saved earlier.
+
+### The fix, step by step
+1. Make a share image 1200 × 630 pixels, with the important part away from the edges.
+2. Upload it to your site and copy its full address, starting with https://.
+3. Add og:title, og:description, og:image and og:url to the page (most website builders have a social sharing or SEO setting for this).
+4. Check the preview with a share preview tool before posting.
+5. Ask Facebook (Sharing Debugger) and LinkedIn (Post Inspector) to fetch the page again so they drop the old preview.
+
+### Tags to copy
+Change the text and addresses to your own:
+```
+<meta property="og:type" content="website">
+<meta property="og:title" content="Boiler service in Leeds | Smith Plumbing">
+<meta property="og:description" content="Annual boiler service from £75, same-week appointments.">
+<meta property="og:url" content="https://smithplumbing.co.uk/boiler-service/">
+<meta property="og:image" content="https://smithplumbing.co.uk/images/share.jpg">
+<meta name="twitter:card" content="summary_large_image">
+```
+
+### Free tools for every step
+The free [Open Graph generator](https://mikeautomations.github.io/en/open-graph-generator/) shows your link as it would look on Facebook, LinkedIn, X and WhatsApp, checks the image size and shape, and writes the tags for you. The [image compressor](https://mikeautomations.github.io/en/image-compressor/) has a "link preview" size that crops any photo to 1200 × 630, and the [Google search preview](https://mikeautomations.github.io/en/google-search-preview/) shows the same page in Google results.
+
+### How long until Facebook shows the new image?
+After you ask the Sharing Debugger to scrape the page again, new shares usually use the new preview straight away. Posts already published may keep the old one.
+
+### Why does WhatsApp still show the old preview?
+WhatsApp keeps its own copy for a while and has no public refresh tool. New chats usually pick up changes sooner. Adding a small parameter to the link (like ?v=2) makes it fetch a fresh preview.
+
+### Do I need different images for each platform?
+Usually not. One 1200 × 630 image works well across Facebook, LinkedIn, X and WhatsApp.
+
+## Is the text on your website hard to read? Colour contrast in plain English
+Source: https://mikeautomations.github.io/en/blog/website-text-hard-to-read-colour-contrast/ (2026-11-21)
+
+Contrast is how much text stands out from its background, measured as a ratio from 1:1 (invisible) to 21:1 (black on white). The WCAG accessibility guidelines ask for at least 4.5:1 for normal text and 3:1 for large text, buttons and icons at level AA, the level most accessibility rules point to. Light grey text, white text on bright brand colours and text over photos are the usual failures.
+
+A lot of small business websites look elegant on the designer's large, bright screen and hard to read everywhere else: on a phone in sunlight, on an older laptop, or for anyone whose eyesight isn't perfect. Faint text quietly costs enquiries, because people skim, struggle and leave.
+Contrast is one of the easiest accessibility issues to measure and fix. Here's what the numbers mean, where problems usually hide, and how to fix them without changing your brand.
+
+### What the numbers mean
+The ratio compares how light the two colours are. Black on white is 21:1. A mid grey (#767676) on white is about 4.5:1, right on the AA line. Many accessibility laws and policies, such as the UK public sector rules and Israel's IS 5568, are based on WCAG level AA.
+| What | Level AA | Level AAA |
+| --- | --- | --- |
+| Normal text | 4.5:1 | 7:1 |
+| Large text (about 24px, or 19px bold) | 3:1 | 4.5:1 |
+| Buttons, icons, form borders | 3:1 | - |
+
+### Where low contrast usually hides
+- Light grey body text and captions.
+- White text on yellow, orange, light green or sky-blue buttons.
+- Headlines over photos in the top banner.
+- Placeholder text inside form fields, and thin grey field borders.
+- Small print: prices, opening hours, legal lines and footers.
+
+### How to fix it without changing your brand
+1. Check each text and background pair with a contrast checker.
+2. Keep the same hue and make the colour darker (or lighter) until it passes; your brand colour stays recognisable.
+3. For white text on a bright colour, use a darker shade of the colour for buttons, or switch to dark text.
+4. Put a dark overlay behind text on photos.
+5. Check your whole palette once, then use only the pairs that pass.
+
+### Free tool: colour contrast checker
+The free [colour contrast checker](https://mikeautomations.github.io/en/color-contrast-checker/) shows the ratio and whether it passes AA and AAA, previews your colours live, suggests the nearest passing colour in the same hue, and checks your whole brand palette at once. Contrast is one check among many: a full accessibility review also covers headings, image descriptions, keyboard use and forms.
+
+### Does passing contrast make my site accessible?
+No. It's one requirement. Accessibility also covers structure, images, keyboard use, forms, captions and more.
+
+### Do logos have to meet contrast rules?
+WCAG makes an exception for text that's part of a logo or brand name. Everything else on the page, including buttons, should pass.
+
+### Is AAA required?
+Usually not. Most rules point to level AA. AAA is a higher bar that's worth reaching for body text where you can.
+
 ## Hebrew site (Israel): direct answers
 
 ### אוטומציה למשרד רואי חשבון: פחות רדיפה אחרי מסמכים, יותר עבודה מקצועית
@@ -22648,4 +22788,19 @@ Source: https://mikeautomations.github.io/he/track-website-visitors-utm/ (2026-1
 Source: https://mikeautomations.github.io/he/business-details-google-ai/ (2026-11-21)
 
 מנועי חיפוש ועוזרי AI בונים את התשובות על העסק שלכם ממה שהם מצליחים לקרוא: פרופיל העסק בגוגל, האתר שלכם והאינדקסים שאתם מופיעים בהם. משתמשים בדיוק באותו שם, כתובת, טלפון ושעות פתיחה בכל מקום, כותבים אותם כטקסט באתר, ומוסיפים לדף הבית או לעמוד צור קשר נתונים מובנים לעסק מקומי (Schema), כדי שמכונות לא יצטרכו לנחש.
+
+### כמה תווים יש בהודעת SMS בעברית, ואיך לחסוך בתזכורות
+Source: https://mikeautomations.github.io/he/sms-hebrew-70-characters/ (2026-11-21)
+
+הודעת SMS בעברית מחזיקה 70 תווים. הודעה ארוכה יותר מתפצלת לחלקים של 67 תווים, וכל חלק מחויב בדרך כלל כהודעה. המספר 160 שכולם מכירים נכון רק לטקסט באלפבית הבסיסי (GSM), בלי עברית, בלי אימוג'י ובלי גרשיים מסולסלים. לכן תזכורת של 150 תווים בעברית עולה שלוש הודעות, ולא אחת.
+
+### למה מופיעה תמונה לא נכונה כשמשתפים את הקישור לאתר, ואיך מתקנים
+Source: https://mikeautomations.github.io/he/link-preview-wrong-image/ (2026-11-21)
+
+האפליקציות בוחרות את התמונה, הכותרת והטקסט של קישור משותף לפי תגיות Open Graph בעמוד (og:image, og:title, og:description). אם הן חסרות, האפליקציה מנחשת, ולעיתים קרובות בוחרת לוגו קטן, אייקון או כלום. מוסיפים את התגיות עם כתובת תמונה מלאה ב-https://, משתמשים בתמונה בגודל 1200 על 630, ומבקשים מפייסבוק ומלינקדאין לטעון את העמוד מחדש.
+
+### ניגודיות צבעים באתר: מה זה 4.5:1, איפה זה נכשל ואיך מתקנים
+Source: https://mikeautomations.github.io/he/website-color-contrast-accessibility/ (2026-11-21)
+
+ניגודיות היא עד כמה הטקסט בולט מהרקע, ונמדדת ביחס מ-1:1 (בלתי נראה) עד 21:1 (שחור על לבן). הנחיות WCAG ברמה AA, שעליהן מבוסס גם התקן הישראלי לנגישות אתרים (ת"י 5568), דורשות לפחות 4.5:1 לטקסט רגיל ו-3:1 לטקסט גדול, לכפתורים ולאייקונים. הכשלים הנפוצים: טקסט אפור בהיר, טקסט לבן על צבעי מותג בהירים וטקסט על תמונות.
 
