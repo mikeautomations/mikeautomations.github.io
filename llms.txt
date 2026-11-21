@@ -57,6 +57,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Free QR Code Generator: No Sign-up, Never Expires](https://mikeautomations.github.io/en/qr-code-generator/): Free QR code generator for your website, WhatsApp, Wi-Fi, phone or contact card. Static codes that never expire, with scan tracking, PNG and SVG download.
 - [Free Image Compressor and Resizer for Websites](https://mikeautomations.github.io/en/image-compressor/): Shrink and resize photos for your website, Google Business Profile or social posts. WebP or JPEG, in your browser: nothing is uploaded. Free, no sign-up.
 - [Free Favicon Generator: ICO, PNG and Code in One ZIP](https://mikeautomations.github.io/en/favicon-generator/): Make a favicon from your initials, an emoji or your logo. See it in a browser tab and Google results, then download favicon.ico, every PNG size and the code.
+- [Colour Contrast Checker (WCAG AA/AAA), Free](https://mikeautomations.github.io/en/color-contrast-checker/): Free colour contrast checker: test text and background colours against WCAG AA and AAA, preview them live, get the nearest passing colour, check a palette.
 
 ## Free tools in Hebrew (for Israeli businesses, ₪ and 18% VAT)
 - [All Hebrew tools](https://mikeautomations.github.io/he/tools/): כלים חינמיים לעסקים קטנים ועצמאים: חשבון עסקה והצעת מחיר, תזכורת תשלום, מחשבון מע"מ, תעריף לשעה, קישור לוואטסאפ וביקורת בגוגל. בלי הרשמה.
@@ -83,6 +84,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [מחולל קוד QR חינם: בלי הרשמה ובלי תפוגה](https://mikeautomations.github.io/he/qr-code-generator/): קוד QR חינמי לאתר, וואטסאפ, Wi-Fi, טלפון או כרטיס ביקור. קודים סטטיים שלא פגים לעולם, עם מדידת סריקות והורדה ב-PNG וב-SVG. בלי הרשמה.
 - [כיווץ תמונות לאתר: הקטנה ל-WebP בחינם](https://mikeautomations.github.io/he/image-compressor/): מקטינים ומכווצים תמונות לאתר, לפרופיל העסק בגוגל ולאינסטגרם. WebP או JPEG, בדפדפן בלבד: שום דבר לא עולה לשרת. חינם, בלי הרשמה.
 - [מחולל פאביקון חינם: אייקון לאתר בכל הגדלים](https://mikeautomations.github.io/he/favicon-generator/): יוצרים פאביקון מאותיות, אימוג'י או לוגו, רואים איך הוא נראה בלשונית ובגוגל, ומורידים favicon.ico, כל הגדלים והקוד בקובץ ZIP אחד. בלי הרשמה.
+- [בודק ניגודיות צבעים לנגישות אתרים (WCAG)](https://mikeautomations.github.io/he/color-contrast-checker/): בודקים ניגודיות בין צבע הטקסט לרקע לפי WCAG AA ו-AAA, רואים תצוגה חיה, מקבלים את הצבע הקרוב שעובר ובודקים את כל פלטת המותג. חינם, בלי הרשמה.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
