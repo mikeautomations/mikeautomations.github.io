@@ -60,6 +60,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Colour Contrast Checker (WCAG AA/AAA), Free](https://mikeautomations.github.io/en/color-contrast-checker/): Free colour contrast checker: test text and background colours against WCAG AA and AAA, preview them live, get the nearest passing colour, check a palette.
 - [Open Graph Generator and Social Share Preview](https://mikeautomations.github.io/en/open-graph-generator/): See how your link looks on Facebook, LinkedIn, X and WhatsApp before you share it, fix the title, description and image, then copy the Open Graph tags.
 - [Character Counter and SMS Length Calculator](https://mikeautomations.github.io/en/character-counter/): Free character and word counter with an SMS part calculator (GSM and Unicode) and limits for Google, Instagram, LinkedIn, X, YouTube and Google Business.
+- [Directions Link Generator: Google Maps, Waze, Apple Maps](https://mikeautomations.github.io/en/directions-link-generator/): Free directions link generator: one-tap links to your business in Google Maps, Waze and Apple Maps, a 'how to find us' message, website buttons and a map.
 
 ## Free tools in Hebrew (for Israeli businesses, ₪ and 18% VAT)
 - [All Hebrew tools](https://mikeautomations.github.io/he/tools/): כלים חינמיים לעסקים קטנים ועצמאים: חשבון עסקה והצעת מחיר, תזכורת תשלום, מחשבון מע"מ, תעריף לשעה, קישור לוואטסאפ וביקורת בגוגל. בלי הרשמה.
@@ -89,6 +90,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [בודק ניגודיות צבעים לנגישות אתרים (WCAG)](https://mikeautomations.github.io/he/color-contrast-checker/): בודקים ניגודיות בין צבע הטקסט לרקע לפי WCAG AA ו-AAA, רואים תצוגה חיה, מקבלים את הצבע הקרוב שעובר ובודקים את כל פלטת המותג. חינם, בלי הרשמה.
 - [מחולל Open Graph: איך הקישור נראה בשיתוף](https://mikeautomations.github.io/he/open-graph-generator/): רואים איך הקישור שלכם נראה בפייסבוק, לינקדאין, X ווואטסאפ לפני ששולחים, מתקנים כותרת, תיאור ותמונה ומעתיקים את תגיות ה-Open Graph. חינם, בלי הרשמה.
 - [מונה תווים ומחשבון SMS בעברית](https://mikeautomations.github.io/he/character-counter/): סופרים תווים ומילים, רואים כמה הודעות SMS הטקסט יעלה (בעברית: 70 תווים להודעה) ובודקים שהוא נכנס בגוגל, אינסטגרם, לינקדאין, X ויוטיוב. חינם.
+- [קישור לניווט בוויז ובגוגל מפות לעסק](https://mikeautomations.github.io/he/directions-link-generator/): יוצרים קישור לניווט לעסק בוויז, בגוגל מפות ובמפות של אפל, הודעת "איך מגיעים" לוואטסאפ, כפתורים לאתר ומפה להטמעה. חינם, בלי הרשמה.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
