@@ -721,6 +721,9 @@ The pricing, the customer relationship and the work itself. The workflow does th
 ### How Mike Automations builds it
 A [free 15-minute call](https://mikeautomations.github.io/call/) to see where jobs slip today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example "every estimate gets the day 2, 7 and 14 follow-ups, and you get a daily list of open ones". It's built on what you already use (your email, calendar, Google Sheets or your field software), so there's nothing new to learn. It goes live in 2-3 days, costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
 
+### Free tools for contractors
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds a job quote PDF, the [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes the nudge when a customer goes quiet, and the [late payment interest calculator](https://mikeautomations.github.io/en/late-payment-interest-calculator/) works out what you can add to an overdue invoice.
+
 ### Do reminders go out by text?
 They can. Business texting to US phones on a regular number needs A2P 10DLC registration through your texting provider, which I set up with you. Email works from day one.
 
@@ -869,6 +872,9 @@ If you have a handful of clients and they mostly send on time, a shared checklis
 
 ### How Mike Automations builds it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how documents come in today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example "every client gets their list on the 1st and reminders stop when they're complete". It's built on what you already use (Xero or QuickBooks, Gmail or Outlook, Google Drive, OneDrive or Dropbox), so your team doesn't learn a new system. It goes live in 2-3 days, costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
+
+### Free tools for deadlines
+The free [UK company deadlines calculator](https://mikeautomations.github.io/en/company-deadlines/) works out filing and payment dates from a year end, so the document requests can start on time. The [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days left before each one.
 
 ### Do my clients need to install anything or create an account?
 No. They get an email with their list and an upload link that works on a phone or a computer.
@@ -1535,6 +1541,9 @@ You price every change and decide what goes into the change order. A person in y
 ### How it works
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how changes are agreed on your jobs today. Within 48 hours you get a [written plan with a fixed price](https://mikeautomations.github.io/en/how-it-works/) and a clear definition of "working". It's built on the tools you already use (your email, phones, e-signature tool, and your job management or accounting software where it allows a connection), so your crew doesn't learn a new system. Live in 2-3 days. You pay once it's running and you're happy with it.
 
+### Free tools for priced changes
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) turns a change into a priced quote PDF the client can approve, and the [profit margin calculator](https://mikeautomations.github.io/en/profit-margin-calculator/) checks the margin on it first.
+
 ### Does my crew need to learn new software?
 No. They fill in a short form from a link on their phone. Everything else happens in the office or by email.
 
@@ -1614,6 +1623,9 @@ The relationship and the strategy. Your team decides the scope, runs the kickoff
 
 ### How it works
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you onboard clients today and where it stalls. Within 48 hours you get a [written plan with a fixed price](https://mikeautomations.github.io/en/how-it-works/) and a clear definition of "working", for example: every accepted proposal triggers the contract, invoice and form, and no client reaches kickoff with an open item you didn't know about. It's built on the tools your agency already uses (your email, e-signature, invoicing, project management and shared drive, where they allow a connection), so nobody learns a new system. Live in 2-3 days. You pay once it's running and you're happy with it.
+
+### Free tools for new clients
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) turns the agreed scope into a quote PDF, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the first invoice once the client signs.
 
 ### Do clients have to share their passwords?
 No. Wherever a platform lets them add your agency as a user or partner, that's what the workflow asks for. Passwords stay with the client.
@@ -2693,6 +2705,9 @@ In the UK, the ICO treats messages that only confirm or remind someone about an 
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how quotes, the rota and invoicing work in your company today. Within 48 hours you get a written plan with a fixed price. It's built on the booking app, calendar, accounting tool and messaging you already use, so your cleaners don't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), and you pay once it's running and you're happy with it. You approve every message wording first, and a person stays in charge of quotes, complaints and skipped-visit decisions.
+
+### Free tools for cleaning businesses
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds a cleaning quote PDF, the [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the visit reminders, and the [hourly rate calculator](https://mikeautomations.github.io/en/hourly-rate-calculator/) checks that your prices cover your costs.
 
 ### What should a small cleaning company automate first?
 Usually the recurring client flow: the day-before reminder, the cleaner's job sheet and the invoice after each visit. Those happen every week for every regular client, so they save the most time.
@@ -4899,6 +4914,9 @@ Quoting, the clean, your prices and your decision about which customers to remin
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how enquiries, quotes and jobs are recorded today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: your job software or invoicing tool where it allows a connection, or a spreadsheet, plus texts, email or WhatsApp and your booking page. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your business first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=carpet-cleaning-repeat-booking-reminders).
+
+### Free tools for repeat bookings
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the booking reminders, and the [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes a clear policy to send with them.
 
 ### Is a reminder to rebook allowed under UK rules?
 Usually yes under the soft opt-in the ICO describes, if you collected the details during a sale, offered an opt-out at the time and offer one in every message. The workflow records the consent and stops on STOP. Check ico.org.uk for the current guidance.
@@ -8771,6 +8789,9 @@ The discovery call, the coaching or advice, the price and every renewal conversa
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you onboard clients today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your email, calendar, booking link, e-signature, payment tool and spreadsheet, where they allow a connection), so you don't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. If you'd like to see the steps laid out first, [build your own onboarding plan](https://mikeautomations.github.io/en/plan/?g=coach-consultant-client-onboarding).
 
+### Free tools for coaches and consultants
+The free [hourly rate calculator](https://mikeautomations.github.io/en/hourly-rate-calculator/) works out what to charge per session, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice for the first package.
+
 ### I only take a few clients a month. Is it worth it?
 It depends on how long each onboarding takes you today and how often clients stall between yes and the first session. On the free call we look at that honestly, and if it isn't worth it, we say so.
 
@@ -9610,6 +9631,9 @@ The work, the record and every judgement about the appliance. The workflow doesn
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you record jobs and book services today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your phone, your calendar, a spreadsheet or your job software where it allows a connection), so there's no new app to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already sends service reminders and you're happy with them, you don't need this, and we'll say so on the call.
 
+### Free tools for service reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the reminder texts and emails, and the [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) makes the link to send after the service.
+
 ### My job software already sends service reminders. Do I need this?
 Maybe not. If it sends them on time, follows up when nobody replies and gives you a list of who to call, keep using it. This is for engineers who work from a phone, a diary and a spreadsheet, or whose software sends one email and stops.
 
@@ -10117,6 +10141,9 @@ The sweep, the inspection, any certificate you issue and every safety judgement.
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about where your customer list lives today and how bookings reach you. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your job or booking software where it allows a connection, a spreadsheet, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already sends yearly reminders and you're happy with it, you don't need this, and we'll say so on the call.
+
+### Free tools for annual reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the yearly reminder and the day-before message, and the [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) makes the link to send after the sweep.
 
 ### Does it tell customers how often to sweep?
 No. You set the interval for each customer from your own judgement about the appliance and fuel. The workflow only uses that date to time the reminder.
@@ -11693,6 +11720,9 @@ A [free 15-minute call](https://mikeautomations.github.io/call/) about how you t
 
 ### Free tool: a company's deadlines
 The free [company deadlines calculator](https://mikeautomations.github.io/en/company-deadlines/) works out a company's accounts filing date, Corporation Tax payment date and confirmation statement date from its year end. No sign-up.
+
+### Free tools for tax dates
+The free [UK company deadlines calculator](https://mikeautomations.github.io/en/company-deadlines/) gives the Corporation Tax payment and filing dates from a year end, and the [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days left before each one.
 
 ### When is Corporation Tax due?
 For a company with taxable profits up to £1.5 million, 9 months and 1 day after the end of its accounting period. That is earlier than the deadline for the Company Tax Return. Larger companies normally pay in instalments.
