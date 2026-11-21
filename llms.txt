@@ -59,6 +59,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Free Favicon Generator: ICO, PNG and Code in One ZIP](https://mikeautomations.github.io/en/favicon-generator/): Make a favicon from your initials, an emoji or your logo. See it in a browser tab and Google results, then download favicon.ico, every PNG size and the code.
 - [Colour Contrast Checker (WCAG AA/AAA), Free](https://mikeautomations.github.io/en/color-contrast-checker/): Free colour contrast checker: test text and background colours against WCAG AA and AAA, preview them live, get the nearest passing colour, check a palette.
 - [Open Graph Generator and Social Share Preview](https://mikeautomations.github.io/en/open-graph-generator/): See how your link looks on Facebook, LinkedIn, X and WhatsApp before you share it, fix the title, description and image, then copy the Open Graph tags.
+- [Character Counter and SMS Length Calculator](https://mikeautomations.github.io/en/character-counter/): Free character and word counter with an SMS part calculator (GSM and Unicode) and limits for Google, Instagram, LinkedIn, X, YouTube and Google Business.
 
 ## Free tools in Hebrew (for Israeli businesses, ₪ and 18% VAT)
 - [All Hebrew tools](https://mikeautomations.github.io/he/tools/): כלים חינמיים לעסקים קטנים ועצמאים: חשבון עסקה והצעת מחיר, תזכורת תשלום, מחשבון מע"מ, תעריף לשעה, קישור לוואטסאפ וביקורת בגוגל. בלי הרשמה.
@@ -87,6 +88,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [מחולל פאביקון חינם: אייקון לאתר בכל הגדלים](https://mikeautomations.github.io/he/favicon-generator/): יוצרים פאביקון מאותיות, אימוג'י או לוגו, רואים איך הוא נראה בלשונית ובגוגל, ומורידים favicon.ico, כל הגדלים והקוד בקובץ ZIP אחד. בלי הרשמה.
 - [בודק ניגודיות צבעים לנגישות אתרים (WCAG)](https://mikeautomations.github.io/he/color-contrast-checker/): בודקים ניגודיות בין צבע הטקסט לרקע לפי WCAG AA ו-AAA, רואים תצוגה חיה, מקבלים את הצבע הקרוב שעובר ובודקים את כל פלטת המותג. חינם, בלי הרשמה.
 - [מחולל Open Graph: איך הקישור נראה בשיתוף](https://mikeautomations.github.io/he/open-graph-generator/): רואים איך הקישור שלכם נראה בפייסבוק, לינקדאין, X ווואטסאפ לפני ששולחים, מתקנים כותרת, תיאור ותמונה ומעתיקים את תגיות ה-Open Graph. חינם, בלי הרשמה.
+- [מונה תווים ומחשבון SMS בעברית](https://mikeautomations.github.io/he/character-counter/): סופרים תווים ומילים, רואים כמה הודעות SMS הטקסט יעלה (בעברית: 70 תווים להודעה) ובודקים שהוא נכנס בגוגל, אינסטגרם, לינקדאין, X ויוטיוב. חינם.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
