@@ -13936,6 +13936,193 @@ Yes. Any document with an expiry date that the license depends on fits the same 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## VAT threshold monitoring: spot clients nearing £90,000 before it's late
+Source: https://mikeautomations.github.io/en/vat-registration-threshold-monitoring-clients/
+
+VAT threshold monitoring works when every client who isn't VAT registered has one row with their monthly taxable turnover, and a sum of the last 12 months is checked every month. GOV.UK sets the threshold at £90,000 over a rolling 12 months, with 30 days from the end of the month it's passed to register. A simple workflow collects the monthly figure, flags clients getting close, and puts them on your list for a conversation.
+
+The VAT threshold isn't a tax-year test: it's any rolling 12 months. A growing sole trader can pass it in July and only find out at year end, by which time the registration is late and VAT is owed on months of sales they never charged it on. Most practices check when they do the accounts. A monthly check of the clients who are close gives you months of warning instead.
+
+### Where it goes wrong
+- Turnover is only looked at once a year, when the accounts are prepared
+- The client thinks the threshold is per tax year
+- Bank feeds show money in, but nobody adds up the last 12 months
+- A big one-off contract pushes turnover over in a single month
+- The client doesn't tell you about a new income stream
+- Registration is discussed, then nobody follows up
+
+### How the monthly check works
+Each row holds the client's taxable turnover month by month, from their bookkeeping software or a figure they send you. What counts as taxable turnover is your judgement. The workflow only adds up the last 12 months and compares it with the levels you set, for example a warning at £75,000 and an alert at £85,000.
+| Rolling 12 months (example levels) | What happens |
+| --- | --- |
+| Below your warning level | Nothing: checked again next month |
+| Above your warning level | Client gets a heads-up, you get a note |
+| Above your alert level | On your call list this week |
+| Over £90,000 | Urgent task with the month it was passed |
+
+### A message you can copy
+Heads-up to a client getting close (edit the words in brackets):
+```
+Hi [first name],
+
+Good news first: [business] is growing. Your sales over the last 12 months are about £[amount], and the VAT registration threshold is £90,000 over any rolling 12 months, not per tax year.
+
+You're not there yet, but at this rate you could be by [month]. Let's have a 15-minute call before then to plan: when you'd register, how it affects your prices, and which VAT scheme might suit you.
+
+Book a time here: [link]
+[your name]
+```
+
+### How the workflow runs
+1. Each month the workflow pulls last month's turnover from the bookkeeping software, or asks the client for it.
+2. It adds up the last 12 months for every non-registered client.
+3. Clients above your warning level get the heads-up email, and you see them on a list.
+4. Clients above your alert level go on your call list with their monthly figures.
+5. Every month you get a short list: who's close, who's over, and who hasn't sent a figure.
+
+### What stays with you
+What counts as taxable turnover, whether and when a client registers, which scheme suits them, and the registration itself. The workflow adds up numbers and sends reminders; it doesn't give advice. If AI drafts a message, a person reads and approves it before it's sent. Related: [questions about uncategorised transactions](https://mikeautomations.github.io/en/uncategorized-transactions-client-questions/) and [Self Assessment document chasing](https://mikeautomations.github.io/en/self-assessment-document-chasing/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you watch the threshold today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (Xero, QuickBooks or FreeAgent where they allow a connection, a spreadsheet and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already alerts you to clients nearing the threshold, you don't need this, and we'll say so on the call.
+
+### Does it decide when a client has to register?
+No. It adds up the figures and flags clients near the levels you set. Whether and when they register is your advice.
+
+### Where does the turnover figure come from?
+From the client's bookkeeping software where it allows a connection, or from a monthly figure the client sends through a short form.
+
+### What about the 30-day forward-looking test?
+That depends on what the client expects to earn, so it's a conversation, not a sum. The heads-up email asks clients to tell you about any big contract coming up.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Patch test reminders: no colour appointment without an in-date test
+Source: https://mikeautomations.github.io/en/salon-colour-patch-test-reminders/
+
+Patch test reminders work when every colour, tint or lash booking is checked against the client's last allergy alert test. If it's missing or out of date, the client gets a message asking them to pop in for a test at least 48 hours before, which is the window NHBF guidance and product instructions give. The workflow logs each test and reminds the stylist before the appointment.
+
+Colour clients book online at 10pm for Saturday morning. Nobody checks whether they've had an allergy alert test, and on the day the stylist either turns them away or takes a risk. Allergy alert tests need time before the service, so the check has to happen when the booking comes in, not when the client sits down. A short workflow does that check for every booking.
+
+### Where it goes wrong
+- Online bookings for colour skip the patch test question
+- Nobody can see when each client was last tested, or with which product
+- Clients book a colour too soon after their test, or forget to come in for it
+- A change of brand or product doesn't trigger a new test
+- Test records are on paper cards that are hard to find
+- New clients are turned away on the day, losing the slot
+
+### What each client record keeps
+How often to retest and when a new test is needed comes from the product's instructions and your insurer. Guidance differs between brands, so the workflow uses the interval you set.
+| Field | Why it matters |
+| --- | --- |
+| Client and contact | Who to remind |
+| Date of last test | Drives the check at booking |
+| Product and shade tested | A new product needs a new test |
+| Result and who did it | Your record if anyone asks |
+| Next colour booking | Test due at least 48 hours before |
+
+### A message you can copy
+Text to a client who booked colour without an in-date test (edit the words in brackets):
+```
+Hi [first name], thanks for booking your [service] on [date] at [time] with [stylist]!
+
+Before any colour we need a quick allergy test, at least 48 hours before your appointment. It takes 5 minutes: pop in any time [opening hours] before [date, 48 hours before].
+
+Can't make it? Reply and we'll move your appointment.
+[salon]
+```
+
+### How the workflow runs
+1. When a colour, tint or lash booking comes in, the client's last test is checked against your interval.
+2. If a test is needed, the client gets the message above with the latest date to come in.
+3. When the test is done, the stylist logs it with the product, and the booking is marked ready.
+4. If no test is logged by the cut-off, the salon gets an alert to call the client or move the booking.
+5. Every week you get a short list: upcoming colour bookings still waiting for a test.
+
+### What stays with you
+Doing and reading every test, deciding whether to go ahead, and anything a client tells you about allergies. The workflow keeps the records and sends reminders; it never says a client is safe to colour. If AI drafts a message, a person reads and approves it before it's sent. Related: [salon cancellation policy and deposits](https://mikeautomations.github.io/en/salon-cancellation-policy-and-deposits/) and [med spa consent forms and aftercare](https://mikeautomations.github.io/en/med-spa-consent-forms-and-aftercare/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you handle patch tests today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your booking system where it allows a connection, a form and text messages), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your booking software already blocks colour bookings without a test, you don't need this, and we'll say so on the call.
+
+### Does it decide if a client needs a test?
+It applies the rules you set (for example, a test if the last one is older than your interval or the product changed). Your stylists still decide on the day.
+
+### How often should clients be retested?
+Follow the product's instructions and your insurer. Guidance differs between brands and trade bodies, so the interval is a setting, not a fixed rule.
+
+### Does it work for lash and brow tints too?
+Yes. Any service that needs a test before it can have its own rule.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Party and event hire: from quote to collection without the WhatsApp chaos
+Source: https://mikeautomations.github.io/en/party-and-event-hire-bookings-and-returns/
+
+Party and event hire automation follows every quote, asks for the deposit when a customer says yes, reminds them about the balance before the event, confirms the delivery window and site details the day before, and logs every item when it comes back. One list shows what's out, what's due back and what's still unpaid.
+
+Hire companies live on weekends and messages: a dozen quotes sent on Monday, three customers who said yes but haven't paid the deposit, a balance due before Saturday, and a van driver who needs the gate code. Then Sunday's collection finds a missing chair cover and nobody remembers who had it. A simple workflow keeps every booking moving and every item accounted for.
+
+### Where it goes wrong
+- Quotes go out and nobody follows up the silent ones
+- Dates are held for customers who never pay the deposit
+- Balances are chased the day before the event
+- Drivers arrive without access details, power location or a contact on site
+- Items come back damaged or short and it's unclear which booking had them
+- The same item is double-booked on a busy weekend
+
+### What each booking keeps
+Deposits, balances, damage charges and hire terms are yours to set. Safety rules for inflatables, marquees and heaters come from your insurer and industry scheme; the workflow only reminds and records.
+| Field | Why it matters |
+| --- | --- |
+| Customer, event date and address | Where and when |
+| Items and quantities | Stock is held, not double-booked |
+| Quote, deposit and balance status | No date held without a deposit |
+| Delivery window and site notes | Access, power, parking and a contact |
+| Items out and items back | Shortages and damage tied to the booking |
+
+### A message you can copy
+Text the day before delivery (edit the words in brackets):
+```
+Hi [first name], we're delivering your [items] tomorrow between [time window] to [address].
+
+Please reply with:
+1. A contact on site
+2. Any gate code or parking notes
+3. Where the power socket is (for [item])
+
+Collection is [day] between [time window]. Thanks, and have a great event!
+[company]
+```
+
+### How the workflow runs
+1. Every enquiry is logged with its date and items, and the quote you approve is sent.
+2. Silent quotes get one follow-up; a yes gets a deposit link, and the items are held when it's paid.
+3. Before the event, the balance reminder goes out on the date you set.
+4. The day before, the customer confirms site details and the driver gets them with the route.
+5. At collection the driver ticks items back in; shortages and damage become a task tied to the booking.
+
+### What stays with you
+Prices, hire terms, deposits and every damage decision. Setting up and safety checks stay with your team. The workflow keeps the list, sends reminders and records what went out and came back. If AI drafts a message, a person reads and approves it before it's sent. Related: [plant hire off-hire reminders](https://mikeautomations.github.io/en/plant-hire-off-hire-reminders/) and [event venue enquiry follow-up](https://mikeautomations.github.io/en/event-venue-enquiry-follow-up/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how bookings run today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your booking or hire software where it allows a connection, a spreadsheet, payment links and texts), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your hire software already does deposits, reminders and check-ins, you don't need this, and we'll say so on the call.
+
+### Does it stop double bookings?
+It holds items against a booking once the deposit is paid and warns you when a new quote needs items that are already out that day. You decide what to do.
+
+### Does it charge damage deposits automatically?
+No. It records what came back and creates a task. Any charge is your decision under your hire terms.
+
+### We already use hire software. Can it work with that?
+Often, yes, if it allows a connection or exports bookings. If it already does reminders and check-ins, you may not need this.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 

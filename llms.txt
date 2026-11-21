@@ -271,6 +271,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [HMO licence renewal tracking](https://mikeautomations.github.io/en/hmo-licence-renewal-tracking/): HMO licence renewal tracking: every licence's end date and conditions on one list, renewals started early, and the documents councils ask for collected in time.
 - [DBS Update Service renewal reminders](https://mikeautomations.github.io/en/dbs-update-service-renewal-reminders/): DBS Update Service tracking for clubs, charities and tutors: every renewal date on one list, people reminded before it lapses, and status checks logged.
 - [Contractor license renewal tracking](https://mikeautomations.github.io/en/contractor-license-renewal-and-ce-tracking/): Contractor license renewal tracking: every license, renewal date and continuing education requirement on one list, with reminders before deadlines.
+- [VAT threshold monitoring for clients](https://mikeautomations.github.io/en/vat-registration-threshold-monitoring-clients/): VAT threshold monitoring for UK practices: each non-registered client's rolling 12-month turnover checked monthly, with an alert before they near £90,000.
+- [Salon patch test reminders](https://mikeautomations.github.io/en/salon-colour-patch-test-reminders/): Patch test reminders for salons: every colour booking checked for an in-date allergy test, clients reminded to come in 48 hours before, and records kept.
+- [Party and event hire bookings](https://mikeautomations.github.io/en/party-and-event-hire-bookings-and-returns/): For party and event hire companies: quotes followed up, deposits and balances chased, delivery windows confirmed, and every item checked back in.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
