@@ -64,6 +64,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Opening Hours Widget: Free "Open Now" Badge for Websites](https://mikeautomations.github.io/en/opening-hours-widget/): Free opening hours widget: enter your hours, including lunch breaks and late nights, and copy an "Open now / Closed" badge for any website. No sign-up.
 - [Appointment Reminder Generator: SMS, WhatsApp, Calendar](https://mikeautomations.github.io/en/appointment-reminder-generator/): Free appointment reminder generator: booking confirmation, day-before and same-day messages for SMS and WhatsApp, with an add-to-calendar link.
 - [Cancellation Policy Generator for Appointments (Free)](https://mikeautomations.github.io/en/cancellation-policy-generator/): Free cancellation and no-show policy generator for salons, clinics and appointment businesses: website text, a booking confirmation line and an SMS.
+- [Gift Voucher Maker: Free Printable Gift Vouchers](https://mikeautomations.github.io/en/gift-voucher-maker/): Free gift voucher maker for small businesses: add the value or service, a message, a unique code and expiry date, then download or print. No sign-up.
 
 ## Free tools in Hebrew (for Israeli businesses, ₪ and 18% VAT)
 - [All Hebrew tools](https://mikeautomations.github.io/he/tools/): כלים חינמיים לעסקים קטנים ועצמאים: חשבון עסקה והצעת מחיר, תזכורת תשלום, מחשבון מע"מ, תעריף לשעה, קישור לוואטסאפ וביקורת בגוגל. בלי הרשמה.
@@ -97,6 +98,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [שעות פתיחה לאתר: תווית "פתוח עכשיו" חינם](https://mikeautomations.github.io/he/opening-hours-widget/): מכניסים שעות פתיחה, כולל הפסקת צהריים, שישי קצר ושבת סגור, ומעתיקים לאתר תווית "פתוח עכשיו / סגור" שמתעדכנת לבד. חינם, בלי הרשמה.
 - [תזכורת לתור: נוסח להודעת SMS ווואטסאפ, חינם](https://mikeautomations.github.io/he/appointment-reminder/): נוסח מוכן לתזכורת לתור: אישור כשנקבע, תזכורת יום לפני והודעה ביום עצמו, ל-SMS ולוואטסאפ, עם ספירת הודעות וקישור לשמירה ביומן. חינם.
 - [מדיניות ביטולים לתורים: נוסח מוכן לעסק, חינם](https://mikeautomations.github.io/he/cancellation-policy/): כותבים מדיניות ביטול תורים ואי-הגעה לעסק: כמה זמן מראש, דמי ביטול, מקדמה ואיחורים. נוסח לאתר, להודעת אישור התור ול-SMS. חינם, בלי הרשמה.
+- [שובר מתנה להדפסה: יוצרים גיפט קארד לעסק, חינם](https://mikeautomations.github.io/he/gift-voucher/): יוצרים שובר מתנה לעסק: סכום או טיפול, הקדשה, קוד ייחודי ותוקף, ומורידים להדפסה או לשליחה בוואטסאפ. חינם, בלי הרשמה.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
