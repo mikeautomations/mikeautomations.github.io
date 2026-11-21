@@ -54,6 +54,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Google Search Preview: Free Title and Meta Checker](https://mikeautomations.github.io/en/google-search-preview/): See how your page looks on Google and in WhatsApp before you publish. Check title and description length, get a score and copy the meta tags.
 - [Local Business Schema Generator: Free JSON-LD Tool](https://mikeautomations.github.io/en/local-business-schema-generator/): Free local business schema generator: enter your address, phone and opening hours and copy JSON-LD code that Google and AI search tools can read.
 - [Free UTM Link Builder: Track Every Channel](https://mikeautomations.github.io/en/utm-link-builder/): Free UTM builder for small businesses: enter your page and campaign, get a tracked link for Facebook, Instagram, WhatsApp, email and QR in one go.
+- [Free QR Code Generator: No Sign-up, Never Expires](https://mikeautomations.github.io/en/qr-code-generator/): Free QR code generator for your website, WhatsApp, Wi-Fi, phone or contact card. Static codes that never expire, with scan tracking, PNG and SVG download.
 
 ## Free tools in Hebrew (for Israeli businesses, ₪ and 18% VAT)
 - [All Hebrew tools](https://mikeautomations.github.io/he/tools/): כלים חינמיים לעסקים קטנים ועצמאים: חשבון עסקה והצעת מחיר, תזכורת תשלום, מחשבון מע"מ, תעריף לשעה, קישור לוואטסאפ וביקורת בגוגל. בלי הרשמה.
@@ -77,6 +78,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [תצוגה מקדימה בגוגל: בדיקת כותרת ותיאור לאתר](https://mikeautomations.github.io/he/google-search-preview/): איך העמוד שלכם נראה בגוגל ובוואטסאפ, לפני שמפרסמים. בדיקת אורך כותרת ותיאור, ציון עם תיקונים ברורים וקוד תגיות להעתקה. חינם.
 - [מחולל Schema לעסק: קוד פרטי עסק לגוגל ול-AI](https://mikeautomations.github.io/he/local-business-schema-generator/): ממלאים כתובת, טלפון ושעות פתיחה ומעתיקים קוד JSON-LD לאתר, שגוגל וכלי חיפוש AI קוראים. כולל בדיקת שלמות ותצוגה. חינם, בלי הרשמה.
 - [בונה קישורי UTM: לדעת מאיזה ערוץ הגיעו הלקוחות](https://mikeautomations.github.io/he/utm-link-builder/): מכניסים עמוד ושם קמפיין ומקבלים קישור מסומן לפייסבוק, אינסטגרם, וואטסאפ, מייל ו-QR בבת אחת, כדי לראות בגוגל אנליטיקס מה עבד. חינם, בלי הרשמה.
+- [מחולל קוד QR חינם: בלי הרשמה ובלי תפוגה](https://mikeautomations.github.io/he/qr-code-generator/): קוד QR חינמי לאתר, וואטסאפ, Wi-Fi, טלפון או כרטיס ביקור. קודים סטטיים שלא פגים לעולם, עם מדידת סריקות והורדה ב-PNG וב-SVG. בלי הרשמה.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
