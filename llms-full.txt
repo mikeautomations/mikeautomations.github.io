@@ -22782,7 +22782,7 @@ Source: https://mikeautomations.github.io/he/qr-code-static-vs-dynamic/ (2026-11
 ### איך יודעים איזה פוסט, מייל או פלייר מביא גולשים לאתר
 Source: https://mikeautomations.github.io/he/track-website-visitors-utm/ (2026-11-21)
 
-מוסיפים תוויות UTM לכל קישור שאתם משתפים מחוץ לאתר, קישור אחד לכל מקום: utm_source למקום הפרסום, utm_medium לסוג הערוץ ו-utm_campaign למה שאתם מקדמים. גוגל אנליטיקס 4 מראה את הביקורים בדוחות, רכישה, רכישת תנועה (Traffic acquisition), תחת Session campaign או Session source / medium.
+מוסיפים תוויות מעקב לכל קישור שאתם משתפים מחוץ לאתר, קישור אחד לכל מקום: utm_source למקום הפרסום, utm_medium לסוג הערוץ ו-utm_campaign למה שאתם מקדמים. גוגל אנליטיקס 4 מראה את הביקורים בדוחות, רכישה, רכישת תנועה (Traffic acquisition), תחת Session campaign או Session source / medium.
 
 ### איך לוודא שפרטי העסק נכונים בגוגל ובכלי חיפוש מבוססי AI
 Source: https://mikeautomations.github.io/he/business-details-google-ai/ (2026-11-21)
