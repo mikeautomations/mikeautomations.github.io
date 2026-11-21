@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Updated: 2026-11-20. Facts summary: https://mikeautomations.github.io/llms.txt
+Updated: 2026-11-21. Facts summary: https://mikeautomations.github.io/llms.txt
 
 ## Home: Mike Automations
 Source: https://mikeautomations.github.io/en/
@@ -12813,6 +12813,207 @@ Only if you choose to and the AHJ accepts them that way. By default the report g
 
 ### Does it work alongside our inspection software?
 Yes. If your software allows a connection or a regular export, the workflow uses it and only adds the booking, reminders and follow-ups it's missing.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Lease critical dates tracking: rent reviews, breaks and expiries on time
+Source: https://mikeautomations.github.io/en/commercial-lease-critical-dates-tracking/
+
+Lease critical dates tracking works when every lease event has one row: the date, the clause it comes from, the notice window and one named person who acts on it. A simple workflow reminds that person well before the window opens, asks the landlord or occupier client for a decision, chases until they answer and shows on one list every date coming up in the next few months.
+
+A missed break notice or a rent review nobody started can cost a client far more than a year's management fee. The dates are in the leases, but they sit across PDFs, side letters and someone's calendar. When the person who knew the portfolio leaves, or a property changes hands, the reminders often go with them. Lease events are a process with the same steps every time, so most of the chasing can run on its own while your surveyors and the client's solicitor keep every decision.
+
+### Why lease dates get missed
+- Dates live in the lease PDF, a side letter and a calendar, not in one place
+- A reminder says "break due" but not the clause, the notice window or who acts
+- The reminder goes to someone who has left or changed portfolio
+- A deed of variation changed a date and the record was never updated
+- The client is asked for a decision too late to take advice
+- Nobody sees the next six months of events across every property
+
+### What each lease event row keeps
+One row per event per lease. Your team enters every date from the signed lease and any variations, and a second person checks it. The workflow never reads a date off a lease and acts on it without that check. If AI pulls dates out of a lease to save typing, a person compares each one with the document before it goes live.
+| Field | Why it matters |
+| --- | --- |
+| Property, unit and parties | Everyone knows which lease it is |
+| Event type and clause reference | Rent review, break, expiry or renewal, traced to the lease |
+| Event date and notice window | Earliest and latest dates to act, entered by your team |
+| Owner and back-up | One named person, plus cover when they're away |
+| Client decision and date | What the client chose, and when |
+| Documents | The lease, variations and any notice served |
+
+### A message you can copy
+Email to a client before a break date (edit the words in brackets):
+```
+Subject: [property], [unit]: break option decision needed by [decision date]
+
+Hi [client name],
+
+The lease of [unit] at [property] has a break option under clause [clause]. Based on the lease, notice must be served by [latest notice date] for a break on [break date].
+
+Please let us know by [decision date] which of these you'd like:
+1. Keep the lease running
+2. Explore the break: we'll pass this to your solicitor
+3. Talk it through with [surveyor name] first
+
+The dates above are taken from our records of the lease; your solicitor should confirm them and any conditions before any notice is served.
+
+[Your name], [firm], [phone]
+```
+
+### How the workflow runs
+1. Each Monday the workflow reads the list of lease events and picks out those whose reminder point has arrived. You choose the reminder points for each type of event.
+2. The owner of each event gets a reminder with the clause, the notice window and the documents attached.
+3. Where a client decision is needed, the client gets the message above, prepared for the owner to check and send. No reply gets a reminder, then a call task for the owner.
+4. Decisions are logged on the row. Anything that needs a notice goes to the client's solicitor; the workflow never serves notices.
+5. If an owner leaves or is away, their events move to the back-up and the manager is told.
+6. Every Monday the manager gets one list: events in the next six months, who owns each one and which are still waiting on a client.
+
+### What stays with you
+Reading the lease, every date and notice window, every client decision, any advice on rent or the break, and anything to do with serving a notice. The workflow sends reminders and keeps the record; it doesn't interpret a lease. Notice rules differ by lease and by country, so the client's solicitor confirms them. For residential lettings, see [tenancy renewal reminders](https://mikeautomations.github.io/en/tenancy-renewal-reminders-letting-agents/). For blocks of flats, see [service charge reminders](https://mikeautomations.github.io/en/block-management-service-charge-reminders/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track lease events today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your property software, Outlook or Gmail), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your property management software already reminds the right person about every event, you don't need this, and we'll say so on the call.
+
+### Who enters the dates?
+Your team, from the signed lease and any variations, with a second person checking. The workflow only reminds on dates you've entered and checked.
+
+### Can it serve a break notice or a rent review notice?
+No. Serving notices stays with the client and their solicitor. The workflow makes sure the decision is asked for early and the right people are told.
+
+### Does it work if we manage for occupiers rather than landlords?
+Yes. The events are the same; the messages are worded for the occupier client, and the decision is theirs.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Certificate of insurance requests: complete, checked and sent the same day
+Source: https://mikeautomations.github.io/en/certificate-of-insurance-requests-insurance-agencies/
+
+Certificate of insurance requests run smoothly when every request arrives through one short form that asks for the holder, the job and any special wording up front. A simple workflow matches the request to the client's policies, prepares the certificate in your agency management system for an account manager to check, sends it to the holder, logs it on the account and reissues it when the policy renews.
+
+COI requests arrive by email, text and phone, often at the end of the day and usually missing something: the holder's address, the project or whether they need additional insured wording. Each one means a reply, a wait and another look at the policy. Requests that ask for wording the policy doesn't support need a careful answer, not a quick one. Most of the work around a certificate is the same every time, so it can run on its own while your account managers keep every coverage decision.
+
+### Where certificate requests get stuck
+- Requests come in by email, text, phone and the client portal
+- The holder's name or address is missing, so someone has to ask
+- Additional insured or waiver wording is requested without the contract
+- The account manager isn't sure the policy has the endorsement asked for
+- Certificates aren't reissued to holders when the policy renews
+- Nobody can see which requests are still waiting, and on whom
+
+### What the intake form asks
+One form for clients and the holders who request certificates directly. It goes on your website and in your email signature. Anything you need to check against the policy is asked for up front, so the account manager doesn't have to write back.
+| Field | Why it matters |
+| --- | --- |
+| Insured client and policy type | Matched to the right account |
+| Certificate holder name and address | The certificate is right the first time |
+| Project or job description | Some holders need it on the certificate |
+| Special wording requested | Additional insured, primary, waiver: flagged for a person |
+| Contract or requirements page | The account manager can check what's needed |
+| Needed by | Urgent requests go to the top |
+
+### A message you can copy
+Reply when a request is missing details (edit the words in brackets):
+```
+Hi [first name], thanks for your certificate request for [client name].
+
+To get it right the first time, we need:
+- [missing item 1]
+- [missing item 2]
+
+You can reply to this email or add them here: [form link]. If the holder asked for special wording, please attach the contract or their insurance requirements so we can check it against the policy.
+
+We'll send the certificate as soon as it has been checked.
+
+[Your name], [agency], [phone]
+```
+
+### How the workflow runs
+1. A request arrives through the form or by email. The workflow logs it on one list with the client, the holder and the date needed.
+2. If anything is missing, the requester gets the message above. No reply gets a reminder the next morning.
+3. Complete requests are matched to the client's policies. Where your agency management system allows it, a draft certificate is prepared from the policy details already on file.
+4. Any request for special wording, or for coverage the policy may not have, goes to the account manager with the contract attached. The workflow never adds wording on its own.
+5. The account manager checks and approves the certificate. The workflow emails it to the holder, copies the client and logs it on the account.
+6. Before each renewal, the account manager gets a list of holders on that policy so new certificates go out once the renewal is bound.
+
+### What stays with you
+Every certificate before it goes out, any special wording, every question about whether the policy covers what a contract asks for, and anything that touches E&O. The workflow collects details, prepares drafts and keeps the record; it doesn't decide coverage. For the other side of certificates, see [COI tracking for general contractors](https://mikeautomations.github.io/en/subcontractor-coi-tracking/). For renewals, see [insurance renewal reminders](https://mikeautomations.github.io/en/insurance-broker-renewal-reminders/). If AI drafts a reply or reads a contract, a person reads and approves the result before anything is sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how certificate requests reach your agency today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your agency management system, email and a simple form), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your agency management system or a certificate service already handles intake and reissues, you don't need this, and we'll say so on the call.
+
+### Does the workflow issue certificates by itself?
+No. It prepares the request and, where your system allows, a draft. An account manager checks and approves every certificate before it's sent.
+
+### What about additional insured or waiver requests?
+They're always flagged to a person with the contract attached. Whether the policy supports the wording is the account manager's call.
+
+### Does it work with our agency management system?
+Usually. If your system allows a connection or a regular export, the workflow uses it. If not, it still handles intake, chasing and the log, and the certificate is produced in your system as now.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Interview confirmations for recruitment agencies: both sides confirmed, feedback the same day
+Source: https://mikeautomations.github.io/en/interview-confirmations-recruitment-agencies/
+
+Interview confirmations work when every interview has one row: the candidate, the client, the time, the place or link, and who has confirmed. A simple workflow sends both sides the details, reminds them the day before, flags a candidate who hasn't confirmed so the consultant can call, and asks the candidate and the hiring manager for feedback straight after.
+
+An interview takes days to arrange and minutes to lose. The candidate didn't see the address, the hiring manager moved the time and nobody told the candidate, or the feedback arrives a week later when the candidate has accepted somewhere else. Consultants spend their afternoons on confirmation calls and feedback chasing instead of talking to new candidates. The steps are the same for every interview, so most of the messages can go out on their own while consultants keep the conversations that matter.
+
+### Where interviews go wrong
+- The candidate gets the time but not the address, parking or video link
+- The client moves the interview and the candidate hears too late
+- Nobody notices that the candidate never confirmed
+- The candidate has no easy way to say they're running late or can't make it
+- Feedback from the hiring manager takes days to arrive
+- The consultant doesn't hear how the candidate felt about the role
+
+### What each interview row keeps
+One row per interview, in your recruitment software or a shared sheet. The consultant books the interview as now; the workflow takes it from there.
+| Field | Why it matters |
+| --- | --- |
+| Candidate, role and client | The right messages go to the right people |
+| Date, time and stage | First interview, second interview or trial shift |
+| Address or video link, and who to ask for | The candidate arrives at the right place |
+| Candidate confirmed / client confirmed | Gaps show up before the day |
+| Feedback from both sides | The consultant can act the same day |
+| Outcome and next step | Offer, next stage or a polite no |
+
+### A message you can copy
+Text to a candidate the day before an interview (edit the words in brackets):
+```
+Hi [first name], it's [consultant] from [agency]. A reminder of your interview for [role] at [client] tomorrow, [date], at [time].
+
+Where: [address / video link]. Ask for [contact name] at reception.
+
+Please reply YES to confirm. If something has come up, reply or call me on [phone] and I'll sort it with the client.
+```
+
+### How the workflow runs
+1. When the consultant books an interview, the candidate gets the details by email and text, and the hiring manager gets a calendar invite with the candidate's CV.
+2. The day before, the candidate gets the reminder above. A reply of YES marks them as confirmed.
+3. If the candidate hasn't confirmed by the time you choose, the consultant gets a call task. Any other reply goes straight to the consultant.
+4. If the client changes the time, the consultant updates the row and the candidate gets the new details at once.
+5. After the interview, the candidate and the hiring manager each get a short feedback request. No reply gets one reminder, then a task for the consultant.
+6. Every morning the consultant gets one list: today's interviews, who hasn't confirmed and feedback still missing.
+
+### What stays with you
+Every conversation about the role, every decision about who goes forward, offers and pay, and anything sensitive a candidate or client tells you. The workflow sends details, reminders and feedback requests; it doesn't judge candidates. Before a placement starts, [candidate compliance documents](https://mikeautomations.github.io/en/candidate-compliance-document-chasing/) can be chased the same way, and after it starts, [weekly timesheets](https://mikeautomations.github.io/en/recruitment-timesheet-chasing/). If AI drafts a message or summarises feedback, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you arrange interviews today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your recruitment software or a spreadsheet, email, text and calendar), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your recruitment software already confirms every interview and collects feedback, you don't need this, and we'll say so on the call.
+
+### Does it replace our recruitment software?
+No. If your software allows a connection or a regular export, the workflow reads interviews from it and adds only the messages and lists it's missing.
+
+### Can candidates reschedule by text?
+They can reply to say they can't make it, and the consultant is told at once. Agreeing a new time with the client stays with the consultant.
+
+### What does the feedback request ask?
+A few short questions you choose, such as how it went, interest in the next stage and any concerns. Answers go to the consultant, not to the other side.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.

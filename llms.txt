@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-20.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-21.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
@@ -242,6 +242,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Legionella monitoring reminders](https://mikeautomations.github.io/en/legionella-monitoring-visit-reminders/): Legionella monitoring reminders for UK water hygiene companies: every site's monthly checks and reviews on one list, visits booked and logs sent.
 - [Kitchen hood cleaning reminders](https://mikeautomations.github.io/en/kitchen-hood-cleaning-reminders/): Hood cleaning reminders for kitchen exhaust cleaning companies: each restaurant's next cleaning on one list, night visits confirmed and certificates sent.
 - [Fire sprinkler inspection reminders](https://mikeautomations.github.io/en/fire-sprinkler-inspection-reminders/): Fire sprinkler inspection reminders for sprinkler contractors: every building's next inspection on one list, visits confirmed and reports sent.
+- [Lease critical dates tracking](https://mikeautomations.github.io/en/commercial-lease-critical-dates-tracking/): Track commercial lease critical dates: rent reviews, break clauses and expiries on one list, with reminders sent early to the person who must act.
+- [Certificate of insurance requests](https://mikeautomations.github.io/en/certificate-of-insurance-requests-insurance-agencies/): Handle certificate of insurance requests faster: one intake form, every detail collected, a draft for the account manager to check, and renewals reissued.
+- [Interview confirmations for agencies](https://mikeautomations.github.io/en/interview-confirmations-recruitment-agencies/): Interview confirmations for recruitment agencies: candidate and client confirmed, a reminder the day before, and feedback from both sides the same day.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
