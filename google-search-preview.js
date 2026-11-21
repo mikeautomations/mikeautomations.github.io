@@ -324,6 +324,7 @@
   const stage = el("div", "gp-stage");
   stage.setAttribute("role", "tabpanel");
   stage.id = "gp-stage";
+  stage.tabIndex = 0;
   const tabBtns = views.map(([id, label]) => {
     const b = el("button", "gp-tab", label);
     b.type = "button";

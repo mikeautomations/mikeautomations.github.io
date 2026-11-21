@@ -129,7 +129,7 @@
       q.input.addEventListener("input", () => { ln.qty = q.input.value; update(); });
       p.input.addEventListener("input", () => { ln.price = p.input.value; update(); });
       const rm = button("הסרה");
-      rm.setAttribute("aria-label", "הסרת שורה " + (i + 1));
+      rm.setAttribute("aria-label", "הסרה, שורה " + (i + 1));
       rm.addEventListener("click", () => {
         state.lines.splice(i, 1);
         if (!state.lines.length) state.lines.push({ description: "", qty: "1", price: "" });

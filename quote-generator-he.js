@@ -64,7 +64,7 @@
       qty.input.addEventListener("input", () => { ln.qty = qty.input.value; update(); });
       price.input.addEventListener("input", () => { ln.price = price.input.value; update(); });
       const del = button("הסרה");
-      del.setAttribute("aria-label", "הסרת שורה " + (i + 1));
+      del.setAttribute("aria-label", "הסרה, שורה " + (i + 1));
       del.addEventListener("click", () => {
         state.lines.splice(i, 1);
         if (!state.lines.length) state.lines.push({ kind: "עבודה", description: "", qty: "1", price: "" });

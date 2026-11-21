@@ -132,7 +132,7 @@
       fMin.input.setAttribute("aria-describedby", nameLabel.id);
       fWeek.input.setAttribute("aria-describedby", nameLabel.id);
       const rm = button("הסרה");
-      rm.setAttribute("aria-label", "הסרת משימה " + (i + 1));
+      rm.setAttribute("aria-label", "הסרה, משימה " + (i + 1));
       fName.input.addEventListener("input", () => { t.name = fName.input.value; update(); });
       fMin.input.addEventListener("input", () => { t.minutes = fMin.input.value; update(); });
       fWeek.input.addEventListener("input", () => { t.perWeek = fWeek.input.value; update(); });
