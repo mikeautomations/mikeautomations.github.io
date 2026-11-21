@@ -22684,8 +22684,8 @@ The ratio compares how light the two colours are. Black on white is 21:1. A mid 
 4. Put a dark overlay behind text on photos.
 5. Check your whole palette once, then use only the pairs that pass.
 
-### Free tool: colour contrast checker
-The free [colour contrast checker](https://mikeautomations.github.io/en/color-contrast-checker/) shows the ratio and whether it passes AA and AAA, previews your colours live, suggests the nearest passing colour in the same hue, and checks your whole brand palette at once. Contrast is one check among many: a full accessibility review also covers headings, image descriptions, keyboard use and forms.
+### How to check your colours in a minute
+In Chrome, right-click the text, choose Inspect, and click the small colour square next to the text colour in the Styles panel. It shows the contrast ratio and whether it passes AA and AAA. If it fails, make the text darker (or the background lighter) until it passes. Contrast is one check among many: a full accessibility review also covers headings, image descriptions, keyboard use and forms.
 
 ### Does passing contrast make my site accessible?
 No. It's one requirement. Accessibility also covers structure, images, keyboard use, forms, captions and more.
