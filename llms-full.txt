@@ -3858,6 +3858,9 @@ We start with a [free 15-minute call](https://mikeautomations.github.io/call/) a
 ### What stays with you
 Verifying subcontractors, deciding employment status, checking the figures and submitting the return. The workflow requests, files and reminds. Nothing is sent to HMRC by the workflow, and anything sent to a subcontractor in your name uses wording you approved.
 
+### Free tool: counting working days
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts working days to a deadline around UK bank holidays, which helps when a return or payment is due a set number of days after month end.
+
 ### When is the CIS monthly return due?
 HMRC must receive it by the 19th of the month after the tax month ends. The tax month runs from the 6th to the 5th, so the return for 6 November to 5 December is due by 19 December.
 
@@ -7571,6 +7574,9 @@ Your menus, prices, minimum numbers and cancellation terms. Every allergen answe
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how quotes and final numbers work in your business today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", which you can turn into a [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). It's built on the tools you already use (your email, a spreadsheet, an online form, your invoicing software, texts or WhatsApp), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. Event planners use a similar schedule for [supplier deadlines and payments](https://mikeautomations.github.io/en/wedding-planner-supplier-and-payment-schedules/). To see the steps for your catering business first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=catering-quotes-and-final-numbers).
 
+### Free tools for quotes
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds a quote PDF with your menu items, deposit and VAT, and the [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes the nudge when a client goes quiet.
+
 ### How many times should a caterer follow up a quote?
 Three or four messages over about ten days is a reasonable starting point for most events, fewer and closer together for an event next week. Every message should stop as soon as the client replies, and the last one should close the quote politely.
 
@@ -8169,6 +8175,9 @@ You decide who is offered a place, what each family pays, any discount or paymen
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how enquiries, enrolment and invoicing work at your centre today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your email, online forms, a register in a spreadsheet or booking app, and your accounting software where it allows a connection), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. You can also [see these steps as a plan](https://mikeautomations.github.io/en/plan/?g=tutoring-centre-enrolment-and-termly-invoices) and adjust them to your centre.
+
+### Free tools for invoices
+The free [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes a termly invoice as a PDF, and the [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes a polite reminder when a fee is late.
 
 ### Can it handle pay-as-you-go families as well as termly billing?
 Yes. You set how each family pays. Termly families get one invoice a term; pay-as-you-go families get invoices from the register at the interval you choose.
@@ -8847,6 +8856,9 @@ The pricing, the choice of translator and the quality. The workflow never sends 
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how requests reach you today and where they wait. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example: every request gets a job number, a folder and a reply the same day, and no accepted job is left without a translator and a due date. It's built on the tools you already use (your email, shared drive, CAT tool exports, spreadsheet and accounting software, where they allow a connection), so nobody learns a new system. Live in 2-3 days. [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. To see the steps laid out for your own agency first, [build a plan for translation quotes and intake](https://mikeautomations.github.io/en/plan/?g=translation-agency-quotes-and-file-intake).
+
+### Free tools for quotes
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) makes a clean quote PDF, and the [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes a polite follow-up by how many days have passed.
 
 ### Does this replace our translation management system or CAT tool?
 No. It handles the steps around them: intake, quotes, follow-ups, assignment, delivery and invoicing. Where your CAT tool can export a word count analysis, the workflow reads that instead of counting again.
@@ -11543,6 +11555,9 @@ Every deduction, every statement and every payment. The workflow doesn't decide 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you handle a move-out today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your property management software, a phone form, shared folders and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your property management software already counts down each deposit deadline and chases the missing pieces, you don't need this, and we'll say so on the call.
 
+### Free tool: counting days to a deadline
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the days between two dates or adds a number of working days to a date.
+
 ### How long do I have to return a security deposit?
 It depends on the state. Each state sets its own deadline, and most require a written itemized list of deductions. Check your state's current law or ask your attorney, then enter the number of days once for each property.
 
@@ -11751,6 +11766,9 @@ Deciding whether a notice is required, what it must say, who must receive it and
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how new jobs reach your office today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, a phone form, shared folders and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If you already use a lien notice service that tracks every job and sends the notices, you don't need this, and we'll say so on the call.
+
+### Free tool: counting days to a deadline
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) adds or counts working days between dates, so you can check a deadline before it slips.
 
 ### How many days do I have to send a preliminary notice?
 It depends on the state, and often on your role and the type of project. Some states don't require one at all. The workflow doesn't supply the number. Your office or your attorney enters it, and the reminders follow it.
@@ -13133,6 +13151,9 @@ Every quote, the price, the advice to the customer, and every check with the cou
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about where your quotes and council paperwork live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your job software, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already chases every quote and tracks every consent, you don't need this, and we'll say so on the call.
+
+### Free tools for quotes
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds a quote with labour, materials and VAT, and the [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes the WhatsApp or email follow-up.
 
 ### Does the workflow tell me when I can start work on a protected tree?
 No. It reminds you when to check, and you confirm with the council. It only books the job after you record the decision.
@@ -16941,6 +16962,9 @@ Send it any time here: [upload link]. Once it's in, we'll finish your return wit
 ### How Mike Automations would set this up
 This calendar is a good fit for a workflow: each client is tagged by type, the right emails go out on the right Mondays, every reminder lists only what's still missing, and anyone who sends everything in stops getting reminders. It runs on the tools you already use (your practice software or a spreadsheet, Gmail or Outlook, and Google Drive or Dropbox), and you approve every template before anything is sent.
 We start with a [free 15-minute call](https://mikeautomations.github.io/call/) about how your season runs today. Within 48 hours you get a written plan with a fixed price. It's live in 2-3 days, and it costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it. Setting it up in November or December means it's working before the January rush.
+
+### Free tool: counting working days
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts working days around bank holidays, useful when you set the dates in a client email calendar.
 
 ### When should I send the first tax season email to clients?
 Late November or early December, before the holidays. A short kickoff that explains the process, the key IRS dates and your internal cut-off date means the January organizer email isn't a surprise.
