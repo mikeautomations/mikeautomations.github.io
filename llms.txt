@@ -247,6 +247,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Interview confirmations for agencies](https://mikeautomations.github.io/en/interview-confirmations-recruitment-agencies/): Interview confirmations for recruitment agencies: candidate and client confirmed, a reminder the day before, and feedback from both sides the same day.
 - [Asbestos re-inspection reminders](https://mikeautomations.github.io/en/asbestos-re-inspection-reminders/): Asbestos re-inspection reminders for UK surveying companies: every client's next re-inspection on one list, visits booked and reports sent.
 - [Tree surgeon quotes and consent tracking](https://mikeautomations.github.io/en/tree-surgeon-quotes-and-tree-work-consent-tracking/): Quote follow-up and tree work consent tracking for UK tree surgeons: every quote chased, every TPO or conservation area notice dated and booked.
+- [LPA registration tracking](https://mikeautomations.github.io/en/lasting-power-of-attorney-registration-tracking/): LPA registration tracking for UK solicitors and will writers: every signature, OPG reference and client update on one list, with chasers on time.
+- [Part P notification tracking](https://mikeautomations.github.io/en/part-p-building-control-notification-tracking-electricians/): Part P notification tracking for UK electricians: every notifiable job logged with your scheme on time, and certificates sent to customers.
+- [Snow removal renewals](https://mikeautomations.github.io/en/snow-removal-contract-renewals-and-storm-updates/): Snow removal contract renewals and storm-day updates for US plow businesses: signed contracts before the first snow, and customers told when you're done.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

@@ -13167,6 +13167,198 @@ Yes. Quotes and updates can go out by WhatsApp, text or email, whichever your cu
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Lasting power of attorney registration tracking: every LPA on one list
+Source: https://mikeautomations.github.io/en/lasting-power-of-attorney-registration-tracking/
+
+Lasting power of attorney registration tracking works when every LPA has one row: the donor, the attorneys and certificate provider, who has signed, the date it was sent to the Office of the Public Guardian, the OPG reference and the next check date. A simple workflow chases missing signatures, logs the reference, sends the client a short update while they wait, reminds your team when it's time to check with the OPG and sends the registered LPA out when it arrives.
+
+An LPA can sit in a file for weeks waiting for one attorney's signature, then wait again at the Office of the Public Guardian. Clients ring to ask where it is, and the fee earner has to dig through emails to answer. The OPG has had long processing times in recent years and has asked people not to chase too early. A firm that can see every LPA's stage, and tells clients before they ask, gives a better service with fewer calls.
+
+### Where LPAs get stuck
+- One attorney or the certificate provider hasn't signed, and nobody has chased them
+- Pages are signed in the wrong order and the form has to be redone
+- The date it was sent to the OPG and the reference number aren't logged anywhere
+- Clients call for updates because nobody told them what happens next
+- Letters from the OPG asking for corrections sit in the post tray
+- The registered LPA comes back and the client isn't told how to use it
+
+### What each LPA row keeps
+One row per LPA, so a couple with property and health LPAs has four rows. Your team enters the facts; the workflow only sends reminders and updates based on them. Processing times and fees change, so check the current position on gov.uk rather than relying on an old number.
+| Field | Why it matters |
+| --- | --- |
+| Donor, type of LPA and fee earner | Everyone knows whose file it is |
+| Attorneys, replacements and certificate provider | Each signature can be chased |
+| Signatures received, with dates | You can see what's missing at a glance |
+| Date sent to the OPG and OPG reference | Needed for any enquiry |
+| Next check date | Set by your team, not guessed |
+| OPG letters and corrections | Nothing waits in the post tray |
+| Registered and sent to client | The file can close |
+
+### A message you can copy
+Email to a client while their LPA is with the OPG (edit the words in brackets):
+```
+Hi [first name], a quick update on your [property and financial affairs / health and welfare] LPA.
+
+We sent it to the Office of the Public Guardian on [date] and their reference is [OPG reference]. They're now checking it, which can take a while. You don't need to do anything.
+
+If they write to you or your attorneys, please send us a copy. We'll be in touch as soon as it's registered, and we'll explain how your attorneys can use it.
+
+[Your name], [firm], [phone]
+```
+
+### How the workflow runs
+1. When the LPA is drafted, the workflow sends each signer a short checklist of what to sign and in which order, and reminds anyone who hasn't returned their pages.
+2. Your fee earner checks the signed form. Only then is it marked ready to send.
+3. When it's sent, your team logs the date and the OPG reference. The client gets the update email above.
+4. On the next check date your team chose, the fee earner gets a task to review the file and contact the OPG if needed. Clients get a short update so they're not left wondering.
+5. OPG letters asking for corrections are logged as a task with a deadline for the fee earner.
+6. When the registered LPA arrives, the client gets a letter or email on how attorneys use it, and the file is marked closed.
+
+### What stays with you
+The advice, the drafting, checking the donor's capacity and wishes, every signature check and all contact with the OPG. The workflow sends reminders and updates; it doesn't give legal advice or judge whether a form is valid. If AI drafts a message, a person reads and approves it before it's sent. For the earlier stages, see [will writing client questionnaires](https://mikeautomations.github.io/en/will-writing-client-questionnaire/) and [probate document collection](https://mikeautomations.github.io/en/probate-document-collection/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track LPAs today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your case management system or a spreadsheet, plus email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your case management system already tracks every signature and OPG reference and updates clients, you don't need this, and we'll say so on the call.
+
+### Does it contact the Office of the Public Guardian for us?
+No. It reminds your fee earner when it's time to check, and they contact the OPG. All contact with the OPG stays with your team.
+
+### Does it know how long registration takes?
+No. Your team sets the next check date for each LPA. Processing times change, so check the current position on gov.uk.
+
+### Will it work with our case management system?
+Often, yes, if it can export or send updates. If not, a shared spreadsheet works well for a small team.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Part P notification tracking: no notifiable job forgotten
+Source: https://mikeautomations.github.io/en/part-p-building-control-notification-tracking-electricians/
+
+Part P notification tracking works when every finished notifiable job has one row: the customer, the address, the completion date, the electrical installation certificate, the date it was notified to your competent person scheme and whether the customer has their paperwork. A simple workflow reminds you to notify while there's time, sends the certificate to the customer, and asks them to look out for the building regulations certificate.
+
+If you're registered with a competent person scheme, you self-certify notifiable work and your scheme tells the local authority. Council guidance says this normally happens within 30 days of finishing the job. On a busy week, notifications slip, and the customer only notices when their buyer's solicitor asks for the building regulations certificate. A short list of jobs waiting to be notified, with reminders, keeps it under control.
+
+### Where notifications slip
+- Certificates are written on site but the notification waits until "the weekend"
+- Nobody can see which finished jobs still haven't been notified
+- The address or customer details on the notification don't match the certificate
+- The customer never gets their copy, or loses it before they sell the house
+- Jobs done by a subcontractor or a second van are missed
+- Questions from the scheme or the customer get lost in a busy inbox
+
+### What each job row keeps
+One row per notifiable job. Whether a job is notifiable is your call, based on Approved Document P and your scheme's guidance; the workflow never decides it. Check your scheme's current rules for timings.
+| Field | Why it matters |
+| --- | --- |
+| Customer, address and job reference | The notification matches the certificate |
+| Completion date | The clock for notifying starts here |
+| Certificate type and number | Proof of the work in one place |
+| Date notified to your scheme | You can see what's still waiting |
+| Certificate sent to customer | The customer has their copy |
+| Building regulations certificate expected | The customer knows what's coming |
+
+### A message you can copy
+Email to a customer after notifiable electrical work (edit the words in brackets):
+```
+Hi [first name], thanks for having us at [address].
+
+Your electrical installation certificate for the [work, e.g. new consumer unit] is attached. Please keep it somewhere safe.
+
+We've registered the work with [scheme name], who tell your local council. You should receive a building regulations compliance certificate in the post. If it hasn't arrived by [date], let us know and we'll check.
+
+[Your name], [company], [phone]
+```
+
+### How the workflow runs
+1. When you mark a job finished and tick "notifiable", it joins the waiting list with the completion date.
+2. You get a reminder a few days later, and again before the deadline you set, until you log that you've notified it.
+3. Once it's notified, the customer gets their certificate with the email above.
+4. On the date you chose, the workflow asks the customer whether the building regulations certificate arrived. A no becomes a task to check with your scheme.
+5. Every Friday you get a short list: jobs waiting to be notified, and customers still waiting for paperwork.
+
+### What stays with you
+The work, the testing, every certificate and the decision on what's notifiable. Notifying your scheme stays with you as well; the workflow only keeps the list and sends reminders and customer emails. If AI drafts a message, a person reads and approves it before it's sent. For related jobs, see [EICR remedial work follow-up](https://mikeautomations.github.io/en/eicr-remedial-work-follow-up-electricians/) and [PAT testing reminders](https://mikeautomations.github.io/en/pat-testing-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track notifications today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your certificate software or job app, a spreadsheet and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your certificate software already reminds you to notify and sends customers their paperwork, you don't need this, and we'll say so on the call.
+
+### Does it notify our competent person scheme for us?
+No. It reminds you until you log that you've notified the job. The notification itself stays with you, through your scheme's portal or app.
+
+### Does it decide which jobs are notifiable?
+No. You tick the job as notifiable, based on Approved Document P and your scheme's guidance.
+
+### We use certificate software already. Can it work with that?
+Often, yes, if it can export or email certificates. If not, you log each job in a shared sheet in a few seconds.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Snow removal contract renewals and storm updates, without the phone calls
+Source: https://mikeautomations.github.io/en/snow-removal-contract-renewals-and-storm-updates/
+
+Snow removal contract renewals work best when every customer has one row: last season's contract type, this season's price, the property notes and whether they've signed. A simple workflow sends renewals in the fall with a link to sign, reminds the ones who haven't answered, and fills your route. On storm days it texts each customer when their lot or driveway is done, and logs the visit for billing.
+
+Snow work is won before the first storm. If renewals go out late, customers sign with whoever knocked first. Then, on the first big snow, the phone rings all night with "are you coming?" while the crew is plowing. A simple renewal sequence in the fall and automatic "done" texts on storm days answer most of those calls before they're made.
+
+### Where snow seasons go wrong
+- Renewal letters go out after the first frost, when customers have already been quoted
+- One email is sent and nobody follows up the customers who didn't answer
+- Price changes or contract terms aren't clear, so customers argue mid-season
+- Property notes (curbs, drains, where to pile snow) live in one driver's head
+- Customers call on storm nights because they don't know you've been
+- Per-push and per-event visits aren't logged, so invoices are late or disputed
+
+### What each customer row keeps
+One row per property. Prices and contract terms are yours; the workflow only sends what you've set.
+| Field | Why it matters |
+| --- | --- |
+| Customer, property and contact for storm texts | The right person gets the update |
+| Contract type (seasonal, per push, per event) | Billing matches the agreement |
+| This season's price and terms | Sent exactly as you set them |
+| Renewal sent, reminded, signed | You see who's still undecided |
+| Route and property notes | Any driver can do the job |
+| Visits this season, with time and photo | Invoices and disputes are easy |
+
+### A message you can copy
+Fall renewal email to last season's snow customer (edit the words in brackets):
+```
+Hi [first name], it's [your name] from [company]. Thanks for having us plow [property] last winter.
+
+We'd like to keep you on the route this season. Your [seasonal / per push] price is [price], and the full terms are here: [link to sign].
+
+If you sign by [date], we'll add you to the route before the first snow. Any changes at the property, like new curbs or parking? Just reply and let us know.
+
+[Your name], [company], [phone]
+```
+
+### How the workflow runs
+1. In the fall, on the date you choose, every customer from last season gets their renewal with a link to sign.
+2. Customers who haven't signed get a reminder a week later, then go on a short call list for you.
+3. Signed customers are added to the route with their property notes. New quotes follow the same steps.
+4. On storm days, the driver taps "done" in a simple form or app. The customer gets a text with the time and a photo if you take one.
+5. Each visit is logged against the contract, so per-push and per-event invoices are ready at the end of the storm or the month.
+6. In spring, customers get a thank-you and a note about lawn or landscaping work if you offer it.
+
+### What stays with you
+Prices, contract terms, when to send the trucks out and every decision on the night. The workflow sends renewals, reminders and updates; it doesn't promise arrival times or change your terms. If AI drafts a message, a person reads and approves it before it's sent. For the summer side of the business, see [lawn care seasonal renewals](https://mikeautomations.github.io/en/lawn-care-seasonal-renewals/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you run renewals and storm days today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your field service app, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your field service software already handles renewals, storm texts and per-push billing, you don't need this, and we'll say so on the call.
+
+### Does it tell customers when we'll arrive?
+No. It tells them when their property is done, which is a fact. It doesn't promise arrival times on storm nights.
+
+### Can it handle seasonal, per-push and per-event contracts?
+Yes. Each customer has a contract type, and visits are logged so the invoice matches the agreement.
+
+### Our drivers don't want another app. What do they use?
+Usually a one-tap form on the phone, or a text to a number. We keep it as simple as your crew needs.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
