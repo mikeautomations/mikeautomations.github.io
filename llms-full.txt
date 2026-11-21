@@ -5148,6 +5148,9 @@ Teaching, exam readiness, fees, your cancellation terms and every change to a te
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how the timetable and fees run today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: a shared calendar or your school software where it allows a connection, a spreadsheet, email, texts or WhatsApp, and your payment link or invoicing tool. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your school first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=music-school-lesson-scheduling-and-term-fees).
 
+### Free tools for term fees
+The free [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes term-fee reminders, and the [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) writes the notice for the new fee.
+
 ### Can teachers still manage their own timetables?
 Teachers set their availability and mark absences. Changes to a student's lesson go through the workflow so the office, the teacher and the family all see the same thing.
 
@@ -5289,6 +5292,9 @@ Teaching, stage decisions, class sizes, fees and your policies. The workflow sen
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how re-enrolment and the waiting list run today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: a spreadsheet or your booking software where it allows a connection, email, texts or WhatsApp, and your payment link. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your school first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=swim-school-term-bookings-and-waiting-list).
+
+### Free tools for term fees
+The free [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes polite term-fee reminders, and the [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) writes the notice when fees go up.
 
 ### Does it work with our booking software?
 Yes, where the software allows an export or a connection. Many schools start from a spreadsheet, and that's fine.
@@ -6375,6 +6381,9 @@ The workflow sends, files and reminds. It doesn't test water, choose chemicals o
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how your routes, reports and billing run today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your pool or field service app, a phone form, email or text, QuickBooks or Xero), so your technicians don't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your pool company first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=pool-service-visit-reports).
 
+### Free tools for pool services
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes visit reminders, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the monthly service invoice.
+
 ### What should a pool service visit report include?
 The visit date and technician, water readings, chemicals added, work done, before and after photos, any equipment issue and the next visit date. Keep the same layout every time.
 
@@ -6531,6 +6540,9 @@ Hi [first name], your tattoo with [artist] is on [day, date] at [time]. Before t
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you take bookings, deposits and consent forms today. Within 48 hours you get a written plan with a fixed price. It's built on the tools you already use (your booking app, card payments, a form tool, email, texts or WhatsApp), so you don't move to a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your studio first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=tattoo-studio-consent-and-deposits). For deposits in a salon, see the [salon cancellation policy and deposits](https://mikeautomations.github.io/en/salon-cancellation-policy-and-deposits/) page, and for health forms in a clinic, [patient intake forms](https://mikeautomations.github.io/en/physio-clinic-patient-intake-forms/).
+
+### Free tools for tattoo studios
+The free [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes your deposit and rescheduling terms, and the [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the reminder before each session.
 
 ### Can someone under 18 get a tattoo in the UK with a parent's consent?
 Not in Great Britain. The Tattooing of Minors Act 1969 makes it an offence to tattoo anyone under 18, except for medical reasons by a qualified doctor or someone under their direction. Parental consent isn't an exception. The Act doesn't extend to Northern Ireland.
@@ -8377,6 +8389,9 @@ Most veterinary practice management systems have vaccination reminders built in.
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how reminders run at your practice today and where pets slip through. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example "every pet past its booster date gets two follow-ups, and reception gets one call list every Monday". It's built on the tools you already use (your practice management system where it allows a connection, your email and text service, Google Sheets or Excel), so your team has nothing new to learn. It goes live in 2-3 days, costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. A person at the practice approves the wording of every message before anything is sent. To see the steps first, [build a plan for this workflow](https://mikeautomations.github.io/en/plan/?g=vet-practice-vaccination-reminders).
 
+### Free tools for vaccination reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the booster reminder and the day-before message, and the [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes a clear missed-appointment policy.
+
 ### How often should pets have boosters?
 That's the vet's decision for each animal. The reminders don't set any schedule; they follow the due dates the vet records in your practice management system.
 
@@ -8443,6 +8458,9 @@ Most optical practice systems send recall letters, texts or emails. Use them fir
 
 ### How Mike Automations builds it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how recalls run at your practice today and where patients slip through. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example "every overdue patient gets two follow-ups, lens wearers get their own reminders, and the team gets one call list every Monday". It's built on the tools you already use (your practice software where it allows a connection, your email and text service, Google Sheets or Excel), so your team has nothing new to learn. It goes live in 2-3 days, costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. A person at the practice approves the wording of every message before anything is sent.
+
+### Free tools for recalls
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the eye test recall and day-before messages, and the [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) makes the link to send after the appointment.
 
 ### How often should patients have an eye test?
 The optometrist decides for each patient. For England, the NHS says eligible patients can have a free NHS sight test every 2 years, or more often if the optometrist recommends it. The reminders simply follow the recall date recorded in your practice system.
@@ -8679,6 +8697,9 @@ The technician decides what is found, what is used and what is recommended. A pe
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how contract visits, reports and renewals work in your firm today. Within 48 hours you get a written plan with a fixed price. It's built on the tools you already use: your calendar, email, a shared drive, phones for the visit form, and your job software or accounting tool where it allows a connection. Live in 2-3 days. [Workflow automation is a fixed $2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), and you pay once it's running and you're happy with it. You can [build a draft plan for this workflow](https://mikeautomations.github.io/en/plan/?g=pest-control-contract-visits-and-reports) first, or compare it with [HVAC maintenance agreement renewals](https://mikeautomations.github.io/en/hvac-maintenance-agreement-renewals/) and [lawn care seasonal renewals](https://mikeautomations.github.io/en/lawn-care-seasonal-renewals/), which work the same way.
+
+### Free tools for contract visits
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the visit reminders, and the [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) writes the notice when the contract price goes up at renewal.
 
 ### Can the visit report be written on site?
 Yes. The technician fills in a form on their phone, with photos, and the report is built from it. A person checks the draft before it goes to the client, usually the same day.
@@ -10259,6 +10280,9 @@ The pump-out, any inspection, every report you write for a county or a home sale
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about where your job history lives today and how bookings reach your office. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your dispatch software where it allows a connection, a spreadsheet, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your septic software already sends reminders and you're happy with them, you don't need this, and we'll say so on the call.
+
+### Free tools for pumping reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the reminder texts and emails, and the [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) makes the link to send after the job.
 
 ### Does it tell customers how often to pump?
 No. You set the interval for each tank from your own judgement and local rules. The workflow only uses that date to time the reminder.
@@ -13759,6 +13783,9 @@ The survey, the order, the fitting and every price. Registering jobs with your s
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how jobs move from survey to fitting today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your job app or a spreadsheet, email and text messages), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already sends stage updates and tracks registrations, you don't need this, and we'll say so on the call.
 
+### Free tools for installers
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the fitting quote PDF, and the [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes the nudge when a customer goes quiet.
+
 ### Does it register jobs with FENSA for us?
 No. It reminds the office until someone logs the registration. The registration itself happens in your scheme's portal.
 
@@ -14332,6 +14359,9 @@ Fees and any discounts or hardship help, who plays, and every conversation with 
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how renewals work at your club today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a form, a spreadsheet, payment links and email or texts), so there's nothing new for volunteers to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your governing body's system or a club app already does renewals and reminders, you don't need this, and we'll say so on the call.
+
+### Free tools for renewals
+The free [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes the renewal reminders, and the [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) writes the notice when subscriptions change.
 
 ### Does it register players with the league?
 No. It shows which members have done everything, so your registrar knows who to register through the league's own system.
