@@ -13359,6 +13359,390 @@ Usually a one-tap form on the phone, or a text to a number. We keep it as simple
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Dental lab case tracking: every case back before the patient sits down
+Source: https://mikeautomations.github.io/en/dental-lab-case-tracking/
+
+Dental lab case tracking works when every case sent to the lab has one row: the patient, the work, the lab, the date sent, the date it's due back and the appointment it's needed for. A simple workflow checks a few days before each appointment that the case has arrived, emails the lab if it hasn't, and tells the front desk early enough to move the patient instead of finding out in the chair.
+
+Most practices find out a case is missing when the patient is already in the waiting room. The impression went out, the lab had a busy week, and nobody looked at the box until the morning of the fit. Your practice software may already have a lab case screen. The gap is usually that nobody checks it in time, and nobody chases the lab.
+
+### Where lab cases go wrong
+- The case is due back the day before the appointment, so there's no time to react
+- Nobody checks which cases are still out until the morning of the fit
+- The lab's dispatch email lands in one person's inbox, and they're off that day
+- A case comes back with a query or a remake, and the appointment isn't moved
+- The patient takes a day off work and arrives for a crown that isn't there
+- Several labs, several ways of sending updates, and no single list
+
+### What each case row keeps
+One row per case, linked to the appointment it's for. If your practice software already holds lab cases, the workflow reads from it or from an export instead of a second list. How many days before the appointment to check is your choice.
+| Field | Why it matters |
+| --- | --- |
+| Patient and appointment date | The check runs against the real deadline |
+| Work type and shade | The lab and the front desk talk about the same case |
+| Lab and contact | The chase goes to the right person |
+| Date sent and date due back | You can see cases running late |
+| Received and checked | Only a checked case counts as ready |
+| Notes and remakes | A query is a task, not a surprise |
+
+### A message you can copy
+Email to the lab when a case isn't back (edit the words in brackets):
+```
+Hi [lab contact],
+
+Could you confirm the status of this case, please?
+
+Patient ref: [reference]
+Work: [e.g. upper left crown, shade A2]
+Sent: [date]
+Patient's appointment: [date and time]
+
+If it won't reach us by [date], please let us know today so we can move the appointment.
+
+Thanks, [name], [practice], [phone]
+```
+
+### How the workflow runs
+1. When a case is sent, it's added to the list with the lab, the due date and the appointment.
+2. A few days before the appointment, the workflow checks whether the case is marked received.
+3. If it isn't, the lab gets the email above and the front desk gets a note on the shared list.
+4. If the lab replies with a later date, the front desk sees it and decides whether to move the patient.
+5. Every morning the team sees one short list: cases due this week that aren't back or checked yet.
+
+### What stays with you
+The clinical work, the prescription to the lab, checking each case when it arrives and every decision to move or keep an appointment. The workflow only keeps the list, sends the chase email and warns the team. Patient details stay in your own accounts. If AI drafts a message, a person reads and approves it before it's sent. For related jobs, see [dental treatment plan follow-up](https://mikeautomations.github.io/en/dental-treatment-plan-follow-up/) and [insurance checks before appointments](https://mikeautomations.github.io/en/dental-insurance-verification-before-appointments/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track lab cases today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software or its exports, email and a shared sheet), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already alerts the team and your labs always deliver on time, you don't need this, and we'll say so on the call.
+
+### Our practice software already tracks lab cases. Why add this?
+Often you don't need to. Where it helps is the part around the software: checking in time, emailing the lab, and making sure someone acts. The workflow can read your existing lab case list or export.
+
+### Does it contact patients?
+Only if you want it to. Many practices prefer the front desk to call the patient when an appointment has to move. The workflow makes sure they know early.
+
+### Can it work with several labs?
+Yes. Each case row has its lab and contact, so the chase goes to the right place.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Patient referral tracking: closing the loop on every referral
+Source: https://mikeautomations.github.io/en/patient-referral-tracking-medical-practices/
+
+Patient referral tracking works when every referral has one row with one owner: the patient, the specialist, the date sent, whether the patient is scheduled, whether they were seen and whether the consult note came back. A simple workflow flags referrals that stall at any step, reminds the owner to follow up, and asks the specialist's office for the note, so no referral quietly disappears.
+
+A referral can fail in three places: the specialist never receives it, the patient never books, or the patient is seen and the note never comes back. Guidance from IHI and CMS says the same thing: log every referral and track it to the end. Your EHR may already have a referral screen. The gap is usually that nobody owns the follow-up when a referral sits still.
+
+### Where referrals get lost
+- The referral is faxed or sent, but nobody confirms the specialist received it
+- The patient gets the specialist's number and never calls
+- The specialist's office can't reach the patient and closes the referral
+- Prior authorization is still pending, so the visit can't be scheduled
+- The patient is seen, but the consult note never reaches the referring provider
+- Nobody is named as owner, so everyone assumes someone else is following up
+
+### What each referral row keeps
+One row per referral, with one owner. If your EHR already tracks referrals, the workflow works from a report or export instead of a second list. Which referrals are urgent, and how long each step may take, is decided by your clinicians.
+| Field | Why it matters |
+| --- | --- |
+| Patient, specialist and reason | Everyone follows up on the same referral |
+| Urgency set by the provider | Urgent referrals are checked sooner |
+| Date sent and received | You know the specialist has it |
+| Scheduled and seen dates | Stalled referrals show up |
+| Consult note received | The loop is only closed when the note is back |
+| Owner | One person follows up |
+
+### A message you can copy
+Request to a specialist's office for a consult note (edit the words in brackets):
+```
+Hi [specialist office],
+
+We referred [patient name, date of birth] to [specialist] on [date] for [reason]. Our records show the patient was seen on [date].
+
+Could you send the consult note to [provider name] at [fax or secure email]?
+
+Thank you, [name], [practice], [phone]
+```
+
+### How the workflow runs
+1. When a provider orders a referral, it's added to the list with an owner and the urgency they set.
+2. If the specialist hasn't confirmed receipt after the days you choose, the owner gets a reminder.
+3. If the patient isn't scheduled in time, the owner gets a task to call the patient or the specialist.
+4. After the visit date, if no consult note has arrived, the request above goes to the specialist's office, approved by the owner.
+5. Every week the practice manager sees one short list: open referrals by step and by owner.
+
+### What stays with you
+Every clinical decision: who to refer, how urgent it is and what to do with the consult note. Calls to patients stay with your staff. The workflow only keeps the list, sends reminders and drafts requests. It runs in tools your practice already uses for patient information, and stores only what the referral list needs. If AI drafts a message, a person reads and approves it before it's sent. For related jobs, see [prior authorization tracking](https://mikeautomations.github.io/en/physical-therapy-prior-authorization-tracking/) and [insurance claim denial follow-up](https://mikeautomations.github.io/en/insurance-claim-denial-follow-up-medical-practices/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track referrals today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your EHR's referral reports, email and a shared tracker), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your EHR already flags stalled referrals and your team works that list, you don't need this, and we'll say so on the call.
+
+### Our EHR has a referral module. Why add this?
+You may not need to. Where it helps is follow-up: naming an owner, flagging referrals that stall and chasing consult notes. The workflow can work from your EHR's referral report.
+
+### Does it decide which referrals are urgent?
+No. The ordering provider sets the urgency. The workflow only checks urgent referrals sooner.
+
+### Does it contact patients?
+Only if you want it to, for example a text reminding them to call the specialist. Many practices prefer staff to call. Either way, a person approves the wording first.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Gas Safe notification and boiler warranty registration: none missed
+Source: https://mikeautomations.github.io/en/gas-safe-notification-and-boiler-warranty-registration/
+
+Gas Safe notification and boiler warranty tracking works when every new install has one row: the customer, the address, the boiler and serial number, the install date, whether it's been notified, whether the warranty is registered and whether the customer has their paperwork. A simple workflow reminds you until both are done, then sends the customer a short email about what to expect.
+
+Fitting or replacing a gas boiler is notifiable work in England and Wales. You notify it through the Gas Safe Register or another approved route, and the customer gets a Building Regulations Compliance Certificate. Separately, the manufacturer's warranty usually has to be registered. Both are quick jobs, which is why they get left for later, and the customer only notices when they sell the house or the boiler breaks down.
+
+### Where the paperwork slips
+- Installs are finished on Friday and the notifications wait until "next week"
+- The warranty registration needs a serial number nobody wrote down
+- Nobody can see which finished installs are still waiting for either step
+- The customer asks for their certificate, and nobody knows if it was sent
+- Jobs done by a subcontractor or a second engineer are missed
+- The warranty is registered, but the customer never gets the confirmation
+
+### What each install row keeps
+One row per install. Check the current deadline and fee with the Gas Safe Register or your notification route, and the warranty terms with the manufacturer: the workflow uses the dates you set, it doesn't decide them.
+| Field | Why it matters |
+| --- | --- |
+| Customer, address and job reference | The notification matches the job |
+| Boiler make, model and serial number | Needed for both the notification and the warranty |
+| Install date | Your reminders count from here |
+| Date notified | You can see what's still waiting |
+| Warranty registered and its length | The customer's warranty is in place |
+| Paperwork sent to customer | The customer knows what's coming |
+
+### A message you can copy
+Email to a customer after a new boiler install (edit the words in brackets):
+```
+Hi [first name], thanks for choosing us for your new boiler at [address].
+
+We've notified the installation through [Gas Safe Register or route], so you'll receive a Building Regulations Compliance Certificate in the post. Please keep it with your house documents.
+
+We've also registered your [make and model] warranty with [manufacturer]. [Add any condition the warranty has, e.g. a yearly service.]
+
+If the certificate hasn't arrived by [date], let us know and we'll check.
+
+[Your name], [company], [phone]
+```
+
+### How the workflow runs
+1. When you mark an install finished, a short form on your phone asks for the boiler details and serial number.
+2. The job joins the waiting list. You get reminders until you log the notification and the warranty registration.
+3. Once both are logged, the customer gets the email above.
+4. On the date you choose, the workflow asks the customer whether the certificate arrived. A no becomes a task for the office.
+5. Every Friday you get one short list: installs still waiting to be notified or registered.
+
+### What stays with you
+The installation, the commissioning, and the notification and warranty registration themselves, through the Gas Safe Register, your route or the manufacturer's site. The workflow only keeps the list, sends reminders and emails customers. If AI drafts a message, a person reads and approves it before it's sent. For related jobs, see [boiler service reminders](https://mikeautomations.github.io/en/boiler-service-reminders-heating-engineers/), which can start from the same install list, and [Part P notification tracking](https://mikeautomations.github.io/en/part-p-building-control-notification-tracking-electricians/) for electricians.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track installs today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your job app or a spreadsheet, email and your phone), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already reminds you and sends customers their paperwork, you don't need this, and we'll say so on the call.
+
+### Does it notify Gas Safe or register warranties for us?
+No. It reminds you until you log that each one is done. The notification and the registration stay with you, through the official sites.
+
+### What deadline does it use?
+The one you set, based on your notification route's rules and the manufacturer's warranty terms. Check those directly, as they can change.
+
+### Can it start yearly service reminders too?
+Yes. The same install list can start [boiler service reminders](https://mikeautomations.github.io/en/boiler-service-reminders-heating-engineers/), so each customer is reminded before their first service is due.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## P11D client reminders: benefits information in before June
+Source: https://mikeautomations.github.io/en/p11d-benefits-information-chasing-accountants/
+
+P11D client reminders work when every company client gets the same short questionnaire in April, a reminder until they answer, and a list for you of who still hasn't. GOV.UK sets 6 July for filing P11D and P11D(b) and 22 July for paying Class 1A National Insurance electronically (19 July by cheque), so the questions need to go out long before June.
+
+P11D season is rarely hard because of the tax. It's hard because the information sits with clients: the company car's list price, who had private medical cover, the loan to the director, the gym membership the company paid for. Ask in April and half of them answer. The rest reply in the last week of June. A simple workflow sends the questions early, chases the gaps and shows you who is holding things up.
+
+### Where P11D season goes wrong
+- The benefits questions go out late, or only to the clients you remember
+- Clients answer "same as last year" and nobody checks what changed
+- Car details, private use and dates arrive in five separate emails
+- Nobody can see which companies still haven't replied
+- Clients don't know they also need to pay Class 1A, or by when
+- Payrolled benefits are forgotten on the P11D(b)
+
+### The dates that drive it
+GOV.UK lists the deadlines in its expenses and benefits guidance for employers. Check the page each year before you set your own dates.
+| Deadline (per GOV.UK) | What's due |
+| --- | --- |
+| 6 July | P11D for each employee with benefits, and P11D(b) for the company |
+| 22 July | Class 1A National Insurance paid electronically |
+| 19 July | Class 1A National Insurance paid by cheque |
+
+### Mandatory payrolling is coming
+GOV.UK says payrolling of benefits in kind becomes mandatory in phases, starting from 6 April 2027 with company cars, vans and their fuel, and most other benefits following later. Until then, and for anything not payrolled, P11D and P11D(b) are still needed. The same questionnaire is worth keeping: payroll will need the benefit details too, just earlier. Check HMRC's current guidance for which benefits are in each phase.
+
+### A message you can copy
+April email to a company client (edit the words in brackets):
+```
+Hi [first name],
+
+It's time to gather [company]'s benefits and expenses for the tax year that ended on 5 April, so we can prepare the P11D forms. The deadline is 6 July.
+
+Please fill in this short form by [date]: [link]
+
+It asks about company cars and vans, medical cover, loans to directors or staff, and anything else the company paid for personally. If nothing changed from last year, there's a box for that, but please check the car details.
+
+Thanks,
+[your name]
+```
+
+### How the workflow runs
+1. In April, every company client on your list gets the questionnaire with a link to a short form.
+2. Answers land in one sheet, one row per company, with last year's benefits shown next to this year's.
+3. Clients who haven't answered get a reminder each week, and after the date you set they move to your call list.
+4. When you've filed, the director gets an email with the Class 1A amount and date you've entered.
+5. Every Friday you get a short list: companies not answered, answers to check, and returns not yet filed.
+
+### What stays with you
+Deciding what's taxable, the values on every form, and filing with HMRC. The workflow only sends questions and reminders, collects answers and keeps the list; it never calculates the tax. If AI drafts a message, a person reads and approves it before it's sent. For the rest of the year, see [Corporation Tax payment reminders](https://mikeautomations.github.io/en/corporation-tax-payment-reminders-for-clients/) and [confirmation statement reminders](https://mikeautomations.github.io/en/confirmation-statement-client-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you collect P11D information today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software, email, a form and a spreadsheet), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already sends benefits questionnaires and chases them, you may not need this, and we'll say so on the call.
+
+### Does it prepare the P11D forms?
+No. It collects the information and chases clients. You decide what's reportable, prepare the forms and file them.
+
+### What about clients with no benefits at all?
+The form has a "no benefits this year" option. Their reply is logged, so you can see they've confirmed rather than just stayed silent.
+
+### Will we still need this after payrolling becomes mandatory?
+Probably in a different form. Benefit details still have to come from the client, just before payroll runs rather than after the year ends. The same form and reminders can be pointed at that date.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Window installer updates: from survey to fitting day to FENSA certificate
+Source: https://mikeautomations.github.io/en/window-installer-fitting-updates-and-fensa-certificates/
+
+A window installer can keep every customer informed with a few automatic messages tied to job stages: survey booked, order placed, fitting date set, reminder the day before, and job complete. The same list reminds the office to register each finished job with FENSA or your scheme (FENSA asks for this within 21 days) and tells customers when to expect their certificate.
+
+Between the survey and fitting day there are often several weeks while frames are made, and that's when customers ring to ask what's happening. After fitting, the job still isn't done: it has to be registered with your competent person scheme so the customer gets the certificate their buyer's solicitor will ask for one day. A short workflow handles both: updates customers don't have to chase, and a list of jobs still waiting to be registered.
+
+### Where jobs go quiet
+- Customers hear nothing between paying the deposit and fitting day
+- Delivery dates move and the customer finds out from the fitter
+- Nobody reminds the customer to clear the windowsills or move the car
+- Finished jobs wait in a pile to be registered with the scheme
+- Customers don't know a certificate is coming, or lose it
+- The final invoice goes out late, or twice
+
+### The updates customers get
+| Stage | Message |
+| --- | --- |
+| Survey booked | Date, time window and who's coming |
+| Order placed | What was ordered and the expected lead time |
+| Fitting date set | Date, how long it takes, what to prepare |
+| Day before | Reminder with the arrival window |
+| Job complete | Thanks, final invoice, aftercare and what certificate to expect |
+
+### Registering finished jobs in time
+FENSA asks installers to register each job within 21 days of completion, and council guidance tells homeowners to contact the scheme if no certificate has arrived within 30 days. Other schemes have their own rules, so check yours. The workflow puts every finished job on a waiting list with its completion date, reminds the office until someone logs that it's registered, and later asks the customer whether the certificate arrived. Which jobs fall under the scheme stays your decision.
+
+### A message you can copy
+Text or email when the fitting date is set (edit the words in brackets):
+```
+Hi [first name], good news: your [windows/doors] are ready and we'll fit them on [date], arriving between [time window]. It usually takes about [length].
+
+To help on the day, please clear the windowsills and the area around each window, and leave space to park a van near the house.
+
+Any questions, reply here or call [phone].
+[company]
+```
+
+### How the workflow runs
+1. When a job moves stage in your sheet or job app, the customer gets the matching message.
+2. If a delivery or fitting date changes, the customer is told the new date the same day.
+3. When the fitter marks the job complete, it joins the list of jobs to register, with the completion date.
+4. The office gets reminders until it logs the registration, then the customer is told their certificate will come from the scheme.
+5. A month later the customer is asked whether the certificate arrived. A no becomes a task to check with the scheme.
+
+### What stays with you
+The survey, the order, the fitting and every price. Registering jobs with your scheme stays with the office; the workflow only keeps the list and sends reminders and customer messages. If AI drafts a message, a person reads and approves it before it's sent. Related: [completion sign-off and photos](https://mikeautomations.github.io/en/job-sign-off-and-completion-photos/) and [quote follow-up for trades](https://mikeautomations.github.io/en/contractors/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how jobs move from survey to fitting today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your job app or a spreadsheet, email and text messages), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already sends stage updates and tracks registrations, you don't need this, and we'll say so on the call.
+
+### Does it register jobs with FENSA for us?
+No. It reminds the office until someone logs the registration. The registration itself happens in your scheme's portal.
+
+### We use Certass or another scheme, not FENSA. Does that matter?
+No. The list and reminders work the same way. You set the deadline your scheme asks for.
+
+### Can customers reply to the messages?
+Yes. Replies come to your normal inbox or phone, so a person answers them.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## EV charger DNO notifications: every install notified, every customer updated
+Source: https://mikeautomations.github.io/en/ev-charger-installer-dno-notification-tracking/
+
+EV charger DNO notification tracking works when every job has one row: the customer, the supply details from the survey, the route (Connect and Notify, or apply and wait), the install date and the date the DNO form was sent. GOV.UK guidance says that under Connect and Notify the installer sends the form within 28 days of installation; jobs that need approval first wait until the DNO replies. A simple workflow reminds you before each deadline and keeps the customer informed.
+
+Most domestic charger jobs are straightforward: survey, install, notify the network operator. The trouble is volume. Forms wait until the weekend, a job that needed approval first is booked in anyway, or a looped supply holds everything up while the customer wonders why nobody has called. One list of jobs and their DNO status, with reminders, keeps notifications on time and customers in the loop.
+
+### Where DNO paperwork slips
+- Notification forms for finished installs pile up and drift past 28 days
+- A job that needed approval first is booked before the DNO has replied
+- Looped supplies or low main fuses are found on the day instead of at survey
+- Nobody can see which applications are still waiting for an answer
+- Customers don't know they're waiting on the network operator, not on you
+- Photos and survey details needed for the form are scattered across phones
+
+### Two routes, one list
+GOV.UK's guidance for installers describes Connect and Notify: install first, then notify the DNO within 28 days. Where a property doesn't qualify, for example because of its total demand, you apply first and wait for approval. Each DNO publishes its own criteria and flowchart, so the route is your call from the survey. The workflow tracks both.
+| Route (as set by you) | What the workflow watches |
+| --- | --- |
+| Connect and Notify | Install date, form sent within 28 days, DNO acknowledgement |
+| Apply and wait | Application date, chase dates, approval logged before the install is booked |
+| Supply issue (e.g. looped) | Request to the DNO, customer updates until it's resolved |
+
+### A message you can copy
+Email when a job is waiting for the network operator (edit the words in brackets):
+```
+Hi [first name], a quick update on your charger at [address].
+
+Before we can fit it, [network operator] needs to [approve the connection / unloop your supply]. We sent the request on [date]. They usually reply within their published timescales, and we'll let you know as soon as we hear.
+
+Nothing you need to do for now. Any questions, reply here or call [phone].
+[company]
+```
+
+### How the workflow runs
+1. After the survey, the job is added with its supply details, photos and the route you chose.
+2. For apply-and-wait jobs, the install can't be marked booked until approval is logged, and you get chase reminders.
+3. For Connect and Notify jobs, the install date starts the 28-day clock, and reminders come before it runs out.
+4. When you log the form as sent, the customer gets their handover email with what the DNO notification means.
+5. Every Friday you get a short list: forms due, applications waiting and customers waiting on the network.
+
+### What stays with you
+The survey, the decision on which route applies, the installation and testing, and every form sent to the DNO. The workflow keeps the list, sends reminders and writes customer updates. If AI drafts a message, a person reads and approves it before it's sent. Related: [Part P notification tracking](https://mikeautomations.github.io/en/part-p-building-control-notification-tracking-electricians/) and [solar installer paperwork and handover](https://mikeautomations.github.io/en/solar-installer-paperwork-and-handover/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track DNO paperwork today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your job app or a spreadsheet, email and a survey form), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your installation software already tracks DNO forms and updates customers, you don't need this, and we'll say so on the call.
+
+### Does it submit forms to the DNO for us?
+No. You submit them through the DNO's portal or the ENA form. The workflow reminds you, logs the date and keeps the customer informed.
+
+### Does it decide whether a job is Connect and Notify?
+No. You decide from the survey and your DNO's criteria. The workflow follows the route you set.
+
+### Does it work for heat pumps and batteries too?
+Yes. The same list works for any device you notify or apply for, with the route and deadline you set for each.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 

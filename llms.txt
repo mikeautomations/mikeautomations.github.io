@@ -55,6 +55,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Local Business Schema Generator: Free JSON-LD Tool](https://mikeautomations.github.io/en/local-business-schema-generator/): Free local business schema generator: enter your address, phone and opening hours and copy JSON-LD code that Google and AI search tools can read.
 - [Free UTM Link Builder: Track Every Channel](https://mikeautomations.github.io/en/utm-link-builder/): Free UTM builder for small businesses: enter your page and campaign, get a tracked link for Facebook, Instagram, WhatsApp, email and QR in one go.
 - [Free QR Code Generator: No Sign-up, Never Expires](https://mikeautomations.github.io/en/qr-code-generator/): Free QR code generator for your website, WhatsApp, Wi-Fi, phone or contact card. Static codes that never expire, with scan tracking, PNG and SVG download.
+- [Free Image Compressor and Resizer for Websites](https://mikeautomations.github.io/en/image-compressor/): Shrink and resize photos for your website, Google Business Profile or social posts. WebP or JPEG, in your browser: nothing is uploaded. Free, no sign-up.
 
 ## Free tools in Hebrew (for Israeli businesses, ₪ and 18% VAT)
 - [All Hebrew tools](https://mikeautomations.github.io/he/tools/): כלים חינמיים לעסקים קטנים ועצמאים: חשבון עסקה והצעת מחיר, תזכורת תשלום, מחשבון מע"מ, תעריף לשעה, קישור לוואטסאפ וביקורת בגוגל. בלי הרשמה.
@@ -79,6 +80,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [מחולל Schema לעסק: קוד פרטי עסק לגוגל ול-AI](https://mikeautomations.github.io/he/local-business-schema-generator/): ממלאים כתובת, טלפון ושעות פתיחה ומעתיקים קוד JSON-LD לאתר, שגוגל וכלי חיפוש AI קוראים. כולל בדיקת שלמות ותצוגה. חינם, בלי הרשמה.
 - [בונה קישורי UTM: לדעת מאיזה ערוץ הגיעו הלקוחות](https://mikeautomations.github.io/he/utm-link-builder/): מכניסים עמוד ושם קמפיין ומקבלים קישור מסומן לפייסבוק, אינסטגרם, וואטסאפ, מייל ו-QR בבת אחת, כדי לראות בגוגל אנליטיקס מה עבד. חינם, בלי הרשמה.
 - [מחולל קוד QR חינם: בלי הרשמה ובלי תפוגה](https://mikeautomations.github.io/he/qr-code-generator/): קוד QR חינמי לאתר, וואטסאפ, Wi-Fi, טלפון או כרטיס ביקור. קודים סטטיים שלא פגים לעולם, עם מדידת סריקות והורדה ב-PNG וב-SVG. בלי הרשמה.
+- [כיווץ תמונות לאתר: הקטנה ל-WebP בחינם](https://mikeautomations.github.io/he/image-compressor/): מקטינים ומכווצים תמונות לאתר, לפרופיל העסק בגוגל ולאינסטגרם. WebP או JPEG, בדפדפן בלבד: שום דבר לא עולה לשרת. חינם, בלי הרשמה.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
@@ -258,6 +260,12 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [LPA registration tracking](https://mikeautomations.github.io/en/lasting-power-of-attorney-registration-tracking/): LPA registration tracking for UK solicitors and will writers: every signature, OPG reference and client update on one list, with chasers on time.
 - [Part P notification tracking](https://mikeautomations.github.io/en/part-p-building-control-notification-tracking-electricians/): Part P notification tracking for UK electricians: every notifiable job logged with your scheme on time, and certificates sent to customers.
 - [Snow removal renewals](https://mikeautomations.github.io/en/snow-removal-contract-renewals-and-storm-updates/): Snow removal contract renewals and storm-day updates for US plow businesses: signed contracts before the first snow, and customers told when you're done.
+- [Dental lab case tracking](https://mikeautomations.github.io/en/dental-lab-case-tracking/): Dental lab case tracking that checks every crown, bridge and denture is back before the patient's appointment, chases the lab and warns the front desk.
+- [Patient referral tracking](https://mikeautomations.github.io/en/patient-referral-tracking-medical-practices/): Patient referral tracking for medical practices: every referral gets an owner and a status, stalled ones are flagged, and the consult note is chased.
+- [Gas Safe notification and warranty tracking](https://mikeautomations.github.io/en/gas-safe-notification-and-boiler-warranty-registration/): Track Gas Safe notifications and boiler warranty registrations for every install, so customers get their certificate and warranty without chasing you.
+- [P11D client reminders](https://mikeautomations.github.io/en/p11d-benefits-information-chasing-accountants/): P11D client reminders for UK accountants: ask every company for its benefits information early, chase gaps, and file by 6 July without a June rush.
+- [Window installer updates and FENSA](https://mikeautomations.github.io/en/window-installer-fitting-updates-and-fensa-certificates/): For window and door installers: automatic updates from survey to fitting day, every job registered with FENSA on time, and customers told about certificates.
+- [EV charger DNO notification tracking](https://mikeautomations.github.io/en/ev-charger-installer-dno-notification-tracking/): For EV charger installers: track every DNO notification or application, notify within 28 days, chase approvals, and keep customers updated.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
