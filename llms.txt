@@ -396,6 +396,9 @@ The Hebrew site serves businesses in Israel, in shekels: יצירת פעולות
 - [תזכורות לתורים בוואטסאפ](https://mikeautomations.github.io/he/whatsapp-appointment-reminders/): תזכורות לתורים בוואטסאפ עם כפתורי אישור, הזזה וביטול: רצף תזכורות מוכן, תבניות הודעה, מה עושים עם ביטול, והכללים של Meta.
 - [מעבר מאקסל למערכת](https://mikeautomations.github.io/he/excel-to-system-migration/): מעבר מאקסל למערכת בלי לאבד נתונים: סימנים שהגיע הזמן, שלבי המעבר, ניקוי נתונים, הרצה במקביל וצ'קליסט מוכן ליום המעבר.
 - [מסמכים לדוח שנתי](https://mikeautomations.github.io/he/annual-report-documents-request/): אילו מסמכים לדוח שנתי לבקש מכל לקוח: שכיר, עצמאי, משכיר דירה, בעל תיק השקעות וחברה. טבלה מוכנה, תבנית הודעה ורצף תזכורות.
+- [קוד QR סטטי או דינמי](https://mikeautomations.github.io/he/qr-code-static-vs-dynamic/): קוד QR סטטי לא פג לעולם. קוד דינמי עלול להפסיק לעבוד כשהשירות שמאחוריו נגמר. איך יודעים איזה קוד יש לכם ומה לבדוק לפני שמדפיסים.
+- [איך יודעים מאיזה פוסט הגיעו גולשים](https://mikeautomations.github.io/he/track-website-visitors-utm/): איזה פוסט, מייל או פלייר הביא את הגולש? קישורי UTM וגוגל אנליטיקס 4: כללי שמות, תוויות מוכנות לכל ערוץ ואיפה רואים את התוצאות.
+- [פרטי העסק נכונים בגוגל וב-AI](https://mikeautomations.github.io/he/business-details-google-ai/): שעות פתיחה שגויות או טלפון ישן בגוגל או ב-ChatGPT עולים בלקוחות. רשימת בדיקה של חצי שעה: פרופיל העסק, האתר, Schema ואינדקסים.
 
 ## Optional
 - [Terms](https://mikeautomations.github.io/en/terms/)
