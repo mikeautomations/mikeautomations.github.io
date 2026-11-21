@@ -1765,6 +1765,9 @@ Your plans, your prices and your terms. You decide what each agreement covers, w
 ### How it works
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you sell and track maintenance agreements today. Within 48 hours you get a [written plan with a fixed price](https://mikeautomations.github.io/en/how-it-works/) and a clear definition of "working". It's built on the tools you already use (your field service software, spreadsheet, email, texting and payment tools, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days. You pay once it's running and you're happy with it.
 
+### Free tools for renewals
+The free [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) writes the notice when the agreement price goes up, and the [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the service visit reminders.
+
 ### We track agreements in a spreadsheet. Is that enough?
 Yes. The workflow can start from the spreadsheet you have, or from your field service software if it allows a connection.
 
@@ -3530,6 +3533,9 @@ Most dental practice systems have recall reminders built in. Switch them on and 
 ### How Mike Automations builds it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how recalls run at your practice today and where patients slip through. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example "every patient past their recall date gets two follow-ups, and the front desk gets one call list every Monday". It's built on the tools you already use (your practice software where it allows a connection, your email and text service, Google Sheets or Excel), so your team has nothing new to learn. It goes live in 2-3 days, costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. A person at the practice approves the wording of every message before anything is sent.
 
+### Free tools for recalls
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the recall and day-before messages, and the [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes a clear missed-appointment policy.
+
 ### How often should patients be recalled?
 That's the dentist's decision for each patient, based on their oral health. The NHS says the gap between check-ups can be anywhere from 3 months to 2 years, and up to 1 year for under 18s. The reminders simply follow the recall date the dentist sets in your practice system.
 
@@ -3701,6 +3707,9 @@ If you collect by UK Direct Debit and you change the amount, the collection date
 ### How it works with Mike Automations
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you collect memberships today and what happens when a payment fails. Within 48 hours you get a [written plan with a fixed price](https://mikeautomations.github.io/en/how-it-works/). It's built on the tools you already use (your gym software, Stripe or GoCardless, email and texting, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days, for a one-off $2,000. You pay once it's running and you're happy with it. If AI drafts a reply to a member, a person always approves it before it's sent.
 
+### Free tools for failed payments
+The free [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes polite reminders in three tones, and the [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) writes the notice when membership prices change.
+
 ### Doesn't our gym software already chase failed payments?
 Many systems retry the payment and send one email. The workflow adds the friendly first message, a person following up at the right time and one list of who still owes what.
 
@@ -3785,6 +3794,9 @@ Some US lawn care companies run continuous service, where the program carries on
 
 ### How it works with Mike Automations
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you handle renewals and bookings today. Within 48 hours you get a [written plan with a fixed price](https://mikeautomations.github.io/en/how-it-works/). It's built on the tools you already use (your spreadsheet or scheduling software, email, texting and payment tools, where they allow a connection), so there's no new system to learn in your busiest season. Live in 2-3 days, for a one-off $2,000. You pay once it's running and you're happy with it. Your plans, prices and rounds stay yours, and if AI drafts a reply to a customer, a person always approves it before it's sent.
+
+### Free tools for seasonal renewals
+The free [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) writes the new-season price notice, and the [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the renewal quote PDF.
 
 ### We keep customers in a spreadsheet. Can it start from that?
 Yes. The workflow can start from the spreadsheet you have, or from your scheduling software if it allows a connection.
@@ -5194,6 +5206,9 @@ Teaching, syllabus, who is ready to grade and the result on the day. The workflo
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how trials, payments and gradings run in your club today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: your register or club software where it allows a connection, or a spreadsheet, plus texts, email or WhatsApp, an e-signature tool and your payment provider. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your club first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=martial-arts-school-memberships-and-gradings).
 
+### Free tools for martial arts schools
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes grading and class reminders, and the [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes the message when a membership payment fails.
+
 ### Does it work with our club management app?
 Yes, where the app allows an export or a connection. A register in a spreadsheet works too.
 
@@ -5471,6 +5486,9 @@ Design, pricing, what you are willing to bake and every food safety decision. Th
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how orders come in and get paid today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: a form, email, WhatsApp or texts, your payment link, a spreadsheet and your calendar. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your bakery first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=custom-cake-orders-and-deposits).
+
+### Free tools for cake orders
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the order quote with the deposit shown, and the [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes the deposit and cancellation terms to send with it.
 
 ### Can it reply to Instagram and Facebook messages?
 It replies to the channels we connect: your website form and email always, and social inboxes where the platform allows it. Where it can't, you get an alert and a reply to paste.
@@ -8268,6 +8286,9 @@ Whether a pupil is ready for their test, what each lesson covers, and any money 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you book lessons, take payment and keep track of test dates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your diary or booking app, Google Sheets, text or WhatsApp, and your payment link), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. If you want to see the steps first, [build a plan for this workflow](https://mikeautomations.github.io/en/plan/?g=driving-instructor-lesson-bookings-and-test-reminders).
 
+### Free tools for instructors
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes lesson and test reminders, and the [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes your notice period for cancelled lessons.
+
 ### Can the workflow book or move my pupils' driving tests?
 No. Gov.uk says the learner must book, change and cancel their own test, and that it's against the law to book a car driving test for someone else. The workflow only records the date the pupil tells you and reminds you both.
 
@@ -9023,6 +9044,9 @@ The test itself, your prices and every decision about the car. The workflow keep
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you book MOTs and talk to customers today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your garage software's exports, a spreadsheet, email, texts or WhatsApp), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. To see the steps for your garage first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=garage-mot-reminders).
 
+### Free tools for garages
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the MOT reminder texts and emails, and the [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) makes the link to send after the car is collected.
+
 ### How early can a customer get an MOT without losing days?
 Gov.uk says up to a month (minus a day) before the current MOT runs out, and they keep the same renewal date. Your reminder can work that date out and state it.
 
@@ -9284,6 +9308,9 @@ You decide which vaccinations you require, whether a titre certificate is accept
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how bookings and records work at your place today. Within 48 hours you get a written plan with a fixed price. It's built on your booking app, messaging and files, so staff keep working as they do. Live in 2-3 days. [Workflow automation is a fixed $2,000, one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. You can [see the steps as a plan](https://mikeautomations.github.io/en/plan/?g=dog-groomer-bookings-and-vaccination-records) first.
+
+### Free tools for groomers
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the booking reminders, the [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes your late-cancellation terms, and the [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) makes the link to send after the groom.
 
 ### Do dog groomers legally need vaccination records?
 In England, grooming on its own isn't a licensable activity under the 2018 regulations, so it's your policy. Licensed kennels, home boarders and dog day care must see an up-to-date vet vaccination record for every dog, under GOV.UK statutory guidance.
@@ -10273,6 +10300,9 @@ The engagement letter, the minimum and the top-up amount, trust accounting, appl
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you bill, where trust balances show up today and who sends requests now. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice management or billing software where it allows a connection, a report export, your email and your payment provider), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your billing software already sends replenishment requests and tracks the follow-ups well, you don't need this, and we'll say so on the call.
+
+### Free tools for retainers
+The free [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes the top-up reminders, and the [late payment interest calculator](https://mikeautomations.github.io/en/late-payment-interest-calculator/) works out statutory interest on overdue bills for business clients.
 
 ### Does the workflow move or apply money in trust?
 No. It reads balances and sends requests you approve. Deposits, transfers and applying funds to bills stay in your billing software and with your staff.
