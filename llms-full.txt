@@ -13018,6 +13018,134 @@ A few short questions you choose, such as how it went, interest in the next stag
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Asbestos re-inspection reminders: every register checked on time
+Source: https://mikeautomations.github.io/en/asbestos-re-inspection-reminders/
+
+Asbestos re-inspection reminders work when every client site has one row: the duty holder, the register, the re-inspection frequency from their management plan and the next due date. A simple workflow asks the duty holder to book before the due date, confirms access to the areas on the register, emails the re-inspection report afterwards with a reminder to update the register, and flags sites that are close to overdue or never replied.
+
+Re-inspections are repeat work that clients forget about until something goes wrong. The duty holder changes, the school closes for the holidays, or the report arrives and nobody updates the register. HSE has described a school that received 13 separate re-inspection reports and never updated its register. A surveying company that books visits on time and makes sure reports land with the right person is easier to keep.
+
+### Why re-inspections get missed
+- Next due dates live in a spreadsheet only one person updates
+- The duty holder or site manager changed and nobody told you
+- Rooms on the register are locked, occupied or closed on the day
+- Reports go to a general inbox and the register is never updated
+- Damaged materials found on the visit never become a quote for remedial work
+- Nobody sees which clients are about to go overdue
+
+### What each site row keeps
+One row per site. The re-inspection frequency comes from the client's management plan and risk assessment; your office enters it and the workflow never decides it. If something is missing, the row says so and the office is asked to fill it in.
+| Field | Why it matters |
+| --- | --- |
+| Site, duty holder and deputy | The report reaches someone responsible |
+| Access notes and areas on the register | The surveyor can see every item |
+| Re-inspection frequency and next due date | Taken from the client's plan, not assumed |
+| Last report and surveyor notes | History in one place |
+| Register update confirmed | The client says the register now matches |
+| Remedial work found and quote status | Nothing found on site is forgotten |
+
+### A message you can copy
+Email to a duty holder before an asbestos re-inspection (edit the words in brackets):
+```
+Hi [first name], this is [company]. The asbestos re-inspection at [site] is due by [due date].
+
+We can come on [date 1] or [date 2], [time window]. Please reply with the one that suits, or pick a time here: [booking link].
+
+Our surveyor will need access to every area on the register, including [plant room / roof void / locked rooms]. We'll email the report after the visit so you can update your register.
+
+[Your name], [company], [phone]
+```
+
+### How the workflow runs
+1. Each week the workflow lists sites due in the coming weeks and emails each duty holder with dates or a booking link.
+2. Confirmed visits go in the surveyor's diary with access notes. No reply gets one reminder, then a call task for the office.
+3. The day before, the site gets a reminder about access to every area on the register.
+4. After the visit, the surveyor finishes the report. The workflow emails it to the duty holder and their deputy and sets the next due date.
+5. A week later, the duty holder is asked to confirm the register is updated. If they haven't, the office gets a task to follow up.
+6. Damaged or deteriorating items become a quote task. Every Monday you get a list of sites close to overdue.
+
+### What stays with you
+The survey and re-inspection, every material assessment, the advice to the client and any remedial work. The duty to manage stays with the client. The workflow books visits and sends paperwork; it doesn't judge the condition of any material. Always follow current HSE guidance. For other repeat compliance visits, see [legionella monitoring reminders](https://mikeautomations.github.io/en/legionella-monitoring-visit-reminders/) and [fire alarm service reminders](https://mikeautomations.github.io/en/fire-alarm-service-reminders/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track re-inspections today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your survey software, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your survey software already books every re-inspection and chases every register update, you don't need this, and we'll say so on the call.
+
+### Who decides how often each site is re-inspected?
+The client's management plan and risk assessment. Your office enters the frequency, and the workflow only sends reminders based on it.
+
+### Can it check the client actually updated their register?
+It asks the duty holder to confirm, and flags anyone who doesn't reply. It can't see inside the client's register unless they share it.
+
+### Does it work for managing agents with many blocks?
+Yes. Each block is a site with its own due date, and one contact can book several blocks in one visit.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Tree surgeon quotes and consent tracking: no job lost while you wait for the council
+Source: https://mikeautomations.github.io/en/tree-surgeon-quotes-and-tree-work-consent-tracking/
+
+Tree surgeons lose jobs in two places: quotes nobody chases, and jobs that wait weeks for council consent and are forgotten. A simple workflow follows up each quote, records whether the tree is under a TPO or in a conservation area, logs the date a notice or application went in, reminds you when the council's period is nearly up, and books the job with the customer once you have a decision.
+
+Most tree work quotes are given on site and then left in the van. When a tree is protected, the job also has to wait for the council, often for weeks, and by then the customer has forgotten the details or gone elsewhere. Keeping every quote and every consent on one list means work you've already won actually gets done.
+
+### Where tree work jobs get lost
+- Quotes given on site are never followed up
+- Nobody checks whether the tree is under a TPO or in a conservation area until late
+- The notice or application date is written down nowhere
+- Six or eight weeks pass and nobody tells the customer
+- Council decisions arrive by email and sit unread
+- Jobs that are finally approved never get a date
+
+### What each job row keeps
+One row per quote. Whether a tree is protected, what the council needs and what it decides are always checked by you with the local council; the workflow only keeps the dates you enter and reminds you. If something is missing, the row says so.
+| Field | Why it matters |
+| --- | --- |
+| Customer, address and the trees involved | The right job and the right crew |
+| Quote sent date and status | Every quote gets a follow-up |
+| TPO, conservation area or neither | Checked by you with the council |
+| Notice or application date and reference | You know when the council's period ends |
+| Council decision | Recorded the day it arrives |
+| Booked date | Approved work gets done |
+
+### A message you can copy
+Text or email to a customer while waiting for the council (edit the words in brackets):
+```
+Hi [first name], this is [company]. Quick update on the work to the [tree] at [address].
+
+Because the tree is [protected by a TPO / in a conservation area], we sent the council the [notice / application] on [date], reference [reference]. We'll let you know as soon as we hear back, and then we'll book a date that suits you.
+
+Any questions, just reply here.
+
+[Your name], [company], [phone]
+```
+
+### How the workflow runs
+1. After each site visit, you add the quote. The customer gets it by email, and a follow-up goes out a few days later if they haven't answered.
+2. When a customer accepts, you mark whether the tree needs council consent. If it does, you're reminded to send the notice or application and log the date and reference.
+3. The customer gets an update that the work is waiting for the council, so they know you haven't forgotten them.
+4. Before the council's period ends, you get a reminder to check the decision with the council.
+5. Once you've recorded the decision, the customer gets a message to book a date. Refused or changed work goes back to you to re-quote.
+6. Every Monday you get a list of open quotes and jobs still waiting on the council.
+
+### What stays with you
+Every quote, the price, the advice to the customer, and every check with the council: whether a tree is protected, what to submit, and whether work can start. The workflow keeps dates and sends updates; it never tells anyone they can start work. Rules and timings vary between councils, so always confirm with the local authority. For more on chasing quotes, see [WhatsApp quote follow-up for tradespeople](https://mikeautomations.github.io/en/whatsapp-quote-follow-up-tradespeople/). If AI drafts a message, a person reads and approves it before it's sent.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about where your quotes and council paperwork live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your job software, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already chases every quote and tracks every consent, you don't need this, and we'll say so on the call.
+
+### Does the workflow tell me when I can start work on a protected tree?
+No. It reminds you when to check, and you confirm with the council. It only books the job after you record the decision.
+
+### Can it look up whether a tree has a TPO?
+Not by itself. You check with the council or its map and mark the job. The workflow then makes sure the paperwork date is never lost.
+
+### Does it work if I quote on WhatsApp?
+Yes. Quotes and updates can go out by WhatsApp, text or email, whichever your customers answer.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
@@ -21030,6 +21158,11 @@ Source: https://mikeautomations.github.io/he/automation-nonprofits/ (2026-11-12)
 Source: https://mikeautomations.github.io/he/automation-hvac-technicians/ (2026-11-20)
 
 אוטומציה לטכנאי מיזוג שולחת לכל לקוח תזכורת לפני מועד הניקוי או הטיפול שקבעתם לו, מאשרת את הביקור בוואטסאפ, מזכירה יום לפני, ושולחת אחרי הביקור סיכום עם התאריך הבא. הצעות מחיר שלא נענו חוזרות אליכם כתזכורת להתקשר. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
+
+### אוטומציה לחברת הדברה: כל ביקור בזמן, כל דוח מגיע ללקוח
+Source: https://mikeautomations.github.io/he/automation-pest-control/ (2026-11-21)
+
+אוטומציה לחברת הדברה מחזיקה רשימה אחת של כל הלקוחות והמועד הבא של כל אחד, שולחת תזכורת ואישור ביקור בוואטסאפ, שולחת ללקוח את דוח הביקור מיד אחרי שסיימתם, ומזכירה לכם הצעות מחיר שלא נענו. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
 ### אוטומציה לעסקים: מאיפה מתחילים, ומה כדאי שיעבוד לבד
 Source: https://mikeautomations.github.io/he/business-automation/ (2026-11-12)

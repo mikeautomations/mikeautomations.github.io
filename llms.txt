@@ -245,6 +245,8 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Lease critical dates tracking](https://mikeautomations.github.io/en/commercial-lease-critical-dates-tracking/): Track commercial lease critical dates: rent reviews, break clauses and expiries on one list, with reminders sent early to the person who must act.
 - [Certificate of insurance requests](https://mikeautomations.github.io/en/certificate-of-insurance-requests-insurance-agencies/): Handle certificate of insurance requests faster: one intake form, every detail collected, a draft for the account manager to check, and renewals reissued.
 - [Interview confirmations for agencies](https://mikeautomations.github.io/en/interview-confirmations-recruitment-agencies/): Interview confirmations for recruitment agencies: candidate and client confirmed, a reminder the day before, and feedback from both sides the same day.
+- [Asbestos re-inspection reminders](https://mikeautomations.github.io/en/asbestos-re-inspection-reminders/): Asbestos re-inspection reminders for UK surveying companies: every client's next re-inspection on one list, visits booked and reports sent.
+- [Tree surgeon quotes and consent tracking](https://mikeautomations.github.io/en/tree-surgeon-quotes-and-tree-work-consent-tracking/): Quote follow-up and tree work consent tracking for UK tree surgeons: every quote chased, every TPO or conservation area notice dated and booked.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
@@ -358,6 +360,7 @@ The Hebrew site serves businesses in Israel, in shekels: יצירת פעולות
 - [אוטומציה למשרדי אדריכלים](https://mikeautomations.github.io/he/automation-architects/): איסוף מסמכים לפרויקט, אישור לקוח על כל שלב תכנון, מעקב אחרי שלבי שכר טרחה ועדכון ללקוח איפה הפרויקט עומד. למשרדי אדריכלים קטנים.
 - [אוטומציה לעמותות](https://mikeautomations.github.io/he/automation-nonprofits/): תודה וקבלה לתורם שיוצאות לבד, מעקב אחרי הוראות קבע שנכשלו, שיבוץ מתנדבים ותזכורות לדיווחים לקרנות. לעמותות קטנות עם צוות מצומצם.
 - [אוטומציה לטכנאי מיזוג](https://mikeautomations.github.io/he/automation-hvac-technicians/): תזכורת ללקוח לפני ניקוי או טיפול במזגן, אישור ביקור בוואטסאפ, הצעות מחיר שלא נענו ועדכון אחרי הביקור. סביב מה שכבר יש לכם.
+- [אוטומציה לחברת הדברה](https://mikeautomations.github.io/he/automation-pest-control/): תזכורת ללקוח לפני ביקור הדברה, אישור בוואטסאפ, דוח ביקור שנשלח לבד והצעות מחיר שלא נענו. ללקוחות פרטיים ולעסקים בחוזה.
 - [אוטומציה לעסקים: המדריך](https://mikeautomations.github.io/he/business-automation/): מדריך לאוטומציה לעסקים קטנים מכל סוג: מה זה, מאיפה מתחילים, מה כדאי שיעבוד לבד, באילו כלים, כמה זה עולה ואיך עושים את זה בלי לבזבז כסף.
 - [כמה עולה אוטומציה לעסק](https://mikeautomations.github.io/he/automation-cost/): תהליך אוטומטי אחד החל מ-5,500 ₪, מערכת ייחודית החל מ-9,000 ₪, ליווי מ-900 ₪ לחודש. מה משפיע על המחיר ומה העלויות אחרי ההקמה.
 - [תזכורות תשלום אוטומטיות ללקוחות](https://mikeautomations.github.io/he/invoice-payment-reminders/): חשבונית יוצאת בזמן, ותזכורת מנומסת נשלחת לבד עד שהתשלום נכנס. עובד עם תוכנת החשבוניות שכבר יש לכם. איך זה בנוי ומה המחיר.
