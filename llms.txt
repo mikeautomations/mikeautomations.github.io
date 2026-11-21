@@ -26,7 +26,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Small business automation](https://mikeautomations.github.io/en/small-business-automation/): A practical guide to small business automation: what it is, what to automate first, which tools to use, what it costs, and 100+ step-by-step workflows.
 - [Examples](https://mikeautomations.github.io/en/examples/): Four example builds with demo data: a Self Assessment records chase, agency onboarding, quote follow-ups and VAT paperwork. Not client stories.
 - [Free guide](https://mikeautomations.github.io/en/guide/): 25 AI automations for accountants and small firms, from document chasing to getting paid. Read them all here or get the free 12-page PDF, no email needed.
-- [Free tools](https://mikeautomations.github.io/en/free-tools/): Free online tools for small businesses: invoice and quote generators, payment reminder emails, Google review link and QR code, pricing calculators and more. No sign-up.
+- [Free tools](https://mikeautomations.github.io/en/free-tools/): Free tools for small businesses: invoice and quote generators, payment reminders, a Google search preview, pricing calculators and more. No sign-up.
 - [Automation Plan Builder for Small Service Businesses](https://mikeautomations.github.io/en/plan/): Pick your business and the job that eats your week. Get a step-by-step automation plan: what runs on its own, what you approve, the fixed price.
 - [Automated Reminder Emails: Try a Demo](https://mikeautomations.github.io/en/try/): Watch automated reminder emails for client documents, quote follow-up and unpaid invoices play out in 60 seconds, and see how a reply stops them.
 - [Pay-When-Happy Automation Agreement Template](https://mikeautomations.github.io/en/agreement/): A free fixed-price automation agreement: write what "working" means, and pay only once it's running and you're happy. Print it or send it to Michael.
@@ -51,6 +51,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [UK Mileage Allowance Calculator (HMRC rates)](https://mikeautomations.github.io/en/mileage-allowance-calculator/): Free UK mileage allowance calculator using HMRC approved rates: 55p then 25p for cars and vans, 24p motorcycles, 20p bicycles and 5p per passenger.
 - [Break-Even Calculator: Units, Revenue and Margin](https://mikeautomations.github.io/en/break-even-calculator/): Free break-even calculator. Enter fixed costs, price and variable cost to see the jobs you need each month, break-even revenue and contribution margin.
 - [Percentage and Discount Calculator](https://mikeautomations.github.io/en/percentage-calculator/): Free percentage calculator. Find X% of Y, what percent one number is of another, percentage change, a price after a discount or the price before it.
+- [Google Search Preview: Free Title and Meta Checker](https://mikeautomations.github.io/en/google-search-preview/): See how your page looks on Google and in WhatsApp before you publish. Check title and description length, get a score and copy the meta tags.
 
 ## Free tools in Hebrew (for Israeli businesses, ₪ and 18% VAT)
 - [All Hebrew tools](https://mikeautomations.github.io/he/tools/): כלים חינמיים לעסקים קטנים ועצמאים: חשבון עסקה והצעת מחיר, תזכורת תשלום, מחשבון מע"מ, תעריף לשעה, קישור לוואטסאפ וביקורת בגוגל. בלי הרשמה.
@@ -71,6 +72,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [מכתב העלאת מחירים ללקוחות: מחולל חינם](https://mikeautomations.github.io/he/price-increase-letter/): מחולל חינם למכתב העלאת מחירים ללקוחות: מייל מנומס עם שורת נושא וגרסה קצרה לוואטסאפ. אחוז העלייה מחושב לבד, והניסוח ניטרלי מבחינת מגדר.
 - [מחשבון נקודת איזון: כמה עבודות צריך בחודש](https://mikeautomations.github.io/he/break-even-calculator/): מחשבון נקודת איזון חינמי: מזינים הוצאות קבועות, מחיר ועלות משתנה ורואים כמה עבודות צריך בחודש, הכנסה לאיזון ורווח תרומה, בשקלים.
 - [מחשבון אחוזים והנחות](https://mikeautomations.github.io/he/percentage-calculator/): מחשבון אחוזים והנחות חינמי: אחוז ממספר, איזה אחוז מספר אחד הוא מהשני, שינוי באחוזים, מחיר אחרי הנחה והמחיר לפני ההנחה.
+- [תצוגה מקדימה בגוגל: בדיקת כותרת ותיאור לאתר](https://mikeautomations.github.io/he/google-search-preview/): איך העמוד שלכם נראה בגוגל ובוואטסאפ, לפני שמפרסמים. בדיקת אורך כותרת ותיאור, ציון עם תיקונים ברורים וקוד תגיות להעתקה. חינם.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
