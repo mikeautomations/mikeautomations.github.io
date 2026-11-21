@@ -21273,6 +21273,168 @@ Not on its own. Rules act on email as it arrives and flags remind you, not the c
 ### Can I share Outlook templates with colleagues?
 Microsoft's support page says templates saved in a shared mailbox that has been added as a full account in new Outlook can be viewed and edited by others who open that mailbox the same way. Templates in your own mailbox are only yours.
 
+## Do QR codes expire? Static vs dynamic QR codes for small businesses
+Source: https://mikeautomations.github.io/en/blog/do-qr-codes-expire-static-vs-dynamic/ (2026-11-21)
+
+A static QR code never expires: the link or details are stored in the black and white pattern itself, so it works for as long as the page it points to exists. A dynamic QR code holds a short link to the generator's own server, which forwards people to your page. If that service, subscription or trial ends, the redirect can stop and every printed code breaks.
+
+You print 500 flyers with a QR code, and three months later customers tell you the code opens an error page, or a page asking you to upgrade. The code didn't wear out. It was a dynamic code, and the service behind it stopped forwarding scans.
+Here is the difference between static and dynamic QR codes in plain English, how to tell which one you have, when each makes sense, and a simple way to get the flexibility of a dynamic code with none of the risk.
+
+### Static QR codes: the content is in the pattern
+A QR code is a way of writing text as a pattern of squares. With a static code, that text is your actual web address, phone number, Wi-Fi details or contact card. A phone camera reads the pattern and opens the link directly. No server sits in the middle, so there is nothing to switch off, renew or pay for.
+The trade-off: you can't change a static code after printing, because changing the content changes the pattern. And it doesn't count scans by itself (more on that below).
+
+### Dynamic QR codes: a redirect you don't control
+A dynamic code contains a short link on the QR provider's domain. When someone scans it, the provider's server records the scan and forwards the person to whatever page you set in your account. That gives you scan counts and lets you change the destination later.
+The catch is that every printed code now depends on that provider. Some services offer dynamic codes free for a trial period and then require a paid plan to keep them redirecting. Read the terms before you print: check whether codes keep working if you stop paying, close your account, or the plan changes.
+
+### How to tell which kind you have
+1. Scan the code with your phone camera and look at the address it shows before you tap it.
+2. If it shows your own website (yourbusiness.com/...), WhatsApp (wa.me/...), a phone number or Wi-Fi details, it's static.
+3. If it shows a short link on another company's domain, it's dynamic, and it depends on that company.
+
+### Which one to use
+| Use | Static | Dynamic |
+| --- | --- | --- |
+| Business cards, van signs, shop windows | Yes: printed for years | Risky unless you'll pay for years |
+| Wi-Fi for guests | Yes (Wi-Fi codes are always static) | Not needed |
+| WhatsApp or call button on a flyer | Yes | Not needed |
+| Short campaign you need to edit mid-way | Point it at a page you can edit | Works, if you accept the dependency |
+| Counting visits from print | Yes, with UTM tracking | Counts scans in the provider's dashboard |
+
+### The best of both: a static code to a page you own
+Most of what people want from a dynamic code can be done with a static one. Point the code at a page on your own website that you can edit, such as yourbusiness.com/menu or yourbusiness.com/offer. When the menu or offer changes, update the page. The printed code never needs to change, and it never depends on anyone else.
+To see how many people came from the code, add UTM labels to the link (for example utm_source=flyer&utm_medium=qr&utm_campaign=winter-offer). Google Analytics then shows visits from that code under its own campaign name. It counts visits to your site rather than every scan, which is usually the number that matters. Our guide to [tracking which post or flyer brings visitors](https://mikeautomations.github.io/en/blog/track-which-post-brings-website-visitors/) shows where to find them.
+
+### Before you print a QR code
+- Test a printed copy with two different phones, from the distance people will actually scan it.
+- Print it at least 2 × 2 cm (about 0.8 inch) for anything held in the hand. Bigger for posters: allow roughly 1 cm of code for every 10 cm of scanning distance.
+- Keep the white border (the quiet zone) around the code. Don't crop it.
+- Use a dark code on a light background with strong contrast. Light-on-dark codes fail on many phones.
+- Shorter content makes a simpler pattern that scans faster. A long link with many parameters makes a dense code.
+- Tell people why to scan: "Scan to book" gets more scans than a bare code.
+
+### Free tool: static QR codes that never expire
+Our free [QR code generator](https://mikeautomations.github.io/en/qr-code-generator/) makes static codes for your website (with optional scan tracking), WhatsApp, a phone call, text message, email, Wi-Fi or a contact card. Add your colours and a caption, check contrast and size, and download PNG or SVG. No sign-up and no watermark. Need a link with tracking for other channels too? The [UTM link builder](https://mikeautomations.github.io/en/utm-link-builder/) makes one per channel.
+
+### Do QR codes expire?
+Static QR codes don't: the content is in the pattern itself. Dynamic QR codes can stop working if the service that redirects them ends, or if a trial or subscription runs out.
+
+### Can I edit a static QR code after printing?
+No, but you can edit the page it points to. Point the code at a page on your own website and update that page instead.
+
+### Can I track scans with a static code?
+You can track visits. Add UTM labels to the link and Google Analytics shows the visits from that code under its campaign name.
+
+### What's the minimum size for a QR code?
+As a rule of thumb, at least 2 × 2 cm for print held in the hand, larger for anything scanned from a distance. Always test a printed copy before printing in bulk.
+
+## How to see which post, email or flyer brings visitors to your website
+Source: https://mikeautomations.github.io/en/blog/track-which-post-brings-website-visitors/ (2026-11-21)
+
+Add UTM labels to every link you share from outside your website, one link per place: utm_source for where it's posted, utm_medium for the type of channel and utm_campaign for what you're promoting. Google Analytics 4 then shows the visits in Reports, Acquisition, Traffic acquisition, under Session campaign or Session source / medium.
+
+You post the same offer on Facebook, Instagram, in a WhatsApp message, in your newsletter and on a printed flyer. A week later the website had more visitors. Which of the five worked? Without tracking, you mostly can't tell: visits from WhatsApp, email apps and QR codes often arrive without saying where they came from, and analytics files them as "direct", as if people had typed your address.
+UTM links fix that with a few labels on the end of the link. Here is how they work, the naming rules that keep reports clean, a ready set of labels for each channel, and exactly where to read the results in Google Analytics 4.
+
+### What a UTM link is
+It's your normal page address with labels added, for example yourbusiness.com/offer?utm_source=facebook&utm_medium=social&utm_campaign=winter-offer. Visitors see the same page. Google Analytics reads the labels and records the visit against that source, medium and campaign.
+- utm_source: the place, such as facebook, instagram, newsletter or flyer.
+- utm_medium: the type of channel, such as social, email, cpc or qr.
+- utm_campaign: what you're promoting, such as winter-offer. Use the same name everywhere.
+- utm_content (optional): which post or ad, to compare two versions.
+- utm_term (optional): the keyword, for paid search ads.
+
+### Ready labels for each channel
+Google Analytics 4 sorts visits into default channel groups (Organic Social, Email, SMS, Paid Social and so on) partly from the medium. Mediums it recognises, such as social, email, sms and cpc, land in the right group. A medium it doesn't recognise, such as qr, usually shows as "Unassigned" in the channel report, but the visits still appear under your campaign name and source.
+| Where you share it | utm_source | utm_medium |
+| --- | --- | --- |
+| Facebook post | facebook | social |
+| Instagram bio or story | instagram | social |
+| LinkedIn post | linkedin | social |
+| WhatsApp message | whatsapp | social |
+| Email newsletter | newsletter | email |
+| Google Business Profile website link | google | organic |
+| Text message | sms | sms |
+| Facebook or Instagram ad | facebook | paid_social |
+| QR code on a flyer | flyer | qr |
+
+### Four rules that keep your reports clean
+1. Lower case, no spaces. Analytics treats Facebook and facebook as two different sources and splits your numbers.
+2. One campaign name everywhere: winter-offer on every channel, so the totals sit in one row.
+3. One link per place. Don't paste the Facebook link into the newsletter.
+4. Never use UTM links between pages of your own site. Only on links coming in from outside: posts, ads, emails, profiles and print. Internal UTM links can start a new session and overwrite where the visitor really came from.
+
+### Where to see the results in Google Analytics 4
+New visits usually appear within a day. If you see nothing at all, check that Google Analytics is installed on the page the link opens.
+1. Open Google Analytics and go to Reports, then Acquisition, then Traffic acquisition.
+2. Change the first column of the table to Session campaign and find your campaign name.
+3. Switch it to Session source / medium to compare each channel side by side.
+4. Add a comparison or a secondary dimension if you also want to see which landing page or post (utm_content) did best.
+
+### From visits to enquiries
+Visits are the first number. The one that pays is enquiries: forms, calls, WhatsApp messages and bookings. If your contact form or booking tool records the page and the UTM labels with each enquiry, you can see which channel brings customers, not just visitors. That's something we often set up when we [automate the reply to new enquiries](https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/), so every lead arrives with its source attached.
+
+### Free tools: links per channel, and a QR code for print
+The free [UTM link builder](https://mikeautomations.github.io/en/utm-link-builder/) takes one page and one campaign name and gives you a ready link for each channel you pick, tidied to lower case, with copy buttons and a check before you share. For flyers, cards and posters, the [QR code generator](https://mikeautomations.github.io/en/qr-code-generator/) adds the tracking for you and makes a static code that never expires.
+
+### Do UTM links affect SEO?
+Use them only on links shared outside your site (posts, ads, emails, print). They don't belong in your own menus or internal links, and they don't help or hurt rankings when used that way.
+
+### Why does WhatsApp traffic show as direct?
+Links opened from many apps arrive without telling the website where they came from, so analytics can't attribute them. A UTM link carries the source in the address itself.
+
+### Are UTM values case sensitive?
+Yes. facebook and Facebook are reported as two different sources, so keep every value in lower case.
+
+### Can I shorten a UTM link?
+Yes. A link shortener keeps the labels as long as it forwards to the full address. For print, a static QR code holds the full link without a shortener.
+
+## How to get your business details right in Google and AI search
+Source: https://mikeautomations.github.io/en/blog/business-details-in-google-and-ai-search/ (2026-11-21)
+
+Search engines and AI assistants build their answers about your business from what they can read: your Google Business Profile, your own website and the directories you're listed in. Use exactly the same name, address, phone number and opening hours everywhere, write them as plain text on your website, and add local business structured data (schema) to your home or contact page so machines don't have to guess.
+
+A customer asks their phone for "a plumber open on Saturday near me", or asks an AI assistant for a dentist in their town. The answer is assembled from what machines can read about each business. If your opening hours appear three different ways across the web, or your address only appears inside an image on your website, you are harder to get right, and easier to skip.
+None of this needs a developer. Here is a 30-minute checklist, in the order that matters most.
+
+### 1. Your Google Business Profile comes first
+For Google Search and Maps, your Business Profile is the main source for your hours, phone number and location. Check that the business name matches your signs, the category is the most specific one that fits, the hours are right (including special hours for bank holidays), and the phone number and website are current. Google's guidelines ask for your real-world business name, without extra keywords.
+
+### 2. Put the same details on your website, as text
+- Name, full address, phone number and opening hours as real text, not only inside an image or a map.
+- The same format everywhere: if the Business Profile says 08:00–18:00, don't write "8 till 6ish" on the contact page.
+- The towns you cover, written out, if you travel to customers.
+- One page per location if you have several branches.
+
+### 3. Add local business schema to your home or contact page
+Structured data is a short block of code, usually in a format called JSON-LD, that states your business details in a standard vocabulary (schema.org). Google says it uses structured data to understand the content of a page. For a local business, its documentation lists the name and address as required, and recommends details such as telephone, website, opening hours, coordinates and price range.
+Structured data doesn't promise any special display or ranking: Google decides what to show. It is a small, free step that removes guesswork. If your site already outputs business schema (some SEO plugins do), check what it says and update that block rather than adding a second one.
+
+### 4. Check your directory listings
+AI assistants and search engines also read listings on directories and review sites: Bing Places, Apple Business Connect, Yelp, Facebook, trade directories such as Checkatrade or Angi, and your industry's own lists. Search your business name and fix any listing with an old phone number, old address or wrong hours. Matching details everywhere are easier to trust.
+
+### 5. Check how your pages look in results
+Your page title and meta description are often what people see in Google, and in link previews on WhatsApp and social media. Check that each important page has a clear title with your service and town, and a description that tells people what they'll get and how to contact you.
+
+### What AI search can and can't do with this
+AI assistants that search the web read pages much like search engines do, and clear, consistent facts are easier for them to repeat correctly. No AI provider publishes exactly how it chooses businesses or how much weight it gives to structured data, and nobody can guarantee you'll be mentioned. What you control is whether the facts they find about you are right.
+
+### Free tools for each step
+- [Local business schema generator](https://mikeautomations.github.io/en/local-business-schema-generator/): fill in your details and opening hours, see what search engines will read, and copy JSON-LD for your site.
+- [Google search preview](https://mikeautomations.github.io/en/google-search-preview/): see your title and description on Google desktop, mobile and in a WhatsApp link preview, with fixes.
+- [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/): a direct link to your review form, so customers can add reviews in one tap.
+
+### Does schema help my business appear in ChatGPT?
+No provider publishes how much weight it gives to structured data. Clear, consistent details on your site, in plain text and in schema, make it easier for any tool to get your facts right, but nobody can guarantee a mention.
+
+### Where should local business schema go?
+Usually on the home page, or the contact page if your address is there. One block per location.
+
+### Do I still need a Google Business Profile?
+Yes. For Google Search and Maps it's the main source for your hours and location. Schema on your website supports it; it doesn't replace it.
+
 ## Hebrew site (Israel): direct answers
 
 ### אוטומציה למשרד רואי חשבון: פחות רדיפה אחרי מסמכים, יותר עבודה מקצועית
