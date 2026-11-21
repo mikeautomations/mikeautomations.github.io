@@ -268,6 +268,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [P11D client reminders](https://mikeautomations.github.io/en/p11d-benefits-information-chasing-accountants/): P11D client reminders for UK accountants: ask every company for its benefits information early, chase gaps, and file by 6 July without a June rush.
 - [Window installer updates and FENSA](https://mikeautomations.github.io/en/window-installer-fitting-updates-and-fensa-certificates/): For window and door installers: automatic updates from survey to fitting day, every job registered with FENSA on time, and customers told about certificates.
 - [EV charger DNO notification tracking](https://mikeautomations.github.io/en/ev-charger-installer-dno-notification-tracking/): For EV charger installers: track every DNO notification or application, notify within 28 days, chase approvals, and keep customers updated.
+- [HMO licence renewal tracking](https://mikeautomations.github.io/en/hmo-licence-renewal-tracking/): HMO licence renewal tracking: every licence's end date and conditions on one list, renewals started early, and the documents councils ask for collected in time.
+- [DBS Update Service renewal reminders](https://mikeautomations.github.io/en/dbs-update-service-renewal-reminders/): DBS Update Service tracking for clubs, charities and tutors: every renewal date on one list, people reminded before it lapses, and status checks logged.
+- [Contractor license renewal tracking](https://mikeautomations.github.io/en/contractor-license-renewal-and-ce-tracking/): Contractor license renewal tracking: every license, renewal date and continuing education requirement on one list, with reminders before deadlines.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

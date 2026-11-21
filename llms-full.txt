@@ -13743,6 +13743,199 @@ Yes. The same list works for any device you notify or apply for, with the route 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## HMO licence renewals: no licence runs out unnoticed
+Source: https://mikeautomations.github.io/en/hmo-licence-renewal-tracking/
+
+HMO licence renewal tracking works when every licensed property has one row: the council, the licence number, the end date printed on the licence, its conditions and the documents the council asks for. A simple workflow reminds you months before the end date, collects the certificates you'll need, and keeps the landlord informed. GOV.UK says an HMO licence lasts up to 5 years and must be renewed before it runs out; councils can issue shorter ones.
+
+A five-year licence is easy to forget. By the time it's due, the person who applied may have left, the gas and electrical certificates need updating, and the council's renewal process has changed. If the licence lapses, the property is let without one. A list of every licence with its end date and conditions, and reminders that start early, keeps renewals routine.
+
+### Where renewals slip
+- End dates live on PDFs in different landlords' folders
+- Licences granted for 1 or 3 years are treated as if they last 5
+- The renewal needs certificates that have since expired
+- Licence conditions (repairs, occupancy limits) are forgotten until inspection
+- Landlords don't know a renewal fee is coming
+- Councils ask for updated documents during the licence and the request gets lost
+
+### What each licence row keeps
+One row per licensed property. The dates come from the licence the council issued, not from a rule of thumb: councils can grant licences for less than five years.
+| Field | Why it matters |
+| --- | --- |
+| Property, landlord and council | Who to contact and where to apply |
+| Licence number and type | Mandatory, additional or selective |
+| Start and end date (from the licence) | Drives every reminder |
+| Maximum occupiers and households | Checked at every new let |
+| Conditions and due dates | Works or documents promised to the council |
+| Certificates needed for renewal | Gas, electrical, fire alarm and others the council lists |
+
+### A message you can copy
+Email to a landlord ahead of renewal (edit the words in brackets):
+```
+Hi [first name],
+
+The HMO licence for [property] ends on [date]. [Council] needs the renewal application before then, so we'd like to start it by [date].
+
+For the application we'll need up-to-date [gas safety certificate, EICR, fire alarm certificate]. [Two] of these are due before the end date, and we'll book them unless you tell us otherwise.
+
+The council's renewal fee is [amount, from the council's website]. Reply to confirm you'd like us to go ahead.
+
+[Your name], [agency]
+```
+
+### How the workflow runs
+1. Every licence is logged with the dates and conditions from the licence document.
+2. Months before the end date (you choose how many), the landlord gets the email above and you get a task.
+3. Certificates needed for the application are checked against their own expiry dates and booked if needed.
+4. Condition deadlines and council requests for documents get their own reminders during the licence.
+5. Every month you get a short list: renewals due, conditions outstanding, and properties near their occupancy limit.
+
+### What stays with you
+The application to the council, every conversation with its licensing team, and decisions about occupancy and works. The workflow keeps the list, sends reminders and drafts landlord emails. If AI drafts a message, a person reads and approves it before it's sent. Related: [compliance certificate reminders](https://mikeautomations.github.io/en/letting-agent-compliance-certificate-reminders/) and [maintenance requests](https://mikeautomations.github.io/en/letting-agent-maintenance-requests/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track licences today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your property software or a spreadsheet, and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your property software already tracks licence dates and conditions, you don't need this, and we'll say so on the call.
+
+### Does it apply to the council for us?
+No. It reminds you, gathers what the application needs and updates the landlord. You submit the application through the council's own process.
+
+### Our council issues different licence lengths. Does that matter?
+No. Each row uses the dates on that licence, so 1, 3 and 5-year licences are all tracked correctly.
+
+### Can it track selective and additional licensing too?
+Yes. Any licence with an end date and conditions fits the same list.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## DBS Update Service renewals: no volunteer's check lapses by accident
+Source: https://mikeautomations.github.io/en/dbs-update-service-renewal-reminders/
+
+DBS Update Service renewal tracking works when every person has one row: their certificate number and level, the date their Update Service subscription ends, and the date you last checked their status. GOV.UK says a subscription lasts one year and can be renewed up to 30 days before it ends; if it lapses, they need a new DBS check. A simple workflow reminds each person in that window and reminds you to do your own status checks.
+
+The Update Service saves everyone time: one DBS check, kept current for a yearly subscription, and organisations can check it online with permission. The weak spot is the renewal. It's the volunteer's subscription, not yours, and if they forget, the next check you run fails and they need a brand-new DBS application. A list of renewal dates and a friendly reminder in the right window avoids that.
+
+### Where it goes wrong
+- Nobody knows when each person's subscription ends
+- Volunteers think the club renews it for them
+- Reminders go out after the subscription has already lapsed
+- Status checks are done once at joining and never again
+- Certificate numbers and consent are scattered across emails
+- New coaches or tutors start before their check is confirmed
+
+### What each person's row keeps
+Which roles need which level of check is your decision, using DBS eligibility guidance. The list only tracks dates and your checks.
+| Field | Why it matters |
+| --- | --- |
+| Name, role and contact | Who to remind |
+| Certificate number and level | What you check against |
+| Update Service subscription end date | Drives the renewal reminder |
+| Consent to check online | You need it before each check |
+| Date of your last status check | Shows when the next one is due |
+| Result of the last check | No change, or a follow-up for you |
+
+### A message you can copy
+Reminder to a volunteer about their subscription (edit the words in brackets):
+```
+Hi [first name],
+
+Your DBS Update Service subscription ends on [date]. You can renew it on the GOV.UK Update Service from [date, 30 days before], and it has to be done before it ends: if it lapses, you'd need a whole new DBS check.
+
+It takes a few minutes: [link to GOV.UK Update Service]. Reply here once it's done and we'll update our records.
+
+Thanks for everything you do at [club].
+[Your name]
+```
+
+### How the workflow runs
+1. Each person's certificate details and subscription end date go into the list when they join.
+2. When their renewal window opens, they get the reminder above, and a second one a week before it ends.
+3. When they reply that it's done, the date is updated for next year.
+4. On the schedule you set, you get a list of people due a status check, and you log the result.
+5. Every month you get a short list: renewals due, anyone not replying, and people starting without a confirmed check.
+
+### What stays with you
+Deciding which roles need a check and at what level, every status check, and any follow-up on a result. The workflow keeps the list and sends reminders; it never sees a certificate's contents. If AI drafts a message, a person reads and approves it before it's sent. Related: [home care carer compliance](https://mikeautomations.github.io/en/home-care-agency-carer-compliance/) and [new hire paperwork](https://mikeautomations.github.io/en/new-hire-paperwork-collection-small-business/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track DBS checks today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, a form and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your club or membership software already tracks Update Service dates, you don't need this, and we'll say so on the call.
+
+### Does it check DBS status for us?
+No. It reminds you when checks are due and keeps the results you log. You do the check yourself on the GOV.UK Update Service, with the person's consent.
+
+### Who pays for the subscription?
+The subscription belongs to the person. Some organisations reimburse it. The workflow just reminds them; the fee and who pays stay your decision. Check GOV.UK for the current fee.
+
+### Does it work for paid staff too?
+Yes. The same list works for volunteers, tutors, coaches and employees.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Contractor license renewals: every license, every CE hour, on time
+Source: https://mikeautomations.github.io/en/contractor-license-renewal-and-ce-tracking/
+
+Contractor license renewal tracking works when every license has one row: the state or city, the license class, the holder, the expiration date, the continuing education hours and required topics from the board, and the hours completed so far. A simple workflow reminds the holder months ahead, chases certificates of completion, and flags anything that needs finishing before the license expires. Requirements vary by state, trade and class, so each row follows its own board.
+
+A company working across a few states can hold a dozen licenses: the qualifier's general license, trade licenses for each electrician or HVAC tech, and city registrations. Each board has its own renewal date and its own continuing education rules, and some want courses finished before the license expires. Missing one means a lapsed license and jobs that can't be permitted. One list, with reminders and CE hours tracked, keeps renewals boring.
+
+### Where renewals slip
+- Expiration dates live on wallet cards and in different people's inboxes
+- CE hours are done in a rush in the last two weeks
+- Required topics (code updates, safety, state law) are missed
+- Certificates of completion aren't saved, so hours can't be proved
+- The license holder leaves and nobody owns the renewal
+- City and county registrations are forgotten next to state licenses
+
+### What each license row keeps
+Every requirement comes from the issuing board's own renewal information. Boards differ: some require a set number of hours per renewal period, some require specific topics, some have no CE at all for certain licenses.
+| Field | Why it matters |
+| --- | --- |
+| Board, state or city, license class and number | Where and what to renew |
+| Holder and backup contact | Someone always owns it |
+| Expiration date | Drives every reminder |
+| CE hours and topics required (from the board) | What has to be done |
+| CE completed, with certificates | Proof if the board asks |
+| Renewal fee and insurance/bond needed | No surprises at renewal |
+
+### A message you can copy
+Reminder to a license holder (edit the words in brackets):
+```
+Hi [first name],
+
+Your [state] [license class] license ([number]) expires on [date]. The board requires [hours] hours of continuing education, including [required topics], and our records show [hours done] completed so far.
+
+Please book the remaining courses with an approved provider by [date] and send the certificates here. Once they're in, we'll file the renewal.
+
+Thanks,
+[office manager]
+```
+
+### How the workflow runs
+1. Each license is logged with its board's renewal date and CE requirements.
+2. Months before expiration (you choose), the holder gets the reminder with their remaining hours.
+3. Certificates sent by email or form are saved against the license and the hours updated.
+4. If hours are still short close to the deadline, the owner gets an alert.
+5. Every month you get a short list: renewals due, CE hours outstanding, and licenses with no backup contact.
+
+### What stays with you
+Choosing courses, completing them, and filing every renewal with the board. The workflow keeps the list, sends reminders and stores certificates; it doesn't interpret board rules. If AI drafts a message, a person reads and approves it before it's sent. Related: [subcontractor COI tracking](https://mikeautomations.github.io/en/subcontractor-coi-tracking/) and [building permit inspection tracking](https://mikeautomations.github.io/en/building-permit-inspection-tracking-contractors/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track licenses today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your field service software, email and a form), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your software already tracks licenses and CE hours, you don't need this, and we'll say so on the call.
+
+### Does it know each state's CE rules?
+No. You enter each board's requirements from its renewal information, and the workflow tracks against them. Rules change, so check the board's page at each renewal.
+
+### Does it renew licenses for us?
+No. It reminds people, collects certificates and tells you when everything's ready. Filing with the board stays with you.
+
+### Can it track insurance and bonds too?
+Yes. Any document with an expiry date that the license depends on fits the same list.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
