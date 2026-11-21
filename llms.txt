@@ -274,6 +274,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [VAT threshold monitoring for clients](https://mikeautomations.github.io/en/vat-registration-threshold-monitoring-clients/): VAT threshold monitoring for UK practices: each non-registered client's rolling 12-month turnover checked monthly, with an alert before they near £90,000.
 - [Salon patch test reminders](https://mikeautomations.github.io/en/salon-colour-patch-test-reminders/): Patch test reminders for salons: every colour booking checked for an in-date allergy test, clients reminded to come in 48 hours before, and records kept.
 - [Party and event hire bookings](https://mikeautomations.github.io/en/party-and-event-hire-bookings-and-returns/): For party and event hire companies: quotes followed up, deposits and balances chased, delivery windows confirmed, and every item checked back in.
+- [State annual report reminders](https://mikeautomations.github.io/en/state-annual-report-reminders-llc-clients/): Annual report and franchise tax reminders for US practices: every client entity's state, due date and fee on one list, approvals chased, good standing kept.
+- [Sports club membership renewals](https://mikeautomations.github.io/en/sports-club-membership-renewals/): For amateur sports clubs: yearly subs, membership forms and parent consents collected online, gentle reminders, and a list of who's ready to play.
+- [Coworking memberships and day passes](https://mikeautomations.github.io/en/coworking-memberships-and-day-passes/): For independent coworking spaces: tour bookings followed up, day-pass guests invited back, memberships renewed and failed payments chased politely.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

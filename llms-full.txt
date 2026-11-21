@@ -14123,6 +14123,199 @@ Often, yes, if it allows a connection or exports bookings. If it already does re
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## State annual report reminders: keep every client entity in good standing
+Source: https://mikeautomations.github.io/en/state-annual-report-reminders-llc-clients/
+
+State annual report reminders work when every client entity has one row: the state, the entity type, the due date that state sets, the fee, and who approves and pays. A simple workflow asks the client to confirm their details weeks ahead, chases the approval, and flags anything still unfiled near the date. Rules differ by state: Delaware, for example, charges LLCs a $300 annual tax due June 1 with no annual report.
+
+Annual reports are small, cheap and easy to forget. Each state sets its own date, some by calendar, some by the month the company was formed, and each has its own fee and form. Miss one and the client loses good standing, which shows up later when they need a loan, a contract or a certificate. A list of every entity and its date, with reminders that start early, turns it into routine work.
+
+### Where filings slip
+- Due dates differ by state and by formation month, and live in someone's head
+- Clients registered in a second state (foreign qualification) are forgotten there
+- The client has moved, changed members or a registered agent, and nobody updates the filing
+- Approval to file and pay the fee sits in an unanswered email
+- Confirmation of filing isn't saved, so nobody can prove it was done
+- The client gets a scary third-party "compliance" letter and calls in a panic
+
+### What each entity row keeps
+Dates, fees and forms come from each state's own secretary of state or division of corporations, and change from time to time. The workflow uses what you enter for each entity.
+| Field | Why it matters |
+| --- | --- |
+| Entity name, type and ID | What's being filed |
+| State (and any foreign registrations) | Each one has its own date |
+| Due date and fee (from the state) | Drives every reminder |
+| Members, managers and address on file | Checked with the client before filing |
+| Client approval and payment | Nothing filed without a yes |
+| Filing confirmation | Proof it was done |
+
+### A message you can copy
+Email to a client before their annual report (edit the words in brackets):
+```
+Hi [first name],
+
+[Entity name]'s [state] [annual report / annual tax] is due by [date]. The state fee is $[amount], plus our filing fee of $[amount].
+
+Please check the details we have on file and reply "approved", or tell us what's changed:
+- Address: [address]
+- Members/managers: [names]
+- Registered agent: [agent]
+
+Once you approve, we'll file and send you the confirmation.
+[your name]
+```
+
+### How the workflow runs
+1. Every client entity is logged with its state, due date and fee.
+2. Weeks before the date (you choose), the client gets the email above with their details to check.
+3. No reply? A reminder goes out, and after the date you set they move to your call list.
+4. When the client approves, you get a task to file; the confirmation is saved to the entity's row.
+5. Every month you get a short list: filings due, approvals missing, and anything past due.
+
+### What stays with you
+Every filing with the state, the advice on what to change, and any payment. The workflow keeps the list, sends reminders and stores confirmations; it doesn't interpret state rules. If AI drafts a message, a person reads and approves it before it's sent. Related: [quarterly estimated tax reminders](https://mikeautomations.github.io/en/quarterly-estimated-tax-payment-reminders/) and [sales tax filing reminders](https://mikeautomations.github.io/en/sales-tax-filing-reminders-bookkeepers/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track annual reports today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software or a spreadsheet, and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice or registered agent software already tracks these dates and approvals, you don't need this, and we'll say so on the call.
+
+### Does it know every state's rules?
+No. You enter each entity's date and fee from the state's own website. States change fees and forms, so check at each filing.
+
+### Does it file for us?
+No. It gets the client's approval and tells you when to file. The filing stays with you, through the state's portal.
+
+### Can clients pay the fee through it?
+It can send a payment link from the tool you already use. Paying the state stays with you or the client.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Sports club membership renewals: subs in, forms done, before the first fixture
+Source: https://mikeautomations.github.io/en/sports-club-membership-renewals/
+
+Sports club membership renewals work when every member has one row: their team, whether this season's form is in, whether subs are paid, and, for juniors, whether a parent has given consent and medical details. A simple workflow sends everyone the renewal link at the start of the season, reminds those who haven't finished, and gives each coach a list of who's ready to play.
+
+Every season starts the same way: the membership secretary chases forms and subs by WhatsApp, the treasurer can't match bank transfers to names, and coaches find out on match day that a junior player's consent form isn't in. All of it is volunteer time. One renewal link, a list that fills itself, and reminders that go out on their own give the volunteers their evenings back.
+
+### Where renewals go wrong
+- Forms on paper, in emails and in WhatsApp photos
+- Bank transfers with no name or the child's nickname as the reference
+- Parent consent and medical details missing for juniors
+- Coaches don't know who is registered and insured to play
+- The same three parents are chased by five volunteers
+- Lapsed members are still on the team WhatsApp group
+
+### What each member's row keeps
+Fees, categories, insurance and league registration follow your club's rules and your governing body. The workflow only tracks who has done what.
+| Field | Why it matters |
+| --- | --- |
+| Member, team and category | Who it is and what they pay |
+| Season form completed | Contact and emergency details current |
+| Subs paid (amount and date) | Treasurer's list, matched to names |
+| Parent consent and medical info (juniors) | Required before training |
+| League or governing body registration | Who is eligible to play |
+| Volunteer checks if relevant | Links to your DBS or background check list |
+
+### A message you can copy
+Season renewal message (edit the words in brackets):
+```
+Hi [first name],
+
+The new season at [club] starts on [date]! To keep [your / your child's] place on [team], please renew by [date]:
+
+1. Fill in this year's form (2 minutes): [link]
+2. Pay subs of £[amount] / $[amount]: [payment link]
+
+Once both are done, you're ready to play. Any questions, reply here.
+[membership secretary], [club]
+```
+
+### How the workflow runs
+1. At the start of the season, every member (or parent) gets the renewal link.
+2. Completed forms and payments land in one list, matched to the member.
+3. Anyone missing a form or payment gets a reminder each week until the deadline.
+4. Each coach gets a list for their team: ready, missing form, missing subs.
+5. After the deadline, the committee gets a list of members who haven't renewed.
+
+### What stays with you
+Fees and any discounts or hardship help, who plays, and every conversation with a member or parent. The workflow keeps the list and sends reminders; medical details stay in your secure form and aren't sent in messages. If AI drafts a message, a person reads and approves it before it's sent. Related: [DBS Update Service renewals](https://mikeautomations.github.io/en/dbs-update-service-renewal-reminders/) and [swim school term bookings](https://mikeautomations.github.io/en/swim-school-term-bookings-and-waiting-list/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how renewals work at your club today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a form, a spreadsheet, payment links and email or texts), so there's nothing new for volunteers to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your governing body's system or a club app already does renewals and reminders, you don't need this, and we'll say so on the call.
+
+### Does it register players with the league?
+No. It shows which members have done everything, so your registrar knows who to register through the league's own system.
+
+### Can parents pay in instalments?
+If your payment tool supports it, yes. The list shows what's been paid so far.
+
+### Is it hard for volunteers to run?
+No. Volunteers see a list and get reminders. The form and payment links are the same ones parents use.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Coworking space automation: from first tour to long-term member
+Source: https://mikeautomations.github.io/en/coworking-memberships-and-day-passes/
+
+Coworking automation follows every tour with a thank-you and an offer, invites day-pass guests back and suggests a membership after a few visits, reminds members before renewal, and chases failed card payments politely. One list shows prospects, members and who needs a call. It's built around the booking and access tools you already use.
+
+Independent coworking spaces win members one conversation at a time: a tour, a few day passes, then a desk. The gaps are in between. Tour guests never hear back, regular day-pass users are never offered a membership, and a failed card payment turns into an awkward conversation at the coffee machine. A few well-timed messages close those gaps.
+
+### Where members slip away
+- Tours end with "we'll be in touch" and nobody follows up
+- People who buy five day passes are never offered a membership
+- Renewals and price changes are mentioned too late
+- Failed card payments are noticed weeks later
+- Meeting room credits and guest passes are tracked in someone's head
+- Members who leave are never asked why
+
+### What the list keeps
+| Field | Why it matters |
+| --- | --- |
+| Prospect or member, company and contact | Who to talk to |
+| Tour date and interest (desk, office, hot desk) | What to offer |
+| Day passes used this month | When to suggest a membership |
+| Plan, renewal date and price | Reminders before renewal |
+| Payment status | Failed payments caught early |
+| Leaving reason (if they left) | What to fix |
+
+### A message you can copy
+Message after a guest's third day pass in a month (edit the words in brackets):
+```
+Hi [first name], great to see you at [space] again this week!
+
+You've used [3] day passes this month. A [flex membership] gives you [number] days a month for £[amount] / $[amount], plus [meeting room hours / mail handling], which works out cheaper if you come in regularly.
+
+Want me to set it up, or show you the options over a coffee?
+[community manager]
+```
+
+### How the workflow runs
+1. Tour bookings get a confirmation and a reminder; after the tour, a thank-you with the plan you discussed.
+2. Day-pass guests are counted; after the number you set, they get the membership message.
+3. Members get a reminder before their renewal date, with any price change you've approved.
+4. A failed payment sends a friendly note with a link to update the card, and alerts you if it's still unpaid.
+5. When someone leaves, they get one short question about why, and the answer lands in your list.
+
+### What stays with you
+Prices, contracts, discounts and every conversation with members. Access control stays in your existing system; the workflow doesn't lock anyone out. If AI drafts a message, a person reads and approves it before it's sent. Related: [fitness studio intro offer follow-up](https://mikeautomations.github.io/en/fitness-studio-intro-offer-follow-up/) and [gym failed payment follow-up](https://mikeautomations.github.io/en/gym-failed-payment-follow-up/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how members join and renew today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your coworking or booking software where it allows a connection, payments and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your coworking software already does these messages, you don't need this, and we'll say so on the call.
+
+### Does it work with our coworking software?
+Often, yes, if it allows a connection or sends booking emails. If your software already sends these messages, you may not need this.
+
+### Does it lock out members who haven't paid?
+No. It reminds them and alerts you. Access stays in your control.
+
+### Can it handle meeting room bookings?
+It can remind members about bookings and track credits used. The booking itself stays in your existing tool.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
