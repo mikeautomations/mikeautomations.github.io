@@ -65,6 +65,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Cancellation Policy Generator for Appointments (Free)](https://mikeautomations.github.io/en/cancellation-policy-generator/): Free cancellation and no-show policy generator for salons, clinics and appointment businesses: website text, a booking confirmation line and an SMS.
 - [Gift Voucher Maker: Free Printable Gift Vouchers](https://mikeautomations.github.io/en/gift-voucher-maker/): Free gift voucher maker for small businesses: add the value or service, a message, a unique code and expiry date, then download or print. No sign-up.
 - [Business Card Maker: Free, With QR Code, Print Ready](https://mikeautomations.github.io/en/business-card-maker/): Free business card maker: add your details and logo, pick a layout and colours, add a QR code that saves your contact, then download or print 10 on A4.
+- [Receipt Generator: Free Printable Receipts (PDF)](https://mikeautomations.github.io/en/receipt-generator/): Free receipt generator for small businesses: items, VAT, payment method and a Paid stamp. Save as PDF, print a till slip or copy as text. No sign-up.
 
 ## Free tools in Hebrew (for Israeli businesses, ₪ and 18% VAT)
 - [All Hebrew tools](https://mikeautomations.github.io/he/tools/): כלים חינמיים לעסקים קטנים ועצמאים: חשבון עסקה והצעת מחיר, תזכורת תשלום, מחשבון מע"מ, תעריף לשעה, קישור לוואטסאפ וביקורת בגוגל. בלי הרשמה.
@@ -99,6 +100,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [מדיניות ביטולים לתורים: נוסח מוכן לעסק, חינם](https://mikeautomations.github.io/he/cancellation-policy/): כותבים מדיניות ביטול תורים ואי-הגעה לעסק: כמה זמן מראש, דמי ביטול, מקדמה ואיחורים. נוסח לאתר, להודעת אישור התור ול-SMS. חינם, בלי הרשמה.
 - [שובר מתנה להדפסה: יוצרים גיפט קארד לעסק, חינם](https://mikeautomations.github.io/he/gift-voucher/): יוצרים שובר מתנה לעסק: סכום או טיפול, הקדשה, קוד ייחודי ותוקף, ומורידים להדפסה או לשליחה בוואטסאפ. חינם, בלי הרשמה.
 - [עיצוב כרטיס ביקור חינם, עם קוד QR ומוכן להדפסה](https://mikeautomations.github.io/he/business-card/): מעצבים כרטיס ביקור בחינם: פרטים ולוגו, פריסה וצבעים, וקוד QR ששומר את איש הקשר בטלפון. מורידים באיכות דפוס או מדפיסים 10 על דף A4.
+- [אישור תשלום ללקוח: נוסח מוכן ל-PDF ולוואטסאפ, חינם](https://mikeautomations.github.io/he/payment-confirmation/): יוצרים אישור תשלום ללקוח: מה שולם, מע"מ, אמצעי תשלום ויתרה לתשלום, עם חותמת "שולם". שומרים כ-PDF או שולחים בוואטסאפ. חינם, בלי הרשמה.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
