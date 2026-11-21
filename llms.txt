@@ -71,6 +71,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [llms.txt Generator: Free llms.txt File for Your Website](https://mikeautomations.github.io/en/llms-txt-generator/): Free llms.txt generator for small business websites: add a summary, key facts and your best pages, preview the file live and download it for AI tools.
 - [FAQ Generator: FAQ Page and Schema for AI and Google](https://mikeautomations.github.io/en/faq-generator/): Free FAQ generator for small businesses: suggested questions by business type, short answers, and copy-ready HTML with FAQ schema for Google and AI search.
 - [Price List Maker: Free Price List Template to Print or Post](https://mikeautomations.github.io/en/price-list-maker/): Free price list maker for salons, clinics and service businesses: add sections and prices, pick colours, and download for print, Instagram or WhatsApp.
+- [Social Media Post Maker for Small Businesses (Free)](https://mikeautomations.github.io/en/social-post-maker/): Free post maker for small businesses: sale, holiday hours, new service or hiring posts in your colours, sized for Instagram, Facebook and WhatsApp status.
 
 ## Free tools in Hebrew (for Israeli businesses, ₪ and 18% VAT)
 - [All Hebrew tools](https://mikeautomations.github.io/he/tools/): כלים חינמיים לעסקים קטנים ועצמאים: חשבון עסקה והצעת מחיר, תזכורת תשלום, מחשבון מע"מ, תעריף לשעה, קישור לוואטסאפ וביקורת בגוגל. בלי הרשמה.
@@ -111,6 +112,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [יצירת קובץ llms.txt לאתר: חינם, לעסקים קטנים](https://mikeautomations.github.io/he/llms-txt/): יוצרים קובץ llms.txt לאתר העסק: משפט סיכום, עובדות חשובות והעמודים המרכזיים, עם תצוגה חיה והורדה. עוזר לכלי AI כמו ChatGPT להבין את האתר. חינם.
 - [מחולל שאלות ותשובות לאתר: עמוד FAQ לגוגל ול-AI](https://mikeautomations.github.io/he/faq-generator/): יוצרים עמוד שאלות ותשובות לאתר העסק: שאלות מוצעות לפי סוג עסק, תשובות קצרות, וקוד מוכן להעתקה שגוגל וכלי AI כמו ChatGPT קוראים. חינם, בלי הרשמה.
 - [מחירון לעסק: יוצרים מחירון להדפסה ולאינסטגרם, חינם](https://mikeautomations.github.io/he/price-list/): יוצרים מחירון מעוצב לעסק: פרקים ומחירים, צבעים לבחירה, והורדה ל-A4, לפוסט באינסטגרם או לסטורי ולסטטוס בוואטסאפ. חינם, בלי הרשמה.
+- [יוצר פוסטים לעסק: מבצע, שעות בחג, הודעה ללקוחות](https://mikeautomations.github.io/he/social-post/): יוצרים תמונה מוכנה לאינסטגרם, לפייסבוק ולסטטוס בוואטסאפ: מבצע, שעות פעילות בחג, שירות חדש או דרושים, בצבעי העסק. חינם, בלי הרשמה.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
