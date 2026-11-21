@@ -67,6 +67,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Business Card Maker: Free, With QR Code, Print Ready](https://mikeautomations.github.io/en/business-card-maker/): Free business card maker: add your details and logo, pick a layout and colours, add a QR code that saves your contact, then download or print 10 on A4.
 - [Receipt Generator: Free Printable Receipts (PDF)](https://mikeautomations.github.io/en/receipt-generator/): Free receipt generator for small businesses: items, VAT, payment method and a Paid stamp. Save as PDF, print a till slip or copy as text. No sign-up.
 - [Privacy Policy Generator for Small Business Websites](https://mikeautomations.github.io/en/privacy-policy-generator/): Free privacy policy generator for small business websites: answer a few questions and get a plain-English policy for the UK (GDPR) or US. Copy as text or HTML.
+- [AI Search Visibility Checker (GEO) for Small Businesses](https://mikeautomations.github.io/en/ai-search-visibility-checker/): Free GEO check: will ChatGPT, Gemini and Perplexity recommend your business? Answer 14 quick questions, get a score, the top fixes and questions to test.
 
 ## Free tools in Hebrew (for Israeli businesses, ₪ and 18% VAT)
 - [All Hebrew tools](https://mikeautomations.github.io/he/tools/): כלים חינמיים לעסקים קטנים ועצמאים: חשבון עסקה והצעת מחיר, תזכורת תשלום, מחשבון מע"מ, תעריף לשעה, קישור לוואטסאפ וביקורת בגוגל. בלי הרשמה.
@@ -103,6 +104,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [עיצוב כרטיס ביקור חינם, עם קוד QR ומוכן להדפסה](https://mikeautomations.github.io/he/business-card/): מעצבים כרטיס ביקור בחינם: פרטים ולוגו, פריסה וצבעים, וקוד QR ששומר את איש הקשר בטלפון. מורידים באיכות דפוס או מדפיסים 10 על דף A4.
 - [אישור תשלום ללקוח: נוסח מוכן ל-PDF ולוואטסאפ, חינם](https://mikeautomations.github.io/he/payment-confirmation/): יוצרים אישור תשלום ללקוח: מה שולם, מע"מ, אמצעי תשלום ויתרה לתשלום, עם חותמת "שולם". שומרים כ-PDF או שולחים בוואטסאפ. חינם, בלי הרשמה.
 - [מדיניות פרטיות לאתר: מחולל חינמי לעסקים קטנים](https://mikeautomations.github.io/he/privacy-policy/): כותבים מדיניות פרטיות לאתר העסק בעברית פשוטה: מסמנים מה האתר אוסף (טופס, תורים, תשלומים, דיוור, אנליטיקס) ומעתיקים. כולל תיקון 13. חינם.
+- [בדיקת נראות ב-AI: האם ChatGPT ימליץ על העסק שלכם?](https://mikeautomations.github.io/he/ai-search-visibility/): בדיקה חינמית: האם ChatGPT, ג'מיני ו-Perplexity ימליצו על העסק שלכם? עונים על 14 שאלות קצרות, ומקבלים ציון, מה לתקן קודם ושאלות לבדיקה עצמית.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
