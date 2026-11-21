@@ -62,6 +62,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Character Counter and SMS Length Calculator](https://mikeautomations.github.io/en/character-counter/): Free character and word counter with an SMS part calculator (GSM and Unicode) and limits for Google, Instagram, LinkedIn, X, YouTube and Google Business.
 - [Directions Link Generator: Google Maps, Waze, Apple Maps](https://mikeautomations.github.io/en/directions-link-generator/): Free directions link generator: one-tap links to your business in Google Maps, Waze and Apple Maps, a 'how to find us' message, website buttons and a map.
 - [Opening Hours Widget: Free "Open Now" Badge for Websites](https://mikeautomations.github.io/en/opening-hours-widget/): Free opening hours widget: enter your hours, including lunch breaks and late nights, and copy an "Open now / Closed" badge for any website. No sign-up.
+- [Appointment Reminder Generator: SMS, WhatsApp, Calendar](https://mikeautomations.github.io/en/appointment-reminder-generator/): Free appointment reminder generator: booking confirmation, day-before and same-day messages for SMS and WhatsApp, with an add-to-calendar link.
 
 ## Free tools in Hebrew (for Israeli businesses, ₪ and 18% VAT)
 - [All Hebrew tools](https://mikeautomations.github.io/he/tools/): כלים חינמיים לעסקים קטנים ועצמאים: חשבון עסקה והצעת מחיר, תזכורת תשלום, מחשבון מע"מ, תעריף לשעה, קישור לוואטסאפ וביקורת בגוגל. בלי הרשמה.
@@ -93,6 +94,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [מונה תווים ומחשבון SMS בעברית](https://mikeautomations.github.io/he/character-counter/): סופרים תווים ומילים, רואים כמה הודעות SMS הטקסט יעלה (בעברית: 70 תווים להודעה) ובודקים שהוא נכנס בגוגל, אינסטגרם, לינקדאין, X ויוטיוב. חינם.
 - [קישור לניווט בוויז ובגוגל מפות לעסק](https://mikeautomations.github.io/he/directions-link-generator/): יוצרים קישור לניווט לעסק בוויז, בגוגל מפות ובמפות של אפל, הודעת "איך מגיעים" לוואטסאפ, כפתורים לאתר ומפה להטמעה. חינם, בלי הרשמה.
 - [שעות פתיחה לאתר: תווית "פתוח עכשיו" חינם](https://mikeautomations.github.io/he/opening-hours-widget/): מכניסים שעות פתיחה, כולל הפסקת צהריים, שישי קצר ושבת סגור, ומעתיקים לאתר תווית "פתוח עכשיו / סגור" שמתעדכנת לבד. חינם, בלי הרשמה.
+- [תזכורת לתור: נוסח להודעת SMS ווואטסאפ, חינם](https://mikeautomations.github.io/he/appointment-reminder/): נוסח מוכן לתזכורת לתור: אישור כשנקבע, תזכורת יום לפני והודעה ביום עצמו, ל-SMS ולוואטסאפ, עם ספירת הודעות וקישור לשמירה ביומן. חינם.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
@@ -287,6 +289,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [State annual report reminders](https://mikeautomations.github.io/en/state-annual-report-reminders-llc-clients/): Annual report and franchise tax reminders for US practices: every client entity's state, due date and fee on one list, approvals chased, good standing kept.
 - [Sports club membership renewals](https://mikeautomations.github.io/en/sports-club-membership-renewals/): For amateur sports clubs: yearly subs, membership forms and parent consents collected online, gentle reminders, and a list of who's ready to play.
 - [Coworking memberships and day passes](https://mikeautomations.github.io/en/coworking-memberships-and-day-passes/): For independent coworking spaces: tour bookings followed up, day-pass guests invited back, memberships renewed and failed payments chased politely.
+- [CAQH re-attestation reminders](https://mikeautomations.github.io/en/caqh-re-attestation-reminders-medical-practices/): Keep every provider's CAQH profile attested: reminders before each 120-day date, expiring licenses and insurance flagged, and one list for the office.
+- [Skip hire bookings and collections](https://mikeautomations.github.io/en/skip-hire-bookings-and-collection-reminders/): For skip hire firms: bookings confirmed in writing, road permits tracked, customers asked before the hire ends and collections put on the drivers' list.
+- [Fire door inspection reminders](https://mikeautomations.github.io/en/fire-door-inspection-reminders/): For block managers and fire door inspectors: quarterly and annual checks scheduled, residents asked for access, and faults tracked until they're fixed.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

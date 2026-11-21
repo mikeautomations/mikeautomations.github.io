@@ -14316,6 +14316,170 @@ It can remind members about bookings and track credits used. The booking itself 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## CAQH re-attestation reminders: every provider, every cycle, on one list
+Source: https://mikeautomations.github.io/en/caqh-re-attestation-reminders-medical-practices/
+
+A CAQH reminder workflow keeps one list of your providers with their last attestation date and the expiry dates of the documents on their profile. Ahead of each re-attestation date it reminds the provider or your credentialing person, then checks it was done. Expiring licenses, DEA registrations and malpractice certificates are flagged early. A person always logs in and attests; the workflow only keeps the dates and the reminders.
+
+CAQH ProView asks each provider to re-attest every 120 days, even when nothing on the profile has changed. In a small practice with several providers, those dates drift apart, and CAQH's own emails land in busy inboxes. When an attestation lapses, payers can't pull current data, and a credentialing or recredentialing file can stall at the worst moment. Keeping the dates on one list, with a reminder that goes to a named person, is a small, repeatable job.
+
+### Where attestations slip
+- Each provider's re-attestation date is different, and nobody holds them all in one place
+- CAQH reminder emails go to the provider's own inbox, not to the office manager
+- A license, DEA registration or malpractice certificate expires and the profile still shows the old one
+- A new provider joins and their profile setup is half finished when payer applications go out
+- A provider leaves and their profile and payer links are never updated
+- Some payers ask for directory details to be confirmed on their own schedule, separate from CAQH
+
+### What the list keeps for each provider
+One row per provider. Your credentialing person probably keeps some of this already in a spreadsheet; the workflow makes the dates do the work. It doesn't log in to CAQH or attest for anyone.
+| Field | Why it matters |
+| --- | --- |
+| Provider, NPI and CAQH ID | So every reminder points to the right profile |
+| Last attestation date | The next due date is worked out from it |
+| Who attests: the provider or a delegate | So the reminder goes to the person who will do it |
+| License, DEA and malpractice expiry dates | So new documents are uploaded before the old ones expire |
+| Payers and their own confirmation rules | Some payers check directory details on a different cycle |
+
+### How the workflow runs
+1. Your credentialing person adds each provider with their last attestation date and document expiry dates.
+2. A few weeks before the next due date, the provider or delegate gets an email or text with a link to log in and attest.
+3. When they reply DONE, or the new date is entered, the next due date is set from it.
+4. If nothing happens, a second reminder goes out, then the provider goes on a short list for the office manager.
+5. Before a license, DEA registration or malpractice certificate expires, the provider is asked for the new document so it can be uploaded.
+6. Every Monday the office gets one list: attestations due soon, overdue, and documents about to expire.
+7. Anything unusual, like a payer letter or a question about the profile, goes straight to a person. If AI drafts a reply, someone reads and approves it before it is sent.
+
+### What stays with you
+Logging in, checking the profile and attesting, which only the provider or an authorized delegate should do. Payer applications, contracts and every credentialing decision stay with your team. The workflow keeps dates, sends reminders and shows who is behind. If denials are the bigger problem, see [claim denial follow-up](https://mikeautomations.github.io/en/insurance-claim-denial-follow-up-medical-practices/). For therapy practices, [prior authorization tracking](https://mikeautomations.github.io/en/physical-therapy-prior-authorization-tracking/) uses the same kind of list.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many providers you have and where you track their dates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your email, text messages and your calendar), so there's no new system to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If a credentialing service already tracks this for you and you're happy with it, you don't need this, and we'll say so on the call.
+
+### Does the workflow attest in CAQH for us?
+No. Attesting is a statement by the provider or their authorized delegate that the profile is correct. The workflow reminds the right person, records when it was done and flags anyone who is behind.
+
+### How often do providers need to re-attest?
+CAQH asks for re-attestation every 120 days, even if nothing changed. Some payers and states have their own rules for confirming directory details, so the list can hold a separate date for each payer that needs one.
+
+### We use a credentialing company. Do we need this?
+Maybe not. If they already remind your providers and track document expiry dates, keep them. This is for practices that handle credentialing in-house with a spreadsheet and the providers' inboxes.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Skip hire automation: from booking to collection, without the phone tag
+Source: https://mikeautomations.github.io/en/skip-hire-bookings-and-collection-reminders/
+
+Skip hire automation confirms every booking in writing with the date, size and placement, tracks whether a council permit is needed and has arrived, asks the customer before the hire period ends whether to collect, swap or extend, and puts each collection on the drivers' list. You still set the prices, the terms and every call about waste or a dispute.
+
+Most skip hire days are spent on the phone. Customers ring to check the delivery time, to ask for a swap, to say the skip is full, or to complain that it's still outside their house. Skips on the road need a council permit, and a permit that runs out before the skip is collected is a problem for you, not the customer. Asking the right question at the right time, in writing, takes a lot of that work off the office.
+
+### Where the day goes
+- Customers ring the day before to check the delivery, because nobody confirmed it
+- A skip goes on the road and the permit request is still sitting in someone's inbox
+- The hire period ends and nobody asks, so the skip sits there until the customer rings in a temper
+- Swap and collection requests come in by phone, text and email, and some never reach the drivers
+- Customers fill skips with things you can't take, because nobody told them in writing
+- Unpaid hires are chased by whoever has a spare minute
+
+### What the workflow keeps for each hire
+One row per skip on hire. Your booking system or spreadsheet probably holds most of this already; the workflow uses the dates and contacts. Your own terms decide hire periods and charges.
+| Field | Why it matters |
+| --- | --- |
+| Booking number, skip size and address | So every message matches the booking |
+| On the road or on private land | Decides whether a council permit is needed |
+| Permit status and end date | So a skip isn't left out after the permit ends |
+| Hire end date | When the customer is asked to collect, swap or extend |
+| Status: booked, delivered, swap requested, collection booked, collected | So the office and the drivers see the same thing |
+
+### A message you can copy
+Text to the customer before the hire ends (edit the words in brackets):
+```
+Hi [first name], it's [business]. Your [size] skip at [address] is due for collection on [date].
+
+Reply COLLECT to keep that date, SWAP for an empty one, or EXTEND with a new date. If you'd rather talk to someone, call [phone].
+```
+
+### How the workflow runs
+1. When a skip is booked, the customer gets a written confirmation with the date, size, placement and what can't go in it.
+2. If the skip will go on the road, the permit request is added to the office's list, and the booking is flagged until the permit is in.
+3. The day before delivery, the customer gets a reminder to keep the space clear.
+4. Before the hire end date, the customer is asked to collect, swap or extend.
+5. A COLLECT or SWAP reply goes on the drivers' list for that day. An EXTEND reply sets a new end date and checks it against the permit end date.
+6. If nobody replies, a second message goes out, then the hire goes on a short call list. Nothing is collected or charged without a person deciding.
+7. Anything that isn't a clear reply goes straight to the office. If AI drafts an answer, someone reads and approves it before it is sent.
+
+### What stays with you
+Prices, terms, permit applications to the council, decisions about waste that shouldn't be in the skip, and every dispute. The workflow asks on time, keeps a written record and puts the work in front of your drivers. For unpaid hires, see [invoice payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/). If you also hire out plant and tools, [off-hire reminders](https://mikeautomations.github.io/en/plant-hire-off-hire-reminders/) works the same way.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how bookings and collections reach you today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your booking software where it allows a connection, a spreadsheet, email and text), so there's no new system for the office to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your skip hire software already does all of this and you're happy with it, you don't need this, and we'll say so on the call.
+
+### Does it apply for council permits?
+Not on its own. Permit rules and forms are different for each council. The workflow flags which bookings need one, keeps the permit end date and warns the office before a skip outlasts its permit. Your team still applies.
+
+### Will it collect skips without asking the customer?
+No. A collection is booked when the customer asks or when your office decides. The workflow asks the question, records the answer and puts confirmed jobs on the drivers' list.
+
+### We already have skip hire software. Do we need this?
+Maybe not. If it already confirms bookings, tracks permits and asks customers before the hire ends, keep it. This is for firms where most of that still happens by phone and on paper.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Fire door inspection reminders: every check booked, every fault followed up
+Source: https://mikeautomations.github.io/en/fire-door-inspection-reminders/
+
+A fire door reminder workflow keeps one list of buildings and doors with the next check due, books the inspector, writes to residents for access to flat entrance doors, records missed access and repeat attempts, and keeps each fault open until someone marks it fixed. The inspector and the responsible person make every judgement about the doors.
+
+In England, for residential buildings over 11 metres, the Fire Safety (England) Regulations 2022 guidance asks for communal fire doors to be checked at least every three months, and for best endeavours to check flat entrance doors at least every twelve months. The hard part isn't the check. It's the diary across many buildings, the letters asking residents for access, the record of who didn't answer, and making sure a fault found in March isn't still open in June.
+
+### Where fire door checks slip
+- Quarterly dates for each building live in different diaries or in one person's head
+- Residents get one letter about access, miss it, and nobody tries again
+- There's no clear record of the attempts made to reach flats that didn't give access
+- A fault is found, a quote is asked for, and nobody follows it up
+- Inspection reports sit in an inbox instead of the building's file
+- A new building joins the portfolio and its first check is never booked
+
+### What the list keeps
+One row per building, and one per flat entrance door where you need it. Your existing spreadsheet or block management software may already hold the buildings; the workflow adds the dates and the follow-up. It doesn't judge whether a door is safe.
+| Field | Why it matters |
+| --- | --- |
+| Building, height and responsible person | So the right checks and the right person are on the record |
+| Next communal check and next flat door check | So every visit is booked before it's due |
+| Resident access: asked, booked, no answer, refused | A written record of every attempt |
+| Faults found and who is fixing them | So every fault has an owner and a status |
+| Report and photos | Filed in the building's folder after each visit |
+
+### How the workflow runs
+1. Each building is added with its next communal and flat entrance door check dates.
+2. A few weeks before a check, the inspector or contractor is asked to confirm a date, and it goes in the diary.
+3. For flat entrance doors, residents get a letter, email or text with the date and a way to book or move it.
+4. Flats that don't reply get a second message, then go on a short list for a call. Every attempt is logged with the date.
+5. After the visit, the report and photos are filed, and each fault becomes a task with an owner.
+6. Open faults are reminded to their owner until someone marks them fixed, and the next check date is set.
+7. Questions from residents go straight to a person. If AI drafts a reply, someone reads and approves it before it is sent.
+
+### What stays with you
+The inspection itself, every judgement about a door, repairs, and what you tell residents and the fire service. The workflow keeps the dates, asks for access, keeps a record of attempts and chases faults. It is not fire safety advice: check the current government guidance for your buildings. If you manage the service charge too, see [service charge reminders](https://mikeautomations.github.io/en/block-management-service-charge-reminders/). Contractors who also service alarms can use [fire alarm service reminders](https://mikeautomations.github.io/en/fire-alarm-service-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many buildings you look after and how checks are booked today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your block management software where it allows a connection, email, text and a shared folder). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your current software already books checks and tracks access and faults, you don't need this, and we'll say so on the call.
+
+### Does the workflow decide if a door passes?
+No. A competent person inspects the doors and the responsible person decides what to do. The workflow books the visits, asks residents for access, files the report and chases the faults.
+
+### Which buildings does this apply to?
+The quarterly and annual checks in the 2022 regulations apply to residential buildings in England over 11 metres. Many managers schedule checks in other buildings too, based on their fire risk assessment. Check the current guidance for your own buildings.
+
+### What if residents never give access?
+The workflow keeps writing on a set schedule and logs every attempt, so you have a record of what was tried. What to do next is your decision.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
