@@ -5080,6 +5080,9 @@ Design, preflight checks, pricing, materials and the decision to print. The work
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how proofs and approvals run in your shop today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: email, your shared drive, a form, texts or WhatsApp, and your invoicing or payment tool. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your shop first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=sign-and-print-shop-artwork-approvals).
 
+### Free tools for print jobs
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the job quote PDF, and the [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes the nudge when a customer goes quiet.
+
 ### Can several people at the customer approve?
 You decide who can approve for each customer. The record shows which named person approved which version.
 
@@ -5435,6 +5438,9 @@ Diagnosis, pricing, the repair itself and every decision about data and passcode
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how jobs move through your shop today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already have: your till or repair software where it allows a connection, or a simple shared board, plus texts, email and your payment link. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your shop first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=phone-repair-shop-job-updates).
 
+### Free tools for repair shops
+The free [receipt generator](https://mikeautomations.github.io/en/receipt-generator/) makes the receipt at collection, and the [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) makes the link to send afterwards.
+
 ### Does it work with my repair software?
 Yes, where the software allows an export or a connection. If it doesn't, a simple shared board with the job statuses does the same job.
 
@@ -5575,6 +5581,9 @@ Design, pricing, sourcing and every conversation about how the flowers should fe
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how enquiries and wedding orders run in your shop today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: your website form, email, WhatsApp or texts, a spreadsheet or your shop software, and your calendar. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your shop first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=florist-wedding-and-event-orders).
+
+### Free tools for event orders
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the wedding quote with the deposit shown, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the balance invoice before the day.
 
 ### Can it reply to Instagram and Facebook messages?
 It replies to the channels we connect: your website form and email always, and social inboxes where the platform allows it. Where it can't, you get an alert and a draft to paste.
@@ -6993,6 +7002,9 @@ Every design choice, every supplier, your trade prices and your mark-up, and the
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you send selections, take deposits and order today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (email, your spec sheets in Google Sheets or Excel, your accounting or payment tool and your shared folders, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your studio first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=interior-designer-client-approvals-and-orders).
 
+### Free tools for designers
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the design fee proposal as a PDF, and the [profit margin calculator](https://mikeautomations.github.io/en/profit-margin-calculator/) checks the mark-up on furniture and materials.
+
 ### Isn't a WhatsApp "yes" enough as approval?
 It's a record, but it rarely says which finish, quantity, price and lead time were agreed. A selection sheet with one line per item gives you a dated approval of exactly what will be ordered.
 
@@ -7715,6 +7727,9 @@ Your prices, menus, minimum spends and deposit terms. Whether to release a date,
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how group enquiries reach you today and where they get stuck. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your booking system, email, a shared sheet, payment links, texts or WhatsApp), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you [pay once it's running and you're happy with it](https://mikeautomations.github.io/en/agreement/). To see the steps for your restaurant first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=restaurant-group-booking-and-private-dining-enquiries). For the first reply on every other enquiry, see [how to reply to new enquiries fast](https://mikeautomations.github.io/en/blog/reply-to-new-enquiries-fast/); for any balance left after the night, the [payment reminder workflow](https://mikeautomations.github.io/en/invoice-payment-reminders/).
 
+### Free tools for group bookings
+The free [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes the deposit and no-show terms for large tables, and the [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes the first reply to an enquiry.
+
 ### Can it handle enquiries that come in by phone during service?
 Yes. Whoever takes the call fills in a short form on a phone or tablet, and it follows the same steps as a website enquiry.
 
@@ -8167,6 +8182,9 @@ You agree every price, payment date and supplier, and you approve the wording of
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track payments and suppliers today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your email, a spreadsheet or planning app, your calendar, online forms and your accounting software where it allows a connection), so you don't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. If you chase payments for other kinds of work too, [automated invoice payment reminders](https://mikeautomations.github.io/en/invoice-payment-reminders/) covers the general case. You can also [see these steps as a plan](https://mikeautomations.github.io/en/plan/?g=wedding-planner-supplier-and-payment-schedules) and adjust them to your business.
+
+### Free tools for payment schedules
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days to each supplier deadline, and the [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes the reminder when a payment is due.
 
 ### Do I need special wedding planning software for this?
 No. It can run on a spreadsheet, your email and a form tool. If you already use a planning app, we connect to it where it allows and only automate what it doesn't already do.
@@ -9177,6 +9195,9 @@ System design, pricing, every technical and safety decision, and every submissio
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how a job moves through your business today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your email, a spreadsheet or job software, cloud folders, an e-signature tool), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. You can [see the steps for your business first](https://mikeautomations.github.io/en/plan/?g=solar-installer-paperwork-and-handover), and the [completion photos workflow](https://mikeautomations.github.io/en/job-sign-off-and-completion-photos/) pairs well with handover.
 
+### Free tools for installers
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the installation quote PDF, and the [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes the nudge while the customer decides.
+
 ### How long do we have to register an MCS installation?
 MCS says registration on the MCS Installation Database must be completed no later than 10 working days after commissioning. Check the current standard for your technology in case it changes.
 
@@ -9275,6 +9296,9 @@ The surveyor advises on the right level, does the inspection, writes and signs o
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how instructions reach you today and where they wait. Within 48 hours you get a written plan with a fixed price. It's built on the tools you already use: your email, diary, e-signature tool and survey software where it allows a connection. Live in 2-3 days. [Workflow automation is a fixed $2,000, one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. You can also [see the steps as a plan](https://mikeautomations.github.io/en/plan/?g=surveyor-booking-and-report-delivery) before we talk.
+
+### Free tools for surveyors
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the survey quote, and the [mileage allowance calculator](https://mikeautomations.github.io/en/mileage-allowance-calculator/) works out HMRC mileage in the UK for site visits in your own car.
 
 ### Do terms of engagement have to be signed before the inspection?
 RICS's Home survey standard says they should be issued and returned before the inspection. Where that isn't possible, they must be agreed before the service is delivered, ideally before any advice on the property is given.
@@ -14228,6 +14252,9 @@ Prices, hire terms, deposits and every damage decision. Setting up and safety ch
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how bookings run today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your booking or hire software where it allows a connection, a spreadsheet, payment links and texts), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your hire software already does deposits, reminders and check-ins, you don't need this, and we'll say so on the call.
 
+### Free tools for hire bookings
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the hire quote, and the [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes the deposit and cancellation terms.
+
 ### Does it stop double bookings?
 It holds items against a booking once the deposit is paid and warns you when a new quote needs items that are already out that day. You decide what to do.
 
@@ -14535,6 +14562,9 @@ Prices, terms, permit applications to the council, decisions about waste that sh
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how bookings and collections reach you today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your booking software where it allows a connection, a spreadsheet, email and text), so there's no new system for the office to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your skip hire software already does all of this and you're happy with it, you don't need this, and we'll say so on the call.
+
+### Free tools for skip hire
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the delivery and collection reminders, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the hire invoice.
 
 ### Does it apply for council permits?
 Not on its own. Permit rules and forms are different for each council. The workflow flags which bookings need one, keeps the permit end date and warns the office before a skip outlasts its permit. Your team still applies.
