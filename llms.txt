@@ -52,6 +52,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Break-Even Calculator: Units, Revenue and Margin](https://mikeautomations.github.io/en/break-even-calculator/): Free break-even calculator. Enter fixed costs, price and variable cost to see the jobs you need each month, break-even revenue and contribution margin.
 - [Percentage and Discount Calculator](https://mikeautomations.github.io/en/percentage-calculator/): Free percentage calculator. Find X% of Y, what percent one number is of another, percentage change, a price after a discount or the price before it.
 - [Google Search Preview: Free Title and Meta Checker](https://mikeautomations.github.io/en/google-search-preview/): See how your page looks on Google and in WhatsApp before you publish. Check title and description length, get a score and copy the meta tags.
+- [Local Business Schema Generator: Free JSON-LD Tool](https://mikeautomations.github.io/en/local-business-schema-generator/): Free local business schema generator: enter your address, phone and opening hours and copy JSON-LD code that Google and AI search tools can read.
 
 ## Free tools in Hebrew (for Israeli businesses, ₪ and 18% VAT)
 - [All Hebrew tools](https://mikeautomations.github.io/he/tools/): כלים חינמיים לעסקים קטנים ועצמאים: חשבון עסקה והצעת מחיר, תזכורת תשלום, מחשבון מע"מ, תעריף לשעה, קישור לוואטסאפ וביקורת בגוגל. בלי הרשמה.
@@ -73,6 +74,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [מחשבון נקודת איזון: כמה עבודות צריך בחודש](https://mikeautomations.github.io/he/break-even-calculator/): מחשבון נקודת איזון חינמי: מזינים הוצאות קבועות, מחיר ועלות משתנה ורואים כמה עבודות צריך בחודש, הכנסה לאיזון ורווח תרומה, בשקלים.
 - [מחשבון אחוזים והנחות](https://mikeautomations.github.io/he/percentage-calculator/): מחשבון אחוזים והנחות חינמי: אחוז ממספר, איזה אחוז מספר אחד הוא מהשני, שינוי באחוזים, מחיר אחרי הנחה והמחיר לפני ההנחה.
 - [תצוגה מקדימה בגוגל: בדיקת כותרת ותיאור לאתר](https://mikeautomations.github.io/he/google-search-preview/): איך העמוד שלכם נראה בגוגל ובוואטסאפ, לפני שמפרסמים. בדיקת אורך כותרת ותיאור, ציון עם תיקונים ברורים וקוד תגיות להעתקה. חינם.
+- [מחולל Schema לעסק: קוד פרטי עסק לגוגל ול-AI](https://mikeautomations.github.io/he/local-business-schema-generator/): ממלאים כתובת, טלפון ושעות פתיחה ומעתיקים קוד JSON-LD לאתר, שגוגל וכלי חיפוש AI קוראים. כולל בדיקת שלמות ותצוגה. חינם, בלי הרשמה.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.
