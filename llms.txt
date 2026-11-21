@@ -73,6 +73,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Price List Maker: Free Price List Template to Print or Post](https://mikeautomations.github.io/en/price-list-maker/): Free price list maker for salons, clinics and service businesses: add sections and prices, pick colours, and download for print, Instagram or WhatsApp.
 - [Social Media Post Maker for Small Businesses (Free)](https://mikeautomations.github.io/en/social-post-maker/): Free post maker for small businesses: sale, holiday hours, new service or hiring posts in your colours, sized for Instagram, Facebook and WhatsApp status.
 - [Customer Tracker Template: Free Enquiry Tracker (Excel)](https://mikeautomations.github.io/en/customer-tracker-template/): Free customer and enquiry tracker spreadsheet for small businesses: drop-down statuses, follow-up dates that turn red and a summary. Excel and Google Sheets.
+- [Income and Expenses Spreadsheet: Free Excel Template](https://mikeautomations.github.io/en/income-and-expenses-spreadsheet/): Free income and expenses spreadsheet for sole traders and small businesses: categories, VAT, a monthly profit summary. Excel and Google Sheets.
 
 ## Free tools in Hebrew (for Israeli businesses, ₪ and 18% VAT)
 - [All Hebrew tools](https://mikeautomations.github.io/he/tools/): כלים חינמיים לעסקים קטנים ועצמאים: חשבון עסקה והצעת מחיר, תזכורת תשלום, מחשבון מע"מ, תעריף לשעה, קישור לוואטסאפ וביקורת בגוגל. בלי הרשמה.
@@ -115,6 +116,7 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [מחירון לעסק: יוצרים מחירון להדפסה ולאינסטגרם, חינם](https://mikeautomations.github.io/he/price-list/): יוצרים מחירון מעוצב לעסק: פרקים ומחירים, צבעים לבחירה, והורדה ל-A4, לפוסט באינסטגרם או לסטורי ולסטטוס בוואטסאפ. חינם, בלי הרשמה.
 - [יוצר פוסטים לעסק: מבצע, שעות בחג, הודעה ללקוחות](https://mikeautomations.github.io/he/social-post/): יוצרים תמונה מוכנה לאינסטגרם, לפייסבוק ולסטטוס בוואטסאפ: מבצע, שעות פעילות בחג, שירות חדש או דרושים, בצבעי העסק. חינם, בלי הרשמה.
 - [גיליון מעקב לקוחות ופניות: תבנית אקסל חינם](https://mikeautomations.github.io/he/customer-tracker/): תבנית אקסל חינמית למעקב אחרי לקוחות ופניות: סטטוסים ברשימה נפתחת, תאריכי מעקב שנצבעים באדום וגיליון סיכום. עובד באקסל ובגוגל שיטס.
+- [גיליון הכנסות והוצאות לעוסק: תבנית אקסל חינם](https://mikeautomations.github.io/he/income-expenses/): תבנית אקסל חינמית להכנסות והוצאות לעוסק פטור, מורשה ועסק קטן: קטגוריות, מע"מ, סיכום חודשי ורווח. עובד באקסל ובגוגל שיטס.
 
 ## Industries and workflow guides
 - [All workflow guides](https://mikeautomations.github.io/en/guides/): Every workflow guide in one place: accounting and bookkeeping, trades and field services, property, legal and more. Plus every article by topic.

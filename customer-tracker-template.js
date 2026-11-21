@@ -230,7 +230,7 @@
       };
   }
 
-  const API = { crc32, utf8, makeZip, col, serial, listItems, enquiriesXml, summaryXml, xlsxFiles, xlsx, summarize };
+  const API = { crc32, utf8, makeZip, x, col, serial, listItems, enquiriesXml, summaryXml, xlsxFiles, xlsx, summarize };
   root.Tracker = API;
 
   // ---------- PART 2: the page ----------

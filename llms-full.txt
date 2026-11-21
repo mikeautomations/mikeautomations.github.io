@@ -1095,6 +1095,9 @@ Fees are set by the registry and carriers and passed on by your texting provider
 ### How Mike Automations builds it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how calls come in today and where leads drop off. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example "every missed call gets a text within a minute and lands in the lead list". It's built on what you already use (your business phone line, calendar, Google Sheets or your field service software), so there's nothing new to learn. I set up the 10DLC registration with you. It goes live in 2-3 days, costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
 
+### Free tools for missed calls
+The free [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes the text that goes out after a missed call, and the [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the quote once the job is clear.
+
 ### Will the texts sound like a robot?
 The wording is yours. You approve every message before it goes live. If AI drafts a reply to a customer, a person always approves it first.
 
@@ -2462,6 +2465,9 @@ Many recruitment and payroll systems have timesheet reminders built in. Switch t
 ### How Mike Automations builds it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how hours reach you today and where the week gets stuck. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example "every active temp gets the Friday reminder, every approver gets their list on Monday, and payroll gets the missing list at 9 AM on Tuesday". It's built on the tools you already use (your email, Google Sheets or Excel, your recruitment or payroll system where it allows a connection), so your team has nothing new to learn. It goes live in 2-3 days, costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
 
+### Free tools for getting paid
+The free [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the client invoice once timesheets are in, and the [late payment interest calculator](https://mikeautomations.github.io/en/late-payment-interest-calculator/) works out the statutory interest UK business clients owe when they pay late.
+
 ### Can we hold a temp's pay until the client approves the timesheet?
 In England, Wales and Scotland, regulation 12 of the 2003 Conduct Regulations says an employment business can't withhold pay because the worker hasn't produced a timesheet authenticated by the client, though it can check by other means that the work was done. Gov.uk says pay can be delayed only for a reasonable period while you get proof of hours. Take advice on your own contracts.
 
@@ -2627,6 +2633,9 @@ Most booking tools already handle the deposit itself. Square Appointments' UK he
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how bookings, deposits and cancellations work in your salon today. Within 48 hours you get a written plan with a fixed price. It's built on the booking tool and messaging you already use, so there's nothing new for staff to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000, one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. You approve every message wording first.
+
+### Free tools for salon policies
+The free [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes the policy itself, and the [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the reminder that repeats it before each visit.
 
 ### How much deposit should a salon take?
 There's no fixed figure in UK law. The CMA's guidance says a deposit you keep on cancellation should normally be a small percentage of the price and tied to clear, narrow conditions. Many salons only take one for long or high-value services.
@@ -3449,6 +3458,9 @@ Whether a patient needs more sessions is a clinical decision, made by the clinic
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how sessions are booked and how plans are recorded today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your practice management or booking software, email and text, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
+
+### Free tools for rebooking
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the rebooking and day-before messages, and the [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes a clear missed-session policy.
 
 ### Will it message patients who have been discharged?
 No. It only looks at patients whose clinician recorded sessions left in the plan, and anyone discharged, booked or who replied "stop" drops out straight away.
@@ -5871,6 +5883,9 @@ Every piece of training, nutrition or injury advice. The workflow sends forms, c
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you book sessions and keep in touch with clients today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your booking app, a spreadsheet, Google or Microsoft Forms, email, texts or WhatsApp), so you don't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under a [simple pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your business first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=personal-trainer-client-check-ins).
 
+### Free tools for trainers
+The free [hourly rate calculator](https://mikeautomations.github.io/en/hourly-rate-calculator/) works out what to charge per session, and the [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes session reminders.
+
 ### Can I use Google Forms or Microsoft Forms for check-ins?
 Yes. Either works. The workflow sends the link, notices who hasn't answered and collects the answers into one sheet or summary for you.
 
@@ -7771,6 +7786,9 @@ Pricing, refunds, damage claims, complaints and every decision about a guest. Th
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how bookings, messages and cleaning work for you today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your booking platforms' calendars or your property management software, a spreadsheet, email, texts or WhatsApp), so you and your cleaner don't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your cleaning team is your own business, the [cleaning business guide](https://mikeautomations.github.io/en/cleaning-business-automation/) covers the rota from their side. To see the steps for your properties first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=short-term-rental-guest-messages).
 
+### Free tools for guest messages
+The free [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes instant replies to booking questions, and the [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) makes the link to send after check-out.
+
 ### Can't I just use Airbnb's scheduled messages?
 If all your bookings are on Airbnb and you have one or two listings, yes, start there. A wider workflow helps when bookings come from several channels, you run several properties or the cleaning schedule needs to follow every change.
 
@@ -8058,6 +8076,9 @@ Your prices, which dates you accept, the contract wording and every decision abo
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how bookings run in your business today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your email, calendar, e-signature tool, forms and payment links, where they allow a connection), so you don't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. You can also [map your own booking steps in the plan builder](https://mikeautomations.github.io/en/plan/?g=photographer-booking-contracts-and-deposits) first.
+
+### Free tools for photographers
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the package quote with the deposit shown, and the [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes the deposit and cancellation terms.
 
 ### My booking app already sends some of these. Do I need this?
 Maybe not all of it. On the call we check what your current tools already do and only automate the gaps, such as linking the contract to the deposit or chasing questionnaires.
@@ -8575,6 +8596,9 @@ The day after the move, send the same review request to every customer. Google's
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how enquiries, surveys and bookings work in your firm today. Within 48 hours you get a written plan with a fixed price. It's built on the email, calendar, phone and accounting tool you already use, so your surveyors and crews don't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), and you pay once it's running and you're happy with it. You can [build a draft plan for this workflow](https://mikeautomations.github.io/en/plan/?g=removals-company-surveys-and-move-day) first. You approve every message, and a person stays in charge of prices, dates and anything that goes wrong on the day.
+
+### Free tools for removals
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the removal quote after the survey, and the [mileage allowance calculator](https://mikeautomations.github.io/en/mileage-allowance-calculator/) works out HMRC mileage in the UK for survey trips in your own car.
 
 ### What should a small removals company automate first?
 Usually the quote follow-up and the deposit link, because quotes that are never followed up are lost work. Then the pre-move checklist and the move-day confirmation, which cut the "what time are you coming?" calls.
@@ -10107,6 +10131,9 @@ Every amount, every tax question and every decision about penalties or changes. 
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you send estimates today and which clients slip. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software where it allows a connection, a spreadsheet, email and text), so there's no new system for clients. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already sends each client their own estimate reminders and you're happy with it, you don't need this, and we'll say so on the call.
+
+### Free tools for tax dates
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days left before each payment date, so reminders can go out with enough notice.
 
 ### Does it work out the estimated amounts?
 No. Your team calculates them as part of the return or a mid-year review. The workflow only sends each client the amounts you entered.
@@ -14045,6 +14072,9 @@ What counts as taxable turnover, whether and when a client registers, which sche
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you watch the threshold today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (Xero, QuickBooks or FreeAgent where they allow a connection, a spreadsheet and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already alerts you to clients nearing the threshold, you don't need this, and we'll say so on the call.
+
+### Free tools for VAT
+The free [UK VAT calculator](https://mikeautomations.github.io/en/uk-vat-calculator/) adds or removes VAT at 20%, 5% or 0%, which helps clients see how prices change once they register.
 
 ### Does it decide when a client has to register?
 No. It adds up the figures and flags clients near the levels you set. Whether and when they register is your advice.
