@@ -17023,7 +17023,7 @@ For testing, or one or two small workflows, it can be. It has 1,000 credits a mo
 No. Make's pricing FAQ says credits expire at the end of the term. On yearly billing for the Pro and Teams plans, credits last for the year rather than the month.
 
 ## Business automation mistakes small businesses make, and how to avoid them
-Source: https://mikeautomations.github.io/en/blog/small-business-automation-mistakes/ (2026-11-11)
+Source: https://mikeautomations.github.io/en/blog/small-business-automation-mistakes/ (2026-11-22)
 
 The most common business automation mistakes are automating a process nobody has written down, automating too much at once, letting an automation fail without anyone noticing, and letting it send things to clients with no person checking first. Most are avoided by mapping the job before building, starting with one workflow, turning on error alerts, naming one owner, and keeping a human approval step for anything a client sees.
 
@@ -17105,12 +17105,36 @@ Owner (the person who gets alerts and decides on changes): [name]
 [ ] Staff know what changed and who to ask
 ```
 
+### How to prevent errors in workflow automation
+Companies of every size prevent automation errors the same way: they assume something will go wrong and design for it. These are the habits that matter most, whether the workflow runs for a team of three or three thousand.
+- Check the input before acting on it. If an email address, amount or date is missing or looks wrong, the workflow stops and asks a person instead of guessing.
+- Prevent duplicates. Give every record a unique key (an invoice number, a client ID) and check it before creating anything, so a rerun doesn't send the same message twice.
+- Test in a copy first. Run new steps against test data or a sandbox account before they touch live clients.
+- Log every run. A simple record of what ran, when, and what it did lets you find and fix a mistake in minutes.
+- Alert a named person on failure, and make the alert say what failed and what to do.
+- Keep a person in the loop for anything that leaves the business: client messages, payments, filings.
+- Review monthly. Apps change, so check that each workflow still does what its one-sentence definition says.
+
+### Common mistakes in marketing, sales and accounts automation
+| Area | Common mistake | How to avoid it |
+| --- | --- | --- |
+| Marketing | Sending the same sequence to everyone, or carrying on after someone replies | Segment by what the person asked for, and stop every sequence on reply or unsubscribe |
+| Sales | Leads arrive in the CRM with no owner and no next step | Every new lead gets an owner and a dated task the moment it arrives |
+| Accounts receivable | Payment reminders go out for invoices that were already paid, or to the wrong contact | Check the invoice status in the accounting software right before each reminder sends, and keep a billing contact on each customer |
+| Compliance | Deadlines tracked in someone's head or one person's calendar | Put every date in one shared tracker that sends reminders early enough to act |
+
 ### How Mike Automations avoids these
 Most of this list is about the work around the build, so that's where we start. On a [free 15-minute call](https://mikeautomations.github.io/call/) we talk through one job and how it's done today. Within 48 hours you get a written plan with a fixed price, built on the tools you already use. Anything a client sees goes through your approval, it runs in your accounts, and you get a one-page guide with the off switch.
 It's live in 2-3 days and costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), paid only once it's running and you're happy with it, as set out in our [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If you'd like to sketch the job first, the [plan builder](https://mikeautomations.github.io/en/plan/) walks you through it.
 
 ### What is the most common business automation mistake?
 Automating a process before it's written down and agreed. The automation copies one version of the job, the team keeps doing the others, and you end up with the automation plus the old manual work.
+
+### How do companies prevent errors in workflow automation?
+They check inputs before acting, prevent duplicates with a unique key on every record, test in a copy before going live, log every run, alert a named person when something fails, keep a human approval step for anything that leaves the business, and review each workflow monthly.
+
+### What compliance mistakes can automation help you avoid?
+Mostly missed and late deadlines: filings, renewals, certificate expiries and client document requests. A shared tracker that sends reminders well before each date, and keeps a record of what was sent, removes the risk of a date living in one person's head.
 
 ### Why do automations stop working?
 Usually because something around them changes: a login expires, someone edits a form or spreadsheet, an app updates, or the plan runs out of usage. Error alerts sent to a named person mean you hear about it before a client does.
