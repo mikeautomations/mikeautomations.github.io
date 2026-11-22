@@ -798,6 +798,9 @@ We start with a [free 15-minute call](https://mikeautomations.github.io/call/) a
 ### What stays with you
 The return, the advice and every judgement call. The workflow requests, reminds and files. You decide what counts as complete and when a client gets a phone call instead of another email, and anything written to a client in your name follows wording you approved.
 
+### Free tools for Self Assessment
+The free [Self Assessment checklist](https://mikeautomations.github.io/en/self-assessment-checklist/) gives clients a list of what to send for their tax return, and the [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days left before 31 January.
+
 ### Is it too late to start before 31 January?
 The workflow is built in 2-3 days. Starting in November or December gives you most of January with it running. Starting later still helps with the last batch of stragglers.
 
@@ -2977,6 +2980,9 @@ Hi [name], our engineer [first name] can be with you by about [time]. Our out-of
 ### How Mike Automations builds it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how out-of-hours calls reach you now and what goes wrong. Within 48 hours you get a written plan with a fixed price. It's built on what you already use (your phone line, WhatsApp Business, calendar and job software, where they allow a connection) and goes live in 2-3 days. It costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. The triage, the fee and every reply that isn't a fixed template stay with you: a person approves anything AI drafts. If you also miss daytime calls, the [missed call text back](https://mikeautomations.github.io/en/missed-call-text-back-contractors/) workflow covers those. Whether the free WhatsApp Business app is enough for out-of-hours messages is covered in [WhatsApp Business app vs API](https://mikeautomations.github.io/en/blog/whatsapp-business-app-vs-api/).
 
+### Free tools for call-outs
+The free [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes the instant reply when you can't pick up, and the [hourly rate calculator](https://mikeautomations.github.io/en/hourly-rate-calculator/) helps set a call-out rate that covers out-of-hours work.
+
 ### Should AI decide which calls are emergencies?
 No. The questions and categories are fixed and written by you. Automation can ask them, sort the answers and alert the right person, but the on-call engineer makes the call, and a person approves any reply that isn't a fixed template.
 
@@ -5013,6 +5019,9 @@ Diagnosis, pricing, the repair itself, your e-bike policy and your terms. The wo
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how jobs move through your workshop today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already have: your till or workshop software where it allows a connection, or a simple shared board, plus texts, email, a booking page and your payment link. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your shop first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=bike-shop-service-bookings-and-repair-updates).
 
+### Free tools for bike shops
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes service booking reminders, and the [receipt generator](https://mikeautomations.github.io/en/receipt-generator/) makes the receipt at collection.
+
 ### Does it work with our workshop software?
 Yes, where the software allows an export or a connection. A shared board with the job statuses works too.
 
@@ -5369,6 +5378,9 @@ Every clinical decision, every recall interval and every conversation about a pa
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how recalls run in your practice today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It runs on what you already use: your practice software where it allows an export or connection, or a spreadsheet, plus texts, email and your booking page. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your practice first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=hearing-care-recall-reminders).
+
+### Free tools for recalls
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the recall and day-before messages, and the [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) makes the link to send after the appointment.
 
 ### Does it work with our practice management software?
 Yes, where the software allows an export or a connection. If not, a spreadsheet with the dates is enough to start.
@@ -7948,6 +7960,9 @@ The fee, the scope, the terms and every design decision. You decide what goes in
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you send proposals and get approvals today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (email, your project folders, a spreadsheet or project tool and e-signature, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. You can also [sketch your version in the plan builder](https://mikeautomations.github.io/en/plan/?g=architect-fee-proposals-and-approvals) first.
+
+### Free tools for fee proposals
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds a fee proposal PDF, the [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes the nudge when a client goes quiet, and the [hourly rate calculator](https://mikeautomations.github.io/en/hourly-rate-calculator/) checks your fee covers the hours.
 
 ### Won't automatic chasers put clients off?
 Three short, polite messages that stop the moment the client replies are usually welcome. You write the wording and set the timing, and you can switch them off for any proposal.
@@ -11125,6 +11140,9 @@ The diagnosis, the quote, which part to order and every conversation about cost 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how jobs and parts are tracked today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your job software where it allows a connection, a spreadsheet, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already sends these messages and your team uses them, you don't need this, and we'll say so on the call.
 
+### Free tools for repair jobs
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the repair quote with parts and labour, and the [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) makes the link to send once the appliance is fixed.
+
 ### Does it track parts with the supplier?
 Not directly, unless your supplier sends order and delivery emails the workflow can read. Most businesses mark parts as arrived when they're booked in, and that triggers the customer text.
 
@@ -11308,6 +11326,9 @@ The inspection, the recommendation, the price and every conversation about safet
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how declined work is recorded on your repair orders today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your shop software's reports, a spreadsheet, text and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). Many shop management systems already have a declined-work reminder. If yours does and customers respond to it, turn that on first; you don't need this, and we'll say so on the call.
+
+### Free tools for declined work
+The free [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes the reminder about work the customer put off, and the [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) makes the link to send after the visit.
 
 ### When should the follow-up go out?
 When the work should be done, not a fixed number of days later. The advisor sets the date from the part and how the customer drives. Safety items get a phone call instead.
@@ -13482,6 +13503,9 @@ Prices, contract terms, when to send the trucks out and every decision on the ni
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you run renewals and storm days today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your field service app, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your field service software already handles renewals, storm texts and per-push billing, you don't need this, and we'll say so on the call.
 
+### Free tools for seasonal contracts
+The free [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) writes the new-season price notice, and the [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the renewal quote PDF.
+
 ### Does it tell customers when we'll arrive?
 No. It tells them when their property is done, which is a fact. It doesn't promise arrival times on storm nights.
 
@@ -14188,6 +14212,9 @@ Doing and reading every test, deciding whether to go ahead, and anything a clien
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you handle patch tests today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your booking system where it allows a connection, a form and text messages), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your booking software already blocks colour bookings without a test, you don't need this, and we'll say so on the call.
 
+### Free tools for salons
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the patch test and appointment reminders, and the [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes your missed-appointment terms.
+
 ### Does it decide if a client needs a test?
 It applies the rules you set (for example, a test if the last one is older than your interval or the product changed). Your stylists still decide on the day.
 
@@ -14450,6 +14477,9 @@ Prices, contracts, discounts and every conversation with members. Access control
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how members join and renew today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your coworking or booking software where it allows a connection, payments and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your coworking software already does these messages, you don't need this, and we'll say so on the call.
+
+### Free tools for coworking spaces
+The free [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes the message when a membership payment fails, and the [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) writes the notice when desk prices change.
 
 ### Does it work with our coworking software?
 Often, yes, if it allows a connection or sends booking emails. If your software already sends these messages, you may not need this.
