@@ -7516,6 +7516,33 @@ Yours sincerely,
 [agency name]
 ```
 
+### Late rent letter from a landlord to a tenant
+If you manage the property yourself rather than through an agent, the same approach works. Keep the first letter short and factual, give a clear date, and offer to talk.
+Late rent payment letter from a self-managing landlord (edit the words in brackets):
+```
+Subject: Late rent for [property address]
+
+Dear [tenant name],
+
+The rent of [amount] for [property address], due on [due date], has not reached my account. If you have already paid, please send me the date and reference so I can check.
+
+If you are having difficulty paying, please call or reply by [date] so we can agree what happens next, for example a short repayment plan. Citizens Advice and your local council can give free, confidential advice.
+
+Payment details: [account name, sort code, account number, reference]
+
+Thank you,
+[your name]
+[phone] [email]
+```
+
+### Keeping a clear record of landlord and tenant correspondence
+If arrears ever reach court, the record of what was said and when matters as much as the letters. Gov.uk says to keep proof that a section 8 notice was served, and a full history makes every later step easier to explain.
+- Send every reminder by email or text as well as by letter, so each one has a date and time stamp.
+- Log phone calls on the same tenancy record: date, who you spoke to, and what was agreed.
+- Attach a running rent statement to formal letters, showing each payment due and received.
+- Save the tenant's replies, including any repayment plan they agree to, with the date.
+- Keep everything in one folder per tenancy, so a landlord, a colleague or an adviser can follow it without asking you.
+
 ### What an automated arrears workflow does
 1. Checks rent received against rent due each day, from your bank feed, accounting software or property management software, and lists every tenancy with a shortfall. Block managers run a similar check on [service charge demands and reminders](https://mikeautomations.github.io/en/block-management-service-charge-reminders/) to leaseholders.
 2. Sends the day 1 and day 5 reminders by text, WhatsApp or email, in your wording, and stops as soon as a payment lands.
@@ -7536,6 +7563,9 @@ For a single overdue payment, the free [payment reminder email generator](https:
 
 ### How much rent must a tenant owe before a landlord can use Ground 8?
 In England, since 1 May 2026, gov.uk says at least 3 months' rent (or 13 weeks if rent is weekly or fortnightly), both when notice is given and at the hearing. The notice period is 4 weeks. Arrears caused only by a Universal Credit payment that hasn't arrived don't count.
+
+### What should a landlord letter to a tenant about late payment say?
+The amount, the property, the date it was due, how to pay, a date to pay or get in touch by, and an offer to agree a repayment plan. Mention free advice from Citizens Advice or the local council, keep the tone factual, and keep a copy with the date you sent it.
 
 ### Can the workflow serve a section 8 notice?
 No. It drafts letters, sends reminders and keeps the record. Whether to serve Form 3A, and on which ground, is the landlord's decision, made with a person on your team and legal advice where needed.
