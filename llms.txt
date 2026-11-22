@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-21.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-22.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
@@ -314,6 +314,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [CAQH re-attestation reminders](https://mikeautomations.github.io/en/caqh-re-attestation-reminders-medical-practices/): Keep every provider's CAQH profile attested: reminders before each 120-day date, expiring licenses and insurance flagged, and one list for the office.
 - [Skip hire bookings and collections](https://mikeautomations.github.io/en/skip-hire-bookings-and-collection-reminders/): For skip hire firms: bookings confirmed in writing, road permits tracked, customers asked before the hire ends and collections put on the drivers' list.
 - [Fire door inspection reminders](https://mikeautomations.github.io/en/fire-door-inspection-reminders/): For block managers and fire door inspectors: quarterly and annual checks scheduled, residents asked for access, and faults tracked until they're fixed.
+- [Driver qualification file tracking](https://mikeautomations.github.io/en/driver-qualification-file-expiry-tracking/): For small trucking companies: medical card, license and annual MVR review dates on one list, drivers reminded early, and gaps flagged before an audit.
+- [HGV safety inspection and MOT reminders](https://mikeautomations.github.io/en/hgv-safety-inspection-and-mot-reminders/): For small hauliers: every vehicle and trailer booked for its safety inspection and MOT on time, defects chased until fixed, and records filed.
+- [Domain and hosting renewal reminders](https://mikeautomations.github.io/en/domain-and-hosting-renewal-reminders-web-agencies/): For web designers and small agencies: every client domain, hosting plan and care plan on one list, clients asked before renewal, and nothing lapsing.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

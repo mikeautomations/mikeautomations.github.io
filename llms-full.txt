@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Updated: 2026-11-21. Facts summary: https://mikeautomations.github.io/llms.txt
+Updated: 2026-11-22. Facts summary: https://mikeautomations.github.io/llms.txt
 
 ## Home: Mike Automations
 Source: https://mikeautomations.github.io/en/
@@ -14806,6 +14806,168 @@ The quarterly and annual checks in the 2022 regulations apply to residential bui
 
 ### What if residents never give access?
 The workflow keeps writing on a set schedule and logs every attempt, so you have a record of what was tried. What to do next is your decision.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Driver qualification file tracking: every expiry date on one list
+Source: https://mikeautomations.github.io/en/driver-qualification-file-expiry-tracking/
+
+A driver qualification file tracking workflow keeps one row per driver with the dates that expire or repeat, such as the medical card, the license and the annual motor vehicle record review. It reminds the driver and the office before each date, asks for the new document, files it, and shows what is missing. Your safety manager makes every qualification decision.
+
+A small fleet rarely fails on the big things. It fails on a medical card that ran out last month, or an annual motor vehicle record review nobody dated. Under 49 CFR Part 391, a motor carrier keeps a qualification file for each driver, gets and reviews the driver's motor vehicle record at least once every 12 months, and keeps a current medical examiner's certificate on record. The rules are known. The dates are the problem: they are different for every driver, and they usually live in a folder nobody opens until an audit.
+
+### Where driver files slip
+- Each driver's medical card ends on a different date, and some are issued for less than two years
+- The annual motor vehicle record is pulled, but the review note with a name and date is missing
+- A license is renewed and nobody asks the driver for the new copy
+- A new driver starts before the whole file is in
+- The dates are in a spreadsheet that one person updates when they have time
+- A driver leaves and nobody knows how long the file has to be kept
+
+### What the list keeps
+One row per driver. Your spreadsheet may already have most of it; the workflow adds the reminders and the follow-up. It does not decide whether a driver is qualified.
+| Field | Why it matters |
+| --- | --- |
+| Driver, hire date and license class | So the right items are tracked for each driver |
+| Medical card expiry date | The reminder starts well before it, with time to book an exam |
+| License expiry date | So a renewed copy is asked for and filed |
+| Last motor vehicle record and review date | So the next one is pulled and reviewed inside 12 months |
+| Missing items for new hires | So a file is complete before it is needed |
+| Status: current, due soon, overdue | One weekly list for the safety manager |
+
+### How the workflow runs
+1. Each driver goes on the list with the dates from the documents already in the file.
+2. Some weeks before a medical card or license expires, the driver gets a text or email asking them to renew and send the new copy.
+3. If nothing arrives, the driver is reminded again and the office is told, with time left to act.
+4. When the new document comes in, it is filed in the driver's folder and a person checks it and updates the date.
+5. Before the 12-month mark, the office is reminded to pull the motor vehicle record and to record who reviewed it and when.
+6. Every week the safety manager gets one list: due soon, overdue and missing.
+7. Anything unclear goes to a person. If AI reads a document or drafts a message, someone checks and approves it before it is used or sent.
+
+### What stays with you
+Pulling the motor vehicle record, reviewing it, deciding whether a driver can drive, drug and alcohol testing, and everything you say to an auditor. The workflow keeps the dates and asks for documents. It is not compliance advice: the full list of what belongs in a file is in 49 CFR Part 391, and your own safety consultant or insurer may ask for more. If you also track certificates from the companies you hire, see [subcontractor COI tracking](https://mikeautomations.github.io/en/subcontractor-coi-tracking/). For state licenses and training hours, see [contractor license renewal and CE tracking](https://mikeautomations.github.io/en/contractor-license-renewal-and-ce-tracking/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many drivers you have and where the files are kept today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email, text messages and a shared folder). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your fleet software already tracks these dates and reminds drivers, you don't need this, and we'll say so on the call.
+
+### Does the workflow decide if a driver is qualified?
+No. Your safety manager reviews the records and decides. The workflow keeps the dates, reminds drivers, files what they send and shows what is missing.
+
+### How often is the motor vehicle record reviewed?
+Under 49 CFR 391.25 a carrier gets and reviews each driver's record at least once every 12 months, and keeps a note of who reviewed it and when. Check the current rule for the details that apply to you.
+
+### How long is a medical card valid?
+Commonly up to 24 months, but an examiner can issue one for a shorter time. That is why the list uses the date printed on each driver's own certificate.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## HGV safety inspection and MOT reminders: no vehicle runs past its date
+Source: https://mikeautomations.github.io/en/hgv-safety-inspection-and-mot-reminders/
+
+An HGV safety inspection reminder workflow keeps one list of vehicles and trailers with the next safety inspection and annual test dates. It books each one with the workshop before the date, tells the planner which vehicle is off the road, files the inspection sheet and keeps every defect open until someone marks it fixed. The operator and transport manager make every roadworthiness decision.
+
+When you hold a goods vehicle operator's licence, you promise to inspect each vehicle and trailer at a set interval. DVSA's Guide to maintaining roadworthiness says those intervals must not be exceeded, and GOV.UK says records of safety inspections and maintenance are kept for at least 15 months. With four vehicles, a wall planner works. With fifteen vehicles, trailers on a different interval and an outside workshop, one missed week is easy, and it is the first thing an examiner looks for.
+
+### Where inspections slip
+- The wall planner is right until a vehicle is swapped, sold or off the road for a month
+- Trailers are on a different interval and get forgotten
+- The workshop is full on the week the inspection is due
+- The planner finds out a vehicle is booked in on the morning it is needed
+- A defect is written on the inspection sheet and nobody checks that it was fixed
+- Inspection sheets come back on paper and never reach the vehicle's file
+
+### What the list keeps
+One row per vehicle and trailer. If you already use a spreadsheet or a planner, the workflow reads from it and adds the bookings and the follow-up. It doesn't judge whether a vehicle is roadworthy.
+| Field | Why it matters |
+| --- | --- |
+| Vehicle or trailer and its inspection interval | The interval you stated for your licence, per vehicle |
+| Last and next safety inspection date | So the next one is booked before it is due |
+| Annual test (MOT) date | So the test is booked early and preparation is planned |
+| Workshop and booking status | Asked, confirmed, done |
+| Open defects and who is fixing them | Every defect has an owner until it is closed |
+| Inspection sheet | Filed in the vehicle's folder after every visit |
+
+### How the workflow runs
+1. Each vehicle and trailer goes on the list with its interval and last inspection date.
+2. A few weeks before each inspection, the workshop is asked to confirm a slot, and the date goes in the diary.
+3. The planner gets a message with the vehicle and the day, so work is planned around it.
+4. If no slot is confirmed, the transport manager is told while there is still time before the due date.
+5. After the inspection, the sheet is filed and each defect becomes a task with an owner.
+6. Open defects are reminded until someone marks them fixed, and the next inspection date is set from the interval.
+7. The annual test is reminded early enough to book it and plan the preparation. If AI reads a sheet or drafts a message, a person checks it first.
+
+### What stays with you
+The inspection, the decision to put a vehicle back on the road, daily walkaround checks by drivers, and everything you tell DVSA or the traffic commissioner. The workflow books, reminds and files. It is not compliance advice: follow the current Guide to maintaining roadworthiness and your own licence undertakings. Garages that look after customers' vehicles can use [MOT reminders for garages](https://mikeautomations.github.io/en/garage-mot-reminders/), and for lifting equipment see [LOLER examination reminders](https://mikeautomations.github.io/en/loler-thorough-examination-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many vehicles and trailers you run and how inspections are booked today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or planner, email, text messages and a shared folder). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your fleet software already books inspections and tracks defects, you don't need this, and we'll say so on the call.
+
+### Does the workflow decide the inspection interval?
+No. The interval is the one you stated for your operator's licence, based on DVSA's guidance and how your vehicles are used. The workflow only counts from the last inspection date.
+
+### How long are inspection records kept?
+GOV.UK says records of safety inspections and maintenance, including work by a contractor, are kept for at least 15 months. The workflow files each sheet in the vehicle's folder so it can be found.
+
+### What if the workshop can't fit a vehicle in?
+The transport manager is told while there is still time before the due date. Whether to use another workshop or take the vehicle off the road is your decision.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Domain and hosting renewal reminders: no client site goes down over a date
+Source: https://mikeautomations.github.io/en/domain-and-hosting-renewal-reminders-web-agencies/
+
+A domain and hosting renewal workflow keeps one list of every client's domain, hosting, care plan and paid licences with the renewal date and who pays. Before each date it asks the client to confirm, sends or prepares the invoice, reminds them if they don't answer and tells you what is still open. You decide what to renew and what to let go.
+
+Most web designers end up looking after things they never meant to: a domain bought for a client years ago, hosting on the agency's card, a plugin licence that renews every spring. Registrar notices go to the contact email on the domain, and if that is an old address or a shared inbox, nobody sees them. Then a site goes down on a Saturday. The other side hurts too: a client who stopped answering, while their hosting still renews on your card every year.
+
+### Where renewals slip
+- Renewal dates are spread across several registrars, hosts and plugin accounts
+- Registrar notices go to an email address nobody reads any more
+- A card on file expires and auto-renew fails without anyone noticing
+- The client is invoiced after you have already paid for the renewal
+- A client stops replying, and nobody decides whether to renew or let it go
+- Nobody is sure who owns the domain: the client or the agency
+
+### What the list keeps
+One row per item, not per client, because one client can have three domains and a hosting plan with different dates. A spreadsheet is enough.
+| Field | Why it matters |
+| --- | --- |
+| Client and item: domain, hosting, care plan, licence | So every paid item has its own date |
+| Where it is held and whose account | So you know who can renew it and who owns it |
+| Renewal date and auto-renew on or off | The reminder starts well before the date |
+| Who pays and the price you charge | So the invoice goes out before your card is charged |
+| Client answer: renew, cancel, no reply | A written record of what the client asked for |
+| Status: asked, invoiced, paid, renewed | One weekly list of what is still open |
+
+### How the workflow runs
+1. Every domain, hosting plan, care plan and licence goes on the list with its date and owner.
+2. Some weeks before a renewal, the client gets an email in your words: what renews, when, the price, and a simple way to say renew or cancel.
+3. If they say renew, an invoice is prepared in your invoicing tool for you to check and send, or sent by your rule.
+4. If they don't answer, they are reminded, and then the item goes on a short list for you to call or decide.
+5. You renew the item, or it renews by itself, and the new date goes on the list.
+6. Every week you get one list: renewing soon, waiting for the client, unpaid.
+7. Client replies with questions go to a person. If AI drafts an answer, someone reads and approves it before it is sent.
+
+### What stays with you
+Prices, your terms, the decision to renew for a client who hasn't paid, and moving a domain into the client's own account. Many agencies prefer the client to own the domain and to manage it for them; the list makes it clear which is which. The workflow doesn't log in to registrars or move domains. For the start of a client relationship, see [agency client onboarding](https://mikeautomations.github.io/en/agency-client-onboarding-automation/). IT support firms have a different list: see [MSP client onboarding and renewals](https://mikeautomations.github.io/en/msp-client-onboarding-and-renewals/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many client sites you look after and where the dates are kept today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email, a calendar and your invoicing tool). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your billing system already reminds clients and renews everything, you don't need this, and we'll say so on the call.
+
+### Free tools for renewal invoices
+The free [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes a renewal invoice in a minute if you don't have an invoicing tool yet.
+
+### Does the workflow renew domains by itself?
+No. It keeps the dates, asks the client and prepares the invoice. You renew in the registrar or hosting account, or leave auto-renew on, and the new date goes back on the list.
+
+### Who should own a client's domain?
+That is between you and the client. Many agencies prefer the client to own it and to give the agency access. The list shows whose account each domain is in, so it is never a surprise.
+
+### What about clients who stopped answering?
+They are reminded on a set schedule and then put on a short list for you. Whether to renew, cancel or hand the item over is your decision, and the list keeps a record of what was sent.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
