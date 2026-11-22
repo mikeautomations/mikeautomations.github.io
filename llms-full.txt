@@ -2825,6 +2825,9 @@ The advice, the placing and the compliance sign-off. The workflow never chooses 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how renewals run in your brokerage today and where they slip. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example: every renewal on the list gets its details form on time, and nothing reaches 7 days out without someone knowing. It's built on the tools you already use (your broker system or spreadsheet, email and forms, where they allow a connection), so nobody learns a new system. Live in 2-3 days. [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
 
+### Free tools for renewals
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days before each renewal date, so reminders go out with enough notice.
+
 ### Does this replace our broker software?
 No. It reads renewal dates from the system or spreadsheet you already use and does the reminding around it. Where your software can't be connected, a daily export can be enough.
 
@@ -3055,6 +3058,9 @@ You decide what the checklist includes, what counts as finished, and what happen
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how jobs finish and get invoiced in your business today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (phones, your email, a shared drive, and your job management or accounting software where it allows a connection), so your crew doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
 
+### Free tools for finishing a job
+The free [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the final invoice once the customer signs off, and the [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) makes the review link to send with it.
+
 ### Does a sign-off stop customers disputing the work later?
 It doesn't remove their rights. Customers still have their legal rights if the work turns out to be faulty. What it does is record what was finished, what was still open and when, which makes most disagreements quick to settle.
 
@@ -3232,6 +3238,9 @@ The landlord decides whether the rent changes and by how much, and your team che
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track rent reviews and lease dates today and where they slip. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools your agency already uses (your email, a shared spreadsheet and your property management software where it allows a connection), so nobody learns a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
+
+### Free tools for renewals
+The free [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) helps draft the letter for a rent change at renewal, and the [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the days before notice deadlines.
 
 ### Do tenancies in England still need renewing?
 For most private tenancies, no. Gov.uk says existing assured shorthold tenancies became assured periodic tenancies on 1 May 2026, with no end date. The reminders that matter now are rent reviews, tenant notices and yearly checks. Lets outside these rules, and properties in Wales, Scotland and Northern Ireland, have their own rules.
@@ -5990,6 +5999,9 @@ Budgets, apportionments, section 20 consultations, every arrears decision and an
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you issue demands and chase today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your block management software's exports, Xero or QuickBooks, a spreadsheet, Outlook or Gmail), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your blocks first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=block-management-service-charge-reminders). Other property workflows that pair well: [compliance certificate reminders](https://mikeautomations.github.io/en/letting-agent-compliance-certificate-reminders/) and [inspection scheduling](https://mikeautomations.github.io/en/property-inspection-scheduling/).
 
+### Free tools for service charges
+The free [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes polite service charge reminders, and the [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days to each due date.
+
 ### What happens if a demand goes out without the summary of rights?
 Section 21B of the Landlord and Tenant Act 1985 says the leaseholder may withhold payment, and the lease's late-payment terms don't apply while they do. Serving the demand again with the summary puts it right from then on.
 
@@ -6634,6 +6646,9 @@ The consultation, the consent conversation, the decision to treat and every answ
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how bookings, forms and aftercare work in your clinic today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your booking or clinic software, your form tool, email, texts or WhatsApp), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under a [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your clinic first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=med-spa-consent-forms-and-aftercare). A physio clinic runs the same pattern: see [physio patient intake forms](https://mikeautomations.github.io/en/physio-clinic-patient-intake-forms/).
 
+### Free tools for clinics
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the appointment reminders, and the [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes your deposit and missed-appointment terms.
+
 ### Can a consent form sent by email replace the consultation?
 No. The form collects history and records that the client has read the information. Your practitioner still goes through the treatment, risks and consent with the client before treating, as their professional body and insurer require.
 
@@ -6940,6 +6955,9 @@ The estimate, the repair method, every price and every decision about the car st
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how jobs move through your shop today and where customers and insurers get stuck. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your shop management system or job board, a spreadsheet, email, texts or WhatsApp), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under a [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your shop first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=body-shop-repair-updates), or [try the demo](https://mikeautomations.github.io/en/try/).
+
+### Free tools for body shops
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the repair estimate PDF, and the [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) makes the link to send when the car goes home.
 
 ### Does this replace our shop management system?
 No. It reads the job stage from your system, a job board or a spreadsheet and sends the right message when the stage changes. Your system stays the record of the job.
@@ -9959,6 +9977,9 @@ Rates, terms, damage and every dispute about dates. The workflow doesn't decide 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how off-hires reach you today and where they get lost. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your hire software where it allows a connection, a spreadsheet, email and text), so there's no new system for the counter to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your hire software already sends off-hire reminders and numbers and you're happy with it, you don't need this, and we'll say so on the call.
 
+### Free tools for hire invoices
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts chargeable working days on a hire, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the hire invoice.
+
 ### Does it end hires on its own?
 No. A hire ends when the customer asks and your counter confirms it. The workflow asks the question, records the answer and the time, and sends the off-hire number once a person has confirmed it.
 
@@ -12358,6 +12379,9 @@ All advice: the review, the recommendation, suitability and every conversation w
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you keep track of deal end dates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your CRM or a spreadsheet, your calendar and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your CRM already contacts every client on time and follows up, you don't need this, and we'll say so on the call.
 
+### Free tools for remortgage dates
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days before a fixed rate ends, so the first reminder can go out in time to arrange a new deal.
+
 ### How early does it contact clients?
 When you choose. You set the window, for example by deal type or lender, and can change it at any time.
 
@@ -12555,6 +12579,9 @@ The service itself, the interval for each site, anything about local rules or pe
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you schedule grease trap accounts today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your field service software, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your pumping software already confirms every visit and sends every record, you don't need this, and we'll say so on the call.
+
+### Free tools for pumping reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the service reminders, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice after each pump-out.
 
 ### Who sets how often each trap is pumped?
 Your office, from the customer's permit, local requirements and what your drivers see. The workflow sends reminders based on the interval you enter.
@@ -12914,6 +12941,9 @@ The cleaning itself, the frequency for each kitchen, anything about the fire cod
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you schedule hood cleaning accounts today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your field service software, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your software already confirms every job and sends every certificate, you don't need this, and we'll say so on the call.
+
+### Free tools for service reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the cleaning reminders, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice after each visit.
 
 ### Who sets how often each kitchen is cleaned?
 Your office, from the type and volume of cooking, NFPA 96 and the local fire code. The workflow sends reminders based on the frequency you enter.
