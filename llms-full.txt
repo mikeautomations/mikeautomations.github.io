@@ -17715,7 +17715,7 @@ Only for software you choose to use, such as an automation platform, paid direct
 Prices are set in US dollars and invoiced in pounds or euros at the equivalent rate.
 
 ## How to stop chasing clients for VAT records every quarter
-Source: https://mikeautomations.github.io/en/blog/vat-quarter-records-chasing/ (2026-11-17)
+Source: https://mikeautomations.github.io/en/blog/vat-quarter-records-chasing/ (2026-11-22)
 
 A UK VAT return and payment are usually due 1 month and 7 days after the VAT period ends, so a quarter ending 31 December is due by 7 February. To stop chasing, set your own cut-off two weeks after the quarter, send each client a personal list of what is missing the next day, and remind weekly until it is complete.
 
@@ -17790,6 +17790,14 @@ Thanks,
 - Your internal deadline in every message, well before the HMRC one
 - Questions about specific bank lines, which are quicker to answer than "send everything"
 
+### Common problems with quarterly VAT submissions
+If a quarterly VAT submission fails or looks wrong, check HMRC's own service availability and issues page on GOV.UK first, which lists known problems with its online services. Most problems, though, come from the practice side, and you can catch them before the deadline week:
+- The software's authorisation with HMRC has expired, so the return can't be sent. Check it at the start of each quarter, not on filing day.
+- The VAT period dates in the software don't match HMRC's obligations, for example after a change of stagger or a move to monthly returns.
+- Bank feeds stopped syncing partway through the quarter, so transactions are missing without anyone noticing.
+- Records arrive after the return has been prepared, and the figures have to be redone.
+- Spreadsheets used alongside the software aren't connected by digital links, which Making Tax Digital requires.
+
 ### For illustration
 For illustration: a bookkeeper has 60 clients on quarterly VAT. On 1 April each one gets a list for the March quarter. Clients with uncategorised bank lines get those lines to explain instead of a full request. By 15 April the bookkeeper sees 12 clients still waiting, and calls the 3 who haven't opened anything.
 The same routine works for [MTD for Income Tax quarterly updates](https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/) and for [year-end records](https://mikeautomations.github.io/en/limited-company-year-end-records/), so it's worth building once. If you use Xero, our post on [Xero automation ideas for practices](https://mikeautomations.github.io/en/blog/xero-practice-automation-ideas/) shows where the bank feed can do some of the asking for you.
@@ -17808,6 +17816,9 @@ Sales and purchase invoices, credit and debit notes, bank statements, cash books
 
 ### How do I get clients to send VAT records on time?
 Send a personal list the day after the quarter ends, with one upload link and your own cut-off about two weeks before HMRC's. Remind only on what is still missing, and phone anyone silent ten days before the deadline.
+
+### Are there known issues with quarterly VAT updates?
+HMRC lists current problems with its online services on its service availability and issues page on GOV.UK, so check there first. On the practice side, the usual causes are an expired software authorisation, VAT period dates that don't match HMRC's, bank feeds that stopped syncing, and records that arrive after the return was prepared.
 
 ### What happens if a client files their VAT return late?
 Each late return earns a penalty point. A quarterly filer who reaches 4 points gets a £200 penalty, and late payment penalties start from day 16. Check the GOV.UK penalty pages for the current rules.
