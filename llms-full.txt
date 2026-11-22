@@ -5848,6 +5848,21 @@ Hi [first name], this is [agent name] with [brokerage]. Thanks for asking about 
 4. After the showing, the buyer gets one message asking what they thought, and their answer is saved on the lead.
 5. If they liked it, you get a task to call. If not, they move to the monthly listing emails with their new notes.
 
+### Follow-ups based on the homes each buyer saw
+Generic follow-ups get ignored. The workflow can use what you already know: which properties the buyer viewed or inspected, and what they said afterwards. Each showing or open home is saved on the lead with the address, price and the buyer's answer to the feedback question. The next message then refers to it. A buyer who liked the garden but not the price gets similar homes with outdoor space in a lower range. A buyer who said the commute was too long gets listings closer to their work. For open homes, the sign-in sheet or QR form feeds the same record, so everyone who walked through gets a thank-you that names the property, the next open time, and one question about what they're looking for.
+
+### How to stop automated follow-ups at the right time
+Automated follow-ups should stop on their own as soon as they stop being useful. Set these stop rules before you switch anything on.
+1. Any reply, by text or email, ends the automated sequence and puts the lead on your call list.
+2. STOP, unsubscribe or "not interested" ends every message to that person and marks the record so they aren't added again.
+3. A booked showing pauses the nurture messages until after the viewing.
+4. An offer, a signed buyer agreement or a closed deal moves the lead out of follow-up and into your transaction checklist.
+5. If a lead tells you they bought elsewhere or are working with another agent, the workflow stops and notes the reason.
+6. To stop it yourself, change the lead's stage in your CRM or sheet. The next scheduled message checks the stage first and won't send.
+
+### Apartment and rental leads
+Rental and apartment leads move faster than buyers, so the same idea runs on a shorter clock. The first reply goes out within minutes with the rent, availability date, pet and income requirements, and a link to book a tour. If there's no reply, one reminder goes out the same day and one the next morning, and then the lead is closed unless they answer. After a tour, the prospect gets the application link and a list of the documents you need. Fair housing rules apply to every message, so the wording is the same for every prospect and is checked by you or your broker before it goes live.
+
 ### US rules to check before you text or call leads
 This is a summary of the FCC's rules in 47 CFR 64.1200 as published on ecfr.gov in November 2026, not legal advice. Check with your broker and your state's rules too.
 - Marketing calls or texts sent with an autodialer or a prerecorded voice to a cell phone need the person's "prior express written consent": a signed agreement that names the phone number. Put a clear consent line on your website and open house forms, and keep the record.
@@ -5882,6 +5897,12 @@ Yes, if your CRM can export leads or connect to other tools. If it can't, a spre
 
 ### Is it legal to text real estate leads in the US?
 It can be, if you follow the FCC's TCPA rules: written consent for marketing texts sent with an autodialer, no telephone solicitations before 8 a.m. or after 9 p.m. local time, Do Not Call Registry checks, and honoring opt-outs. Check with your broker for your state.
+
+### How do I stop real estate automated follow-ups?
+Give the workflow stop rules: any reply, an opt-out, a booked showing, an offer or a closed deal ends the automated messages for that lead. You can also stop it by changing the lead's stage in your CRM or sheet, because each message checks the stage before it sends.
+
+### Can follow-ups change based on the properties a buyer inspected?
+Yes. Each showing or open home is saved on the lead with the buyer's feedback, so the next message can refer to that property and send similar homes that fix what they didn't like.
 
 ### Does it follow up with leads forever?
 No. It follows your schedule, stops as soon as the person replies or opts out, and moves cold leads to a monthly email they can unsubscribe from.
