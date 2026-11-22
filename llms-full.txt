@@ -7678,6 +7678,12 @@ Therapy practice client intake is mostly admin, and that's where small counselli
 5. The therapist gets a note that the forms are in and reads them before the first session. Nothing in the answers triggers an automatic message to the client.
 6. Each booked session gets a reminder. A missed session puts a task on the therapist's list instead of sending anything.
 
+### One workflow instead of five: forms, consent, scheduling, payments and notes
+In many small practices, intake forms, consent, scheduling, payments and session notes live in five places, and someone copies details between them. The fix is one client record that everything else points to. The booking creates the record. The forms, the signed consent and the cancellation policy attach to it. Session reminders and payment requests read the dates and fees from it. Notes stay in your clinical system, linked to the same client, and are never sent anywhere by the workflow. If your practice software already holds most of this, the workflow only fills the gaps. If it doesn't, a secure, access-restricted folder and a simple client list can be the record, as long as the tools meet the privacy rules below.
+
+### Session agreements and fees without manual paperwork
+If you write a fee agreement or session contract by hand for each new client, the same workflow can send it. Keep one agreement template with your fees, session length, cancellation terms and payment method, and the booking fills in the client's name, start date and package. The client signs it with the intake forms, and a copy is saved to their record. Package or block bookings can trigger a payment request when the block is nearly used, and the therapist approves any change to the fee.
+
 ### Keep the messages discreet
 A reminder can be read on a lock screen or a shared laptop, so write every message as if someone else might see it.
 - Use a neutral sender name if the client asks for one, and record each client's chosen channel and any request not to be texted
@@ -7712,6 +7718,12 @@ The free [appointment reminder generator](https://mikeautomations.github.io/en/a
 
 ### Does it replace our practice management software?
 No. Many practice systems already send reminders. On the call we check what yours does on its own and only automate the gaps, such as form chasing and missed-session tasks.
+
+### How do small therapy practices keep intake, consent, scheduling, payments and notes from becoming separate workflows?
+Use one client record that everything points to. The booking creates it, forms and consent attach to it, reminders and payment requests read from it, and notes stay in your clinical system linked to the same client. Automation fills only the gaps your practice software leaves.
+
+### How can a therapy practice spend less time chasing intake forms and confirmations?
+Send all forms in one email straight after booking, remind only clients whose forms aren't back (three days and one day before the first session), and let session reminders go out on their own. The therapist gets a note when everything is in.
 
 ### Can a client ask not to get texts?
 Yes. Each client's chosen channel is recorded and followed.
