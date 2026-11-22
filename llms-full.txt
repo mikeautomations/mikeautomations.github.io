@@ -23723,6 +23723,173 @@ WhatsApp keeps its own copy for a while and has no public refresh tool. New chat
 ### Do I need different images for each platform?
 Usually not. One 1200 × 630 image works well across Facebook, LinkedIn, X and WhatsApp.
 
+## How to start a loyalty card scheme for a small business (and make it pay)
+Source: https://mikeautomations.github.io/en/blog/loyalty-card-scheme-small-business/ (2026-11-22)
+
+A simple stamp card works when the reward is something customers want, the finish line is reachable within a few months, and the rules are printed on the back. Pick the number of stamps from how often people visit (10 for weekly regulars, 5 or 6 for monthly visits), stamp the first box on the day you hand the card over, and count how many cards come back finished.
+
+Loyalty apps cost a monthly fee and ask customers to download something. A paper stamp card costs a few pence, works for every customer on day one, and sits in their wallet as a reminder of you.
+Here's how to set one up so it actually brings people back: the numbers to pick, the wording, the one trick that makes more cards get finished, and how to know if it's paying for itself.
+
+### 1. Pick a reward people actually want
+The reward is the whole point, so make it something a regular would be pleased to get, and say it in plain words: "a free coffee of your choice", "a free cut", "50% off your next treatment". Vague rewards like "a surprise gift" get fewer people collecting.
+Work out the cost honestly. On a 10-stamp coffee card the reward is one free drink after nine paid ones, roughly a 10% discount for your most loyal customers, given only to people who came back nine times.
+
+### 2. Choose how many stamps from how often people visit
+A good test: a regular should be able to finish the card within three or four months. If it would take a year, most cards will be lost before they're full.
+| Business | Typical visit | Stamps |
+| --- | --- | --- |
+| Café, bakery, sandwich shop | Several times a week | 8 to 10 |
+| Car wash, dog groomer, nail bar | Every 2 to 4 weeks | 6 to 8 |
+| Hairdresser, barber, beauty salon | Every 4 to 8 weeks | 5 or 6 |
+| Shop with occasional purchases | Monthly or less | 5, with a stamp per purchase over a set amount |
+
+### 3. Give the first stamp free
+This is the single most useful trick. In a field study by Nunes and Drèze (Journal of Consumer Research, 2006), car wash customers got either an 8-stamp card or a 10-stamp card with 2 stamps already filled. Both needed 8 more washes. 34% of the pre-stamped cards were completed, against 19% of the blank ones, and they were finished faster.
+So print a 10-stamp card, stamp the first box (or two) when you hand it over, and say so: "Here's your card, the first one's on us."
+
+### 4. Put the rules on the back
+Clear rules stop awkward conversations at the till. Keep them short:
+- What earns a stamp: one per visit, or one per purchase over £5 / $5
+- How long the card lasts: 12 months from the first stamp is common
+- That the reward has no cash value
+- A line for the customer's name, so a found card can be returned
+- Your phone number and a QR code to your website or booking page
+
+### 5. Stop people faking stamps
+Use a self-inking stamp or a hole punch with an unusual shape that only you have, and initial each stamp if you're worried. In practice most small businesses find a few faked stamps cost far less than the extra visits the card brings.
+
+### 6. Check that it pays
+1. Count the cards you hand out each month (a tally on a sticky note is enough).
+2. Keep every finished card when you give the reward, and count them monthly.
+3. Compare: if 100 cards went out and 20 came back full, those 20 customers made 9 paid visits each to earn one reward.
+4. If almost nobody finishes, cut the number of stamps or improve the reward before giving up on the idea.
+
+### Free tool: make the card in two minutes
+The free [loyalty card maker](https://mikeautomations.github.io/en/loyalty-card-maker/) draws a print-ready stamp card: 5 to 12 stamps with the last one as the reward, six stamp pictures (coffee cup, scissors, paw print and more), your colours and logo, and the rules and a QR code on the back. Print 10 on A4 or send the files to a printer. Make matching [business cards](https://mikeautomations.github.io/en/business-card-maker/) too, and a [Google review link](https://mikeautomations.github.io/en/google-review-link-generator/) to ask the regulars who finish a card for a review.
+
+### Is a paper loyalty card better than an app?
+For most small, local businesses, yes to start with. It costs almost nothing, needs no download, and works for every customer straight away. An app makes more sense once you want to send offers to card holders.
+
+### Should the reward be a freebie or a discount?
+A freebie of something they already buy is easiest to understand and feels more generous than a percentage. "Your 10th coffee free" beats "10% off" even when the cost to you is similar.
+
+### What if a customer loses their card?
+Most businesses simply start a new card, sometimes with a stamp or two as goodwill. Printing a name line and your phone number on the back means a found card often makes its way back.
+
+### Do loyalty cards need terms and conditions?
+A few short rules on the back are enough for a simple stamp card: what earns a stamp, how long it's valid and that the reward has no cash value. Keep them fair and apply them the same way to everyone.
+
+## What to put on a business card, and what to leave off
+Source: https://mikeautomations.github.io/en/blog/what-to-put-on-a-business-card/ (2026-11-22)
+
+A business card needs your name, what you do, the business name, and one or two ways to reach you, usually a mobile number and an email or website. Put a QR code on the back that saves your contact to the person's phone. Leave off anything they won't act on: fax numbers, every social account, long addresses and slogans.
+
+A business card has one job: make it easy for someone who met you to get back in touch next week. Most cards fail at that because they try to say everything.
+Here's what to include, what to cut, the standard sizes, and the one addition that stops your card ending up forgotten in a drawer.
+
+### What to put on the front
+| Line | Example | Why |
+| --- | --- | --- |
+| Your name | Sarah Jones | People remember people, not businesses |
+| What you do | Owner and senior stylist | So they know why to call you |
+| Business name or logo | Bloom Hair Studio | What they'll search for later |
+| Mobile number | 07700 900123 | The fastest way to reach you |
+| Email or website | bloomhair.co.uk | For people who'd rather not call |
+| Area or address (optional) | York city centre | Only if customers come to you |
+
+### What to leave off
+- Fax numbers and landlines nobody answers
+- Every social account you have. Pick the one where customers actually find you, or none
+- A list of all your services. One line on what you do is enough
+- Slogans and long mission statements
+- Personal details you wouldn't want on a noticeboard
+
+### Put a QR code on the back
+Most cards are looked at once, then lost. A QR code on the back fixes that: one scan with a phone camera and your name, number, email and website are saved straight into their contacts. That uses the vCard format, the contact file every phone understands.
+If you'd rather, point the QR code at your website or booking page instead. Either way, scan it with your own phone before you print a box of 500.
+
+### Sizes and printing
+For a handful of cards, print 10 on A4 on thick card (300 gsm or more) and cut carefully. For a box, send print-quality images to any online printer. Keep text at least 3 to 4 mm from the edges so nothing is cut off.
+| Where | Standard size | At 300 dpi |
+| --- | --- | --- |
+| UK, Europe, Israel | 85 × 55 mm | 1004 × 650 pixels |
+| US and Canada | 3.5 × 2 in (88.9 × 50.8 mm) | 1050 × 600 pixels |
+
+### Wording tips
+1. Write what you do in the words customers use: "Boiler repairs and servicing", not "Thermal comfort solutions".
+2. Use one font and two colours at most. Contrast matters more than style.
+3. Keep each line short enough to read at arm's length.
+4. Make the phone number the easiest thing on the card to read.
+
+### Free tool: make yours in two minutes
+The free [business card maker](https://mikeautomations.github.io/en/business-card-maker/) draws both sides at print quality: three layouts, five colour themes, your logo, and a QR code that saves your contact or opens your website. Download the images, print 10 on A4 with the back lined up for double-sided printing, or download the contact as a .vcf file. Matching tools: an [email signature](https://mikeautomations.github.io/en/email-signature-generator/), a [QR code](https://mikeautomations.github.io/en/qr-code-generator/) for flyers, and a [loyalty stamp card](https://mikeautomations.github.io/en/loyalty-card-maker/) for regulars.
+
+### Are business cards still worth it?
+For local and trade businesses, yes. They're cheap, they work at events, on site and at the till, and with a QR code on the back they put your contact straight into someone's phone.
+
+### Should I put my home address on my business card?
+Only if customers need to come to you. Otherwise your area ("Serving Leeds and Bradford") is enough, and safer.
+
+### Matte or gloss?
+Matte is easier to write on and looks calmer; gloss makes colours and photos pop. For most trades and services, matte or soft-touch reads as more professional.
+
+### What should the QR code on a business card link to?
+Your contact details (so they're saved in one scan) or your booking page. Avoid linking to a homepage that makes people hunt for how to reach you.
+
+## How to sell gift vouchers as a small business, without a gift card system
+Source: https://mikeautomations.github.io/en/blog/sell-gift-vouchers-small-business/ (2026-11-22)
+
+Decide the amounts or services you'll sell, give each voucher a unique code and a clear expiry date, take payment the way you normally do, and keep one list of every code, its value and whether it's been used. In the US, gift cards generally can't expire within 5 years of purchase. In the UK there's no general minimum expiry, but VAT timing depends on whether the voucher is single-purpose or multi-purpose.
+
+Gift vouchers bring in money before the work is done, and they bring in new customers: the person who receives one often hasn't been to you before. Around birthdays, Mother's Day and Christmas they can be a real boost.
+You don't need a gift card platform to sell them. Here's a simple way to run vouchers properly, the rules to know, and how to stop copies being used twice.
+
+### 1. Decide what you'll sell
+- Set amounts (£25, £50, £100) work for any business and are easiest to manage
+- A named service ("one full colour and cut", "a 60-minute massage") feels more like a present
+- If you sell a service, say whether the voucher covers its price on the day or the price when bought
+
+### 2. Make every voucher unique
+Each voucher needs its own code, such as BLOOM-7K3Q, plus the value, who it's for, and the expiry date printed clearly. A code on every voucher means a copy or a screenshot can only be used once, because you check it against your list.
+
+### 3. Keep one record
+A spreadsheet is enough. When a voucher is redeemed, find the code, check the date, and fill in "Used on". If someone uses part of a money voucher, note the balance left.
+| Code | Value | Sold on | Expires | Used on |
+| --- | --- | --- | --- | --- |
+| BLOOM-7K3Q | £50 | 02/12/2026 | 02/12/2027 |  |
+| BLOOM-P2MX | Colour and cut | 05/12/2026 | 05/12/2027 | 14/01/2027 |
+
+### 4. Choose the expiry date (and know the rules)
+- US: under the federal gift card rules (Regulation E, 12 CFR 1005.20), a gift certificate or gift card generally can't expire earlier than 5 years after it was issued or money was last loaded. Some states go further, so check yours.
+- UK: there's no general legal minimum, but 12 months is the least customers expect and 24 months feels generous. Print the date on the voucher and stick to it.
+- Wherever you are, put the expiry and any conditions on the voucher itself, not only on your website.
+
+### 5. VAT on vouchers in the UK
+Since 1 January 2019, HMRC splits vouchers into two kinds. A single-purpose voucher is one where the VAT due is known when it's sold (for example, a voucher for one specific standard-rated service at your salon): VAT is due when you sell it. A multi-purpose voucher can be spent on things with different VAT rates: VAT is due when it's redeemed. HMRC's VAT Notice 700/7 covers this. If you're VAT-registered and unsure which you sell, ask your accountant before the busy season.
+
+### 6. Make selling them easy
+1. Add a "Gift vouchers" line to your website, booking page and social bios.
+2. Take payment by card, bank transfer or payment link, as you do now.
+3. Send the voucher as an image by email or WhatsApp straight away, or print it on card for collection.
+4. Remind your customers two or three weeks before key dates.
+5. When the voucher is used, welcome the new customer and ask for their details so you can keep in touch (with their consent).
+
+### Free tool: make the voucher in a minute
+The free [gift voucher maker](https://mikeautomations.github.io/en/gift-voucher-maker/) draws a voucher with the value or service, who it's for and from, a message, your colours and an expiry date, and gives every voucher its own code plus a record line you can paste into your spreadsheet. Download it as an image or print it. To run the rest of your money admin in one place, try the [income and expenses spreadsheet](https://mikeautomations.github.io/en/income-and-expenses-spreadsheet/).
+
+### Do I have to give change on a gift voucher?
+That's your choice; say it on the voucher. Many small businesses keep the remaining balance on the voucher record instead of giving cash.
+
+### Can I refuse an expired voucher?
+If the expiry date and terms were clear when it was sold and they're within the law where you trade, generally yes. Many businesses honour recently expired vouchers anyway as goodwill.
+
+### What happens to vouchers that are never used?
+The money stays with you, but how you account for it, and in the UK how VAT applies, depends on the voucher type. Ask your accountant how to treat unused vouchers at year end.
+
+### Should vouchers be printed or digital?
+Both work. Digital is instant for last-minute buyers; printed vouchers in an envelope feel more like a present. Offering both sells more.
+
 ## Is the text on your website hard to read? Colour contrast in plain English
 Source: https://mikeautomations.github.io/en/blog/website-text-hard-to-read-colour-contrast/ (2026-11-21)
 
@@ -24031,6 +24198,21 @@ Source: https://mikeautomations.github.io/he/sms-hebrew-70-characters/ (2026-11-
 Source: https://mikeautomations.github.io/he/link-preview-wrong-image/ (2026-11-21)
 
 האפליקציות בוחרות את התמונה, הכותרת והטקסט של קישור משותף לפי תגיות Open Graph בעמוד (og:image, og:title, og:description). אם הן חסרות, האפליקציה מנחשת, ולעיתים קרובות בוחרת לוגו קטן, אייקון או כלום. מוסיפים את התגיות עם כתובת תמונה מלאה ב-https://, משתמשים בתמונה בגודל 1200 על 630, ומבקשים מפייסבוק ומלינקדאין לטעון את העמוד מחדש.
+
+### כרטיסיית ניקובים לעסק: מועדון לקוחות פשוט שמחזיר לקוחות קבועים
+Source: https://mikeautomations.github.io/he/loyalty-punch-card-business/ (2026-11-22)
+
+כרטיסיית ניקובים עובדת כשההטבה היא משהו שהלקוחות באמת רוצים, כשאפשר להגיע לסוף תוך כמה חודשים, וכשהתנאים כתובים בגב. בוחרים את מספר החותמות לפי תדירות הביקור (10 ללקוחות שמגיעים כל שבוע, 5 או 6 למי שמגיע פעם בחודש), מחתימים את המשבצת הראשונה ביום שנותנים את הכרטיסייה, וסופרים כמה כרטיסיות מלאות חוזרות.
+
+### מה לכתוב בכרטיס ביקור, ומה עדיף להשמיט
+Source: https://mikeautomations.github.io/he/business-card-what-to-write/ (2026-11-22)
+
+בכרטיס ביקור צריך שם, מה אתם עושים, שם העסק, ודרך או שתיים ליצור קשר, בדרך כלל נייד ומייל או אתר. בגב שמים קוד QR ששומר את איש הקשר בטלפון. משמיטים כל מה שלא יגרום למישהו לפעול: פקס, כל הרשתות החברתיות, כתובות ארוכות וסלוגנים.
+
+### איך עסק קטן מוכר שוברי מתנה, בלי מערכת גיפט קארד
+Source: https://mikeautomations.github.io/he/sell-gift-vouchers-business/ (2026-11-22)
+
+מחליטים על סכומים או טיפולים, נותנים לכל שובר קוד ייחודי ותאריך תפוגה ברור, גובים כרגיל, ומנהלים רשימה אחת של כל הקודים, הסכום ומה כבר נוצל. חוק הגנת הצרכן קובע כללים לתוקף של תווי קנייה ושוברים, אז בודקים מה חל על השובר שלכם, ומדפיסים את התוקף והתנאים על השובר עצמו.
 
 ### ניגודיות צבעים באתר: מה זה 4.5:1, איפה זה נכשל ואיך מתקנים
 Source: https://mikeautomations.github.io/he/website-color-contrast-accessibility/ (2026-11-21)

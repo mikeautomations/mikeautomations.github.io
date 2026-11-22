@@ -416,6 +416,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Get Your Business Details Right in Google and AI Search](https://mikeautomations.github.io/en/blog/business-details-in-google-and-ai-search/): Wrong hours or an old phone number in Google or ChatGPT costs customers. A 30-minute checklist: Business Profile, your website, schema and directories. (2026-11-21)
 - [Why Your Text Message Costs 2 or 3 SMS (and the Fix)](https://mikeautomations.github.io/en/blog/why-sms-splits-into-multiple-messages/): Why an SMS reminder is billed as 2 or 3 messages: the 160-character limit, Unicode, curly quotes and emoji. How to keep reminders to one SMS. (2026-11-21)
 - [Wrong Image When You Share Your Link? How to Fix It](https://mikeautomations.github.io/en/blog/fix-wrong-image-when-sharing-link/): Facebook, LinkedIn or WhatsApp showing the wrong picture, or none, for your website link? Add Open Graph tags, size the image right and refresh the preview. (2026-11-21)
+- [How to Start a Loyalty Card Scheme for a Small Business](https://mikeautomations.github.io/en/blog/loyalty-card-scheme-small-business/): A stamp card that brings regulars back: how many stamps, what reward, the rules for the back, the first-stamp trick, and how to tell if it's working. (2026-11-22)
+- [What to Put on a Business Card (and What to Leave Off)](https://mikeautomations.github.io/en/blog/what-to-put-on-a-business-card/): What a small business card should say: name, what you do, one or two ways to reach you, and a QR code that saves your contact. Sizes, wording and print tips. (2026-11-22)
+- [How to Sell Gift Vouchers as a Small Business](https://mikeautomations.github.io/en/blog/sell-gift-vouchers-small-business/): Sell gift vouchers without a gift card system: amounts, expiry dates, unique codes, a simple record, VAT in the UK and the 5-year rule for US gift cards. (2026-11-22)
 - [Is Your Website Text Hard to Read? Colour Contrast Explained](https://mikeautomations.github.io/en/blog/website-text-hard-to-read-colour-contrast/): Light grey text and white-on-yellow buttons lose visitors. What WCAG contrast ratios mean (4.5:1, 3:1), where low contrast hides, and how to fix it. (2026-11-21)
 
 ## Hebrew site (Israel)
@@ -477,6 +480,9 @@ The Hebrew site serves businesses in Israel, in shekels: יצירת פעולות
 - [פרטי העסק נכונים בגוגל וב-AI](https://mikeautomations.github.io/he/business-details-google-ai/): שעות פתיחה שגויות או טלפון ישן בגוגל או ב-ChatGPT עולים בלקוחות. רשימת בדיקה של חצי שעה: פרופיל העסק, האתר, כרטיס עסק לגוגל ואינדקסים.
 - [כמה תווים יש ב-SMS בעברית](https://mikeautomations.github.io/he/sms-hebrew-70-characters/): למה תזכורת SMS בעברית נספרת כשתיים או שלוש הודעות: 70 תווים להודעה, 67 כשמתפצלת. איך לקצר תזכורות להודעה אחת ולחסוך בחשבון.
 - [תמונה שגויה בשיתוף קישור](https://mikeautomations.github.io/he/link-preview-wrong-image/): פייסבוק, לינקדאין או וואטסאפ מציגים תמונה לא נכונה, או בלי תמונה, כשמשתפים את האתר? תגיות Open Graph, גודל תמונה נכון ורענון התצוגה.
+- [כרטיסיית ניקובים לעסק](https://mikeautomations.github.io/he/loyalty-punch-card-business/): כרטיסיית ניקובים שמחזירה לקוחות: כמה חותמות, איזו הטבה, מה כותבים בגב, הטריק של החותמת הראשונה במתנה, ואיך יודעים שזה משתלם.
+- [מה לכתוב בכרטיס ביקור](https://mikeautomations.github.io/he/business-card-what-to-write/): מה כרטיס ביקור של עסק קטן צריך להגיד: שם, מה אתם עושים, דרך או שתיים ליצור קשר, וקוד QR ששומר את איש הקשר. גדלים, ניסוח וטיפים להדפסה.
+- [שוברי מתנה לעסק קטן](https://mikeautomations.github.io/he/sell-gift-vouchers-business/): מוכרים שוברי מתנה בלי מערכת: סכומים או טיפולים, תוקף, קוד ייחודי לכל שובר, רשימה פשוטה של מה נוצל, ומה לבדוק בחוק הגנת הצרכן.
 - [ניגודיות צבעים ונגישות באתר](https://mikeautomations.github.io/he/website-color-contrast-accessibility/): טקסט אפור בהיר וכפתורים לבן על צהוב פוגעים בקריאות ובנגישות. מה אומרים יחסי הניגודיות של WCAG (4.5:1, 3:1), איפה זה מסתתר ואיך מתקנים.
 
 ## Optional
