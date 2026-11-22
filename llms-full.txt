@@ -664,6 +664,9 @@ Everything that needs your judgment. The workflow requests, collects, files and 
 ### How Mike Automations builds it
 We start with a [free 15-minute call](https://mikeautomations.github.io/call/) about how documents come in today and where the chasing happens. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example "every client gets their checklist on January 5 and reminders stop when they're complete". It's built on the tools you already use: QuickBooks, TaxDome or Karbon, Gmail or Outlook, Google Drive or Dropbox. Your team doesn't learn a new system. It goes live in 2-3 days, costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
 
+### Free tools for bookkeepers
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts business days to each filing date, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the monthly bookkeeping invoice.
+
 ### Can it be ready before tax season?
 Yes. The workflow is built in 2-3 days. If we start in November or December, it's live well before the first W-2s go out.
 
@@ -3338,6 +3341,9 @@ A person does every inspection and reviews every report before the landlord sees
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you book inspections today and where they slip. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools your agency already uses (your email, calendars, a shared spreadsheet or drive, and your property management software where it allows a connection), so nobody learns a new system. If you already chase [gas safety and EICR dates](https://mikeautomations.github.io/en/letting-agent-compliance-certificate-reminders/), the same property list can drive both. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
+
+### Free tools for inspections
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the inspection reminders for tenants, and the [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts notice periods before each visit.
 
 ### How much notice do I have to give a tenant for an inspection?
 In England, section 11(6) of the Landlord and Tenant Act 1985 sets 24 hours' notice in writing, at reasonable times of the day. Many agents give more, and offer another time if it doesn't suit. In the US it depends on the state and the lease: California, for example, generally treats 24 hours' written notice as reasonable but doesn't allow entry just for a general inspection.
@@ -6803,6 +6809,9 @@ Who is offered a place, in what order and on what terms. Fees, funded hours clai
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how your waiting list and enrolment work today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your nursery software's exports, a spreadsheet, email, online forms, texts), so your staff don't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your nursery first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=nursery-enrolment-and-waiting-list). If you also bill termly, see how [tutoring centres send termly invoices](https://mikeautomations.github.io/en/tutoring-centre-enrolment-and-termly-invoices/) and how to [chase unpaid invoices](https://mikeautomations.github.io/en/invoice-payment-reminders/).
 
+### Free tools for nursery fees
+The free [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes polite fee reminders, and the [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) writes the notice when fees change.
+
 ### Can a waiting list workflow decide who gets a place?
 No. It sorts the list by start date, days and funding and shows you who fits. You decide who is offered the place and in what order.
 
@@ -7604,6 +7613,9 @@ Every clinical decision: what the forms ask, reading the answers, every conversa
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how new clients reach you and how you send reminders today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your practice software, email, forms and calendar, where they allow a connection), so you don't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your practice first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=therapy-practice-client-intake-and-session-reminders).
+
+### Free tools for therapy practices
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes session reminders, and the [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes a clear late-cancellation policy.
 
 ### Does it replace our practice management software?
 No. Many practice systems already send reminders. On the call we check what yours does on its own and only automate the gaps, such as form chasing and missed-session tasks.
@@ -10794,6 +10806,9 @@ The cutoff, what counts as complete, every percentage, retainage and every payme
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how pay apps reach you today and what each owner needs for the draw. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your accounting or project software where it allows a connection, a spreadsheet, email and shared folders), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your construction software already collects pay apps the way you want, you don't need this, and we'll say so on the call.
 
+### Free tools for pay applications
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts business days to each pay application cut-off, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes an invoice when a job is billed outside the pay app.
+
 ### Does it approve pay applications?
 No. It checks that the pieces are there and flags anything that doesn't line up. Your project manager reviews and approves every line.
 
@@ -11105,6 +11120,9 @@ The testing, the pass or fail on each item and the advice on intervals. The work
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about where your test records live today and how certificates go out. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your PAT software's exports, a spreadsheet, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your software already sends reminders your customers act on, you don't need this, and we'll say so on the call.
+
+### Free tools for test reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the retest reminders and visit confirmations, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice after testing.
 
 ### Does it decide how often equipment is tested?
 No. There's no fixed legal interval for PAT, and HSE advises a risk-based approach. You and the customer agree the interval; the workflow records it and reminds the site before the date.
@@ -12018,6 +12036,9 @@ Reading the subcontract, deciding what is due and when, answering defects and de
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track retention today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your accounts software, shared folders and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your accounts or contract software already lists every retention with its release date and reminds you, you don't need this, and we'll say so on the call.
 
+### Free tools for retention
+The free [late payment interest calculator](https://mikeautomations.github.io/en/late-payment-interest-calculator/) works out statutory interest when released retention is paid late, and the [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes the chaser.
+
 ### When is retention released?
 When your subcontract says. Commonly the first part is released around practical completion and the rest at the end of the defects period, but the amounts, dates and conditions differ from one subcontract to the next.
 
@@ -12515,6 +12536,9 @@ Whether a client needs to register in a state, which sales are taxable, the retu
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track sales tax returns today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (QuickBooks or Xero, a spreadsheet, email and a shared folder), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If a sales tax service already files every return for your clients and you only need the records, we'll say so on the call.
+
+### Free tools for sales tax dates
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts business days to each filing date, and the [percentage calculator](https://mikeautomations.github.io/en/percentage-calculator/) checks sales tax amounts at any rate.
 
 ### Does it know every state's due dates?
 No. Your team enters each client's frequency and due dates from the state's notice or online account. The workflow uses what you enter and reminds you to check it when a state changes a client's frequency.
@@ -13798,6 +13822,9 @@ Deciding what's taxable, the values on every form, and filing with HMRC. The wor
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you collect P11D information today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software, email, a form and a spreadsheet), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already sends benefits questionnaires and chases them, you may not need this, and we'll say so on the call.
 
+### Free tools for P11D season
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days left before the 6 July P11D deadline, so the first request to clients goes out early enough.
+
 ### Does it prepare the P11D forms?
 No. It collects the information and chases clients. You decide what's reportable, prepare the forms and file them.
 
@@ -14378,6 +14405,9 @@ Every filing with the state, the advice on what to change, and any payment. The 
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track annual reports today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software or a spreadsheet, and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice or registered agent software already tracks these dates and approvals, you don't need this, and we'll say so on the call.
+
+### Free tools for filing dates
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts business days to each state's annual report due date, so reminders go out with time to spare.
 
 ### Does it know every state's rules?
 No. You enter each entity's date and fee from the state's own website. States change fees and forms, so check at each filing.
