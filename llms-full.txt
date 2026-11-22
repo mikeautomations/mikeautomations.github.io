@@ -15053,6 +15053,165 @@ They are reminded on a set schedule and then put on a short list for you. Whethe
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## LEV testing reminders: every system examined before its date
+Source: https://mikeautomations.github.io/en/lev-testing-reminders/
+
+An LEV testing reminder workflow keeps one row per extraction system with the date of its last thorough examination and test. It offers the customer a visit a few weeks before the next one is due, sends the report afterwards, and keeps each action on the report open until someone marks it done. A competent person does the examination and decides whether a system passes.
+
+Local exhaust ventilation (LEV) takes dust, fume and vapour away from the people working next to it. HSE says an LEV system should have a thorough examination and test at least once every 14 months, and more often for some processes, and that the record is kept for at least 5 years. Fourteen months is an awkward interval: it doesn't fall on the same month each year, so a note in the diary drifts. A testing company with a few hundred systems across its customers, or a workshop with several booths and arms, needs a list that counts for it.
+
+### Where LEV tests slip
+- The due date is on last year's report, in a folder nobody opens
+- One site has six systems tested on different days, so they fall due in different months
+- The customer's contact has left and the reminder goes to an old email address
+- A system that needs a shorter interval is treated like the rest
+- The report lists repairs, and nobody asks whether they were done
+- A new booth or arm is installed and never added to the list
+
+### What the list keeps
+One row per system, not per customer. If you already keep a spreadsheet or use job software, the workflow reads from it and adds the reminders and the follow-up.
+| Field | Why it matters |
+| --- | --- |
+| Site, system and where it is | So the engineer finds the right hood, booth or arm |
+| Interval for this system | 14 months for most, shorter where the process needs it |
+| Last and next examination date | So the visit is offered before the date, not after |
+| Site contact and a second contact | So a reminder still lands when someone leaves |
+| Booking status | Offered, booked, done |
+| Report and open actions | Each repair or adjustment has an owner until it is closed |
+
+### How the workflow runs
+1. Each system goes on the list with its interval and the date of its last examination.
+2. A few weeks before the next one is due, the customer gets an email with the systems due on that site and two dates an engineer is nearby.
+3. A reply books the visit and puts it in the diary. No reply gets a second message and then goes on a short call list.
+4. The day before, the site contact gets a reminder with what the engineer needs: access, the process running, and last year's report.
+5. After the visit, the report is sent to the customer and filed against the system, and the next date is set from the interval.
+6. Each action on the report becomes a line with an owner. The customer is asked about it until it is marked done, and you can offer a quote for the repair.
+7. If AI reads a report or drafts a message, a person checks it before it is sent.
+
+### What stays with you
+The examination and test, the judgement on whether a system controls the hazard, the interval for each system, and the advice you give. The workflow reminds, books and files. It is not health and safety advice: the duty to maintain and test LEV sits with the employer under COSHH, and HSE's guidance is the place to check what applies to a process. Companies that also service air conditioning can use [F-gas leak check reminders](https://mikeautomations.github.io/en/f-gas-leak-check-reminders/), and for lifting equipment see [LOLER examination reminders](https://mikeautomations.github.io/en/loler-thorough-examination-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many systems you look after and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or job software, email, a calendar and a shared folder). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already reminds customers per system and tracks report actions, you don't need this, and we'll say so on the call.
+
+### How often does LEV need testing?
+HSE says a thorough examination and test at least once every 14 months, and more often for some processes. The workflow counts from the last examination using the interval you set for each system.
+
+### How long is the LEV test record kept?
+HSE says the record is kept for at least 5 years. The workflow files each report against its system so it can be found.
+
+### Does the workflow decide whether a system passes?
+No. A competent person examines and tests the system and writes the report. The workflow only reminds, books and files.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Irrigation winterization scheduling: every customer booked before the freeze
+Source: https://mikeautomations.github.io/en/irrigation-winterization-and-spring-start-up-scheduling/
+
+An irrigation winterization workflow keeps one list of customers with their address, system notes and last service. Before the season it asks each customer to confirm, offers days when a crew is in their area, reminds them the day before and lists who hasn't replied. The same list runs spring start-ups. You set the dates, the routes and the price.
+
+Winterization is the busiest few weeks of the year for an irrigation company, and it has a deadline nobody controls: the first hard freeze. Every customer needs a visit inside the same short window, most of them wait until the forecast turns cold to call, and the office spends October answering the phone instead of filling routes. The customers are already known. What's missing is a way to ask all of them early, book them by area and see who is still open.
+
+### Where the season goes wrong
+- Customers call in the week of the first frost, all at once
+- Last year's list is in a spreadsheet with old phone numbers and sold houses
+- A crew drives across town for one blowout because bookings came in by date, not by area
+- Nobody is home, the controller is in a locked garage and the visit is wasted
+- A customer who was skipped finds out in spring, with a cracked backflow preventer
+- Spring start-ups are booked from memory, so last fall's customers aren't all asked
+
+### What the list keeps
+One row per property. If you already use job software or a spreadsheet, the workflow reads from it and adds the messages and the follow-up.
+| Field | Why it matters |
+| --- | --- |
+| Customer, address and area | So visits are offered on the day a crew is nearby |
+| Phone and email | So the message reaches the person who lives there now |
+| System notes | Number of zones, where the shut-off and controller are, gate code |
+| Does someone need to be home | So the reminder says so |
+| This season's status | Asked, booked, done, declined, no reply |
+| Repairs noted on the visit | So they are quoted now or raised again at spring start-up |
+
+### How the workflow runs
+1. A few weeks before your season starts, every customer on the list gets a text or email asking if they want winterization again this year.
+2. A yes gets the days a crew is in their area. The customer picks one and it goes on the schedule.
+3. No reply gets a second message a week later, and then the customer goes on a short call list for the office.
+4. The day before, the customer gets a reminder with the time window and what the crew needs: access to the controller and the shut-off, and pets inside.
+5. The crew marks the visit done and notes any repair. The customer gets a short message that the system is winterized.
+6. When a cold snap moves your plans, you choose which days change and the customers on those days are told.
+7. In spring, the same list is asked about start-up, with last fall's repair notes next to each property. If AI drafts a message, a person checks it before it goes.
+
+### What stays with you
+The season dates, the routes, the price, the work itself and every decision about a system. The workflow asks, books, reminds and keeps the list. It doesn't predict the weather or decide when it is too late. If you also test backflow assemblies, see [backflow test reminders](https://mikeautomations.github.io/en/backflow-test-reminders-plumbers/), and for yearly lawn programs see [lawn care seasonal renewals](https://mikeautomations.github.io/en/lawn-care-seasonal-renewals/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many properties you winterize and how customers book today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or job software, text messages, email and a calendar). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already sends seasonal campaigns and books by area, you don't need this, and we'll say so on the call.
+
+### When should the first message go out?
+That's your call, because freeze timing differs by region. Most companies ask a few weeks before their season starts, so routes fill before the phone gets busy. You set the date.
+
+### Can customers book themselves?
+Yes. The message offers the days a crew is in their area, and the reply or the booking link puts the visit on the schedule. You can also approve each booking first.
+
+### What about customers who don't answer?
+They get a second message, then appear on a call list. Nobody is dropped without you seeing their name.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Law firm conflict check workflow: no file opens before the check is cleared
+Source: https://mikeautomations.github.io/en/law-firm-conflict-check-workflow/
+
+A conflict check workflow collects every name on a new matter at intake, sends them to the person who searches your records and to each lawyer, records who cleared the check and when, and holds the file until that is done. It asks for the check again when a new party joins the matter. A lawyer always decides whether a conflict exists and what to do about it.
+
+Every firm knows a conflict check comes before a new matter. In a small firm it often depends on memory: someone searches the practice software for the client's name, nobody asks the partner who handled a related matter years ago, and the result is never written down. The search itself takes minutes. What goes wrong is around it: names collected halfway, a consultation booked before anyone looked, and no record that the check happened.
+
+### Where conflict checks go wrong
+- Intake asks for the client's name and not the other side, related companies or family members
+- The consultation is booked, and advice given, before anyone checks
+- One person searches the software, and lawyers who would recognize a name never see it
+- A name is spelled differently from the old record, so the search finds nothing
+- The check is done and nobody records who cleared it or when
+- A new party joins the matter months later and the check is not run again
+
+### What is collected for every new matter
+The intake form asks for the same things every time, so the search doesn't depend on who took the call.
+| Asked at intake | Why it matters |
+| --- | --- |
+| Client's full name and any former names | Old records may be under another name |
+| Business names, owners and related companies | A conflict can sit with a company, not a person |
+| Opposing and other parties | The other side may be a current or former client |
+| Opposing counsel, if known | Some firms check this too |
+| Type of matter and a one-line description | So a lawyer can spot a related matter |
+| Who referred the client | A referral can point to a connection |
+
+### How the workflow runs
+1. A new enquiry gets a short intake form, or staff fill it in on the phone. The form won't submit without the other parties' names.
+2. The names go to the person who runs the search in your practice software or your own records, with a task and a time limit.
+3. The same names go to every lawyer in a short email: do you know any of these people or companies? Each lawyer replies clear or flags a name.
+4. The booking link for a consultation is sent only after a lawyer marks the check cleared. If a name is flagged, the matter waits for that lawyer's decision.
+5. The result is saved to the matter: who searched, what was searched, who replied and who cleared it, with the date.
+6. If nobody has cleared the check by the time limit, the responsible lawyer is reminded. A potential client is told you will be in touch, not left waiting in silence.
+7. When a new party is added to a matter, the check is asked for again. If AI drafts a message, a person checks it before it is sent.
+
+### What stays with you
+The search of your records, the decision whether a conflict exists, whether a waiver is possible, and what the potential client is told. The workflow collects names, asks, reminds and keeps the record. It is not ethics advice: the rules of professional conduct differ by state, so follow your state's rules and your malpractice insurer's guidance. For the rest of intake, see [law firm client intake](https://mikeautomations.github.io/en/law-firm-client-intake/) (written for UK solicitors), and for deadlines see [statute of limitations tracking](https://mikeautomations.github.io/en/statute-of-limitations-tracking-law-firms/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how new matters come in and where the check happens today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (an intake form, email, your practice software or a spreadsheet, and a calendar). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already holds new matters until a conflict check is recorded, you don't need this, and we'll say so on the call.
+
+### Does the workflow run the conflict search?
+No. It gathers the names and sends them to the person who searches your practice software or records, and to each lawyer. A lawyer decides whether there is a conflict.
+
+### Why send the names to every lawyer?
+Because a search only finds what was recorded. A lawyer may remember a person or company that was never entered, or was entered under another spelling.
+
+### What record does it keep?
+For each matter: the names checked, who searched, which lawyers replied, who cleared it and the date. If a party is added later, the second check is recorded too.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
@@ -21239,7 +21398,7 @@ For the 2026 to 2027 tax year, yes: P11D and P11D(b) are due by 6 July 2027 for 
 Payment for work benefits must reach HMRC by 22 July after the tax year ends, or 19 July if you pay by post.
 
 ## UK accounting practice deadline calendar 2026-27, with when to ask clients
-Source: https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/ (2026-11-17)
+Source: https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/ (2026-11-22)
 
 The next big UK deadline is 31 January 2027: the 2025-26 Self Assessment return, the balancing payment and the first payment on account for 2026-27 are all due. MTD for Income Tax quarterly updates fall on 7 August, 7 November, 7 February and 7 May. VAT is due 1 month and 7 days after each period.
 
@@ -21296,11 +21455,22 @@ Companies House and Corporation Tax deadlines run from each company's own dates,
 | Company Tax Return (CT600) | 12 months after the accounting period ends | 31 March 2027 |
 | Confirmation statement | At least once every 12 months, up to 14 days after the review period ends | Depends on the last statement date |
 
-### MTD for Income Tax in 2026-27: what's different
+### MTD for Income Tax in 2026-27: the soft landing and what's different
 - Quarterly update deadlines are the same for standard periods (6 April start) and calendar periods (1 April start): 7 August, 7 November, 7 February and 7 May.
 - Each update covers the tax year so far, and a nil update is still required if there was no income or expense in the period.
 - HMRC says it will not apply penalty points for late quarterly updates during the 2026 to 2027 tax year. From the next tax year, 4 points means a £200 penalty. Late tax returns earn points in both years.
 - The next group, over £30,000 of qualifying income in 2025-26, starts on 6 April 2027. Our [MTD for Income Tax sign-up tracker](https://mikeautomations.github.io/en/blog/mtd-income-tax-client-sign-up-tracker/) covers getting them ready.
+
+### A bookkeeping calendar for the weeks between deadlines
+The dates above are the deadlines. A bookkeeping calendar is the routine that keeps you ahead of them. For most small practices it fits on one page.
+| When | Bookkeeping task | Why it matters |
+| --- | --- | --- |
+| Every week | Bank feeds reconciled, receipts matched, uncategorised items sent to the client as questions | Quarter-end work shrinks to checking, not catching up |
+| 5 working days before each payday | Payroll changes collected: starters, leavers, hours, bonuses | The FPS goes on time and payslips are right first time |
+| 6th of each month | CIS subcontractor payments and verifications for the tax month just ended | The CIS return is ready well before the 19th |
+| Day after each VAT or MTD period ends | Records request to the client, with a list of what's missing | Returns and quarterly updates are built from complete records |
+| Month end | Sales and purchase ledgers aged, overdue invoices flagged to the client | Cash flow problems show up before they hit a tax payment |
+| Quarter end | Management figures sent to clients who want them, and a check that MTD software authorisations are still live | No surprises at year end |
 
 ### Add these dates to your own calendar
 The fixed dates above are also free calendar files you can add to Google Calendar, Outlook or Apple Calendar, each with a reminder a week before. Subscribe by URL (in Google Calendar: Other calendars, From URL) to keep them in a separate calendar you can switch off, or download the file and import it.
@@ -21357,6 +21527,12 @@ The online return and the tax owed are due by 11:59pm on 31 January 2027. Paper 
 
 ### What are the MTD for Income Tax quarterly update deadlines?
 7 August, 7 November, 7 February and 7 May (the following tax year). HMRC will not apply penalty points for late quarterly updates in the 2026 to 2027 tax year.
+
+### What is the MTD soft landing for 2026-27?
+HMRC has said it will not apply penalty points for late MTD for Income Tax quarterly updates during the 2026 to 2027 tax year, the first year of MTD. Quarterly updates are still required, and late tax returns still earn penalty points. From 2027-28, late quarterly updates count towards the 4-point threshold for a £200 penalty.
+
+### What should a bookkeeping calendar include?
+The fixed deadlines (payroll, CIS, VAT, MTD, Self Assessment, Corporation Tax, Companies House) plus the routine that feeds them: weekly bank reconciliation, payroll changes collected 5 working days before payday, a records request the day after each VAT or MTD period, and month-end checks of overdue invoices.
 
 ### When are company accounts and Corporation Tax due?
 For a private limited company, accounts go to Companies House 9 months after the financial year ends. Corporation Tax is paid 9 months and 1 day after the accounting period ends (for taxable profits up to £1.5 million), and the Company Tax Return is due 12 months after it ends.
