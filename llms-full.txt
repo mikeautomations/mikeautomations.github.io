@@ -1372,6 +1372,9 @@ Every legal judgement. A person decides whether a conflict exists, whether to ta
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how enquiries come in today and where they wait. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools your firm already uses (your email, calendar, e-signature tool and practice management software where it allows a connection), so nobody learns a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
 
+### Free tools for new enquiries
+The free [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes the instant reply to a new enquiry, and the [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the reminder before the first consultation.
+
 ### Does the workflow run the conflict check?
 It gathers the names and passes them to the person who checks them, in your practice software or your own records. A person always decides whether there's a conflict.
 
@@ -2047,6 +2050,9 @@ Your coding, your quote and your professional judgement. A workflow can log the 
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how your reports and quotes go out today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your certification software's exports, your email, Google Sheets), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
+
+### Free tools for remedial quotes
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) turns the EICR remedial list into a priced quote PDF, and the [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes the nudge when the customer goes quiet.
 
 ### When do the 28 days start?
 Regulation 3(4) says the period starts with the date of the inspection and testing. If your report gives a shorter period for an item, that shorter period applies.
@@ -4262,6 +4268,9 @@ Questions to ask (copy and send before a call):
 ### How Mike Automations would do it
 It starts with a [free 15-minute call](https://mikeautomations.github.io/call/) about how your invoices, receipts and payments move today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It uses QuickBooks' own features first and builds the rest in your own accounts (QuickBooks, Gmail or Outlook, your sheets and any connector tool), so you own all of it and nothing stops if we stop working together. Nothing posts to your books without the review step you choose, and if AI drafts a message, a person approves it before it's sent. Live in 2-3 days. [Workflow automation is $2,000 one-off](https://mikeautomations.github.io/en/pricing/), $1,500 for the first 3 clients, and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). Optional support is $150 a month. To see the steps first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=quickbooks-online-automation-services).
 
+### Free tools for invoicing
+The free [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes a quick invoice PDF outside QuickBooks, and the [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes chaser text you can paste into QuickBooks reminders.
+
 ### What do QuickBooks Online automation services include?
 Usually invoice reminders, bank rules, receipt chasing, creating invoices from bookings or forms, bill approvals and a regular summary email. Good help uses QuickBooks' built-in features first and only adds other tools where QuickBooks stops.
 
@@ -4348,6 +4357,9 @@ Mike Automations is not a Xero partner and doesn't sell Xero. You keep your own 
 3. Built in your own Xero, email and automation accounts (Zapier, Make or n8n, whichever suits: the trade-offs are in [Zapier vs Make vs n8n](https://mikeautomations.github.io/en/blog/zapier-vs-make-vs-n8n/)). You own everything.
 4. Live in 2-3 days, tested on a few real records first, with a person approving anything before it reaches the ledger.
 5. [Workflow automation is $2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients). You pay once it's running and you're happy with it. Optional support is $150 a month.
+
+### Free tools for invoicing
+The free [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes a quick invoice PDF outside Xero, and the [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes the chaser text you can paste into Xero's reminders.
 
 ### Are you a certified Xero partner?
 No. Mike Automations isn't a Xero partner and doesn't resell Xero. The work uses Xero's normal app connections in your own accounts, and you keep your own subscription and your own accountant or bookkeeper.
@@ -10766,6 +10778,9 @@ Every court date and deadline, how your firm calendars them, what clients are to
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about where your hearings are calendared today and how you reach clients. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your case management software where it allows a connection, your calendar, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already texts clients before hearings and your staff are happy with it, you don't need this, and we'll say so on the call.
 
+### Free tools for court dates
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the client reminders before each hearing, and the [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts business days between dates when you plan the reminder schedule.
+
 ### Does it work out court dates or deadlines?
 No. Your firm sets every date in its own calendar. The workflow only reminds the client about dates your staff have entered.
 
@@ -13550,6 +13565,9 @@ The work, the testing, every certificate and the decision on what's notifiable. 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track notifications today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your certificate software or job app, a spreadsheet and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your certificate software already reminds you to notify and sends customers their paperwork, you don't need this, and we'll say so on the call.
 
+### Free tools for finishing jobs
+The free [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the final invoice, and the [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) makes the review link to send once the certificate is issued.
+
 ### Does it notify our competent person scheme for us?
 No. It reminds you until you log that you've notified the job. The notification itself stays with you, through your scheme's portal or app.
 
@@ -13813,6 +13831,9 @@ The installation, the commissioning, and the notification and warranty registrat
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track installs today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your job app or a spreadsheet, email and your phone), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already reminds you and sends customers their paperwork, you don't need this, and we'll say so on the call.
 
+### Free tools for boiler installs
+The free [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the final invoice once the boiler is in, and the [Google review link generator](https://mikeautomations.github.io/en/google-review-link-generator/) makes the review link to send with the paperwork.
+
 ### Does it notify Gas Safe or register warranties for us?
 No. It reminds you until you log that each one is done. The notification and the registration stay with you, through the official sites.
 
@@ -14007,6 +14028,9 @@ The survey, the decision on which route applies, the installation and testing, a
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track DNO paperwork today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your job app or a spreadsheet, email and a survey form), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your installation software already tracks DNO forms and updates customers, you don't need this, and we'll say so on the call.
 
+### Free tools for charger installs
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the installation quote PDF, and the [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes the nudge while the customer decides.
+
 ### Does it submit forms to the DNO for us?
 No. You submit them through the DNO's portal or the ENA form. The workflow reminds you, logs the date and keeps the customer informed.
 
@@ -14071,6 +14095,9 @@ The application to the council, every conversation with its licensing team, and 
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track licences today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your property software or a spreadsheet, and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your property software already tracks licence dates and conditions, you don't need this, and we'll say so on the call.
+
+### Free tools for licence dates
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days before each licence expiry, so the renewal reminder goes out with enough time to apply.
 
 ### Does it apply to the council for us?
 No. It reminds you, gathers what the application needs and updates the landlord. You submit the application through the council's own process.
@@ -14199,6 +14226,9 @@ Choosing courses, completing them, and filing every renewal with the board. The 
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track licenses today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your field service software, email and a form), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your software already tracks licenses and CE hours, you don't need this, and we'll say so on the call.
+
+### Free tools for renewal dates
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts business days to each licence expiry, so reminders go out with time to finish continuing education.
 
 ### Does it know each state's CE rules?
 No. You enter each board's requirements from its renewal information, and the workflow tracks against them. Rules change, so check the board's page at each renewal.
