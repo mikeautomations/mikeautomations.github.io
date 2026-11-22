@@ -325,6 +325,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [TM44 inspection reminders](https://mikeautomations.github.io/en/tm44-air-conditioning-inspection-reminders/): For energy assessors, air conditioning contractors and facilities managers: every building's TM44 inspection booked before the five-year date.
 - [Workers' comp audit documents](https://mikeautomations.github.io/en/workers-comp-premium-audit-document-collection/): For insurance agencies and contractors: payroll records and subcontractor certificates collected before the workers' comp premium audit, not during it.
 - [401(k) census data collection](https://mikeautomations.github.io/en/retirement-plan-census-data-collection-tpa/): For third-party administrators: year-end census files and questionnaires collected from every plan sponsor, with reminders and one list of what is missing.
+- [Forklift operator evaluation reminders](https://mikeautomations.github.io/en/forklift-operator-evaluation-reminders/): For warehouses, contractors and safety trainers: every forklift operator's three-year evaluation booked before the date, with the record on file.
+- [PSSR examination reminders](https://mikeautomations.github.io/en/pssr-written-scheme-examination-reminders/): For compressor service companies and pressure system engineers: every customer's written scheme examination booked before its date, report filed.
+- [Bankruptcy client document collection](https://mikeautomations.github.io/en/bankruptcy-client-document-collection/): For consumer bankruptcy attorneys: one checklist per client, reminders for missing pay stubs, tax returns and certificates, dates the attorney sees.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

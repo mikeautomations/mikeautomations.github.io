@@ -15484,6 +15484,175 @@ No. Sponsors upload to your secure folder or portal through a link. Messages onl
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Forklift operator evaluation reminders: every operator evaluated before the three-year date
+Source: https://mikeautomations.github.io/en/forklift-operator-evaluation-reminders/
+
+A forklift evaluation reminder workflow keeps one row per operator with the date of their last evaluation and the truck types they are cleared for. It tells the supervisor and the trainer a few weeks before the next evaluation is due, books it, and files the signed record. A qualified trainer does the evaluation and decides whether the operator passes.
+
+OSHA's powered industrial truck standard, 29 CFR 1910.178(l), says an evaluation of each operator's performance must be done at least once every three years. Refresher training is a separate thing: it's needed after events such as unsafe operation, an accident or near miss, a move to a different type of truck, or a change in the workplace. Each operator has their own date, counted from their own last evaluation. With thirty operators hired in different months, on three shifts and two sites, the dates are spread across the whole calendar, and the list is often a spreadsheet one person updates when they remember.
+
+### Where operator evaluations slip
+- The dates live in a spreadsheet that only the safety manager opens
+- An operator moves to another site or shift and their row doesn't move with them
+- A temp arrives from a staffing firm with a wallet card, and nobody records who evaluated them on your trucks
+- An operator starts using a reach truck and the record only covers a sit-down counterbalance truck
+- A near miss happens and the refresher training is agreed in a meeting, then forgotten
+- The evaluation was done, but the signed form is in a binder at the other building
+
+### What the list keeps
+One row per operator. If you already keep a training matrix in a spreadsheet or in HR software, the workflow reads from it and adds the reminders and the filing.
+| Field | Why it matters |
+| --- | --- |
+| Operator, site, shift and supervisor | So the reminder goes to the person who can release them for an hour |
+| Truck types they are cleared for | So a move to a different truck shows as a gap |
+| Initial training date and trainer | The start of the record |
+| Last evaluation date and evaluator | So the next date is counted, not remembered |
+| Next evaluation due | So it is booked weeks before, not found afterwards |
+| Open refresher training and the reason | So training agreed after an incident is done and recorded |
+| Signed record on file | So the paper can be found on the day someone asks for it |
+
+### How the workflow runs
+1. Every operator goes on the list with their last evaluation date. Operators with no record on file are marked "no date" and go to the top.
+2. A few weeks before an evaluation is due, the supervisor and the trainer get an email with the operator's name, the due date and the truck types.
+3. The trainer picks a time and the operator and supervisor get a calendar invite. Operators due in the same month are grouped so the trainer comes once.
+4. A week before the due date, anything still not booked goes on a short list for the safety manager.
+5. After the evaluation, the trainer fills in one short form on a phone: operator, date, truck type, result and their name. The signed record is saved against the operator.
+6. The next date is set for three years on, or sooner if your own policy is shorter.
+7. When a supervisor reports unsafe operation, an accident or a near miss on a form, a refresher training line opens for that operator and stays open until the trainer closes it.
+8. When an operator is assigned a new truck type, the list shows them as not yet cleared for it.
+9. If AI reads a form or drafts a message, a person checks it before it is sent.
+
+### What stays with you
+The training, the evaluation, the decision on whether someone may operate a truck, and what to do after an incident. The workflow reminds, books and files. It is not legal advice: the employer is responsible for certifying that each operator has been trained and evaluated, and some states run their own OSHA-approved plans with extra rules, so check what applies where you work. If you also keep driver files, see [driver qualification file tracking](https://mikeautomations.github.io/en/driver-qualification-file-expiry-tracking/). For lifting equipment in the UK, see [LOLER examination reminders](https://mikeautomations.github.io/en/loler-thorough-examination-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many operators you have and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email, a calendar and a shared folder). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your HR or training software already reminds supervisors and files the records, you don't need this, and we'll say so on the call.
+
+### How often does a forklift operator need to be evaluated?
+OSHA's standard, 29 CFR 1910.178(l)(4)(iii), says each operator's performance must be evaluated at least once every three years. The workflow counts from each operator's own last evaluation date.
+
+### Is refresher training due every three years too?
+The standard ties refresher training to events, such as unsafe operation, an accident or near miss, a different type of truck or a change in the workplace. The three-year date is for the evaluation. Many employers do both together, and the workflow follows the policy you set.
+
+### Does the workflow certify operators?
+No. A qualified trainer evaluates the operator and the employer certifies it. The workflow keeps the dates, books the time and files the record.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## PSSR examination reminders: every pressure system examined before its date
+Source: https://mikeautomations.github.io/en/pssr-written-scheme-examination-reminders/
+
+A PSSR reminder workflow keeps one row per pressure system with the interval from its written scheme of examination and the date of the last examination. It contacts the customer a few weeks before the next one is due, books the visit, checks the system can be made ready, and files the report. A competent person does the examination and writes the report.
+
+HSE's guidance on the Pressure Systems Safety Regulations 2000 says a written scheme of examination must be in place before a pressure system is used, and that a competent person must examine the system within the intervals the scheme sets. There is no single interval for every system: the scheme for a small air receiver in a garage and the scheme for a steam boiler in a laundry give different dates, and one scheme can give different intervals for different parts. A compressor service company with a few hundred customers has hundreds of dates, each read from a different document.
+
+### Where PSSR examinations slip
+- The due date is on the last report, and the report is in a file in the customer's workshop
+- The customer thinks the annual service and the examination are the same visit
+- A receiver was replaced or a second compressor added, and the written scheme was never updated
+- The examiner arrives and the system is running, so nothing can be opened up
+- One site has an air receiver, an autoclave and a steam boiler, each with its own interval
+- The report lists repairs to do before a date, and nobody follows them up
+
+### What the list keeps
+One row per system, or per part where the scheme gives parts their own intervals. If you already use job software or a spreadsheet, the workflow reads from it and adds the reminders and the follow-up.
+| Field | Why it matters |
+| --- | --- |
+| Customer, site and who is responsible for the system | So the reminder goes to the person who can shut it down |
+| System and the parts the scheme covers | So a new receiver or valve shows as not on the scheme |
+| Written scheme reference and who certified it | So the interval comes from the document, not from memory |
+| Interval from the scheme | Set per system or per part by the competent person |
+| Last examination date and report reference | So the next date is counted from a record |
+| Next examination due | So the visit is offered weeks before the date |
+| Repairs or changes the report asked for, with dates | So each one gets an answer |
+
+### How the workflow runs
+1. Each system goes on the list with its scheme reference, interval and last examination date. Systems with no scheme or no report on file are marked and go to the top.
+2. A few weeks before an examination is due, the customer gets an email with the system, the due date and two dates an engineer is in the area.
+3. A reply books the visit and puts it in the diary. No reply gets a second message, then a place on a short call list.
+4. When the visit is booked, the customer gets one message about what the examiner needs: when the system can be shut down and isolated, and who gives access.
+5. The day before, the site contact gets a reminder with the time.
+6. After the visit, the report is sent to the customer, filed against the system, and the next date is set from the scheme.
+7. Each repair or change the report asks for becomes a line with its date. The customer is asked about it before that date, and you can offer a quote.
+8. When a job sheet shows a part was replaced or added, the row is flagged "scheme may need review" for the competent person.
+9. If AI reads a report or drafts a message, a person checks it before it is sent.
+
+### What stays with you
+The written scheme, the examination, the report, and the decision on whether a system needs a scheme at all. The workflow reminds, books and files. It is not legal advice: the duties sit with the user or owner of the system, and HSE's guidance and Approved Code of Practice are the place to check what applies. Companies that also examine lifting equipment can use [LOLER examination reminders](https://mikeautomations.github.io/en/loler-thorough-examination-reminders/), and for extraction systems see [LEV testing reminders](https://mikeautomations.github.io/en/lev-testing-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many systems you look after and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or job software, email, a calendar and a shared folder). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already tracks examination dates per system and chases the follow-up, you don't need this, and we'll say so on the call.
+
+### How often does a pressure system need a PSSR examination?
+There is no single interval. HSE's guidance says a competent person examines the system within the intervals set in its written scheme of examination. The workflow uses the interval from each system's own scheme.
+
+### Is an examination the same as a service?
+No. A service keeps the equipment running. The examination under the written scheme is done by a competent person and ends in a report. The workflow keeps the two dates apart, so one isn't mistaken for the other.
+
+### Does the workflow decide whether a system needs a written scheme?
+No. The user or owner and the competent person decide that. The workflow keeps the dates, reminds people and files the report.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Bankruptcy client document collection: one checklist per client, every date in view
+Source: https://mikeautomations.github.io/en/bankruptcy-client-document-collection/
+
+A bankruptcy document collection workflow sends each client one checklist of what their case needs, records what has arrived, and reminds them about what is still missing. It shows the attorney which documents have a date attached, such as pay stubs and the credit counseling certificate. It doesn't review the documents or decide when to file: the attorney does.
+
+A consumer bankruptcy case runs on the client's paperwork. Bankruptcy court websites list the same core items: a certificate showing the client took credit counseling from an approved agency within 180 days before filing, pay stubs received in the 60 days before filing, and the most recent federal tax return or a transcript, which goes to the trustee no later than 7 days before the meeting of creditors. Local rules and each trustee add their own lists. The client is under stress, often has no scanner, and sends photos in pieces over several weeks. Meanwhile some of what they sent goes out of date.
+
+### Where bankruptcy document collection gets stuck
+- The client gets a three-page list at the first meeting and sends a third of it
+- Documents arrive as phone photos by text, email and in person, and nobody has one view of what's missing
+- Filing slips by a few weeks, so the pay stubs on file no longer cover the 60 days before filing
+- The credit counseling certificate was done early and is close to 180 days old
+- A spouse's income documents are needed and nobody asked the spouse
+- The trustee's own document request arrives after filing and sits in one paralegal's inbox
+- The debtor education course after filing is forgotten until the court sends a notice
+
+### What the checklist keeps
+One checklist per client, built from the list your firm already uses for that chapter and district. The workflow doesn't decide what is needed. It asks for what your list says and keeps the dates in view.
+| Item | What the workflow watches |
+| --- | --- |
+| Credit counseling certificate | The date on it, so the attorney sees when it is close to 180 days old |
+| Pay stubs or other proof of income | Whether they still cover the 60 days before the planned filing date |
+| Most recent federal tax return or transcript | Received, and sent to the trustee at least 7 days before the meeting of creditors |
+| Bank statements | Which accounts and months are still missing |
+| ID and proof of Social Security number | Received before the meeting of creditors |
+| Anything your trustee or local rules add | Listed per district, with the trustee's own due date |
+| Debtor education certificate | Asked for after filing, until it's on file |
+
+### How the workflow runs
+1. When a client signs your fee agreement, they get one message with their checklist and a link to upload from a phone. Each item has a plain description and an example.
+2. Each upload is saved to the client's folder and ticked off. Photos of several pages are kept together under the item.
+3. Every few days the client gets a short message listing only what is still missing. After the third message with no reply, the client goes on a call list for a paralegal.
+4. The attorney or paralegal sets a planned filing date. The list then shows which pay stubs and statements will be too old by that date and asks the client for the newer ones.
+5. The date on the credit counseling certificate is recorded. If the planned filing date gets close to 180 days after it, the attorney sees a warning.
+6. After filing, the meeting of creditors date goes on the list. The tax return and the trustee's requested documents show as due before it, and a paralegal sends them after the attorney's review.
+7. The client gets a reminder about the debtor education course until the certificate is on file.
+8. Each Monday the firm gets one list of every open case and what it is waiting for.
+9. If AI reads a document or drafts a message, a person checks it before it is sent.
+
+### What stays with the attorney
+Legal advice, reviewing every document, the petition and schedules, deciding when to file, and everything sent to the court or the trustee. The workflow asks, reminds and files, and a person sends anything that leaves the firm. Deadlines differ by district and by trustee, so the dates in the workflow are the ones your firm enters. Client documents stay in the storage you already use, with access limited to your staff. For the first contact with a new client, see [law firm client intake](https://mikeautomations.github.io/en/law-firm-client-intake/). Firms that also do immigration work can use the same approach for [immigration document checklists](https://mikeautomations.github.io/en/immigration-law-firm-document-checklists/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many cases you open a month and how documents reach you today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (email, text messages, a shared folder and your case software or a spreadsheet). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your bankruptcy software already has a client portal that your clients use and that chases them, you don't need this, and we'll say so on the call.
+
+### What documents does a bankruptcy client usually need to send?
+Bankruptcy court websites list a credit counseling certificate, pay stubs from the 60 days before filing, the most recent federal tax return or a transcript, and ID. Trustees and local rules add more, such as bank statements. The workflow uses your firm's own list.
+
+### Does the workflow track the 180-day credit counseling window?
+It records the date on the certificate and shows the attorney when the planned filing date is getting close to 180 days after it. The attorney decides what to do.
+
+### Does it send documents to the trustee?
+No. It shows what is due before the meeting of creditors and prepares the list. A person at the firm reviews and sends.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
