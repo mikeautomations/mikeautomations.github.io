@@ -4027,6 +4027,9 @@ Any questions, just reply to me as usual.
 ### How to start
 Book a [free 15-minute call](https://mikeautomations.github.io/call/) and bring one real client request. If you'd like to sketch it first, the [plan builder](https://mikeautomations.github.io/en/plan/) shows which steps would run on their own and which stay with a person. Within 48 hours you get a written plan with a fixed price you can reuse in your proposal.
 
+### Free tools for pricing
+The free [hourly rate calculator](https://mikeautomations.github.io/en/hourly-rate-calculator/) and [profit margin calculator](https://mikeautomations.github.io/en/profit-margin-calculator/) help you set a resale price for white-label work that leaves the agency a fair margin.
+
 ### Will my client know you built it?
 Only if you tell them. Nothing in the workflow carries the Mike Automations name. For data protection, though, your client should know a specialist is working on their accounts, and in the UK they need to authorise it in writing.
 
@@ -6288,6 +6291,9 @@ The same calendar and reminder pattern runs other repeat charity work. Gift Aid 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track grants and write reports today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (a shared drive, a spreadsheet, email and online forms), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=grant-reporting-deadline-reminders).
 
+### Free tools for report deadlines
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days before each report is due, so the first reminder goes out with time to gather the figures.
+
 ### When are grant reports usually due?
 Whenever the grant agreement says. Many funders ask for progress reports during the grant and a final report after it ends. For US federal awards, 2 CFR 200.344 says final reports are due no later than 120 calendar days after the period of performance ends.
 
@@ -6530,6 +6536,9 @@ Checking documents and the register, and deciding who works where, stay with a p
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track licences and confirm shifts today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", which you can turn into a [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). It's built on the tools you already use (your rota or a spreadsheet, email, texts or WhatsApp), so your officers don't learn a new app. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. If your officers also send hours for payroll, the [timesheet chasing workflow](https://mikeautomations.github.io/en/recruitment-timesheet-chasing/) works the same way. To see the steps for your company first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=security-company-licence-and-shift-confirmations), or [try the demo](https://mikeautomations.github.io/en/try/).
+
+### Free tools for licence dates
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days before each SIA licence expires, and the [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes shift confirmation messages.
 
 ### How early can an officer renew an SIA licence?
 Gov.uk says 4 months before the current licence expires. Time left on the old licence is added to the new one, so renewing early loses nothing.
@@ -7964,6 +7973,9 @@ All advice and every regulatory judgement. You decide what the review covers, wh
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you run reviews today and where they stall. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your back office system, email, calendar, forms and e-signature, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. You can also [sketch your version in the plan builder](https://mikeautomations.github.io/en/plan/?g=financial-adviser-client-review-paperwork) first.
+
+### Free tools for client reviews
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the review meeting reminders, and the [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days before each review, so the paperwork request goes out first.
 
 ### Does our back office system already do this?
 Many hold review dates and send some reminders. On the call we check what yours already does on its own, and only automate the gaps, such as chasing fact-finds or logging every attempt to engage.
@@ -9588,6 +9600,9 @@ Everything inside HMRC. A person at your practice submits the request, enters th
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you request authorisations today and where they wait. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your email, a spreadsheet or your practice software where it allows a connection), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/).
+
+### Free tools for authorisation codes
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts working days since the code was sent, so the client chaser goes out well before the code expires.
 
 ### How long does a client have to send the HMRC authorisation code?
 GOV.UK says the client should tell you the code within 30 days, usually counted from the letter being issued, and that the exact date is in the letter. After that the code expires and you start the process again.
@@ -11557,6 +11572,9 @@ Assessing staff, every decision about who goes back into the scheme, and the re-
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track re-enrolment dates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your payroll software's client list and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your payroll software already alerts you to each client's re-enrolment date and you act on it, you don't need this, and we'll say so on the call.
 
+### Free tools for re-enrolment dates
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days before each re-enrolment date and declaration deadline, so client reminders go out in time.
+
 ### How often does re-enrolment happen?
 Every three years. The Pensions Regulator expects a re-declaration of compliance within five months of the third anniversary of the employer's duties start date. Check the regulator's guidance for the detail.
 
@@ -11618,6 +11636,9 @@ Reviewing every report, checking wage rates and classifications, and every decis
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how certified payrolls reach you today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, a shared folder, an upload form and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If the agency's portal or your compliance software already chases every sub and shows you the gaps, you don't need this, and we'll say so on the call.
+
+### Free tools for report dates
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts business days to each submission date, so reminders go out before the payroll week closes.
 
 ### How often are certified payrolls due?
 On Davis-Bacon work, weekly, within seven days after the regular payment date for that payroll period. State and local prevailing-wage jobs can differ, so follow the contract.
@@ -11747,6 +11768,9 @@ Examining the hire's documents, completing Section 2 and every hiring decision. 
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you onboard a new hire today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, an online form, your payroll provider's forms and email or text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your payroll provider's onboarding already sends the forms and chases what's missing, you don't need this, and we'll say so on the call.
+
+### Free tools for start dates
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts business days to a new hire's start date, so paperwork requests go out with enough time.
 
 ### When does Form I-9 have to be completed?
 The employee completes Section 1 no later than the first day of work. The employer examines the documents and completes Section 2 within three business days of that day. See the USCIS page for Form I-9 for the details.
@@ -12258,6 +12282,9 @@ Deciding what to bid, the takeoff and pricing, scope questions and every convers
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how invitations reach you today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (email, a spreadsheet, a shared calendar and your drawings folder), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your bid board software already does all of this for every GC you work with, you don't need this, and we'll say so on the call.
+
+### Free tools for bids
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds a clean bid PDF, and the [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes the follow-up after the bid date.
 
 ### Does this replace a bid board?
 No. It works with the email invitations you already get, including ones from bid boards. If one bid board already holds every invitation and reminds you, you may not need it.
@@ -13196,6 +13223,9 @@ Reading the lease, every date and notice window, every client decision, any advi
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track lease events today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your property software, Outlook or Gmail), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your property management software already reminds the right person about every event, you don't need this, and we'll say so on the call.
+
+### Free tools for lease dates
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts working days to break dates and rent reviews, so the notice reminder goes out early enough.
 
 ### Who enters the dates?
 Your team, from the signed lease and any variations, with a second person checking. The workflow only reminds on dates you've entered and checked.
