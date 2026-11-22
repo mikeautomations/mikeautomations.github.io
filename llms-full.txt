@@ -17579,7 +17579,7 @@ Only in tools whose data terms you've checked and approved, with a record of whi
 Usually reminders. Scheduled requests and filing give the biggest time savings with the least risk. AI comes next, for reading documents and drafting replies, with a person approving.
 
 ## How much does business automation cost for a small business?
-Source: https://mikeautomations.github.io/en/blog/business-automation-cost/ (2026-11-19)
+Source: https://mikeautomations.github.io/en/blog/business-automation-cost/ (2026-11-22)
 
 How much does business automation cost? For a small business it has three parts: a one-off build, software subscriptions and optional support. With Mike Automations one process costs $2,000 once ($1,500 for the first 3 clients), and support is optional at $150 a month. The platform underneath often adds little or nothing a month.
 
@@ -17610,6 +17610,13 @@ Make sure every subscription is in your name and paid from your account. Then th
 
 ### 3. Keeping it running
 Apps change, passwords expire and processes evolve. Either someone in your team learns to look after the workflow, or you pay for support. Ask any provider three questions: what happens when something breaks, how quickly they respond, and whether you can leave and keep everything.
+
+### Can automation cost under $200 a month?
+Often, yes, once the build is paid for. The monthly cost is only two things: the automation platform and any support you choose. A small practice or service business running one to three workflows usually fits on an entry or mid-tier platform plan, because the volume is a few hundred runs a month, not tens of thousands. Check the current price on the vendor's own pricing page, since plans change.
+With us, optional support is $150 a month, so platform plus support can stay under $200 for low-volume workflows on an entry plan. If you skip support and look after it yourself, the platform is the only monthly cost. What pushes the bill up is volume: every new lead, invoice or document that runs through the workflow uses tasks, credits or executions, so estimate your monthly count before you pick a plan.
+
+### Automation coaching or done-for-you?
+Some people pay a coach or trainer to learn to build their own automations. Others pay someone to build and hand over a working process. Coaching makes sense if someone on your team has the time and interest to maintain workflows long term. Done-for-you makes sense if the goal is to stop a manual job this month and you would rather not learn a new tool. Mike Automations builds done-for-you workflows at a fixed price and hands over everything you need to run them. We don't sell coaching packages.
 
 ### Our pricing, in full
 Prices are in US dollars, invoiced in pounds or euros at the equivalent rate. No deposit and no hourly billing. You get the exact scope and a fixed price in a [written plan](https://mikeautomations.github.io/en/how-it-works/) within 48 hours of a [free 15-minute call](https://mikeautomations.github.io/call/), and a workflow is live in 2-3 days.
@@ -17664,6 +17671,12 @@ Pick one repeated process, build it on a free or entry plan yourself, or ask for
 
 ### How much does it cost to automate one process?
 With Mike Automations, $2,000 one-off for one process end to end ($1,500 for the first 3 clients), paid once it's running and you're happy with it. Add a platform subscription, which for a small firm is often free to a few tens of dollars a month.
+
+### Can business automation cost under $200 a month?
+Usually, after the one-off build. The only monthly costs are the automation platform, at the vendor's current price, and optional support, which is $150 a month with us. Low-volume workflows on an entry plan can stay under $200 a month in total.
+
+### What does automation coaching cost compared with done-for-you?
+Coaches and trainers set their own rates, so compare what you get: coaching teaches your team to build and maintain workflows, done-for-you hands over a working process. Mike Automations is done-for-you: $2,000 per workflow ($1,500 for the first 3 clients), and you own the workflow and every account it runs on.
 
 ### Are there monthly fees?
 Only for software you choose to use, such as an automation platform, paid directly from your own account. Our support is optional at $150 a month.
