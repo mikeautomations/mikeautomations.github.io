@@ -11897,6 +11897,41 @@ Thanks, [name], [company]
 5. Every morning the manager sees the rows in order of days left, with what each one is waiting for.
 6. A person prepares and sends the itemized statement and the payment. The row closes only when both dates are filled in.
 
+### An itemized deposit statement layout
+Most states ask for a written, itemized list when part of a deposit is kept. Check your state's rules for what it must include and how it must be sent. A clear layout like this one makes the statement quick to prepare and easy for the tenant to follow.
+Itemized security deposit statement (edit the words in brackets and check it against your state's rules):
+```
+Security deposit statement
+
+Property: [address]
+Tenant(s): [names]
+Tenancy: [start date] to [move-out date]
+Forwarding address: [address]
+
+Deposit held: [amount]
+[Interest, if your state requires it: amount]
+
+Deductions:
+1. [Item and reason, for example: carpet cleaning in bedroom 2, stain beyond normal wear] [amount] (invoice attached)
+2. [Item and reason] [amount] (photo and invoice attached)
+3. [Unpaid rent or charges, with dates] [amount]
+
+Total deductions: [amount]
+Amount returned: [amount], sent by [method] on [date]
+
+If you have questions about this statement, contact [name] at [phone or email].
+
+[Company name], [date]
+```
+
+### Move-out evidence to keep for every deduction
+- Move-in and move-out inspection notes, signed or dated, with the same room order so they can be compared.
+- Dated photos or video of each room and each item you deduct for.
+- Vendor invoices or receipts, or a written estimate if your state allows one.
+- The tenant's forwarding address and the date it was received.
+- Proof of when and how the statement and payment were sent.
+- The owner's written approval of the deductions.
+
 ### What stays with you
 Every deduction, every statement and every payment. The workflow doesn't decide what counts as damage or normal wear, and it doesn't send a statement on its own. The deadline on each row is the one you entered, so check it against your state's current law, especially if you manage in more than one state. For the start of a tenancy, see [rental application document collection](https://mikeautomations.github.io/en/rental-application-document-collection/). For routine visits, see [property inspection scheduling](https://mikeautomations.github.io/en/property-inspection-scheduling/). If AI drafts a message to a tenant or an owner, a person reads and approves it before it's sent.
 
