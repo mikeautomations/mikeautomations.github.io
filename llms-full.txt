@@ -11263,7 +11263,7 @@ Reading the reject, deciding the fix, any change to the return and every word th
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how acknowledgements reach you today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your tax software's reports or emails, your practice software, a spreadsheet and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already tracks rejects and your team works from it, you don't need this, and we'll say so on the call.
 
 ### Free tools for refiling
-The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts business days left in the IRS perfection period, so the client request goes out with time to fix and resubmit.
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts business days between dates, which helps plan the client follow-up so a rejected return can be fixed and resubmitted in time.
 
 ### How long do I have to fix a rejected return?
 The IRS gives a short perfection period to correct and retransmit while keeping the original filing date. The length depends on the return type, so check the current Publication 1345 and your software's guidance.
