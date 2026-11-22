@@ -10567,6 +10567,9 @@ The test, the report and your signature on it, any repair and every price. The w
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about where your test history lives today and how each water authority you deal with takes reports. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your field service software where it allows a connection, a spreadsheet, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your software already sends backflow reminders and you're happy with them, you don't need this, and we'll say so on the call.
 
+### Free tools for backflow test reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the backflow test reminders and visit confirmations, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice after each visit.
+
 ### Does it tell customers when their test is due?
 It uses the due date from the customer's water authority, which you enter or copy from the notice. It doesn't set testing rules or intervals.
 
@@ -11077,6 +11080,9 @@ The examination, the report and every judgement in it, including any defect and 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about where your register lives today and how your reports go out. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your inspection software where it allows a connection, a spreadsheet, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your software already sends reminders your customers act on, you don't need this, and we'll say so on the call.
 
+### Free tools for thorough examination reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the thorough examination reminders and visit confirmations, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice after each visit.
+
 ### Does it work out when examinations are due?
 No. It uses the next due date your competent person puts on each report, based on the legal maximum interval or the customer's written scheme. It doesn't set intervals.
 
@@ -11326,6 +11332,9 @@ Every inspection, every decision that a scaffold is safe to use and every repair
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how handovers and inspections are recorded today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, a phone form, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your scaffold software already builds the inspection round and sends the reports, you don't need this, and we'll say so on the call.
+
+### Free tools for inspection reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the inspection reminders and visit confirmations, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice after each visit.
 
 ### How often does a scaffold need inspecting?
 Under the Work at Height Regulations 2005, before first use, then at intervals of no more than 7 days, and after anything likely to affect its stability, such as high winds or alterations. Check HSE's guidance for the detail.
@@ -11635,6 +11644,9 @@ Every leak check, every repair and every decision about a system. The workflow d
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track leak check dates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your job software's asset list, a phone form, a calendar and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already tracks each asset's leak check date and sends the reminders, you don't need this, and we'll say so on the call.
+
+### Free tools for leak check reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the leak check reminders and visit confirmations, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice after each visit.
 
 ### How often does equipment need an F-gas leak check?
 For equipment holding F gas equivalent to 5 tonnes of CO2 or more: at least every 12 months, every 6 months from 50 tonnes and every 3 months from 500 tonnes. There are exceptions, so check gov.uk's guidance.
@@ -12491,6 +12503,9 @@ The service itself, every finding, repairs and anything about warranty or safety
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track service dates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your field service software, a shared calendar, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your field service software already reminds every customer and books the visit, you don't need this, and we'll say so on the call.
 
+### Free tools for service visit reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the service visit reminders and visit confirmations, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice after each visit.
+
 ### Who sets the service interval?
 Your office, from the manufacturer's schedule for each model. The workflow sends reminders based on the date you enter.
 
@@ -12798,6 +12813,9 @@ Calibration intervals, the lab you use, what counts as a pass, and whether a too
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track instruments today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email and text or WhatsApp), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job management software already tracks every instrument and certificate, you don't need this, and we'll say so on the call.
 
+### Free tools for calibration reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the calibration reminders and visit confirmations, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice after each visit.
+
 ### Who decides how often a tool is calibrated?
 You do, from the maker's guidance, your calibration lab and your own procedures or scheme requirements. The workflow uses the interval you enter.
 
@@ -12929,6 +12947,9 @@ The risk assessment, the written scheme, every reading and what it means, and ev
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you schedule monitoring today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your job software, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your water hygiene software already books every visit and sends every log, you don't need this, and we'll say so on the call.
 
+### Free tools for monitoring visit reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the monitoring visit reminders and visit confirmations, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice after each visit.
+
 ### Who decides which checks each site needs?
 You do, from the site's risk assessment and written scheme. The workflow only schedules the tasks and intervals you enter.
 
@@ -13059,6 +13080,9 @@ The inspection, every result and deficiency, the cycles in each contract, anythi
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you schedule inspections today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your inspection software, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your inspection software already books every visit and sends every report, you don't need this, and we'll say so on the call.
+
+### Free tools for inspection reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the inspection reminders and visit confirmations, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice after each visit.
 
 ### Who decides which inspections each building needs?
 Your office, from the contract, the NFPA 25 edition used locally and the AHJ. The workflow only schedules the cycles you enter.
@@ -13327,6 +13351,9 @@ The survey and re-inspection, every material assessment, the advice to the clien
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track re-inspections today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your survey software, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your survey software already books every re-inspection and chases every register update, you don't need this, and we'll say so on the call.
+
+### Free tools for re-inspection reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the re-inspection reminders and visit confirmations, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice after each visit.
 
 ### Who decides how often each site is re-inspected?
 The client's management plan and risk assessment. Your office enters the frequency, and the workflow only sends reminders based on it.
@@ -14737,6 +14764,9 @@ The inspection itself, every judgement about a door, repairs, and what you tell 
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how many buildings you look after and how checks are booked today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your block management software where it allows a connection, email, text and a shared folder). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your current software already books checks and tracks access and faults, you don't need this, and we'll say so on the call.
+
+### Free tools for inspection reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the inspection reminders and visit confirmations, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice after each visit.
 
 ### Does the workflow decide if a door passes?
 No. A competent person inspects the doors and the responsible person decides what to do. The workflow books the visits, asks residents for access, files the report and chases the faults.
