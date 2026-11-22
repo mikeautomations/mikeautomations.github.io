@@ -14228,7 +14228,7 @@ Choosing courses, completing them, and filing every renewal with the board. The 
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track licenses today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your field service software, email and a form), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your software already tracks licenses and CE hours, you don't need this, and we'll say so on the call.
 
 ### Free tools for renewal dates
-The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts business days to each licence expiry, so reminders go out with time to finish continuing education.
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts business days to each license expiration, so reminders go out with time to finish continuing education.
 
 ### Does it know each state's CE rules?
 No. You enter each board's requirements from its renewal information, and the workflow tracks against them. Rules change, so check the board's page at each renewal.
