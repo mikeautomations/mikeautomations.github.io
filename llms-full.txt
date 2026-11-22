@@ -11062,11 +11062,34 @@ Thank you,
 5. Owner replies, photos and hearing requests are filed with the case. Anything that needs a decision goes to the manager.
 6. Before each board meeting, the board gets one list of open and escalated cases. If AI drafts a letter or a summary, a person reads and approves it before it's sent.
 
+### A board report that takes five minutes to read
+Boards make faster decisions when the report answers the same questions every month. The workflow can build this table from the open cases, so the manager only adds notes.
+| Column | What it shows |
+| --- | --- |
+| Lot and address | Where the violation is |
+| Rule | The section of the governing documents it relates to |
+| Opened | Date of the first notice |
+| Stage | Courtesy notice, second notice, hearing offered, or the step your policy calls it |
+| Next date | Cure date or hearing date, whichever comes next |
+| Owner response | Replied, asked for a hearing, or no response |
+| Decision needed | What the board is asked to decide this month, if anything |
+
+### Keeping enforcement consistent
+Owners are more likely to accept a notice when they can see the same rule is applied to everyone. A shared case log helps the manager and board check that.
+- Use the board's approved letters for every case, so the wording doesn't depend on who sent it.
+- Record each inspection route and date, so similar issues on other lots are noted on the same drive-by.
+- Close cases with the date and photo of the fix, so repeat violations can be checked against your policy.
+- Keep owner replies and any reasons they give with the case, for the board to weigh.
+- Ask your community's attorney to review the letter set and steps once, so they match your governing documents and state law.
+
 ### What stays with you and the board
 Every finding, every letter that goes out, every fine and every hearing. The workflow doesn't decide what counts as a violation or what the penalty is. Your community's governing documents, state law and the board do. It keeps each case on the steps already agreed and shows what's open. For another property workflow with approval limits, see [landlord repair approval limits](https://mikeautomations.github.io/en/landlord-repair-approval-limits/). For UK block management, see [service charge reminders](https://mikeautomations.github.io/en/block-management-service-charge-reminders/).
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how your managers log violations today and which communities have their own letters. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your HOA software where it allows a connection, a phone form, a spreadsheet and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your HOA software already handles violations the way your boards want, you don't need this, and we'll say so on the call.
+
+### What should an HOA violation log track?
+For each case: the lot, the rule, the date and photo of what was seen, every notice sent and when, the cure date, the owner's replies, any hearing request, and the date and photo of the fix. That's enough for the board to see what's open and to keep enforcement consistent.
 
 ### Does it decide fines or hearings?
 No. The board decides every fine and hearing under its governing documents and state law. The workflow drafts the letters the board approved and keeps the record.
