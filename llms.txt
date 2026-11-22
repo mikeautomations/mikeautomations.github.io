@@ -320,6 +320,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [LEV testing reminders](https://mikeautomations.github.io/en/lev-testing-reminders/): For LEV testing companies and workshops: every extraction system booked before its thorough examination is due, reports sent and actions followed up.
 - [Irrigation winterization scheduling](https://mikeautomations.github.io/en/irrigation-winterization-and-spring-start-up-scheduling/): For irrigation contractors: past customers asked early, blowouts and spring start-ups booked by area, day-before reminders and a no-reply list.
 - [Law firm conflict check workflow](https://mikeautomations.github.io/en/law-firm-conflict-check-workflow/): A conflict check workflow for small law firms: names collected at intake, sent to every lawyer, the result recorded, and no file opened until it's cleared.
+- [TM44 inspection reminders](https://mikeautomations.github.io/en/tm44-air-conditioning-inspection-reminders/): For energy assessors, air conditioning contractors and facilities managers: every building's TM44 inspection booked before the five-year date.
+- [Workers' comp audit documents](https://mikeautomations.github.io/en/workers-comp-premium-audit-document-collection/): For insurance agencies and contractors: payroll records and subcontractor certificates collected before the workers' comp premium audit, not during it.
+- [401(k) census data collection](https://mikeautomations.github.io/en/retirement-plan-census-data-collection-tpa/): For third-party administrators: year-end census files and questionnaires collected from every plan sponsor, with reminders and one list of what is missing.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

@@ -15242,6 +15242,178 @@ For each matter: the names checked, who searched, which lawyers replied, who cle
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## TM44 inspection reminders: every building booked before its five-year date
+Source: https://mikeautomations.github.io/en/tm44-air-conditioning-inspection-reminders/
+
+A TM44 reminder workflow keeps one row per building with the date of its last air conditioning inspection. It contacts the building's manager a few months before the next one is due, collects the information the assessor needs before the visit, sends the report afterwards and sets the next date. An accredited energy assessor does the inspection and writes the report.
+
+GOV.UK's guide to air conditioning inspections says that systems with an effective rated output of more than 12kW must be inspected by an energy assessor, and that the inspections must be no more than five years apart. The guide covers England and Wales. Scotland and Northern Ireland have their own rules. Five years is long enough for everything around the date to change: the person who booked the last inspection has moved on, the building has a new managing agent, and the report is in an inbox nobody can open. An assessor or contractor with a few hundred buildings can't hold those dates in their head.
+
+### Where TM44 inspections slip
+- The due date is on a report from five years ago, and the contact on it has left
+- The building changed owner or managing agent and nobody passed the report on
+- New units were added, so a building that was under 12kW is now over it and isn't on any list
+- The assessor arrives and there is no asset list, no maintenance records and no roof access
+- The report recommends changes, and nobody looks at them again
+- A customer with twenty sites has twenty different dates
+
+### What the list keeps
+One row per building. If you already keep a spreadsheet or use job software, the workflow reads from it and adds the reminders and the follow-up.
+| Field | Why it matters |
+| --- | --- |
+| Building and who is responsible for the system | So the reminder goes to the person who can book it |
+| Total rated output and number of units | So a building that grows past 12kW gets a date |
+| Last inspection date and report reference | So the next date is counted, not remembered |
+| Next inspection due | So the visit is offered months before the date, not after |
+| Site contact and a second contact | So the message still lands after five years of staff changes |
+| Pre-visit information received | Asset list, maintenance records, access |
+| Report sent and recommendations | So each recommendation gets a reply |
+
+### How the workflow runs
+1. Each building goes on the list with the date of its last inspection. Buildings with no report on file are marked "no date" and go to the top.
+2. A few months before the next inspection is due, the responsible person gets an email with the building, the due date and two dates an assessor is in the area.
+3. A reply books the visit and puts it in the diary. No reply gets a second message, then a message to the second contact, then a place on a short call list.
+4. Once the visit is booked, the site gets one form asking for what the assessor needs: the asset list, maintenance records, and who gives access to plant rooms and the roof.
+5. The day before, the site contact gets a reminder with the time and what is still missing.
+6. After the visit, the report is sent to the customer and filed against the building, and the next date is set.
+7. Each recommendation in the report becomes a line. The customer is asked about it once, a few weeks later, and you can offer a quote.
+8. Once a year, each customer is asked whether units were added or removed, so the list stays right.
+9. If AI reads a report or drafts a message, a person checks it before it is sent.
+
+### What stays with you
+The inspection, the report, the advice, and the decision on whether a building's systems are over 12kW. The workflow reminds, collects and files. It is not legal advice: the duty to have the system inspected sits with the person who controls it, and GOV.UK's guide is the place to check what applies to a building. Companies that also service the equipment can use [F-gas leak check reminders](https://mikeautomations.github.io/en/f-gas-leak-check-reminders/), and for extraction systems see [LEV testing reminders](https://mikeautomations.github.io/en/lev-testing-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many buildings you look after and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or job software, email, a calendar and a shared folder). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already tracks five-year dates per building and chases the pre-visit information, you don't need this, and we'll say so on the call.
+
+### How often is a TM44 inspection needed?
+GOV.UK's guide says air conditioning systems with an effective rated output of more than 12kW must be inspected by an energy assessor, no more than five years apart. The workflow counts from the last inspection date on file.
+
+### Does this apply across the UK?
+GOV.UK's guide covers England and Wales. Scotland and Northern Ireland have their own rules, so check the guidance for the building's location. The workflow uses the interval you set for each building.
+
+### Does the workflow decide whether a building needs an inspection?
+No. You or the assessor decide that from the equipment on site. The workflow keeps the dates, reminds people and files the report.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Workers' comp premium audit: the documents collected before the auditor asks
+Source: https://mikeautomations.github.io/en/workers-comp-premium-audit-document-collection/
+
+A premium audit workflow keeps one checklist per policy with the records the insurer's auditor usually asks for: payroll reports, quarterly payroll tax reports, payments to subcontractors and each subcontractor's certificate of insurance. It asks for each item ahead of the audit, reminds about what is missing and shows what is still open. A person reviews everything before it goes to the auditor.
+
+A workers' compensation premium is first set on estimated payroll. After the policy period, the insurer audits the real numbers and the premium is adjusted. Insurers' own guides say the auditor will typically ask for payroll records, quarterly payroll tax reports, payments to subcontractors and the subcontractors' certificates of insurance. They also say that where a certificate is missing, the payments to that subcontractor may be treated as payroll and charged for. So the expensive problem is usually a missing piece of paper, and it is found in the week of the audit, when the subcontractor from last spring no longer answers the phone.
+
+### Where the audit goes wrong
+- The audit letter arrives and nobody starts until the week it is due
+- A subcontractor worked for two months and no certificate was ever collected
+- A certificate is on file, but it expired halfway through the job
+- Payroll is in one total, so office staff and field staff can't be shown separately
+- The bookkeeper has the payroll reports, the office has the certificates, and the owner has the letter
+- The agency hears about the audit after the bill, when the client is upset
+
+### What the checklist keeps
+One checklist per policy and one row per subcontractor. The list below is what insurers typically ask for. Your insurer's audit letter is the real list, and the workflow follows it.
+| Item | Who has it |
+| --- | --- |
+| Payroll reports for the policy period, by employee | Bookkeeper or payroll provider |
+| Quarterly payroll tax reports | Bookkeeper or payroll provider |
+| Overtime shown separately, where your records allow | Payroll provider |
+| Payments to each subcontractor | Bookkeeper |
+| Each subcontractor's certificate, with dates that cover the work | The subcontractor or their agent |
+| Description of what each employee does | Owner or office manager |
+
+### How the workflow runs
+1. Each policy goes on the list with its period end date and the people who hold each record.
+2. During the year, every new subcontractor is added when the first payment is made, and is asked for a certificate the same day.
+3. A certificate's expiry date goes on the list. Before it runs out, the subcontractor is asked for the new one.
+4. A few weeks before the policy period ends, each person gets one message with only the items they hold and a link to upload them.
+5. Missing items get a reminder a week later. After that they show on a short list for a phone call.
+6. Subcontractors with payments and no certificate for the dates worked are shown at the top, so they are chased first.
+7. When the audit letter arrives, the checklist is compared with it and anything extra is requested.
+8. A person reviews the pack and sends it to the auditor. Nothing goes to the insurer automatically.
+9. If AI reads a certificate or drafts a message, a person checks it before it is sent.
+
+### For insurance agencies
+An agency can run the same checklist for every commercial client with a workers' comp policy: one row per policy, sorted by period end date. Clients are reminded before the period ends, and the account manager sees who has sent nothing. The agency doesn't need to hold payroll data to do this. The workflow can track that each item was sent to the auditor without the agency storing it. For certificates your own clients ask you for, see [certificate of insurance requests](https://mikeautomations.github.io/en/certificate-of-insurance-requests-insurance-agencies/).
+
+### What stays with you
+How employees are classified, what counts as payroll, any dispute about the audit result, and every conversation with the insurer. Rules differ by state and by insurer, and this page is not insurance or legal advice. The workflow only collects, reminds and shows what is missing. Contractors who want the certificates tracked all year, not only at audit time, can use [subcontractor COI tracking](https://mikeautomations.github.io/en/subcontractor-coi-tracking/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many policies or subcontractors you deal with and where the records live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (email, a spreadsheet or your agency system, and a shared folder). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your agency system or accounting software already collects these records and chases certificates, you don't need this, and we'll say so on the call.
+
+### What documents does a workers' comp premium audit need?
+Insurers typically ask for payroll records for the policy period, quarterly payroll tax reports, payments to subcontractors and each subcontractor's certificate of insurance. Your insurer's audit letter gives the exact list.
+
+### What happens if a subcontractor's certificate is missing?
+Insurers' guides say the payments to that subcontractor may be treated as payroll and charged for. That is why the workflow asks for the certificate when the subcontractor is first paid, not at audit time.
+
+### Does the workflow send records to the insurer?
+No. It collects the records and shows what is missing. A person reviews the pack and sends it to the auditor.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## 401(k) census data collection: every plan sponsor's file in before testing starts
+Source: https://mikeautomations.github.io/en/retirement-plan-census-data-collection-tpa/
+
+A census collection workflow keeps one row per plan with its plan year end, its contact and the items you need: the employee census, the year-end questionnaire and any follow-up answers. It sends each sponsor the request, reminds those who haven't replied, runs basic checks on the file and shows your team which plans are complete. Your staff review the data, run the testing and prepare the Form 5500.
+
+A third-party administrator can't start a plan's year-end work without the sponsor's census: who was employed, dates of birth and hire, hours, pay and contributions. The same request goes to every sponsor in January, and the replies arrive over months, in different formats, with columns missing. Meanwhile the filing date doesn't move. The IRS says the Form 5500 is generally due on the last day of the seventh month after the plan year ends, which is July 31 for a calendar-year plan, unless an extension is requested first. Most of the delay is not the testing. It's waiting for the file and asking the same questions again.
+
+### Where census collection slips
+- The request goes to a contact who left the company last summer
+- The sponsor sends a payroll export with no hire dates or hours
+- Terminated employees are left off the file, with their termination dates
+- The questionnaire comes back with the ownership and related-company questions blank
+- Follow-up questions go out by email and the answers are spread across three threads
+- Nobody can say how many plans are still waiting, so the partner asks every week
+
+### What the list keeps
+One row per plan. If you use plan administration software or a practice system, the workflow reads the plan list from it and adds the requests, the reminders and the status.
+| Field | Why it matters |
+| --- | --- |
+| Plan, sponsor and plan year end | So off-calendar plans get their request at the right time |
+| Primary contact and a second contact | So the request still lands when someone leaves |
+| Census file received | Date, and whether it passed the basic checks |
+| Questionnaire received | Ownership, related companies, changes in the year |
+| Open questions | Each with the date it was asked |
+| Your census due date | The date you set so the work fits before the filing date |
+| Status | Requested, partly received, complete, in review |
+
+### How the workflow runs
+1. Shortly after each plan year ends, the sponsor's contact gets one request: your census template, the questionnaire, a secure upload link and your due date.
+2. A week before your due date, sponsors who have sent nothing get a reminder. After the date, the second contact gets it too, and the plan goes on a call list.
+3. When a file arrives, basic checks run: are the required columns there, does every employee have a date of birth and hire date, are terminated employees included with dates.
+4. If something is missing, the sponsor gets a short list of exactly what to fix. A person on your team sees the message before it goes.
+5. Follow-up questions from your administrator go out from the same place, and the answers are saved against the plan.
+6. Each Monday the team gets one list: plans complete, plans partly received, plans with nothing, sorted by plan year end.
+7. When a plan is complete, the administrator is told it's ready for review.
+8. If AI reads a file or drafts a message, a person checks it before it is sent.
+
+### Keeping the data safe
+A census holds dates of birth, pay and sometimes Social Security numbers. It should not travel as an email attachment. The workflow sends sponsors a link to your secure upload folder or portal and never puts census data in the body of a message. Reminders say only that a file is missing. Who can open the folder stays under your control, and your own security policy decides where the data is stored.
+
+### What stays with you
+Reviewing the census, the compliance testing, the contribution calculations, the Form 5500 and every piece of advice to the sponsor. The workflow doesn't decide who is eligible or whether a test passes, and this page is not tax or legal advice. It asks, reminds, checks that the columns are there and shows what is open. Tax practices with a similar chase for partnership forms can see [K-1 tracking](https://mikeautomations.github.io/en/k1-tracking-tax-preparers/), and for payroll paperwork at the sponsor's end see [new hire paperwork collection](https://mikeautomations.github.io/en/new-hire-paperwork-collection-small-business/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many plans you administer and how the census request goes out today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (email, your plan list, a secure folder or portal and a spreadsheet). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your plan administration software already requests the census, checks the file and reminds sponsors, you don't need this, and we'll say so on the call.
+
+### When is the Form 5500 due?
+The IRS says it is generally due on the last day of the seventh month after the plan year ends, which is July 31 for a calendar-year plan. An extension is requested on Form 5558 before that date. The workflow uses the census due date you set, which is earlier.
+
+### Does the workflow check the census for errors?
+It checks that the required columns and dates are present and that terminated employees are included. Your administrator reviews the data itself and decides whether it is right.
+
+### Is census data sent by email?
+No. Sponsors upload to your secure folder or portal through a link. Messages only say what is missing and never include the data.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
