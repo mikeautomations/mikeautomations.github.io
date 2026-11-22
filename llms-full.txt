@@ -11849,6 +11849,20 @@ Any questions, reply here or call [number].
 5. A person examines the documents and completes Section 2. The workflow only records the date it was done.
 6. Any I-9 still open on the second business day goes to the owner. Completed forms go to payroll before the first pay run.
 
+### A new hire paperwork timeline
+The I-9 dates come from USCIS. The other timings are suggestions to fit your own process.
+| When | What happens | Who |
+| --- | --- | --- |
+| Offer accepted | Checklist row created with the start date, welcome message with the forms link | Workflow, message approved by you |
+| Two business days before the start | Reminder about anything still missing, plus what to bring on day one | Workflow |
+| First day of work | Form I-9 Section 1 completed by the employee, by this day at the latest | New hire |
+| Within three business days of the first day | Documents examined and Form I-9 Section 2 completed | A person at your business |
+| Before the first pay run | Form W-4, your state's forms and direct deposit details are in payroll | Payroll, checked against the row |
+| First week | Handbook acknowledgement and any policy sign-offs collected | Workflow reminds, manager confirms |
+
+### Paperwork for rehires and remote hires
+Rehires and remote hires are where checklists usually break. Give each a variant of the checklist instead of handling them from memory. For a rehire, the row notes the previous employment dates so a person can check what USCIS allows for an existing I-9 before asking for a new one. For a remote hire, the row notes how the documents will be examined, and who will do it, before the start date, so day one isn't spent arranging it.
+
 ### What stays with you
 Examining the hire's documents, completing Section 2 and every hiring decision. The workflow can't mark an I-9 as complete on its own, and it doesn't judge whether a document is acceptable. Social Security numbers and bank details go straight into your payroll system or a secure form, not into email threads or the tracking sheet. If you take on staff through an agency, see [candidate compliance document chasing](https://mikeautomations.github.io/en/candidate-compliance-document-chasing/). For payroll details from clients, see [collecting payroll inputs](https://mikeautomations.github.io/en/blog/collect-payroll-inputs-from-clients/). If AI drafts a message to a new hire, a person reads and approves it before it's sent.
 
@@ -11860,6 +11874,9 @@ The free [working days calculator](https://mikeautomations.github.io/en/working-
 
 ### When does Form I-9 have to be completed?
 The employee completes Section 1 no later than the first day of work. The employer examines the documents and completes Section 2 within three business days of that day. See the USCIS page for Form I-9 for the details.
+
+### What paperwork does a new hire fill out?
+Usually Form I-9, Form W-4, your state's new hire forms, direct deposit details, an emergency contact and a handbook acknowledgement. Your payroll provider or adviser can confirm the exact list for your state and business.
 
 ### Does the workflow check the hire's documents?
 No. A person at your business examines the original documents and completes Section 2. The workflow sends the forms, reminds the hire and shows what's still open.
