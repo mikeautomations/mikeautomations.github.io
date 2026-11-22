@@ -1279,6 +1279,9 @@ Anything urgent or safety related goes straight to a person, never into a queue.
 ### How it works
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how repairs are reported today and where they stall. Within 48 hours you get a [written plan with a fixed price](https://mikeautomations.github.io/en/how-it-works/) and a clear definition of "working". It's built on the tools your agency already uses (your email, your property management software where it allows a connection, and a shared spreadsheet or drive), so nobody learns a new system. Live in 2-3 days. You pay once it's running and you're happy with it.
 
+### Free tools for maintenance
+The free [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes the instant acknowledgement when a tenant reports a repair, and the [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the contractor visit reminder for tenants.
+
 ### Do tenants need to download an app?
 No. They use a link to a simple form that works on a phone or a computer.
 
@@ -1696,6 +1699,9 @@ All clinical judgement. Your clinicians decide what the form asks, read the answ
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how new patients are booked and onboarded today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your booking or practice management software, email and forms, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
+
+### Free tools for clinics
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the first-appointment reminder with the intake form link, and the [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes your missed-session terms.
 
 ### Does it replace our practice management software?
 No. It works alongside the tools you already use. Many clinic systems already send forms; on the call we check what yours does on its own, and only automate the gaps, such as the reminders and the morning list.
@@ -7380,6 +7386,9 @@ The return itself, any answer to a client's question, the decision to file, and 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how returns go out for approval today and where they wait. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your practice software, e-signature tool, email and a spreadsheet), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your practice first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=tax-return-approval-chasing).
 
+### Free tools for tax returns
+The free [Self Assessment checklist](https://mikeautomations.github.io/en/self-assessment-checklist/) lists what UK clients need to send, and the [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days left before the filing deadline.
+
 ### Do UK clients have to approve their Self Assessment return?
 Gov.uk says that when an agent submits the return, the client must check the information and confirm it's correct before it's submitted. An e-signature or portal approval gives you a dated record of it.
 
@@ -8076,6 +8085,9 @@ Every technical judgement. You decide what access to request, check that it work
 
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you onboard clients today and where renewal dates live. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your ticketing system, email, calendar and shared drive, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it. You can also [sketch your version in the plan builder](https://mikeautomations.github.io/en/plan/?g=msp-client-onboarding-and-renewals) first.
+
+### Free tools for renewals
+The free [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) writes the notice when a contract price changes at renewal, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the first invoice.
 
 ### Doesn't our ticketing or PSA tool already do this?
 Many hold contracts and assets. On the call we check what yours already does on its own and only automate the gaps, such as chasing clients for missing onboarding answers or booking reviews.
@@ -9466,6 +9478,9 @@ Every approval and every payment. The workflow moves invoices to the right perso
 ### How it works
 A free 15-minute call about how supplier invoices arrive and get approved today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your email, accounting software and spreadsheets, where they allow a connection), so your team doesn't learn a new system. Live in 2-3 days. You pay once it's running and you're happy with it.
 
+### Free tools for supplier invoices
+The free [late payment interest calculator](https://mikeautomations.github.io/en/late-payment-interest-calculator/) shows what a UK supplier can add if an approved invoice is paid late, and the [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the days to each due date.
+
 ### Our accounting software has approvals built in. Do we need this?
 Maybe not. On the call we check what your software already does, and only automate the gaps, such as invoices that never reach it or approvers who don't log in.
 
@@ -10162,6 +10177,9 @@ The servicing itself, every pass or fail, every replacement and every price. The
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about where your service dates live today and where renewals get lost. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your job software where it allows a connection, a spreadsheet, email and text), so there's no new system for the office to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already sends renewal reminders and service records and you're happy with it, you don't need this, and we'll say so on the call.
+
+### Free tools for service reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the annual service reminders, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice after each visit.
 
 ### Does it decide how often a site is serviced?
 No. You set the interval for each site based on the standard you work to and what you've agreed with the customer. The workflow only uses that date to time the reminders.
@@ -11244,6 +11262,9 @@ Reading the reject, deciding the fix, any change to the return and every word th
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how acknowledgements reach you today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your tax software's reports or emails, your practice software, a spreadsheet and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already tracks rejects and your team works from it, you don't need this, and we'll say so on the call.
 
+### Free tools for refiling
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts business days left in the IRS perfection period, so the client request goes out with time to fix and resubmit.
+
 ### How long do I have to fix a rejected return?
 The IRS gives a short perfection period to correct and retransmit while keeping the original filing date. The length depends on the return type, so check the current Publication 1345 and your software's guidance.
 
@@ -12257,6 +12278,9 @@ The testing, every pass or fail, the certificate, repairs and any advice on what
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track test dates today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your job software, a shared calendar and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job management software already reminds every site and books the visit, you don't need this, and we'll say so on the call.
 
+### Free tools for test reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes reminders for the annual duration test, and the [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) helps plan the monthly checks around bank holidays.
+
 ### Does the workflow do the monthly test for the site?
 No. It can remind the site's own responsible person each month and ask them to log it. The test itself is done by a person at the site.
 
@@ -12838,6 +12862,9 @@ The servicing itself, every pass, fail and fault, the interval in each contract,
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about where your service dates live today and where visits get lost. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your job software where it allows a connection, a spreadsheet, email and text), so there's no new system for the office to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already books every visit and sends every certificate, you don't need this, and we'll say so on the call.
 
+### Free tools for service reminders
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the service visit reminders, and the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) makes the invoice after each visit.
+
 ### Who decides how often each system is serviced?
 Your office, from the contract and the current standard. The workflow only sends reminders based on the interval you enter for each system.
 
@@ -13233,6 +13260,9 @@ Every conversation about the role, every decision about who goes forward, offers
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you arrange interviews today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your recruitment software or a spreadsheet, email, text and calendar), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your recruitment software already confirms every interview and collects feedback, you don't need this, and we'll say so on the call.
+
+### Free tools for interviews
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes interview confirmations and day-before reminders, and the [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes the instant reply to new candidate enquiries.
 
 ### Does it replace our recruitment software?
 No. If your software allows a connection or a regular export, the workflow reads interviews from it and adds only the messages and lists it's missing.
