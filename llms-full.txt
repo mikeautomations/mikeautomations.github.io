@@ -7905,6 +7905,17 @@ Start with what's already inside the platform. Airbnb's help centre (checked Nov
 - Your cleaner works from texts or a WhatsApp group, and cancellations or date changes don't always reach them
 - You want one place that shows which guest has had which message, rather than checking each platform
 
+### Which tools send guest messages without manual reminders
+Hosts usually combine up to three layers. You don't need all three, and most independent hosts can stop at the first or second.
+| Layer | What it does | Good fit when |
+| --- | --- | --- |
+| The booking platform's own scheduled messages | Sends set messages before or after booking, check-in and checkout, inside that platform | All bookings come from one platform |
+| Property management or channel management software | Holds bookings from several platforms in one calendar and sends messages from it | You list on more than one platform or manage several properties |
+| An automation workflow connecting your tools | Links the calendar to email, text, your cleaner and a log of what was sent, and covers direct bookings | You take direct bookings, work with a cleaner by text, or want steps the software doesn't offer |
+
+### Automating guest messaging as an independent host
+With one to five listings, keep it simple. Set up the platform's scheduled messages for booking confirmation, check-in details, a mid-stay check and checkout. Add one post-checkout message the day after with a thank-you and a fair review request. Then add only what's missing: direct bookings that need the same messages, a cleaner who needs the turnover times, or a log of who received what. Each property keeps its own access code, parking notes and house rules in one place, so every message pulls the right details.
+
 ### A guest message timeline you can copy
 Adjust the timings to your own check-in and checkout times. For Airbnb bookings, keep guest messages inside Airbnb's own messaging.
 | When | To | What it says |
@@ -7965,6 +7976,12 @@ The free [auto-reply message generator](https://mikeautomations.github.io/en/aut
 
 ### Can't I just use Airbnb's scheduled messages?
 If all your bookings are on Airbnb and you have one or two listings, yes, start there. A wider workflow helps when bookings come from several channels, you run several properties or the cleaning schedule needs to follow every change.
+
+### What tools help hosts send post-checkout messages without manual reminders?
+The booking platform's scheduled messages can send a set message after checkout. If you list on several platforms or take direct bookings, property management software or an automation workflow can send the same post-checkout message from one calendar for every booking.
+
+### How can independent hosts automate guest messaging?
+Start with the platform's scheduled messages for booking, check-in, mid-stay and checkout. Add a post-checkout thank-you and review request. Then automate only the gaps, such as direct bookings or cleaner updates, from one calendar.
 
 ### When should the review request go out?
 The day after checkout. Airbnb's help centre says guests have 14 days from the day of checkout to review a stay, so a late request can miss the window. Ask once and never offer anything in return.
