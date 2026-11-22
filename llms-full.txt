@@ -17861,7 +17861,7 @@ Not if each message is short, useful and easy to answer. Customers often appreci
 Both work. Texts are read faster; email keeps the estimate attached. In the US, register your number for A2P 10DLC and get the customer's agreement before texting.
 
 ## How to reduce no-shows for service appointments
-Source: https://mikeautomations.github.io/en/blog/reduce-appointment-no-shows/ (2026-11-10)
+Source: https://mikeautomations.github.io/en/blog/reduce-appointment-no-shows/ (2026-11-22)
 
 To reduce no-shows for service appointments, do four things: confirm every booking straight away, send a reminder the day before that asks the customer to reply to confirm, make rescheduling a single tap, and phone anyone who hasn't confirmed. Most no-shows are people who forgot or felt awkward cancelling, and all four steps can run automatically except the phone call.
 
@@ -17875,6 +17875,7 @@ Most no-shows aren't rude. People forget, or something comes up and cancelling f
 4. Call the unconfirmed ones. A short list each morning or the evening before is enough.
 
 ### A reminder schedule you can copy
+Want these messages written for your business? The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the confirmation, day-before and same-day messages for SMS and WhatsApp, with an add-to-calendar link.
 | When | Message | Channel |
 | --- | --- | --- |
 | Straight after booking | Confirmation with date, time, address, what to prepare, how to reschedule, your policy | Email (and a short text if you have consent) |
@@ -17908,7 +17909,7 @@ Hi [first name], we were booked for [job] today at [time] but couldn't reach you
 ```
 
 ### How to word your policy
-State your policy kindly and once, in the confirmation, not as a threat in every message. Say how much notice you need and why: "so we can offer the slot to someone else" is a reason most people accept. If you take deposits or charge for late cancellations, say so plainly before the customer books, and be consistent. Salons and clinics with deposit policies have their own considerations; we cover that on [our page about salon cancellation policies and deposits](https://mikeautomations.github.io/en/salon-cancellation-policy-and-deposits/).
+State your policy kindly and once, in the confirmation, not as a threat in every message. Say how much notice you need and why: "so we can offer the slot to someone else" is a reason most people accept. If you take deposits or charge for late cancellations, say so plainly before the customer books, and be consistent. Salons and clinics with deposit policies have their own considerations; we cover that on [our page about salon cancellation policies and deposits](https://mikeautomations.github.io/en/salon-cancellation-policy-and-deposits/). To write yours, use the free [cancellation policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/), and read [how to write a cancellation policy](https://mikeautomations.github.io/en/blog/how-to-write-a-cancellation-policy/) for the UK rules on fees and 14-day cancellation.
 
 ### Email or text? The rules in the UK and US
 Texts are read faster, so they work well for the day-before reminder. Email is fine for the confirmation and longer instructions.
@@ -24093,6 +24094,167 @@ The money stays with you, but how you account for it, and in the UK how VAT appl
 ### Should vouchers be printed or digital?
 Both work. Digital is instant for last-minute buyers; printed vouchers in an envelope feel more like a present. Offering both sells more.
 
+## What to put on a receipt: a checklist for small businesses
+Source: https://mikeautomations.github.io/en/blog/what-to-put-on-a-receipt/ (2026-11-22)
+
+A receipt should show your business name and contact details, a receipt number, the date, what was paid for, the amount, how it was paid and, if you know it, the customer's name. If you're VAT registered in the UK, add your VAT number, the VAT rate and the VAT amount. For sales of £250 or less including VAT, HMRC allows a simpler VAT invoice.
+
+A receipt is the customer's proof they paid, and your record that money came in. Getting it right takes a minute, and it saves you the "did I pay you for that?" message three months later.
+Here's what to include, how a receipt differs from an invoice, the VAT rules for UK businesses, and how long to keep your copies.
+
+### The checklist
+| Line | Example | Needed? |
+| --- | --- | --- |
+| Business name and contact | Bloom Hair Studio, 14 High Street, York | Always |
+| Receipt number | R-0042 | Strongly recommended |
+| Date of payment | 22 November 2026 | Always |
+| What was paid for | Cut and colour, conditioning treatment | Always |
+| Amount paid | £100.00 | Always |
+| Payment method | Card, cash, bank transfer | Recommended |
+| Customer name | Emma Wilson | If you know it |
+| VAT number, rate and amount | GB123456789, 20%, £16.67 | If VAT registered |
+| Balance left to pay | £50.00 still to pay | For part payments and deposits |
+
+### Receipt or invoice?
+An invoice asks for payment. A receipt confirms payment has been made. If a customer pays on the spot, a receipt is all you need. If you bill first, send the invoice, then a receipt (or an invoice marked "Paid") when the money arrives.
+For deposits and part payments, the receipt should say what has been paid and what's still owed. That one line prevents most payment disputes.
+
+### VAT receipts in the UK
+If you're VAT registered and a customer asks for a VAT receipt, it needs your VAT number, the VAT rate and the VAT amount. HMRC's record-keeping notice (VAT Notice 700/21, section 4.5) lets businesses that aren't retailers issue a simplified VAT invoice when the supply is £250 or less including VAT. It must show your name, address and VAT number, the time of supply, a description of what was supplied, and for each VAT rate, the total including VAT and the rate charged.
+If your prices include VAT, the VAT is worked out of the total, not added on top. At 20%, the VAT in a £100 total is £100 ÷ 1.2 = £83.33 net, so £16.67 VAT. Not VAT registered? Don't show VAT at all.
+
+### Numbering and keeping copies
+1. Use one simple sequence for every receipt, like R-0001, R-0002. Don't restart it each year unless your accountant asks you to.
+2. Keep a copy of every receipt you issue, as a PDF or in your accounts software.
+3. Note each receipt in one place, such as your income spreadsheet, with the date, amount and payment method.
+4. Keep your records for as long as the rules require. In the UK, that's at least 5 years after the 31 January Self Assessment deadline for sole traders, and 6 years for limited companies. In the US, the IRS says to keep records that support income for as long as they may be needed for a tax return, usually at least 3 years.
+
+### Paper slip or PDF?
+Most customers are happy with a PDF by email or a photo of the receipt in WhatsApp, and it's quicker for you. Keep a till-slip option for walk-in customers and anyone who asks for paper. An 80 mm receipt printer prints the same receipt as a slip.
+
+### Free tool: a receipt in one minute
+The free [receipt generator](https://mikeautomations.github.io/en/receipt-generator/) makes a receipt with your items, VAT included or added, the payment method, part payments and a "Paid" stamp. Save it as a PDF, print a till slip, or copy it as text for an email. The "Next receipt" button moves the number on for you. To ask for payment first, use the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/), and track what came in with the [income and expenses spreadsheet](https://mikeautomations.github.io/en/income-and-expenses-spreadsheet/).
+
+### Is a bank transfer confirmation a receipt?
+It proves money left the customer's account, but it isn't your record of what it was for. Send your own receipt that says what was paid for and links it to the invoice or booking.
+
+### Do I have to give a receipt?
+Customers expect one and many will ask. VAT-registered businesses in the UK must issue a VAT invoice to VAT-registered business customers. For everyone else, a receipt is simply good practice and good records.
+
+### Can a receipt be handwritten?
+Yes, as long as it has the same details: number, date, what was paid for, amount and your business details. A printed or PDF receipt is easier to read and to keep.
+
+### What if I made a mistake on a receipt?
+Don't edit the old one. Issue a new receipt with a new number and a note that it replaces receipt R-0041, and keep both in your records.
+
+## How to make a price list that sells
+Source: https://mikeautomations.github.io/en/blog/how-to-make-a-price-list/ (2026-11-22)
+
+Group your services into a few clear sections, write each one in the words customers use, and give a price for every line, using "from" only where the price really varies, with a short note on why. Include any fee everyone has to pay in the price itself. Then put the same list everywhere customers look: your website, Google profile, Instagram and WhatsApp.
+
+"How much is it?" is the most common first message a service business gets. A clear price list answers it before anyone has to ask, and the people who get in touch after reading it are already happy with the price.
+Here's how to structure it, how to handle prices that vary, what UK rules say about showing the full price, and where to post it so it actually gets seen.
+
+### Structure: sections, not one long list
+- Three to six sections, in the order customers think: "Cuts", "Colour", "Treatments", not your internal codes
+- Most popular services first in each section
+- Each line: the service, the price, and an optional short note ("includes wash", "60 minutes")
+- Your contact line at the bottom: how to book, phone number, website
+
+### Prices that vary
+Use "from £70" when the price really depends on something, like hair length or the size of a room, and say what it depends on in the note. A range ("£150-220") works when the spread is narrow. If every line says "from" or "price on request", people assume the worst and message a competitor instead.
+For jobs that are always quoted, like a full rewire, show a typical example ("Typical 3-bed rewire: £4,000-6,000") and offer a free quote. A rough number beats no number.
+
+### Show the full price
+In the UK, the CMA's price transparency guidance under the Digital Markets, Competition and Consumers Act 2024 says the total price should normally include any unavoidable, or mandatory, charges. If every customer has to pay a booking fee, a call-out charge or VAT, build it into the price you show rather than adding it at the end. Optional extras can be listed separately.
+The same idea is good practice everywhere, and some US states now require total pricing too. For consumers, show prices including VAT or sales tax where that's the norm.
+
+### Make it easy to read
+1. Line prices up on the right so people can scan them.
+2. Use one font and one accent colour that matches your shop or logo.
+3. Leave space between sections. A crowded list looks expensive and confusing.
+4. Put the date at the bottom, or update it every time prices change, so old screenshots don't cause arguments.
+
+### Where to put it
+| Place | Format | Tip |
+| --- | --- | --- |
+| Website | Text on a page, not only an image | Search engines and AI assistants can read text |
+| Google Business Profile | Services and prices section, plus a photo | Shown when people search your name |
+| Instagram | Square or story image, pinned post | Add it to a highlight called "Prices" |
+| WhatsApp | Image you send in one tap | Save it as a quick reply for "how much?" |
+| In the shop | Printed A4 or A5 | By the till or the waiting area |
+
+### Free tool: make it in five minutes
+The free [price list maker](https://mikeautomations.github.io/en/price-list-maker/) lays out your sections and prices, with notes, colours and your contact line, and downloads it as an A4 page to print, an Instagram post, or a story for Instagram and WhatsApp status. To share it on social media with a headline, try the [social post maker](https://mikeautomations.github.io/en/social-post-maker/), and add a [QR code](https://mikeautomations.github.io/en/qr-code-generator/) to the printed copy that links to your booking page. Raising prices? The [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) writes the message to your regulars.
+
+### Should I put prices on my website?
+For most small service businesses, yes. It saves you time answering the same question, and the people who contact you have already accepted the price. If every job is different, show typical prices or ranges.
+
+### Does showing prices lose customers to cheaper competitors?
+Price shoppers will find a cheaper option either way. A clear price list with what's included tends to bring people who care about quality and don't want surprises.
+
+### How often should I update my price list?
+Whenever a price changes, and check it at least once a year. Update it everywhere at once: website, Google, social media and the printed copy.
+
+### Should prices end in 9?
+For services, round numbers (£45, £80) tend to look more premium and are easier to read. Charm prices like £44.99 suit retail goods more than services.
+
+## How to write a cancellation policy for appointments
+Source: https://mikeautomations.github.io/en/blog/how-to-write-a-cancellation-policy/ (2026-11-22)
+
+A good cancellation policy says how much notice you need (24 hours is most common), how to cancel, what happens to a deposit, and what a late cancellation or no-show costs. Keep fees in line with what you actually lose, show the policy before people book, and repeat it in one line in the booking confirmation and reminder.
+
+Every empty slot from a no-show is time you can't sell again. A clear cancellation policy doesn't stop all of them, but it changes behaviour: people who know a slot is held for them, and what a no-show costs, are far more likely to let you know.
+Here's what to put in it, how strict to be, the UK rules worth knowing, and how to make it work without awkward conversations.
+
+### What to include
+| Part | Example wording |
+| --- | --- |
+| Notice needed | Please give at least 24 hours' notice to cancel or move. |
+| How to cancel | Call 01904 555123 or reply to your reminder. |
+| Free changes | Cancelling or moving with 24 hours' notice or more is free. |
+| Late cancellation | Cancellations with less notice are charged 50% of the price. |
+| No-show | Missed appointments are charged in full. |
+| Deposit | A £20 deposit secures your booking and counts towards the price. |
+| Late arrival | If you're more than 15 minutes late, we may need to shorten your appointment. |
+| Exceptions | Emergencies and illness happen. Get in touch and we'll always be fair. |
+
+### How much notice to ask for
+- 24 hours: the usual choice for salons, clinics, tutors and trades. It gives you a real chance to refill the slot
+- 48 hours: long or expensive appointments, like a colour, a tattoo session or a half-day job
+- 7 days: things you prepare or buy materials for, like events or custom work
+- More than 72 hours for a normal appointment tends to put people off booking at all
+
+### Fees and deposits: keep them fair
+In the UK, the Consumer Rights Act 2015 says unfair terms in consumer contracts aren't binding on the consumer. A cancellation fee is much easier to defend when it was clearly agreed before booking and reflects what you really lose, for example the price of the slot minus anything you save. Charging more than the appointment itself is likely to be unfair.
+In practice, fees you have to chase often go unpaid. A small deposit taken at booking, kept for a late cancellation or no-show and otherwise taken off the bill, works far better. Always check the rules where you trade; this isn't legal advice.
+
+### Bookings made online or by phone (UK)
+If a consumer books and agrees the contract at a distance, online or by phone, the Consumer Contracts Regulations 2013 normally give them 14 days to cancel. You can only start the service within those 14 days if they expressly ask you to, for example by ticking a box or saying so in writing (regulation 36). If they then cancel, they pay for the part of the service already provided.
+For most appointment businesses, the simple answer is a line in your booking flow: "By booking a time within the next 14 days, you ask us to start the service in that time." Ask your adviser how this applies to you, especially for courses and packages paid in advance.
+
+### Make it work in practice
+1. Show the policy before booking: on your booking page and website, not only in small print afterwards.
+2. Put one short line in the confirmation message, and again in the day-before reminder.
+3. Make cancelling easy. Someone who can reply "cancel" in a message lets you know; someone who has to call during opening hours often just doesn't turn up.
+4. Apply it the same way every time, and use the exceptions line for real emergencies.
+5. Keep a waiting list, so a late cancellation becomes a filled slot instead of lost money.
+
+### Free tools: write the policy and the reminders
+The free [cancellation policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes your policy in three lengths: the full version for your website, a short paragraph for booking confirmations, and one line for SMS. Then the [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the confirmation, day-before and same-day messages, with an add-to-calendar link. For the full no-show routine, read [how to reduce no-shows](https://mikeautomations.github.io/en/blog/reduce-appointment-no-shows/).
+
+### Can I charge a fee for a no-show?
+Generally yes, if the fee was clearly agreed before booking and is reasonable for what you actually lose. A deposit taken at booking is the easiest way to collect it.
+
+### Should first-time customers pay a deposit?
+Many businesses ask new customers for a deposit and drop it for regulars who have always turned up. It protects you from the bookings most likely to go missing, without punishing loyal customers.
+
+### What if a regular cancels late once?
+Most businesses waive it the first time and say so kindly: "No charge this time, but please give us 24 hours' notice next time." The policy gives you the right to charge; you decide when to use it.
+
+### Where should the cancellation policy go?
+On your booking page before people confirm, on your website, in the booking confirmation, and as one short line in the reminder message.
+
 ## Is the text on your website hard to read? Colour contrast in plain English
 Source: https://mikeautomations.github.io/en/blog/website-text-hard-to-read-colour-contrast/ (2026-11-21)
 
@@ -24363,7 +24525,7 @@ Source: https://mikeautomations.github.io/he/invoice-software-reminders-not-enou
 תזכורות תשלום אוטומטיות שתוכנת החשבוניות שולחת מספיקות כשכל עבודה מקבלת מסמך בזמן, כשהתשלומים נרשמים בתוכנה מהר, וכשלא צריך לנהל שיחה עם הלקוח. הן לא מספיקות כשהלקוח עונה לתזכורת ואף אחד לא רואה את התשובה, כשלקוח ששילם ממשיך לקבל תזכורות, או כשאחרי שתיים-שלוש תזכורות אף אחד לא מרים טלפון. במקרים האלה משאירים את התזכורות בתוכנה ומוסיפים רק את מה שחסר מסביבן.
 
 ### תזכורות לתורים בוואטסאפ: הלקוח מאשר, מזיז או מבטל בלחיצה אחת
-Source: https://mikeautomations.github.io/he/whatsapp-appointment-reminders/ (2026-11-11)
+Source: https://mikeautomations.github.io/he/whatsapp-appointment-reminders/ (2026-11-22)
 
 תזכורות לתורים בוואטסאפ הן הודעות שנשלחות לבד לפני כל תור, עם כפתורים שבהם הלקוח מאשר שהוא מגיע, מבקש להזיז או מבטל. התשובה נרשמת ביומן, תור שהתבטל מוצע למי שמחכה, ומי שלא ענה מקבל תזכורת נוספת. זה מתאים לכל עסק שעובד עם יומן תורים, ומוקם אצלי החל מ-5,500 ₪, תוך יום-יומיים.
 
@@ -24416,6 +24578,21 @@ Source: https://mikeautomations.github.io/he/business-card-what-to-write/ (2026-
 Source: https://mikeautomations.github.io/he/sell-gift-vouchers-business/ (2026-11-22)
 
 מחליטים על סכומים או טיפולים, נותנים לכל שובר קוד ייחודי ותאריך תפוגה ברור, גובים כרגיל, ומנהלים רשימה אחת של כל הקודים, הסכום ומה כבר נוצל. חוק הגנת הצרכן קובע כללים לתוקף של תווי קנייה ושוברים, אז בודקים מה חל על השובר שלכם, ומדפיסים את התוקף והתנאים על השובר עצמו.
+
+### אישור תשלום או קבלה: מה שולחים ללקוח ומתי
+Source: https://mikeautomations.github.io/he/payment-confirmation-or-receipt/ (2026-11-22)
+
+קבלה רשמית יוצאת מתוכנת הנהלת חשבונות או מפנקס קבלות ממוספר, ונרשמת בספרים. אישור תשלום הוא מסמך פשוט ללקוח, שמאשר שהכסף התקבל, על מה ובאיזה סכום. שולחים אותו מיד אחרי תשלום בביט, בהעברה או במזומן, ובמיוחד במקדמה, כדי שיהיה ברור כמה שולם וכמה נשאר. הוא לא מחליף את הקבלה.
+
+### איך בונים מחירון לעסק שעונה על "כמה זה עולה?"
+Source: https://mikeautomations.github.io/he/price-list-how-to-build/ (2026-11-22)
+
+מחלקים את השירותים לכמה קטגוריות ברורות, כותבים כל שירות במילים של הלקוחות, ונותנים מחיר לכל שורה. "החל מ" רק כשהמחיר באמת משתנה, עם הערה קצרה למה. ללקוח פרטי מציגים מחיר כולל מע"מ. אחר כך שמים את אותו מחירון בכל מקום שהלקוחות מסתכלים: באתר, בגוגל, באינסטגרם ובוואטסאפ.
+
+### איך כותבים מדיניות ביטולים לתורים, בלי לריב עם לקוחות
+Source: https://mikeautomations.github.io/he/cancellation-policy-how-to-write/ (2026-11-22)
+
+מדיניות ביטולים טובה אומרת כמה זמן מראש צריך להודיע (24 שעות זה הכי נפוץ), איך מבטלים, מה קורה עם מקדמה, ומה עולים ביטול מאוחר או אי-הגעה. דמי הביטול צריכים להתאים למה שבאמת מפסידים. מציגים את המדיניות לפני קביעת התור, וחוזרים עליה בשורה אחת באישור ובתזכורת.
 
 ### ניגודיות צבעים באתר: מה זה 4.5:1, איפה זה נכשל ואיך מתקנים
 Source: https://mikeautomations.github.io/he/website-color-contrast-accessibility/ (2026-11-21)
