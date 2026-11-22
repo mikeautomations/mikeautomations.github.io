@@ -1479,6 +1479,9 @@ The legal duties stay with the landlord and with you as their agent, and the wor
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track certificates today and where things slip. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools your agency already uses (your email, a shared spreadsheet or drive, and your property management software where it allows a connection), so nobody learns a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
 
+### Free tools for certificate dates
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days before each certificate expires, and the [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the access reminder for tenants before the visit.
+
 ### We already have property management software. Does this replace it?
 No. Many systems store the dates. This adds the chasing around them: booking the renewal, collecting the certificate, sending the tenant's copy and telling you what's still open.
 
@@ -2143,6 +2146,9 @@ If a landlord later questions a bill, the log is your answer. Keep one record pe
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how repairs and approvals run in your agency today. Within 48 hours you get a written plan with a fixed price. The workflow is built on the tools you already use (your email, a shared spreadsheet or drive, and your property management software where it allows a connection). It checks each job against that landlord's limit, sends the approval request, chases on your schedule, updates the tenant and keeps the log. A person in your office still makes every call on urgent jobs, and approves anything AI drafts before it's sent. Live in 2-3 days. It's [a fixed $2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
 
+### Free tools for repair quotes
+The free [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) gives contractors a clean quote format to send for approval, and the [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes the acknowledgement to the tenant.
+
 ### What should a landlord's repair approval limit be?
 There's no set figure in law. It's a business agreement between you and the landlord. Base it on the property's age and size, the cost of common jobs in your area, and how involved the landlord wants to be. Review it at least once a year.
 
@@ -2231,6 +2237,9 @@ Thanks,
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track right to rent checks today. Within 48 hours you get a written plan with a fixed price. It's built on the tools you already use (your email, a shared spreadsheet or drive, and your property management software where it allows a connection), so nobody learns a new system. A person approves anything AI drafts before it's sent. Live in 2-3 days. It's [a fixed $2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it.
+
+### Free tools for follow-up checks
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days before each follow-up check is due, and the [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the reminder to the tenant to bring their documents.
 
 ### Do we need a follow-up check when the tenant's visa ends?
 Not always on that day. The Home Office guide says not to assume a follow-up is due when permission expires if a longer statutory excuse applies, for example the 12 months after the check. You can still check earlier if you want to.
@@ -6129,6 +6138,9 @@ Notifying the claim, every view on cover or liability, and any conversation abou
 ### How Mike Automations would build it
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how claims run in your brokerage today and where clients wait. Within 48 hours you get a written plan with a fixed price and a clear definition of "working", for example: every open claim has a stage and a next update date, and no client goes longer than the interval you set without hearing from you. It's built on the tools you already use (your broker system or spreadsheet, email, forms and texts, where they allow a connection), so nobody learns a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=insurance-broker-claims-updates).
 
+### Free tools for claim updates
+The free [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes the instant reply when a client reports a claim, and the [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts working days between updates.
+
 ### Does this replace our broker software or claims system?
 No. It reads the claims log you already keep and does the requesting, reminding and updating around it. If your software can't be connected, a spreadsheet or a daily export can be the claims log.
 
@@ -9656,6 +9668,9 @@ Which waiver form to use, whether a signed waiver is good enough, and when to re
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how pay applications and waivers move through your office today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your email, shared drive, a spreadsheet and your accounting software where it allows a connection), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If you run many large projects with several tiers of subs, dedicated construction payment software may fit better, and we'll say so on the call.
 
+### Free tools for getting paid
+The free [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes the follow-up when a payment is held up, and the [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts business days to each deadline.
+
 ### Does the workflow tell us which lien waiver form to use?
 No. The forms and the rules depend on the state, so that is a question for your attorney. The workflow sends the forms you give it and tracks what comes back.
 
@@ -10518,6 +10533,9 @@ What is covered under your warranty and any warranty provider's policy, every ju
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how homeowner issues reach you today and who deals with them. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a form, a spreadsheet or your project software, email and text), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If you already use a warranty system and your team keeps it up to date, you don't need this, and we'll say so on the call.
 
+### Free tools for warranty requests
+The free [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes the instant acknowledgement when a homeowner reports a defect, and the [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the visit reminder before the trade arrives.
+
 ### Does it decide what's covered by the warranty?
 No. A person reads every request and decides. The workflow only collects the details and moves the request along once you've decided.
 
@@ -11032,6 +11050,9 @@ Every offer, every price conversation and every judgement about what the vendor 
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how viewings are booked today and how your vendors like to hear from you. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your agency software where it allows a connection, your diary, text and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your software already collects feedback and your vendors are happy with it, you don't need this, and we'll say so on the call.
+
+### Free tools for viewings
+The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes viewing confirmations and reminders, and the [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes the instant reply to a new viewing enquiry.
 
 ### Will buyers actually reply?
 Some will and some won't. A short text with numbered answers is quick to reply to, and anyone who doesn't reply lands on the negotiator's call list, so nobody is skipped.
@@ -11860,6 +11881,9 @@ Deciding who is competent for which work, who goes on which site and what traini
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you keep your training matrix today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, a phone form, shared folders and text or email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your HR or site software already tracks every card and sends the reminders, you don't need this, and we'll say so on the call.
 
+### Free tools for expiry dates
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days before each card or course expires, so renewal reminders go out in time to book training.
+
 ### How long does a CSCS card last?
 Most CSCS cards last five years, and some card types are shorter. The expiry date is printed on the card. CSCS says a card can be renewed from six months before that date.
 
@@ -12160,6 +12184,9 @@ Reading each notice, deciding whether to agree, pay or dispute, preparing the re
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how notices reach you today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software or a spreadsheet, your portal or shared folders, and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already logs every notice with its response date and reminds the owner, you don't need this, and we'll say so on the call.
+
+### Free tools for notice deadlines
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts business days between dates, which helps plan client follow-ups before an IRS notice response is due.
 
 ### Does the workflow read the notice and set the deadline?
 No. A preparer reads the letter and enters the dates printed on it. Response periods differ by notice type, so the workflow never guesses one.
@@ -14162,6 +14189,9 @@ Deciding which roles need a check and at what level, every status check, and any
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you track DBS checks today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, a form and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your club or membership software already tracks Update Service dates, you don't need this, and we'll say so on the call.
+
+### Free tools for renewal dates
+The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days before each subscription renewal, so reminders go out early enough.
 
 ### Does it check DBS status for us?
 No. It reminds you when checks are due and keeps the results you log. You do the check yourself on the GOV.UK Update Service, with the person's consent.
