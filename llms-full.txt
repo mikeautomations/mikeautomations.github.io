@@ -16027,6 +16027,171 @@ They follow different timelines. They can go on the same list with dates your at
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## UCC continuation reminders: every filing's six-month window on one list
+Source: https://mikeautomations.github.io/en/ucc-continuation-filing-reminders/
+
+A UCC continuation reminder workflow keeps one row per financing statement with its filing date and lapse date. When the six-month window before the lapse date opens, it asks whether the loan is still outstanding, gives the responsible person a dated task and repeats it weekly until someone records the continuation or marks the filing as no longer needed. A person files the continuation.
+
+Under UCC 9-515, a filed financing statement is effective for five years, and a continuation statement can be filed only in the six months before that period ends. File too early and it doesn't count. File too late and the filing has lapsed. So the date that matters arrives four and a half years after the loan closed, when the person who made the filing may have left and the loan may have been renewed, sold or paid off. Large lenders use a filing service for this. A small lender, an equipment dealer that finances its own sales or a two-attorney firm usually has a spreadsheet and a calendar entry that one person owns.
+
+### Where continuations get missed
+- The lapse date sits in the calendar of someone who has left
+- The loan was renewed or amended, and everyone assumed the amendment moved the date
+- A reminder fired a year early, was dismissed, and never came back
+- The filing was made in more than one state and only one is on the list
+- The debtor changed its name or moved, and nobody asked whether the filing still matches
+- The loan was paid off, the filing was never terminated, and the list is full of rows nobody trusts
+
+### The dates the list tracks
+These follow UCC 9-515 as most states have enacted it. State versions differ in places and some kinds of filing have a different period, so your attorney or the person responsible confirms the lapse date on each row.
+| Point on the row | What UCC 9-515 says |
+| --- | --- |
+| Filing date | The financing statement is effective for five years from this date |
+| Window opens | Six months before the five-year period ends |
+| Window closes (lapse date) | The end of the five-year period |
+| Continuation filed in the window | Adds five years, counted from the original lapse date |
+| Amendment filed | Does not move the lapse date |
+
+### How the workflow runs
+1. Every financing statement goes on one list: debtor, secured party, state, file number, filing date, the loan it secures and who is responsible. The window's opening date and the lapse date are calculated on the row.
+2. The responsible person confirms the dates once. Rows for filings with a different period get their dates entered by hand.
+3. Sixty days before a window opens, the loan officer or attorney gets a short question: is this loan still outstanding, and has the debtor's name or address changed?
+4. If the loan is paid off, the row goes on a separate list of filings to terminate. If it is outstanding, the row waits for the window.
+5. On the day the window opens, the responsible person gets a dated task with the file number, the state and the lapse date.
+6. The task repeats every week. With 60 days left, a second person is copied in. With 30 days left, it goes to the owner or managing attorney too.
+7. A person prepares and files the continuation, or instructs the filing service. The workflow never files anything.
+8. The filer records the continuation's file number and date. The row shows the new lapse date, counted from the old one, and the next window.
+9. Once a month, the list goes to the owner: windows open now, windows opening in the next quarter and rows with missing dates.
+10. If AI drafts a message to a borrower or a client, a person checks it before it is sent.
+
+### What stays with your people
+Whether a continuation should be filed, whether the debtor's name on the filing is still right, the filing itself and any advice to a client. The workflow holds the dates and keeps asking until someone answers. It isn't legal advice and it doesn't replace a filing service or docketing software: if your insurer or your lender agreements expect a particular system, keep using it. For other dated matters, see [commercial lease critical dates tracking](https://mikeautomations.github.io/en/commercial-lease-critical-dates-tracking/) and [trademark renewal reminders for small law firms](https://mikeautomations.github.io/en/trademark-renewal-reminders-law-firms/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many filings you hold and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email and a calendar). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If a filing service already tracks every lapse date for you and reminds the right person, you don't need this, and we'll say so on the call.
+
+### When can a UCC continuation statement be filed?
+Under UCC 9-515, only within the six months before the financing statement's five-year period ends. A continuation filed before that window opens or after the lapse date is not effective. State versions differ in places, so confirm the dates for your state.
+
+### Does the workflow file the continuation?
+No. A person prepares and files it, or instructs your filing service. The workflow keeps the dates, opens the task on the first day of the window and repeats it until the filing is recorded.
+
+### Does amending a UCC-1 extend it?
+No. Under UCC 9-515 only a continuation statement filed in the window extends the filing. An amendment doesn't move the lapse date, which is why the list keeps the original date on the row.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Pallet racking inspection reminders: every site booked before its date
+Source: https://mikeautomations.github.io/en/pallet-racking-inspection-reminders/
+
+A racking inspection reminder workflow keeps one row per site with the date of its last expert inspection and the next one. Weeks before the date it emails the site's contact with visit dates, books the reply into the inspectors' diary and reminds the site the day before. After the visit it sends the report, sets the next date and keeps any damage that needs repair on a follow-up list.
+
+HSE's warehousing guidance, HSG76, is widely described by inspection bodies as calling for an expert racking inspection by a technically competent person at least once a year, alongside regular in-house checks by someone the warehouse has nominated. For a racking inspection firm that means every customer comes round again in about twelve months. The inspection is the skilled part. The part that slips is remembering which site is due, reaching the right person there, agreeing a day when the aisles can be walked, and going back to see whether the damaged upright in the report was ever replaced.
+
+### Where repeat inspections get lost
+- Due dates live in last year's reports, and nobody reads them until a customer rings
+- The warehouse manager who booked last year has moved on and the email bounces
+- A customer with four sites has four dates, and only the head office one is in the diary
+- The site wants a quiet day, proposes one by phone, and it never reaches the inspector
+- The report listed items to unload and repair, and nobody asked whether it was done
+- New bays were added in the summer and the firm hears about it at the next visit
+
+### What the list holds for each site
+One row per site, not per customer, because sites fall due on different dates. The interval on each row is set by your inspector: guidance describes twelve months as the longest gap, and a site with heavy truck traffic or a history of damage may be seen sooner.
+| On the row | Why it is there |
+| --- | --- |
+| Site address and access notes | So the visit is booked for a day the aisles can be walked |
+| Site contact and a second contact | So a reminder still lands when one person has left |
+| Last inspection date and inspector | The next date is counted from it |
+| Interval set by your inspector | Twelve months at most in the guidance, shorter where the inspector says so |
+| Open items from the last report | So repairs are followed up before the next visit, not at it |
+
+### How the workflow runs
+1. Every site you inspect goes on one list with its last inspection date, the interval and its contacts. The next date is calculated on the row.
+2. Eight weeks before the date, the site contact gets an email in plain words: the annual racking inspection is due, here are three dates, and has the racking changed since last time?
+3. The reply books the visit into the inspectors' diary. A changed layout is flagged so the office can check the time allowed.
+4. No reply brings a reminder after a week and another a week later, to the second contact too. After that, the site goes on a call list for the office.
+5. The day before the visit, the site gets a reminder with the inspector's name and the arrival time.
+6. Your inspector carries out the inspection and writes the report. The workflow never judges racking.
+7. The office marks the visit done. The report goes to the site contact and the next date is set on the row.
+8. Items the inspector marked for repair go on a follow-up list. The site is asked at two and four weeks whether the work is done, and the answer is recorded on the row.
+9. Once a month, the owner gets the list: sites due in the next quarter, sites not yet booked and repairs still open.
+10. If AI drafts a message to a site, a person checks it before it is sent.
+
+### What stays with your inspector
+The inspection, the damage classification, the report, the interval and any advice about unloading a bay. The workflow books the visit and keeps asking about repairs. It doesn't replace the warehouse's own regular checks, which stay with the person the site has nominated. HSG76 is guidance, so this page doesn't tell a warehouse what the law requires of it: your inspector does that. For other examination rounds, see [LOLER thorough examination reminders](https://mikeautomations.github.io/en/loler-thorough-examination-reminders/) and [LEV testing reminders](https://mikeautomations.github.io/en/lev-testing-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many sites you inspect and where the due dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email, a calendar and your report folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your inspection software already books repeat visits and follows up repairs, you don't need this, and we'll say so on the call.
+
+### How often should pallet racking be inspected?
+HSE's guidance HSG76 is widely described as calling for an expert inspection by a technically competent person at least once a year, with regular in-house checks in between. Your inspector sets the interval for each site, and it can be shorter.
+
+### Does the workflow do any of the inspection?
+No. Your inspector inspects, classifies any damage and writes the report. The workflow keeps the dates, books the visit, sends the report and asks the site whether repairs were done.
+
+### Can it track the warehouse's own weekly checks?
+It can remind the site's nominated person and record that a check was logged, if a customer asks you for that. The checks themselves stay with the site.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## DEA registration and license renewal tracking: every provider's dates on one list
+Source: https://mikeautomations.github.io/en/dea-registration-and-license-renewal-tracking/
+
+A renewal tracking workflow keeps one row per provider per credential: DEA registration, state license, state controlled substance registration and anything else with an expiry date. It reminds the provider and the office manager well before each date, repeats until the provider confirms the renewal, and asks for the new certificate so the next date goes on the row.
+
+A practitioner's DEA registration is renewed every three years, and the DEA sends its renewal notice to the email address on the registration. A state license runs on its own cycle, set by the state board. So a practice with six providers has a dozen or more dates, on different cycles, and the official reminders go to each provider's personal inbox, sometimes at an address from a previous job. The office manager usually finds out when a pharmacy calls or a payer asks for a current copy. Each renewal takes the provider a few minutes. Knowing that it is due is the part nobody owns.
+
+### Where renewals get missed
+- The DEA's notice goes to an old email address and the practice never sees it
+- A three-year cycle is long enough that nobody remembers when the last renewal was
+- The provider renewed online and nobody at the practice got the new certificate
+- A provider works in two states and only one license is on the list
+- A new hire's dates were collected for credentialing and never copied to the practice's own list
+- The office manager who kept the spreadsheet left, and the calendar reminders left with them
+
+### What the list holds for each provider
+One row per credential, not per provider, because each one expires on its own date. Only the DEA cycle is the same everywhere. Every other date is entered from the certificate, because state boards set their own cycles and requirements.
+| Credential | Where the date comes from |
+| --- | --- |
+| DEA registration | The expiry date on the certificate. Practitioner registrations are renewed every three years |
+| State professional license | The state board's record. Cycles vary by state and profession |
+| State controlled substance registration | The state's certificate, where the state has one |
+| Continuing education needed for renewal | Entered by the provider, as the board sets it |
+| Board certification and other dated items | Entered from the certificate |
+
+### How the workflow runs
+1. Every provider's credentials go on one list with the number, the expiry date and a copy of the current certificate in the provider's folder.
+2. Once a year, each provider gets a short form: are these dates right, has anything been added, and is the email address on your DEA registration one you still read?
+3. Ninety days before a date, the provider and the office manager get an email naming the credential and the date, with the link the practice uses for that renewal.
+4. Reminders repeat at 60 days, then every week from 30 days. The practice's lead clinician is copied in from 30 days.
+5. The provider renews. The workflow never signs in to the DEA or a state board, and never holds a provider's login.
+6. The provider replies "done" or uploads the new certificate. The office manager checks it and enters the new expiry date.
+7. A row without a new certificate stays open, even after a "done" reply, until the document is in the folder.
+8. When the new certificate arrives, the office manager gets a short list of who else needs a copy, such as payers, the hospital or the practice's pharmacy accounts. A person sends them.
+9. Once a month, the office manager gets the list: dates in the next 90 days, rows still open and rows with no certificate on file.
+10. If AI drafts a message, a person checks it before it is sent.
+
+### What stays with the provider and the practice
+The renewal application, every statement on it, the fee, continuing education and any decision about what a provider may do while a renewal is pending. The DEA has changed its policy on late renewals more than once, so the workflow doesn't plan around a grace period: check the DEA Diversion Control Division's site for the current rules. This isn't legal or compliance advice. For the payer side of provider data, see [CAQH re-attestation reminders](https://mikeautomations.github.io/en/caqh-re-attestation-reminders-medical-practices/), and for staff paperwork, see [new hire paperwork collection](https://mikeautomations.github.io/en/new-hire-paperwork-collection-small-business/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many providers you have and where their dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email, a form and your document folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your credentialing software already tracks these dates and reminds each provider, you don't need this, and we'll say so on the call.
+
+### How often is a DEA registration renewed?
+Practitioner registrations are renewed every three years. The DEA sends its renewal notice to the email address on the registration, so the workflow also asks each provider once a year whether that address is still one they read.
+
+### Does the workflow renew anything?
+No. The provider renews with the DEA or the state board. The workflow keeps the dates, reminds the provider and the office manager, and keeps the row open until the new certificate is on file.
+
+### Does it know each state's renewal rules?
+No. State boards set their own cycles and requirements, so each state date is entered from the certificate and the provider enters what their board requires. Nothing is calculated for them.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 

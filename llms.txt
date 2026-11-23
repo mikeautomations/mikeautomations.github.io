@@ -334,6 +334,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [I-9 reverification reminders](https://mikeautomations.github.io/en/i-9-reverification-reminders/): For small employers and staffing firms: every work authorization expiry date on one list, the employee reminded early and HR told before the date.
 - [Dry riser testing reminders](https://mikeautomations.github.io/en/dry-riser-testing-reminders/): For fire protection firms and block managers: every riser's six-monthly check and annual pressure test on one list, with the visit booked in time.
 - [Trademark renewal reminders](https://mikeautomations.github.io/en/trademark-renewal-reminders-law-firms/): For small firms and solo attorneys: every registration's filing window on one list, the client asked early and the attorney told before it closes.
+- [UCC continuation reminders](https://mikeautomations.github.io/en/ucc-continuation-filing-reminders/): For small lenders and law firms: every UCC-1 on one list with its lapse date, a warning when the six-month window opens and a task until it is filed.
+- [Racking inspection reminders](https://mikeautomations.github.io/en/pallet-racking-inspection-reminders/): For racking inspection firms: every site on one list with its next inspection date, the visit offered weeks ahead and red items followed until repaired.
+- [DEA and license renewals](https://mikeautomations.github.io/en/dea-registration-and-license-renewal-tracking/): For medical, dental and vet practices: every provider's DEA registration and state license dates on one list, with reminders until each renewal is done.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
