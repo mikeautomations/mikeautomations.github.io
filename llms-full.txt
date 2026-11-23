@@ -15859,6 +15859,174 @@ Yes. Many operators answer a text faster than an email. You choose the wording, 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## I-9 reverification reminders: every expiry date seen weeks before it arrives
+Source: https://mikeautomations.github.io/en/i-9-reverification-reminders/
+
+An I-9 reverification reminder workflow keeps one row per employee whose work authorization has an end date. Weeks before that date, it reminds the employee to bring a current document and gives HR a task to complete Supplement B. A person in HR examines the document and signs the form.
+
+USCIS guidance says that when an employee's temporary employment authorization expires, the employer must reverify it no later than the expiry date, and record it on Supplement B of Form I-9. The date was written on the form on the day the person was hired, and the form went into a folder. In a small business nobody opens that folder again. A staffing agency has the same problem across hundreds of workers placed with different clients. The date arrives on an ordinary Tuesday, and the first person to notice is often the employee.
+
+### Where reverification dates get missed
+- The expiry date is on a paper I-9 in a folder and on no list or calendar
+- The person who did the hiring paperwork has left, and nobody took over the dates
+- The employee has renewed their document and nobody asked to see the new one
+- Someone asks a U.S. citizen or a green card holder for new documents by mistake, because every row on the list looked the same
+- An employee has a renewal pending and nobody checks whether an automatic extension applies
+- A staffing agency tracks the dates per client and misses a worker who moved between clients
+
+### Who goes on the list, and who doesn't
+These are points from the USCIS Handbook for Employers (M-274). The workflow only tracks rows that HR has marked as needing reverification. If a case is unclear, ask your employment attorney before anyone contacts the employee.
+| Situation | What the USCIS guidance says |
+| --- | --- |
+| Temporary employment authorization with an end date | Reverify no later than the date it expires, on Supplement B |
+| U.S. citizens and noncitizen nationals | Do not reverify |
+| Lawful permanent resident who showed a Permanent Resident Card (Form I-551) | Do not reverify |
+| Temporary I-551 stamp or notation | Reverify no later than when it expires |
+| List B identity documents, such as a driver's license | Not reverified when they expire |
+| A renewal was filed on time | An automatic extension may apply. Check the current USCIS rules |
+
+### How the workflow runs
+1. Every employee whose I-9 has a work authorization end date goes on one list: name, the date, the document type and who in HR owns the row. HR marks the rows once from the existing forms.
+2. New hires with an end date are added from your [new hire checklist](https://mikeautomations.github.io/en/new-hire-paperwork-collection-small-business/), so the list stays complete.
+3. Ninety days before the date, the employee gets a short, neutral email: their work authorization on file ends on this date, and they will need to show a current document before then. They choose which acceptable document to show.
+4. The message never asks for a specific document. You approve the wording once, with your attorney if you have one.
+5. Sixty and thirty days before, the employee gets a reminder, and HR gets a task with the date.
+6. If the employee says a renewal is pending, the row is flagged for HR to check whether an extension applies. The workflow doesn't decide that.
+7. HR examines the document, completes Supplement B and enters the new end date, or marks the row as having no further date.
+8. Two weeks before the date, any row still open goes to the owner or HR lead as a short list.
+9. If AI drafts a message, a person checks it before it is sent.
+
+### What stays with you
+Examining the document, completing and signing Supplement B, deciding who needs reverification and every decision about someone's employment. The workflow holds dates and sends reminders. It doesn't store copies of documents unless you already keep them, and it doesn't replace E-Verify or your payroll system. It is not legal advice. The rules change, so check the current USCIS guidance or ask an employment attorney. Staffing agencies that also chase other worker documents can see [candidate compliance document chasing](https://mikeautomations.github.io/en/candidate-compliance-document-chasing/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many employees have an end date and where those dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email and your calendar). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your HR or payroll software already sends these alerts and someone acts on them, you don't need this, and we'll say so on the call.
+
+### When does an I-9 need reverification?
+USCIS guidance says that when an employee's temporary employment authorization expires, the employer reverifies it no later than the expiry date and records it on Supplement B of Form I-9. Some employees with a renewal filed on time may have an automatic extension.
+
+### Do we reverify U.S. citizens or green card holders?
+USCIS says employers should not reverify U.S. citizens, noncitizen nationals, or lawful permanent residents who presented a Permanent Resident Card. That is why HR marks the rows first, and only marked rows get reminders.
+
+### Does the workflow complete Supplement B?
+No. A person in HR examines the document and completes and signs the form. The workflow keeps the dates, reminds the employee and HR, and records the new date afterwards.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Dry riser testing reminders: the six-monthly check and the annual test, booked before they're due
+Source: https://mikeautomations.github.io/en/dry-riser-testing-reminders/
+
+A dry riser testing reminder workflow keeps one row per riser with the dates of its last visual check and last pressure test. Weeks before either is due, it tells the building's contact, offers visit dates and records the result afterwards. A competent engineer does the test and writes the certificate.
+
+Fire protection firms describe the same routine under BS 9990: a visual inspection of each dry riser every six months and a full pressure test once a year. So every building has two dates a year, and a tall block can have several risers. For the firm, the dates sit in last year's job sheets. For the managing agent, they sit in a certificate in a shared folder. The six-monthly check is the one that slips, because it is a short visit that nobody put in the diary.
+
+### Where riser dates slip
+- The annual test is in the diary but the six-monthly visual check isn't
+- A building changes managing agent and the new one doesn't know when the last test was
+- The engineer needs the inlet cabinet key and roof access, and the visit is wasted when nobody is there
+- A check finds a missing cap or a damaged valve, the repair is quoted, and the retest is never booked
+- One block has three risers tested on different dates after past repairs
+- The firm did last year's test and has no list of what is due next month
+
+### What the list holds for each riser
+One row per riser, not per building. The firm's engineer decides what each visit covers and whether the riser passes.
+| On the row | Why it's there |
+| --- | --- |
+| Building, riser location and inlet location | The engineer finds it without a phone call |
+| Date of the last visual check | Sets the next six-monthly date |
+| Date of the last pressure test and certificate | Sets the next annual date |
+| Site contact, key holder and access notes | The visit isn't wasted |
+| Open defects and quotes | A repair and its retest don't get lost |
+| Who gets the certificate | Managing agent, landlord or the responsible person |
+
+### How the workflow runs for a fire protection firm
+1. Every riser you look after goes on one list with its two dates. Past jobs are loaded from your job sheets or your software's export.
+2. Six weeks before a check or a test is due, the building's contact gets an email with the address, what is due and two or three visit dates.
+3. The contact picks a date and confirms access: who holds the keys and who meets the engineer. The visit goes in the engineers' diary.
+4. Risers in the same building, or buildings on the same street, are offered on the same day.
+5. No reply after a week brings one reminder. After that, the building goes on a short call list for your office.
+6. The day before, the contact gets a reminder with the time and the access you need.
+7. After the visit, your engineer records the result. A pass sets the next date. A defect opens a line for the quote and the retest, so it stays visible until it's closed.
+8. The certificate or report is emailed to the person named on the row and filed against the building.
+9. If AI drafts a message, a person checks it before it is sent.
+
+### If you manage the building
+The same list works from the managing agent's side. Each riser has a row next to the building's other fire safety dates, and the property manager gets a reminder six weeks before, with the contractor's details. When the contractor's report arrives, it is filed and any defect becomes a task with an owner. For the other dates in a block, see [fire door inspection reminders](https://mikeautomations.github.io/en/fire-door-inspection-reminders/) and [emergency lighting test reminders](https://mikeautomations.github.io/en/emergency-lighting-test-reminders/).
+
+### What stays with you
+The inspection, the pressure test, the certificate and every decision about whether a riser is fit for use. The responsible person for the building stays responsible for it. The workflow reminds, books and files. It isn't fire safety advice, and it doesn't replace the standard or your fire risk assessment, so check the current edition of BS 9990 and your assessor's advice for your own buildings. Firms that also service alarms can see [fire alarm service reminders](https://mikeautomations.github.io/en/fire-alarm-service-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many risers are on your books and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email and your engineers' diary). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job management software already sends these reminders, you don't need this, and we'll say so on the call.
+
+### How often should a dry riser be tested?
+Fire protection firms describe the routine under BS 9990 as a visual inspection every six months and a full pressure test every year. Check the current edition of the standard and your fire risk assessment for your own building.
+
+### Who can test a dry riser?
+A competent person, usually an engineer from a fire protection firm with the right equipment. The workflow doesn't test anything. It keeps the dates, books the visit and files the report.
+
+### What happens when a test finds a defect?
+The row stays open with the defect, the quote and the retest date. It shows on the weekly list until your engineer records the retest, so a failed riser can't quietly drop off.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Trademark renewal reminders: every filing window opened with the client's answer in hand
+Source: https://mikeautomations.github.io/en/trademark-renewal-reminders-law-firms/
+
+A trademark renewal reminder workflow keeps one row per registration with its registration date and the filing windows that follow from it. When a window opens, it asks the client whether the mark is still in use and for a specimen, reminds them, and gives the attorney a dated task. The attorney decides what to file and files it.
+
+The USPTO says a registration owner must file a Section 8 declaration between the fifth and sixth years after registration, and a combined Sections 8 and 9 filing between the ninth and tenth years and every ten years after that. So the first deadline comes five years after the work was finished, when the client has changed their email address, their logo and sometimes their company name. A small firm without docketing software keeps these dates in a spreadsheet or a calendar. The filing itself is quick. Getting an answer and a specimen from the client is what takes the year.
+
+### Where maintenance deadlines get missed
+- The registration was six years ago and the date lives in a calendar that one person owned
+- The client's contact has left and the reminder email bounces
+- The client replies "yes, renew it" and never sends a specimen showing the mark in use
+- The mark is used on some of the registered goods and not others, and nobody asks until the last week
+- The firm assumes the client is watching the date, and the client assumes the firm is
+- A registration came from another firm and its dates were never added to the list
+
+### The windows the list tracks
+These are the points on the USPTO's post-registration timeline for registrations other than Madrid Protocol ones, which follow a different timeline. The dates on each row are calculated from the registration date, and your attorney confirms them.
+| Filing | When the USPTO says it is due |
+| --- | --- |
+| Section 8 declaration of use | Between the fifth and sixth years after registration |
+| Combined Sections 8 and 9 (declaration and renewal) | Between the ninth and tenth years after registration |
+| Later renewals | Every ten years after that, in the year before each ten-year date |
+| Grace period | Six months after each deadline, for an additional fee |
+| Nothing filed by the end of the grace period | The registration is canceled |
+
+### How the workflow runs
+1. Every registration the firm looks after goes on one list: client, mark, registration number, registration date, classes and the client's contact. The next window's opening and closing dates are calculated on the row.
+2. Three months before a window opens, the responsible attorney gets a note, and the client's contact details are checked with a short "is this still the right person?" email.
+3. When the window opens, the client gets an email in plain words: the registration needs a filing in the next year to stay alive, here are the goods and services it covers, and three questions to answer.
+4. The questions go on a short form: is the mark still in use on each item, has the owner's name or address changed, and can they upload a current example of the mark in use.
+5. No reply brings a reminder every month. After the third, the attorney gets a call task.
+6. The answers and the uploads are filed in the client's folder and the row shows what is still missing.
+7. The attorney reviews the answers, decides what to file and files it. The workflow never files anything with the USPTO.
+8. Six months before the window closes, any row without a filing goes on a weekly list to the attorney, and stays there through the grace period.
+9. After the filing, the attorney marks it done and the next window is set on the row.
+10. If AI drafts a message, the attorney checks it before it is sent.
+
+### What stays with the attorney
+Whether the mark is in use, whether a specimen is acceptable, what to delete from the registration, whether to claim excusable nonuse, the filing and every piece of advice to the client. The workflow holds the dates, asks the questions and collects the answers. It isn't legal advice and it isn't docketing software: if your malpractice carrier expects a particular docketing system, keep using it. For other dated matters in the firm, see [statute of limitations tracking for law firms](https://mikeautomations.github.io/en/statute-of-limitations-tracking-law-firms/) and [court date reminders for law firms](https://mikeautomations.github.io/en/court-date-reminders-law-firms/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many registrations the firm looks after and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email, a form and your document folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your docketing software already sends client reminders and collects the answers, you don't need this, and we'll say so on the call.
+
+### When is a trademark renewal due?
+The USPTO says a Section 8 declaration is due between the fifth and sixth years after registration, and a combined Sections 8 and 9 filing between the ninth and tenth years and every ten years after that. Each deadline has a six-month grace period with an additional fee.
+
+### Does the workflow file with the USPTO?
+No. The attorney reviews the client's answers, decides what to file and files it. The workflow keeps the dates, asks the client the questions and collects the specimen.
+
+### What about foreign or Madrid Protocol registrations?
+They follow different timelines. They can go on the same list with dates your attorney enters by hand, so the reminders still run, but nothing is calculated for them.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 

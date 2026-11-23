@@ -331,6 +331,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [RMD reminders for financial advisors](https://mikeautomations.github.io/en/rmd-reminders-financial-advisors/): For advisory firms: one list of clients with a required minimum distribution this year, reminders through the fall, and a short list before December 31.
 - [Construction closeout documents from subs](https://mikeautomations.github.io/en/construction-closeout-document-collection-subcontractors/): For general contractors: each sub gets a list of the closeout documents their contract asks for, reminders for what's missing, and one status list per job.
 - [Tachograph calibration reminders](https://mikeautomations.github.io/en/tachograph-calibration-reminders/): For tachograph centres and fleet operators: every vehicle's two-year calibration date on one list, the customer reminded and the visit booked in time.
+- [I-9 reverification reminders](https://mikeautomations.github.io/en/i-9-reverification-reminders/): For small employers and staffing firms: every work authorization expiry date on one list, the employee reminded early and HR told before the date.
+- [Dry riser testing reminders](https://mikeautomations.github.io/en/dry-riser-testing-reminders/): For fire protection firms and block managers: every riser's six-monthly check and annual pressure test on one list, with the visit booked in time.
+- [Trademark renewal reminders](https://mikeautomations.github.io/en/trademark-renewal-reminders-law-firms/): For small firms and solo attorneys: every registration's filing window on one list, the client asked early and the attorney told before it closes.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
