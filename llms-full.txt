@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Updated: 2026-11-22. Facts summary: https://mikeautomations.github.io/llms.txt
+Updated: 2026-11-23. Facts summary: https://mikeautomations.github.io/llms.txt
 
 ## Home: Mike Automations
 Source: https://mikeautomations.github.io/en/
@@ -15683,6 +15683,178 @@ It records the date on the certificate and shows the attorney when the planned f
 
 ### Does it send documents to the trustee?
 No. It shows what is due before the meeting of creditors and prepares the list. A person at the firm reviews and sends.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## RMD reminders for financial advisors: every client's distribution confirmed before the deadline
+Source: https://mikeautomations.github.io/en/rmd-reminders-financial-advisors/
+
+An RMD reminder workflow keeps one row per client account that has a required minimum distribution this year. It shows which ones are already set up, reminds the client and the advisor about the ones that aren't, and gives the team a short list of what is still open as December 31 gets close. The advisor and the custodian work out the amount; the workflow keeps the list and sends the reminders.
+
+The IRS says the first required minimum distribution from a traditional IRA is due by April 1 of the year after the year the owner turns 73, and each later one is due by December 31. A client who waits until April 1 for the first one has two distributions in the same year. A missed amount can face a 25% excise tax, reduced to 10% if it is corrected within two years. Most firms know all this. What goes wrong is the list: clients who turn 73 this year, accounts held at another custodian, a spouse's account nobody mentioned, and a December when the whole team is busy.
+
+### Where RMDs get missed
+- The list is last year's spreadsheet, and the clients who turn 73 this year are not on it
+- A client has an old IRA at another custodian that your reports don't show
+- A client chose to delay their first distribution to April 1, and nobody set the second one for December
+- The client says "I'll call you about it" in September and doesn't
+- A distribution was requested but the paperwork came back unsigned
+- An inherited account follows different rules and sits on the same list with no note
+- Nobody checks in January that every distribution on the list was paid
+
+### What the list keeps
+One row per account. If your CRM or portfolio software already holds dates of birth and account types, the workflow reads the list from an export and adds the reminders.
+| Field | Why it matters |
+| --- | --- |
+| Client, advisor and account | So the reminder goes to the person who knows the client |
+| Account type and custodian | So accounts held elsewhere are on the list too |
+| Date of birth and first-RMD year | So clients reaching the age this year are added in January, not found in December |
+| Deadline for this year (April 1 or December 31) | So a delayed first distribution is not treated like the others |
+| Amount, as worked out by the advisor or custodian | So the client sees the figure your team has checked |
+| Status: not started, client asked, form sent, scheduled, paid | So the open ones are easy to see |
+| Notes: withholding choice, charity gift, inherited account | So the special cases are not handled from memory |
+
+### How the workflow runs
+1. In January, the list is built from your client export: every account with a distribution due this year, including clients who reach the age during the year.
+2. The advisor checks the list and fills in or confirms each amount. The workflow does not calculate RMDs.
+3. Accounts with an automatic distribution already set up at the custodian are marked "scheduled" and only get a check that the payment arrived.
+4. In early fall, each remaining client gets a short email from their advisor's address: the account, the deadline and how to tell you what they want to do. The advisor approves the wording once, and approves any message that is not the standard one.
+5. Clients who don't reply get a reminder two weeks later, then a task for the advisor to call them.
+6. Clients with a first distribution due by April 1 get their own reminder early in the year, and a second row for December 31.
+7. From mid-November, the team gets one list each Monday of everything not yet scheduled or paid.
+8. In January, the list is checked against the custodian's records and anything unpaid goes straight to the advisor.
+9. If AI drafts a message or reads a form, a person checks it before it is sent.
+
+### What stays with you
+The amount, the advice, the timing, the withholding choice and every conversation with the client. The workflow reminds and keeps the list. It is not tax or investment advice. Rules differ for employer plans, where some people can wait until they retire, and for inherited accounts, and the starting age is set to rise to 75 for people born in 1960 or later, so check the current IRS guidance for each client. Your firm's compliance rules on client emails apply to these messages as they do to any others. If you also chase clients for tax payments, see [quarterly estimated tax payment reminders](https://mikeautomations.github.io/en/quarterly-estimated-tax-payment-reminders/). For review meetings and their paperwork, see [client review paperwork for financial advisers](https://mikeautomations.github.io/en/financial-adviser-client-review-paperwork/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many clients take distributions and where the list lives today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your CRM export or a spreadsheet, email and a calendar). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your CRM already builds this list and reminds clients, you don't need this, and we'll say so on the call.
+
+### When is a required minimum distribution due?
+The IRS says the first one from a traditional IRA is due by April 1 of the year after the year the owner turns 73, and each later one by December 31. Employer plans and inherited accounts can follow different rules, so check each account.
+
+### Does the workflow calculate the RMD amount?
+No. The advisor or the custodian works out the amount. The workflow holds the figure your team has confirmed and uses it in the reminder.
+
+### Can it track accounts held at another custodian?
+Yes, as long as someone adds them to the list. The row holds the custodian's name, and the client is asked to confirm when the distribution has been taken.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Construction closeout documents: collecting them from every subcontractor
+Source: https://mikeautomations.github.io/en/construction-closeout-document-collection-subcontractors/
+
+A closeout document workflow gives each subcontractor a list of what their subcontract asks for: usually O&M manuals, warranties, as-built drawings, test reports and a final lien waiver. It starts asking before the job ends, reminds each sub about what is still missing, files what arrives in the job folder, and shows the project manager one list of who still owes what.
+
+The building is finished and the owner wants the closeout package before releasing final payment. A typical package has the punch list sign-off, the certificate of substantial completion, final inspection reports, as-built drawings, operation and maintenance manuals, warranties, lien waivers and commissioning records. A large part of it has to come from the subs, and by then the subs have moved to their next job. So a project manager spends weeks emailing fifteen companies for PDFs, and the final payment waits for the last one.
+
+### Where closeout stalls
+- Nobody asks for closeout documents until the last week, when the sub's crew has already left
+- Each sub gets the same general email, with no list of what their own contract asks for
+- A warranty letter arrives with no start date, or names the wrong project
+- An O&M manual comes as forty separate attachments across six emails
+- The as-builts are a marked-up set in a truck, and nobody has scanned them
+- The project manager moves to the next job and the list lives in their inbox
+- The owner's team finds the gaps, and the package goes back and forth
+
+### What each sub is asked for
+The contract documents decide the real list. This is a typical one, and the workflow uses the list you set per trade.
+| Document | What gets checked when it arrives |
+| --- | --- |
+| O&M manuals | They cover the equipment that was installed, in one file per system |
+| Warranties | Project name, start date, length and a signature |
+| As-built drawings | Every sheet for that trade is there and marked up |
+| Test, balancing and commissioning reports | Signed and dated, for the right equipment |
+| Attic stock and spare parts receipt | Signed by the person who received them |
+| Owner training sign-in sheet | Date, system and who attended |
+| Final lien waiver | The right form, the right amount and a signature |
+
+### How the workflow runs
+1. When the subcontract is signed, the sub's closeout list is set from a template for their trade and adjusted for the job.
+2. A few weeks before substantial completion, each sub gets an email with their own list and one upload link per item. The date is the one you choose.
+3. Each file that arrives is named, saved in the job's closeout folder and ticked off the list.
+4. Simple gaps are caught on arrival: a warranty with no start date, or a waiver that isn't signed. The sub gets a note saying what to fix. The project manager decides whether a document is acceptable.
+5. Subs with open items get a reminder each week that lists only what is still missing.
+6. After two reminders with no reply, the project manager gets a task to call, with the sub's contact and the open items.
+7. The project manager sees one list per job: every sub, every item, received or missing.
+8. When a sub's list is complete, the project manager is told, so the final payment step isn't held up by a document that already came in.
+9. When every list is complete, the folder is ready for the package to the owner or architect.
+10. If AI reads a document or drafts a message, a person checks it before it is sent.
+
+### What stays with you
+Whether a document is good enough, what the contract requires, when to release final payment and every hard conversation with a sub. The workflow asks, reminds and files. It is not legal advice: payment terms, retainage and lien waiver forms depend on your contracts and your state. For waivers on every draw, see [lien waiver tracking](https://mikeautomations.github.io/en/lien-waiver-tracking-subcontractors/). For documents during the job, see [RFI and submittal tracking](https://mikeautomations.github.io/en/construction-rfi-and-submittal-tracking/). For requests after handover, see [warranty request tracking for home builders](https://mikeautomations.github.io/en/home-builder-warranty-request-tracking/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many jobs you close a year and how closeout runs today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (email, a spreadsheet and a shared folder). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your project management software already tracks closeout by sub and sends the reminders, you don't need this, and we'll say so on the call.
+
+### What are closeout documents in construction?
+They are the records handed to the owner at the end of a job. A typical package has O&M manuals, warranties, as-built drawings, test and commissioning reports, lien waivers, the punch list sign-off and the certificate of substantial completion. Your contract sets the exact list.
+
+### When should we start asking subs for closeout documents?
+Before the job ends, while the sub is still on site and still waiting for payment. The workflow sends the first request on the date you choose, usually a few weeks before substantial completion.
+
+### Does it work with Procore or Buildertrend?
+It can sit next to them. If your software already tracks closeout items by sub and reminds them, use that. The workflow is for firms that run closeout from email and a spreadsheet.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Tachograph calibration reminders: every vehicle booked in before the two-year date
+Source: https://mikeautomations.github.io/en/tachograph-calibration-reminders/
+
+A tachograph calibration reminder workflow keeps one row per vehicle with the date on its last calibration certificate. A few weeks before the two-year date, it tells the operator, offers booking slots and records the new date once the work is done. An approved tachograph centre does the calibration and issues the certificate.
+
+GOV.UK guidance for goods vehicle operators says digital and smart tachographs must be recalibrated every 2 years, and analogue tachographs inspected every 2 years and recalibrated every 6 years. The date is on the plaque in the cab and on the certificate, and each vehicle has its own. An operator with twelve lorries bought in different months has twelve dates, and they don't line up with the MOT or the safety inspections. A tachograph centre has the dates for hundreds of customers' vehicles in old job sheets, and most customers only ring when a driver notices the plaque.
+
+### Where calibration dates slip
+- The date is on a plaque in the cab and nobody in the office has it written down
+- The operator tracks the MOT and safety inspections, and assumes the calibration comes with them
+- A vehicle is bought second-hand and the last certificate isn't with the paperwork
+- The tyres are changed for a different size, or the unit is repaired, and nobody books the recalibration that follows
+- A vehicle gets a new registration number and the tachograph still holds the old one
+- The centre did the last calibration but has no list of what is due next month
+
+### When a recalibration is due
+These are the points in the GOV.UK operator guidance. The workflow tracks the dates and asks about the events; your approved centre decides what the vehicle needs.
+| Tachograph or event | What the guidance says |
+| --- | --- |
+| Digital or smart tachograph | Recalibrated every 2 years |
+| Analogue tachograph | Inspected every 2 years and recalibrated every 6 years |
+| After any repair to the tachograph | Recalibrated |
+| The vehicle's registration number changes | Recalibrated |
+| The clock (UTC) is out by more than 20 minutes | Recalibrated |
+| Tyre circumference or the characteristic coefficient changes | Recalibrated |
+
+### How the workflow runs for a tachograph centre
+1. Every vehicle you have calibrated goes on one list: operator, registration, tachograph type, certificate date and next due date. Past jobs are loaded from your job sheets or your software's export.
+2. Six weeks before a due date, the operator gets an email or a text with the registration, the date and two or three booking slots.
+3. The operator picks a slot and it goes in the workshop diary. Vehicles from the same operator due in the same month are offered together.
+4. No reply after a week brings one reminder. After that, the vehicle goes on a short call list for your front desk.
+5. The day before the visit, the operator gets a reminder with what to bring, such as the vehicle's previous certificate.
+6. After the calibration, your technician marks the job done and the next due date is set on the list.
+7. If the operator says the vehicle was sold, the row is closed so they stop getting reminders about it.
+8. If AI drafts a message, a person checks it before it is sent.
+
+### If you run the fleet
+The same list works from the operator's side. Each vehicle has a row with its calibration date next to its MOT and safety inspection dates, and the transport manager gets a reminder six weeks before, with the centre's phone number. When a tyre size change or a tachograph repair is recorded on a short form, the row is flagged so someone asks the centre whether a recalibration is needed. For the other dates, see [HGV safety inspection and MOT reminders](https://mikeautomations.github.io/en/hgv-safety-inspection-and-mot-reminders/).
+
+### What stays with you
+The calibration, the certificate, the plaque and every decision about whether a vehicle is fit to use. Only a vehicle manufacturer or an approved tachograph centre can do the work. The workflow reminds and books. It is not legal advice, and it follows the GOV.UK guidance for Great Britain, so check the current guidance for your own vehicles. Garages that also remind car customers can see [MOT reminders for garages](https://mikeautomations.github.io/en/garage-mot-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many vehicles are on your books and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email, text messages and your workshop diary). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your workshop or fleet software already sends these reminders, you don't need this, and we'll say so on the call.
+
+### How often does a tachograph need calibrating?
+GOV.UK guidance says digital and smart tachographs must be recalibrated every 2 years. Analogue tachographs must be inspected every 2 years and recalibrated every 6 years. A recalibration is also needed after a repair and after certain changes to the vehicle.
+
+### Who can calibrate a tachograph?
+A vehicle manufacturer or an approved tachograph centre. The workflow doesn't replace either of them. It keeps the dates and books the visit.
+
+### Can it send text messages as well as email?
+Yes. Many operators answer a text faster than an email. You choose the wording, and each message says who it's from and how to stop the reminders.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.

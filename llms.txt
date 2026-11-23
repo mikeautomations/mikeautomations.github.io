@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-22.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-23.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
@@ -328,6 +328,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Forklift operator evaluation reminders](https://mikeautomations.github.io/en/forklift-operator-evaluation-reminders/): For warehouses, contractors and safety trainers: every forklift operator's three-year evaluation booked before the date, with the record on file.
 - [PSSR examination reminders](https://mikeautomations.github.io/en/pssr-written-scheme-examination-reminders/): For compressor service companies and pressure system engineers: every customer's written scheme examination booked before its date, report filed.
 - [Bankruptcy client document collection](https://mikeautomations.github.io/en/bankruptcy-client-document-collection/): For consumer bankruptcy attorneys: one checklist per client, reminders for missing pay stubs, tax returns and certificates, dates the attorney sees.
+- [RMD reminders for financial advisors](https://mikeautomations.github.io/en/rmd-reminders-financial-advisors/): For advisory firms: one list of clients with a required minimum distribution this year, reminders through the fall, and a short list before December 31.
+- [Construction closeout documents from subs](https://mikeautomations.github.io/en/construction-closeout-document-collection-subcontractors/): For general contractors: each sub gets a list of the closeout documents their contract asks for, reminders for what's missing, and one status list per job.
+- [Tachograph calibration reminders](https://mikeautomations.github.io/en/tachograph-calibration-reminders/): For tachograph centres and fleet operators: every vehicle's two-year calibration date on one list, the customer reminded and the visit booked in time.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
