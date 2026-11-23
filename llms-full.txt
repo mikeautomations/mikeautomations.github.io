@@ -16192,6 +16192,171 @@ No. State boards set their own cycles and requirements, so each state date is en
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Lightning protection testing reminders: every building booked before its date
+Source: https://mikeautomations.github.io/en/lightning-protection-testing-reminders/
+
+A lightning protection testing reminder workflow keeps one row per building with the date of its last test and the next one. Weeks before the date it emails the building's contact with visit dates and asks about roof access, books the reply into the engineers' diary and reminds the site the day before. After the visit it sends the certificate, sets the next date and keeps any remedial quote on a follow-up list.
+
+Testing firms commonly describe a test and inspection of a lightning protection system about once a year under BS EN 62305, and some book visits at eleven or thirteen months so the earth readings are taken in different seasons. For a lightning protection firm that means every building comes round again, on a date that moves a little each time. The test is the skilled part. The part that slips is remembering which building is due, reaching whoever looks after it now, arranging roof access, and going back to the quote for the corroded bond that was sent with last year's report.
+
+### Where repeat tests get lost
+- Due dates sit in last year's certificates, and nobody opens them until a customer asks
+- The building changed managing agent and the reminder goes to someone who has left
+- The engineer arrives and there is no roof access, no permit and no key to the plant room
+- A customer with a dozen buildings has a dozen dates, and they are booked one phone call at a time
+- The report recommended remedial work, a quote went out, and nobody chased it
+- Roof works or new plant changed the system, and the firm hears about it at the next visit
+
+### What the list holds for each building
+One row per building, not per customer, because buildings fall due on different dates. The interval on each row is set by your engineer. If you move a visit to eleven or thirteen months, the row holds that choice so the next date is counted correctly.
+| On the row | Why it is there |
+| --- | --- |
+| Building address and access notes | Roof access, permits and keys are arranged before the visit, not on the day |
+| Site contact and a second contact | So a reminder still lands when the managing agent changes |
+| Last test date and engineer | The next date is counted from it |
+| Interval set by your engineer | So a building tested at eleven months is not booked a month late next time |
+| Open remedial quote | So the quote is followed up before the next test, not at it |
+
+### How the workflow runs
+1. Every building you test goes on one list with its last test date, the interval and its contacts. The next date is calculated on the row.
+2. Eight weeks before the date, the site contact gets an email in plain words: the lightning protection test is due, here are three dates, and has anything changed on the roof since last time?
+3. The same email asks the access questions: who holds the roof key, is a permit needed, and is there an induction.
+4. The reply books the visit into the engineers' diary. Roof works or new plant are flagged so the office can check the time allowed.
+5. No reply brings a reminder after a week and another a week later, to the second contact too. After that, the building goes on a call list for the office.
+6. The day before the visit, the site gets a reminder with the engineer's name and the arrival time.
+7. Your engineer tests and inspects the system and writes the report. The workflow never judges a reading.
+8. The office marks the visit done. The certificate and report go to the site contact and the next date is set on the row.
+9. If the report led to a remedial quote, the contact is asked about it at two and four weeks, and the answer is recorded on the row.
+10. Once a month, the owner gets the list: buildings due in the next quarter, buildings not yet booked and quotes still open.
+11. If AI drafts a message to a customer, a person checks it before it is sent.
+
+### What stays with your engineer
+The test, the readings, the report, the interval and any advice about whether a system is fit for use. The workflow books the visit and keeps asking about the quote. This page doesn't tell a building owner what a standard or an insurer requires of them: your engineer and their insurer do that. For other test rounds on the same buildings, see [dry riser testing reminders](https://mikeautomations.github.io/en/dry-riser-testing-reminders/) and [emergency lighting test reminders](https://mikeautomations.github.io/en/emergency-lighting-test-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many buildings you test and where the due dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email, a calendar and your report folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job management software already books repeat tests and follows up quotes, you don't need this, and we'll say so on the call.
+
+### How often is a lightning protection system tested?
+Testing firms commonly describe a test and inspection about once a year under BS EN 62305, and some book at eleven or thirteen months so readings are taken in different seasons. Your engineer sets the interval for each building.
+
+### Does the workflow do any of the testing?
+No. Your engineer tests, inspects and writes the report. The workflow keeps the dates, books the visit, asks about access, sends the certificate and follows up the quote.
+
+### Can it handle a customer with many buildings?
+Yes. Each building has its own row and date. A customer with several buildings due in the same month can get one email listing them all.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## OSHA bloodborne pathogens training reminders for dental and medical offices
+Source: https://mikeautomations.github.io/en/osha-bloodborne-pathogens-training-reminders-dental-offices/
+
+An OSHA training reminder workflow keeps one row per employee with the date of their last bloodborne pathogens training. It reminds the office manager and the employee before a year has passed, adds every new hire to the list on their first day, and keeps the row open until the training record, with the date, the trainer and the attendee's job title, is in the folder.
+
+OSHA's bloodborne pathogens standard, 29 CFR 1910.1030, calls for training when an employee with occupational exposure is first assigned and at least annually after that, and for training records to be kept for three years. In a dental office that usually means one all-staff session a year and a binder. The session is not the hard part. The hard part is the hygienist who was on leave that day, the assistant hired in March who has not been trained yet, and the sign-in sheet that never made it into the binder.
+
+### Where annual training slips
+- The yearly session is booked from memory, and this year it lands thirteen months after the last one
+- Two people were out that day, and nobody arranged a make-up session
+- A new hire starts seeing patients before anyone checks whether they have been trained
+- The sign-in sheet exists, but it doesn't show the trainer or what was covered
+- Part-time and temporary staff are not on the list at all
+- The office manager who ran it left, and the binder went quiet
+
+### What the list holds for each employee
+One row per employee, because people fall due on different dates once anyone misses the group session or joins mid-year. Who counts as having occupational exposure is decided by the practice, not by the list.
+| On the row | Why it is there |
+| --- | --- |
+| Name and job title | The training record names both |
+| Start date | So a new hire is flagged for training at the start, not at the next group session |
+| Last training date | The next date is counted from it |
+| Trainer and session summary | They belong in the record alongside the date |
+| Where the record is filed | So it can be found in the three years it has to be kept |
+
+### How the workflow runs
+1. Every employee the practice has marked as exposed goes on one list with their last training date. The next date is calculated on the row.
+2. Sixty days before the earliest date, the office manager gets a message: these people fall due in this window, time to book the session.
+3. Once the session is booked, each person on the list gets the date and a reminder the day before.
+4. After the session, the office manager marks who attended and uploads the sign-in sheet, the trainer's name and qualifications and a summary of what was covered.
+5. Anyone who missed it stays open. They and the office manager are reminded weekly until a make-up session is recorded.
+6. A new hire added to the staff list gets a row on their first day, and the office manager is asked when their initial training is booked.
+7. Each record is filed in one folder by year and kept on the list for three years from the training date.
+8. Once a month, the dentist or practice owner gets a short list: who is due in the next 60 days and who is still open.
+9. If AI drafts a reminder, a person checks it before it is sent.
+
+### What stays with the practice
+Who has occupational exposure, what the training covers, who delivers it and the exposure control plan itself. The workflow keeps dates and records. It doesn't deliver training and it is not a compliance review: this page covers one standard, and your state may run its own OSHA plan with its own rules. For the other dates a practice has to keep, see [DEA registration and license renewal tracking](https://mikeautomations.github.io/en/dea-registration-and-license-renewal-tracking/) and [CAQH re-attestation reminders](https://mikeautomations.github.io/en/caqh-re-attestation-reminders-medical-practices/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many people you train and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email, a calendar and a shared folder). No patient information is involved. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your compliance or HR software already tracks each person's training date and stores the record, you don't need this, and we'll say so on the call.
+
+### How often is bloodborne pathogens training required?
+OSHA's standard, 29 CFR 1910.1030, calls for training at initial assignment and at least annually after that for employees with occupational exposure. Your state may have its own plan, so check with your compliance lead.
+
+### How long are the training records kept?
+The standard says three years from the date of the training. The workflow keeps each record on the list for that long and shows where it is filed.
+
+### Does the workflow provide the training?
+No. Your trainer does. The workflow reminds people before the date, records who attended and keeps anyone who missed it open until a make-up session is recorded.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## HOA architectural review request tracking: every request answered before its deadline
+Source: https://mikeautomations.github.io/en/hoa-architectural-review-request-tracking/
+
+An architectural review tracking workflow logs each owner's request with the date it was received and the response deadline from that community's governing documents. It checks the application is complete, sends it to the committee, reminds members as the deadline nears and drafts the decision letter for the manager to send. Each board gets one list of open requests before its meeting.
+
+An owner wants a fence, a new roof color or solar panels, and sends in an architectural request. Many governing documents give the committee a set number of days to answer in writing, and some say what happens if it doesn't: in certain communities a request that gets no answer in time is treated as approved. For a management company with twenty communities, that is twenty different periods, committees of volunteers who answer email when they can, and a stream of requests arriving by email, by mail and through the portal. The decision is the committee's. Getting it made, and sent, inside the period is the manager's problem.
+
+### Where architectural requests go wrong
+- A request arrives by email to one manager and sits there while they are on vacation
+- Nobody wrote down the day it was received, so nobody knows when the period ends
+- The application is missing the plot plan, and the owner is told three weeks later
+- Committee members reply to different email threads and nobody counts the votes
+- The committee decided at a meeting, but the letter to the owner was never sent
+- The owner starts work, and the file doesn't show whether it was ever approved
+
+### What the log holds for each request
+One row per request. The response period on the row comes from that community's governing documents and is entered by the manager, who reads the documents. The workflow counts days. It doesn't interpret anything.
+| On the row | Why it is there |
+| --- | --- |
+| Community, lot and owner | So the request reaches the right committee |
+| Date received and how it arrived | The deadline is counted from the date your documents say |
+| What is missing, if anything | So the owner is asked for it in the first days, not the last |
+| Response period for that community | Entered by the manager from the governing documents |
+| Each member's vote and the decision | So the letter matches what the committee decided |
+| Date the decision letter was sent | The answer to the question owners ask later |
+
+### How the workflow runs
+1. Every request, however it arrives, is logged from one form: community, lot, what the owner wants to do, and the documents they sent.
+2. The row sets the response deadline from the received date and that community's period.
+3. The manager checks the application against the community's checklist. If something is missing, the owner gets a message that day listing it.
+4. A complete application goes to the committee members in one email with the documents and a simple way to answer: approve, approve with conditions, deny, or discuss at a meeting.
+5. Members who haven't answered are reminded weekly. In the last ten days the reminders go daily and the manager is copied.
+6. When the committee has decided, the workflow drafts the decision letter from the board's approved wording, with any conditions listed.
+7. The manager reads the letter, edits it and sends it. The date sent is recorded on the row.
+8. Before each board meeting, the board gets one list: requests open, days left on each, and decisions made since the last meeting.
+9. If AI drafts a letter or a summary of a request, the manager reads it before anything is sent.
+
+### What stays with the committee and the manager
+Every decision and every condition belongs to the committee. Reading the governing documents, deciding when an application counts as complete and deciding what a missed deadline means belong to the manager and the association's attorney. The workflow keeps dates, sends reminders and drafts letters. For the other side of the same job, see [HOA violation notice tracking](https://mikeautomations.github.io/en/hoa-violation-notice-tracking/). For contractors waiting on approvals of a different kind, see [building permit and inspection tracking](https://mikeautomations.github.io/en/building-permit-inspection-tracking-contractors/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many communities you manage and how requests reach you today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a form, a spreadsheet, email and your document folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your association management software already logs requests, counts each community's period and collects votes, you don't need this, and we'll say so on the call.
+
+### How long does an HOA have to answer an architectural request?
+It depends on the community's governing documents and state law. Periods of 30 to 60 days are common, and the documents may also say what happens if no answer is given. Your manager enters each community's period on the log.
+
+### Does the workflow approve or deny requests?
+No. The committee decides. The workflow logs the request, counts the days, collects the members' answers and drafts the letter for the manager to send.
+
+### Can owners still send requests by email or mail?
+Yes. However a request arrives, the manager logs it from the same form with the date it was received, so every request is counted the same way.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 

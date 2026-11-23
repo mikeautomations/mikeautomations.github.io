@@ -337,6 +337,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [UCC continuation reminders](https://mikeautomations.github.io/en/ucc-continuation-filing-reminders/): For small lenders and law firms: every UCC-1 on one list with its lapse date, a warning when the six-month window opens and a task until it is filed.
 - [Racking inspection reminders](https://mikeautomations.github.io/en/pallet-racking-inspection-reminders/): For racking inspection firms: every site on one list with its next inspection date, the visit offered weeks ahead and red items followed until repaired.
 - [DEA and license renewals](https://mikeautomations.github.io/en/dea-registration-and-license-renewal-tracking/): For medical, dental and vet practices: every provider's DEA registration and state license dates on one list, with reminders until each renewal is done.
+- [Lightning protection test reminders](https://mikeautomations.github.io/en/lightning-protection-testing-reminders/): For lightning protection firms: every building on one list with its next test date, the visit offered weeks ahead and remedial quotes followed up.
+- [OSHA training reminders](https://mikeautomations.github.io/en/osha-bloodborne-pathogens-training-reminders-dental-offices/): For dental and medical offices: one row per employee with their last bloodborne pathogens training date, reminders before a year is up and records filed.
+- [HOA architectural requests](https://mikeautomations.github.io/en/hoa-architectural-review-request-tracking/): For community managers: every architectural request logged with its received date and response deadline, sent to the committee and answered in writing.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
