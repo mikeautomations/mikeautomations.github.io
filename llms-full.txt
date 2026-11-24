@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Updated: 2026-11-23. Facts summary: https://mikeautomations.github.io/llms.txt
+Updated: 2026-11-24. Facts summary: https://mikeautomations.github.io/llms.txt
 
 ## Home: Mike Automations
 Source: https://mikeautomations.github.io/en/
@@ -16353,6 +16353,178 @@ No. The committee decides. The workflow logs the request, counts the days, colle
 
 ### Can owners still send requests by email or mail?
 Yes. However a request arrives, the manager logs it from the same form with the date it was received, so every request is counted the same way.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Fire damper testing reminders: every building booked, every failed damper followed up
+Source: https://mikeautomations.github.io/en/fire-damper-testing-reminders/
+
+A fire damper testing reminder workflow keeps one row per building with the date of its last test and the next one. Weeks before the date it emails the building's contact with visit dates and asks about access, books the reply into the engineers' diary and reminds the site the day before. After the visit it sends the report, sets the next date and keeps every failed or unreached damper on a follow-up list until the customer answers the quote.
+
+BS 9999 is a code of practice, not a regulation, and testing firms widely read it as expecting fire dampers to be tested by a competent person at least once a year, and more often in places such as hospitals. For a firm that tests dampers, that makes every building a repeat visit. The drop test is the skilled part. The part that slips is the office work around it: knowing which building is due, reaching the person who looks after it now, getting above the ceilings, and going back to the dampers that failed or could not be reached last time.
+
+### Where repeat damper tests get lost
+- Due dates sit in last year's reports, and nobody opens them until the customer's fire risk assessor asks
+- The facilities manager has changed and the reminder goes to an inbox nobody reads
+- The engineer arrives and the ceiling voids are locked, the ward is in use or the plant has to stay running
+- Last year's report listed dampers that could not be reached, and nobody arranged access hatches before this visit
+- Failed dampers were quoted for repair, the quote went out with the report, and nobody asked about it again
+- A building was refitted, dampers were added or moved, and the firm finds out on the day
+
+### What the list holds for each building
+One row per building, with a link to its damper register (the numbered list of dampers and where they are). The register is your engineers' record. The row is what the office needs to book the next visit well.
+| On the row | Why it is there |
+| --- | --- |
+| Building address and type | A hospital or care home may be on a shorter interval than an office |
+| Site contact and a second contact | So a reminder still lands when the facilities manager changes |
+| Last test date and interval | The next date is counted from them. Your firm sets the interval with the customer |
+| Access notes | Out-of-hours working, permits, escorts and which areas need notice |
+| Dampers failed or not reached last time | So the visit plan and the quote start from them, not from memory |
+| Open remedial quote | So it is followed up before the next test, not at it |
+
+### How the workflow runs
+1. Every building you test goes on one list with its last test date, the interval and its contacts. The next date is calculated on the row.
+2. Eight weeks before the date, the site contact gets an email in plain words: the fire damper test is due, here are three dates, and has the building or its ventilation changed since last time?
+3. The same email asks the access questions: can the work be done in the day, is a permit or an escort needed, and which areas need notice.
+4. If dampers could not be reached last time, the email lists them and asks whether access hatches have been fitted.
+5. The reply books the visit into the engineers' diary. A refit or a change of use is flagged so the office can check the time allowed.
+6. No reply brings a reminder after a week and another a week later, to the second contact too. After that, the building goes on a call list for the office.
+7. The day before the visit, the site gets a reminder with the engineers' names and the arrival time.
+8. Your engineers test the dampers and write the report. The workflow never judges a damper.
+9. The office marks the visit done. The report goes to the site contact, the next date is set and the failed and unreached dampers are copied onto the row.
+10. If the report led to a remedial quote, the contact is asked about it at two and four weeks, and the answer is recorded.
+11. Once a month, the owner gets the list: buildings due in the next quarter, buildings not yet booked and quotes still open.
+12. If AI drafts a message to a customer, a person checks it before it is sent.
+
+### What stays with your engineers
+The test, the result for each damper, the report, the interval and any advice about what a failed damper means for the building. The workflow books the visit and keeps asking about the quote. This page doesn't tell a building owner what the law or their fire risk assessment requires: that is for the responsible person and their assessor. For other test rounds on the same buildings, see [fire door inspection reminders](https://mikeautomations.github.io/en/fire-door-inspection-reminders/) and [dry riser testing reminders](https://mikeautomations.github.io/en/dry-riser-testing-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many buildings you test and where the due dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email, a calendar and your report folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job management software already books repeat tests and follows up quotes, you don't need this, and we'll say so on the call.
+
+### How often are fire dampers tested?
+Testing firms widely read BS 9999 as expecting a test by a competent person at least once a year, and more often in buildings such as hospitals. BS 9999 is a code of practice. Your firm and the building's responsible person set the interval for each building.
+
+### Does the workflow do any of the testing?
+No. Your engineers test the dampers and write the report. The workflow keeps the dates, books the visit, asks about access, sends the report and follows up the quote.
+
+### What about dampers that could not be reached?
+They are listed on the building's row after each visit. The next booking email names them and asks whether access has been arranged, so the question is asked weeks ahead and not on the day.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Charity annual return reminders: every charity client filed inside its 10 months
+Source: https://mikeautomations.github.io/en/charity-annual-return-reminders-accountants/
+
+A charity annual return reminder workflow keeps one row per charity client with its financial year end and the filing deadline 10 months later. It asks the treasurer for the records soon after the year end, reminds until they arrive, asks for the date of the trustees' meeting that will approve the accounts, and shows the accountant which charities are close to the deadline with something still missing.
+
+A charity registered in England and Wales sends its annual return to the Charity Commission within 10 months of the end of its financial year. A charity with a 31 December year end has until 31 October. Ten months sounds generous, and that is the problem. The treasurer is a volunteer, the trustees meet a few times a year, and the records arrive in month eight. For a practice with a few dozen charity clients on different year ends, the work is rarely the return itself. It is knowing where each charity is, and asking early enough.
+
+### Where charity filings run late
+- The treasurer changed at the AGM and the new one doesn't know the practice is waiting for anything
+- Records are asked for once, by email, and nobody notices there was no answer
+- The accounts are ready, but the next trustees' meeting is after the deadline
+- Nobody is sure who has access to the charity's Charity Commission account this year
+- Trustees joined or left, and the details on the register were never updated
+- Each charity has a different year end, so there is no one busy season to remind everyone
+
+### What the list holds for each charity
+One row per charity. The deadline is calculated from the year end, so nobody counts months by hand.
+| On the row | Why it is there |
+| --- | --- |
+| Financial year end | The 10-month deadline is counted from it |
+| Treasurer and a second trustee | So a request still lands when the treasurer changes |
+| What you do for them | Accounts, independent examination, the return itself, or only some of these |
+| Records received | Bank statements, the cash book, grant letters, Gift Aid claims: ticked as each arrives |
+| Trustees' meeting date | The accounts and the trustees' annual report must be approved before filing |
+| Who files, and filed date | So it is clear whether the practice or a trustee presses the button |
+
+### How the workflow runs
+1. Every charity client goes on one list with its year end and contacts. The deadline appears on the row.
+2. Two weeks after the year end, the treasurer gets an email in plain words with the list of records you need and the date you need them by.
+3. As items arrive, the practice ticks them off. The next reminder lists only what is still missing.
+4. No reply brings a reminder after two weeks and another two weeks later, copied to the second trustee. After that, the charity goes on a call list.
+5. The same email asks when the trustees will next meet. If the meeting is after the deadline, the accountant is told at once, while there is still time to ask for an earlier one.
+6. Your accountant prepares the accounts and carries out the examination. The workflow has no part in either.
+7. When the accounts are ready, the trustees get them with a request to approve and sign, and a reminder a few days before the meeting.
+8. Before filing, the charity is asked to confirm its trustees and contact details are up to date, and who will sign in to file.
+9. The practice records the filed date. The row moves to next year.
+10. Every Monday, the partner gets one list: charities inside three months of the deadline, and what each is waiting for.
+11. If AI drafts a message to a trustee, a person checks it before it is sent.
+
+### What stays with the accountant and the trustees
+The accounts, the independent examination or audit, the answers on the return and the decision to file all stay with people. The trustees are responsible for their charity's filing. The workflow only keeps the dates and does the asking. This page covers charities registered in England and Wales. Scotland and Northern Ireland have their own regulators and their own deadlines, and a row for one of those charities would carry that deadline instead. For other work with the same clients, see [Gift Aid declarations](https://mikeautomations.github.io/en/charity-gift-aid-declarations/) and [confirmation statement reminders](https://mikeautomations.github.io/en/confirmation-statement-client-reminders/) for charitable companies.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many charity clients you have and where their deadlines live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email and your client folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already tracks charity deadlines and chases records, you don't need this, and we'll say so on the call.
+
+### When is a charity's annual return due?
+For charities registered in England and Wales, within 10 months of the end of the financial year. A 31 December year end means 31 October. Scotland and Northern Ireland have their own regulators and deadlines.
+
+### Which charities send an annual return?
+GOV.UK guidance says charities with income over £10,000 and all charitable incorporated organisations (CIOs) send one. Smaller charities report less. Check the current guidance for each client.
+
+### Does the workflow file the return?
+No. A person at the practice or the charity signs in and files. The workflow keeps the deadline, collects what is needed and shows who is running late.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Trust funding follow-up: every signed trust tracked until the assets are in it
+Source: https://mikeautomations.github.io/en/trust-funding-follow-up-estate-planning-attorneys/
+
+A trust funding follow-up workflow opens a checklist on the day a client signs a trust: one row for each asset the attorney listed, with who moves it and what proof closes it. It sends the client plain instructions for their part, reminds them asset by asset until a new statement or a recorded deed comes back, and shows the attorney which signed trusts are still unfunded.
+
+A living trust only covers the assets that are moved into it. Estate planning attorneys know this, and say it at the signing. Then the client goes home with a binder, the bank wants its own form, the brokerage wants a certificate of trust, and the letter of instructions sits in the binder. The firm finds out years later, when the family calls. The legal work was done well. What was missing was somebody asking, a month after signing and again a month after that, whether each account has been retitled.
+
+### Where funding stalls after the signing
+- The client leaves with funding instructions and nobody at the firm is assigned to ask about them again
+- The firm records the deed, but the bank and brokerage accounts are left to the client, and nothing confirms they were done
+- Each bank asks for different paperwork, and the client gives up after the first branch visit
+- The attorney wanted beneficiary forms changed on some accounts, and the client was never sure which ones
+- A paralegal keeps the status in their head, and it leaves with them
+- The client buys a house or opens an account a year later, and it never goes near the trust
+
+### What the funding checklist holds
+One checklist per trust, with one row per asset. The attorney decides how each asset is handled. The row records that decision, so a reminder never has to make one.
+| On the row | Why it is there |
+| --- | --- |
+| The asset, in the client's words | "Checking account at the credit union", so the reminder is clear to them |
+| How the attorney wants it handled | Retitle, change the beneficiary form, assign, or leave outside the trust |
+| Who does it | The firm (a deed, an assignment) or the client (a bank visit, a form) |
+| What the institution usually asks for | So the client takes the right papers the first time |
+| Proof that closes the row | A recorded deed, a new statement in the trust's name, a confirmation letter |
+| Status and date | Not started, in progress, proof received, or client declined |
+
+### How the workflow runs
+1. When the trust is signed, the paralegal opens the checklist from the asset list the attorney already approved.
+2. The client gets one email with their part only: each account, what to ask the institution for, and what to send back when it is done.
+3. The firm's own rows (the deed, the assignment of business interests) appear on the paralegal's task list with dates.
+4. The client uploads or emails proof. A person at the firm looks at it and marks the row.
+5. Two weeks later, the client gets a reminder that lists only the rows still open. Finished ones are not mentioned again.
+6. Reminders repeat monthly for as long as the attorney has set. They are short and say what is left.
+7. If the client replies with a question about how an asset should be handled, it goes to the attorney. The workflow never answers it.
+8. When every row is closed, the attorney reviews the checklist and the firm sends the closing letter.
+9. If the client stops answering or decides to leave an asset out, the attorney sees it and decides what the file needs: a call, or a letter that records the choice.
+10. Once a month, the attorney gets one list: trusts signed, rows still open, and how long each has been waiting.
+11. If AI drafts a message to a client, a person checks it before it is sent.
+
+### What stays with the attorney
+Every decision about an asset: whether it is retitled, handled by a beneficiary form or left alone, and what a retirement account or a property in another state needs. The engagement letter decides how far the firm's duty to follow up goes, and your state's rules decide what the firm may send to a former client. The workflow asks, records and reports. It gives no legal advice and this page doesn't either. For other deadlines and documents in a small firm, see [bankruptcy client document collection](https://mikeautomations.github.io/en/bankruptcy-client-document-collection/). Advisors who work with the same clients may know [RMD reminders](https://mikeautomations.github.io/en/rmd-reminders-financial-advisors/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many trusts you sign in a month and how funding is followed up today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (email, a spreadsheet or your practice management software, and your document folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice management software already runs a funding checklist with client reminders, you don't need this, and we'll say so on the call.
+
+### What does funding a trust mean?
+Moving assets into the trust so it controls them: recording a deed, retitling accounts or changing beneficiary forms, as the attorney directs. A trust generally covers only the assets that were moved into it.
+
+### Does the workflow tell clients how to title an asset?
+No. The attorney decides how each asset is handled when the checklist is opened. The workflow repeats that instruction, asks for proof and sends any question to the attorney.
+
+### What if a client never finishes?
+The attorney sees it on the monthly list and decides what to do: a call, or a letter that records what is still outside the trust. The workflow stops reminding when the attorney says so.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.

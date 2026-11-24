@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-23.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-24.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
@@ -340,6 +340,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Lightning protection test reminders](https://mikeautomations.github.io/en/lightning-protection-testing-reminders/): For lightning protection firms: every building on one list with its next test date, the visit offered weeks ahead and remedial quotes followed up.
 - [OSHA training reminders](https://mikeautomations.github.io/en/osha-bloodborne-pathogens-training-reminders-dental-offices/): For dental and medical offices: one row per employee with their last bloodborne pathogens training date, reminders before a year is up and records filed.
 - [HOA architectural requests](https://mikeautomations.github.io/en/hoa-architectural-review-request-tracking/): For community managers: every architectural request logged with its received date and response deadline, sent to the committee and answered in writing.
+- [Fire damper testing reminders](https://mikeautomations.github.io/en/fire-damper-testing-reminders/): For fire damper testing firms: every building on one list with its next test date, visits offered weeks ahead and failed or unreached dampers followed up.
+- [Charity annual return reminders](https://mikeautomations.github.io/en/charity-annual-return-reminders-accountants/): For accountants with charity clients: every charity on one list with its 10-month deadline, records and trustee sign-off chased in time to file.
+- [Trust funding follow-up](https://mikeautomations.github.io/en/trust-funding-follow-up-estate-planning-attorneys/): For estate planning firms: every signed trust gets a funding checklist, clients are reminded asset by asset, and files close only with proof.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
