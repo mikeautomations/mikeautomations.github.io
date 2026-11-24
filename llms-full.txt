@@ -16926,6 +16926,184 @@ No. It asks for records, reminds, files what arrives and keeps the dates. Your p
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## 60-day CGT property returns: hear about the sale early and track every return on one list
+Source: https://mikeautomations.github.io/en/cgt-60-day-property-return-tracking-accountants/
+
+A 60-day return workflow asks your property-owning clients a few times a year whether a sale is planned. When one is, it opens a row with the expected completion date, asks for the purchase and sale papers, and reminds until they arrive. On completion it counts 60 days and shows your adviser each week which returns are waiting, so nobody learns about a sale in January.
+
+GOV.UK says Capital Gains Tax on UK residential property has to be reported and paid within 60 days of completion. The return itself is skilled work and it stays with your adviser. The trouble is the timing. Clients think of tax as a January job, so the firm often hears about a sale months after it completed. Then the purchase papers from years ago have to be found, the client has to set up an HMRC account and authorise the firm, and most of the 60 days is already gone. The fix is office work: asking early, asking for the right papers and keeping the dates in one place.
+
+### Where the 60 days go
+- The client mentions the sale in passing, months after completion
+- The solicitor's completion statement is in the client's inbox and nobody asked for it
+- The purchase costs and improvement invoices are in a box in the loft
+- The client has no Capital Gains Tax on UK property account, or has not authorised the firm
+- The property is jointly owned and each owner needs their own figures
+- The completion date moved and the firm is working from the old one
+
+### What the list holds for each sale
+One row per owner per property. Your tax software and working papers stay where they are today. The row is what the team needs to ask on time and see what is waiting.
+| On the row | Why it is there |
+| --- | --- |
+| Client, property and each owner | Joint owners are tracked separately |
+| Expected completion date, then the actual one | The 60 days are counted from completion, and the date often moves |
+| Solicitor's name and contact | So the completion statement can be asked for with the client's consent |
+| Papers still missing | Reminders ask only for what is open |
+| HMRC account set up and firm authorised, yes or no | This step can take days, so it starts early |
+| Adviser's decision: return needed or not | A person decides; the row records it |
+| Date the return was submitted and paid | The row closes only when both are on it |
+
+### How the workflow runs
+1. Clients with a rental property, second home or inherited property are tagged on your client list.
+2. A few times a year they get a short message: are you planning to sell or give away a property in the next few months? One tap answers it.
+3. The same question sits on your Self Assessment records checklist and your new client form.
+4. A yes opens a row and sends the client a checklist: purchase completion statement, costs of buying, improvement invoices and the solicitor's details.
+5. The client is asked for the expected completion date, and asked again a week before it in case it has moved.
+6. The client gets plain steps for setting up their HMRC account and authorising the firm. A reminder goes out until they confirm it is done.
+7. Each paper that arrives is filed in the client's folder and ticked off. Reminders list only what is still missing.
+8. On completion, the client confirms the date and sends the sale completion statement. The row now shows the 60-day date.
+9. Your adviser decides whether a return is needed and prepares it. The workflow never calculates a gain or decides on a relief.
+10. The client gets the figures to approve and the amount to pay. A person at the firm submits the return.
+11. Every week the adviser gets the list: sales completing soon, returns open and how many days are left on each.
+12. With 20 days left and papers still missing, the row goes to the partner.
+13. If AI drafts a message to a client, a person checks it before it is sent.
+
+### What stays with the firm
+Whether a return is needed, the calculation, any relief or estimate and the submission all stay with your adviser. This page doesn't cover rates, reliefs, penalties or the rules for non-residents. HMRC's guidance for agents explains how a client authorises you on their account. For the conveyancing side of a sale, see [conveyancing client progress updates](https://mikeautomations.github.io/en/conveyancing-client-progress-updates/), and for the January return, see [Self Assessment document chasing](https://mikeautomations.github.io/en/self-assessment-document-chasing/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many property-owning clients you have and how you hear about sales today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email and shared folders, or your practice software). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already asks clients about planned sales and tracks the 60 days, you don't need this, and we'll say so on the call.
+
+### When does the 60 days start?
+GOV.UK says you report and pay within 60 days of completion. Guidance from the Low Incomes Tax Reform Group adds that this means completion, not exchange of contracts. Your adviser confirms the date on each row.
+
+### Does the workflow decide whether a return is needed?
+No. Your adviser decides, and the row records the decision. The workflow asks, collects papers, reminds and counts the days.
+
+### What if the client only tells us after completion?
+The row opens on the day they tell you, with the days already used. Asking a few times a year, and again on the Self Assessment checklist, is there to make that rare.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## 1031 exchange deadline tracking: every 45-day and 180-day date on one list
+Source: https://mikeautomations.github.io/en/1031-exchange-deadline-tracking/
+
+A 1031 deadline workflow opens one row per exchange on the day the first property closes. It counts the 45-day and 180-day dates, shows them to a person to confirm, and reminds the client, their agent and their CPA as each date gets closer. Each morning the exchange officer sees which files have a date coming and what is still missing.
+
+An IRS fact sheet on like-kind exchanges gives two time limits. The client has 45 days from the sale of the old property to identify replacement property in writing. The replacement property must then be received by the earlier of 180 days after the sale or the due date, with extensions, of that year's tax return. These are calendar days, so weekends and holidays count. A missed date can't be fixed afterwards. The legal and tax work in an exchange is skilled, and it stays with your people. What slips is the office work: several exchanges running at once, each with its own two dates, and clients who think they have more time than they do.
+
+### Where exchange dates slip
+- The dates are worked out once, written in the file and not looked at again
+- The client believes day 45 is a target and sends the identification a day late
+- The identification arrives as a text message with no signature
+- The replacement purchase is set to close in the last week, and the lender is running behind
+- The sale closed late in the year, and nobody told the client's CPA about the tax return date
+- The officer handling the file is out, and the dates live in their calendar
+
+### What the list holds for each exchange
+One row per exchange. Your exchange documents, escrow records and accounting stay where they are today. The row is what the team needs to see every date and who has been told.
+| On the row | Why it is there |
+| --- | --- |
+| Client, their agent, their CPA and their attorney | Each gets the reminders that concern them |
+| Closing date of the property sold | Both periods are counted from it |
+| Day 45 and day 180, confirmed by a named person | The workflow counts; a person confirms |
+| Tax return due date for that year | The client's CPA confirms it, because it can come before day 180 |
+| Identification received: date, signed, yes or no | So an unsigned or late one is seen at once |
+| Replacement property and its planned closing date | A closing planned for the last days is flagged early |
+| Who was told what, and when | A record of every reminder sent |
+
+### How the workflow runs
+1. When the sale closes, a person adds the closing date to the row, or it is read from your closing confirmation email.
+2. The workflow counts day 45 and day 180 and shows both to the exchange officer, who confirms them.
+3. The client, their agent and their CPA get one message with both dates in plain words and what has to happen by each.
+4. The CPA is asked one question: does the tax return due date for this year come before day 180?
+5. The client is reminded at day 15, day 30, day 38 and day 42, each time with the identification form attached.
+6. When the identification arrives, a person checks that it is in writing and signed, and marks it on the row.
+7. With no identification by day 43, the officer gets the file to call the client that day.
+8. After identification, the client and agent are asked for the planned closing date of the replacement property.
+9. A planned closing in the last ten days before the deadline is flagged for the officer.
+10. The agent is asked for a short status every two weeks: contract signed, loan approved, closing booked.
+11. Each morning the officer gets the list: dates in the next 14 days and what each file still needs.
+12. When the exchange closes, the client and CPA get the closing dates in one message for the tax return.
+13. If AI drafts a message to a client, a person checks it before it is sent.
+
+### What stays with your people
+Whether an exchange qualifies, what counts as a valid identification, the exchange documents, the funds and every piece of tax or legal advice stay with your team and the client's advisers. The workflow counts dates and reminds. It doesn't decide anything. This page doesn't cover how many properties can be identified, reverse or improvement exchanges, or state rules. The IRS says the exchange is reported on Form 8824 with the tax return, and the client's CPA handles that. For other dates that can't move, see [commercial lease critical dates tracking](https://mikeautomations.github.io/en/commercial-lease-critical-dates-tracking/) and [statute of limitations tracking](https://mikeautomations.github.io/en/statute-of-limitations-tracking-law-firms/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many exchanges you run at once and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email, a shared calendar and your document folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your exchange software already reminds clients and their advisers on these dates, you don't need this, and we'll say so on the call.
+
+### What are the 45-day and 180-day deadlines?
+An IRS fact sheet says the client has 45 days from the sale to identify replacement property in writing, and must receive it by the earlier of 180 days after the sale or the due date, with extensions, of that year's tax return. The client's tax adviser confirms the dates for each exchange.
+
+### Do weekends and holidays count?
+Yes. Published guidance on these periods says they are counted in calendar days. That is why the reminders start early and the list flags a closing planned for the last days.
+
+### Does the workflow decide if an identification is valid?
+No. A person at your company checks it. The workflow records the date it arrived and whether it was signed, and it alerts the officer when nothing has arrived.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## First aid certificate renewal reminders: every learner's expiry date, and a booking before it runs out
+Source: https://mikeautomations.github.io/en/first-aid-certificate-renewal-reminders-training-providers/
+
+A renewal reminder workflow keeps one row per learner with the course, the employer and the certificate's expiry date. Months before the date it tells the employer which of their people are due and gives them a link to book. It reminds until they book or say no, and offers the yearly refresher in between. Each week you see who is due and who hasn't answered.
+
+HSE says first aid at work certificates last for three years, and that first-aiders need a requalification course before the certificate expires. It also strongly recommends refresher training every year in between. For a training provider, that means every learner you certify is a likely booking three years later, and a possible one each year. Most providers lose that booking for a simple reason: three years is a long time, the person who booked the course has moved on, and the employer only notices when a certificate has already run out. The training is your skill. Keeping the dates and asking on time is office work.
+
+### Where renewals are lost
+- Certificates are issued and the expiry dates sit in a folder of PDFs
+- The office manager who booked the course left two years ago
+- The employer remembers a month after expiry and books whoever answers first
+- Six learners from one company expire in different months, and each needs a separate conversation
+- A learner changed jobs, and the new employer has never heard of you
+- The yearly refresher is recommended on the course and never mentioned again
+
+### What the list holds for each learner
+One row per learner per certificate. Your course records and certificates stay where they are today. The row is what you need to ask on time and see who has answered.
+| On the row | Why it is there |
+| --- | --- |
+| Learner, course and certificate expiry date | The reminders are counted back from the date |
+| Employer and the person who books training | Reminders go to whoever books, grouped by company |
+| A second contact at the employer | People move on over three years |
+| Learner's own email, with their consent | So a learner who changed jobs can still hear from you |
+| Refresher offered and booked, by year | The yearly refresher is tracked separately |
+| Answer: booked, later, no longer employed, no thanks | A no stops the reminders for that learner |
+
+### How the workflow runs
+1. After each course, the learners go on the list from your register, with the expiry dates from the certificates.
+2. The booking contact gets a short message with the dates in plain words, so they know when to expect a reminder.
+3. About a year after the course, the employer is offered the yearly refresher for the same group, with a link to your dates.
+4. Six months before expiry, the employer gets one message listing their people who are due, by name and date.
+5. The message has a link to book a place on a public course and a second link to ask for a course at their site.
+6. With no answer, reminders go at four months and at two months, and the second contact is copied in.
+7. A booking is marked on the row and stops the reminders for those learners.
+8. A reply that someone has left removes them from the employer's list. If the learner gave their own email, they get one message offering to rebook.
+9. With six weeks left and no answer, the row comes to you for a phone call.
+10. After the requalification course, the new certificate date goes on the row and the three years start again.
+11. Every week you get the list: learners due in the next six months, employers who haven't answered and places booked.
+12. If AI drafts a message to a customer, a person checks it before it is sent.
+
+### What stays with you
+Which course a learner needs, what your awarding body allows when a certificate has already expired, and your prices stay with you. Providers differ on what is possible after expiry, so the messages say only what you decide they should say. How many first-aiders an employer needs is the employer's decision, based on their own needs assessment. Messages go to business contacts about a service they bought. A learner's personal email is used only if they agreed to it on the course form, and every message has a way to opt out. Employers who track their own staff cards and training can see [CSCS card and training expiry reminders](https://mikeautomations.github.io/en/cscs-card-and-training-expiry-reminders/). For another yearly visit to the same customers, see [fire extinguisher service reminders](https://mikeautomations.github.io/en/fire-extinguisher-service-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many learners you certify a year and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your course booking system, email and a booking link). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your booking system already reminds employers before certificates expire, you don't need this, and we'll say so on the call.
+
+### How long does a first aid at work certificate last?
+HSE says certificates for first aid at work last for three years, and first-aiders need a requalification course before the certificate expires to get another three-year certificate.
+
+### Is the yearly refresher required?
+HSE says it strongly recommends annual refresher training during the three years. It is a recommendation, and the messages describe it that way.
+
+### Who gets the reminders?
+The person at the employer who books training, with a second contact copied in later. A learner is contacted directly only if they gave their own email and agreed to it.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 

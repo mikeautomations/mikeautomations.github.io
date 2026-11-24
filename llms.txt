@@ -349,6 +349,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Trust Registration Service declaration reminders](https://mikeautomations.github.io/en/trust-registration-service-annual-declaration-reminders/): For UK accountants and solicitors: every client trust on one list, trustees asked what changed, and the 31 January declaration made on time by a person.
 - [Form 990 deadline reminders](https://mikeautomations.github.io/en/form-990-deadline-reminders-nonprofit-accountants/): For CPAs and bookkeepers with nonprofit clients: every fiscal year end and Form 990 due date on one list, records requested early and board review tracked.
 - [IFTA and Form 2290 filing reminders](https://mikeautomations.github.io/en/ifta-and-form-2290-filing-reminders-trucking-clients/): For trucking bookkeepers and permit services: every client's IFTA quarters and Form 2290 on one list, mileage and fuel records requested early and chased.
+- [60-day CGT property returns](https://mikeautomations.github.io/en/cgt-60-day-property-return-tracking-accountants/): For UK accountants: hear about a client's property sale before completion, collect the figures early and track every 60-day return on one list.
+- [1031 exchange deadline tracking](https://mikeautomations.github.io/en/1031-exchange-deadline-tracking/): For exchange companies, real estate attorneys and CPAs: every 1031 exchange on one list, with the 45-day and 180-day dates and reminders to the client.
+- [First aid certificate renewal reminders](https://mikeautomations.github.io/en/first-aid-certificate-renewal-reminders-training-providers/): For UK first aid training providers: every learner's certificate expiry on one list, with reminders to the employer and a link to book before it runs out.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
