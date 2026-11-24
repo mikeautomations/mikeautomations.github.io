@@ -18117,7 +18117,7 @@ Yes. Intuit says you can set up to three automatic reminders, up to 90 days befo
 Fixed recurring invoices can. One-off invoices are better created as drafts and approved by a person, because extras, discounts and changes from the quote are where mistakes happen.
 
 ## Airtable vs Google Sheets for a small business: which one to use
-Source: https://mikeautomations.github.io/en/blog/airtable-vs-google-sheets-small-business/ (2026-11-11)
+Source: https://mikeautomations.github.io/en/blog/airtable-vs-google-sheets-small-business/ (2026-11-24)
 
 In the Airtable vs Google Sheets choice, a small business should stay on Google Sheets when the data is one simple list that a few people edit and the main job is sums and sharing, and pick Airtable when the work has linked records (customers, jobs, invoices) and needs proper forms, views per person and built-in automations. Google Sheets is free with a Google account; Airtable's Free plan stops at 1,000 records per base and its Team plan costs $20 per editing seat per month billed annually (Airtable, November 2026).
 
@@ -18177,6 +18177,14 @@ That gap is real, but compare it with the time spent fixing a broken sheet, copy
 | It must work with tools you already pay for | Either | Both connect to Zapier, Make and n8n |
 | Over 1,000 records and no budget for seats | Google Sheets | Airtable Free will stop you adding records |
 
+### Airtable or a spreadsheet for tracking agency work?
+Agency work is a classic case of linked data: clients have projects, projects have tasks and deliverables, and each deliverable has a status, an owner and a due date. In a spreadsheet that usually becomes one long tab with the client name typed on every row, or a tab per client that nobody can see across.
+Airtable fits better once you track more than a handful of active projects: one table each for clients, projects and deliverables, linked together, with a view per team member and one for the client-facing status report. Stay on Google Sheets if you have a few clients, one person updates the tracker, and the main need is a shared list with dates. Either way, the weekly client update can be drafted from the tracker automatically, as in our guide to [agency client reporting automation](https://mikeautomations.github.io/en/agency-client-reporting-automation/).
+
+### Large datasets: 10,000 rows and more
+Size changes the answer. Google Sheets holds up to 20 million cells or 100MB per spreadsheet, so 10,000 rows with a few dozen columns fits, but large sheets with many formulas get slow to open and edit. Airtable's Team plan allows 50,000 records per base and the Free plan 1,000, so a 10,000-row dataset needs a paid plan and every table in the base counts towards the limit.
+If the data drives something else, such as thousands of website pages or product listings, the spreadsheet is a source, not a system. Keep one row per item with a unique ID, use fixed values for status and category, and let a script or workflow read it in batches rather than having people edit thousands of rows by hand. At that scale, a proper database may be the better home, with a sheet or Airtable view on top for the people who edit it.
+
 ### Checklist before you move from Google Sheets to Airtable
 Copy this into a note and tick it off before anyone starts importing. Most failed moves skip the first three steps.
 Sheets to Airtable move checklist:
@@ -18212,6 +18220,12 @@ Airtable has a Free plan, but Airtable's help centre limits it to 1,000 records 
 
 ### How much data can Google Sheets hold?
 Google's Drive help page says a Google Sheets spreadsheet can hold up to 20 million cells or 100MB. The number of rows depends on how many columns you use.
+
+### Should an agency track work in Airtable or a spreadsheet?
+Airtable, once you run more than a handful of active projects, because clients, projects and deliverables are linked and each person needs their own view. A shared Google Sheet is enough for a few clients and one person keeping the tracker up to date.
+
+### Can Google Sheets or Airtable handle 10,000+ rows?
+Google Sheets can, up to 20 million cells or 100MB, though big sheets with many formulas get slow. Airtable needs a paid plan: the Team plan allows 50,000 records per base, the Free plan 1,000.
 
 ### Can I automate Google Sheets without moving to Airtable?
 Yes. Apps Script, Zapier, Make or n8n can watch a sheet and send reminders, create documents or update rows. Google's Apps Script quotas apply, for example 100 email recipients a day from a free Gmail account.
