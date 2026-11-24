@@ -24121,7 +24121,7 @@ Interest is charged from the due date. HMRC's Self Assessment Manual says late p
 GOV.UK says the payment must reach HMRC on the last working day before, unless the client pays by Faster Payments or by debit or corporate credit card. In 2027, 31 January is a Sunday, so the last working day is Friday 29 January.
 
 ## Spreadsheet vs CRM for a small service business: when to switch
-Source: https://mikeautomations.github.io/en/blog/spreadsheet-vs-crm-small-service-business/ (2026-11-11)
+Source: https://mikeautomations.github.io/en/blog/spreadsheet-vs-crm-small-service-business/ (2026-11-24)
 
 In the spreadsheet vs CRM choice, a small service business should stay on a spreadsheet while one or two people use it and nothing falls through the gaps, and move to a CRM when follow-ups get missed, several people work the same customers, or nobody can say where a customer is up to in under a minute. The switch is about reminders, history and shared access, not size: a spreadsheet holds far more rows than a small business will ever fill.
 
@@ -24177,6 +24177,7 @@ Put that next to the cost of staying: the quotes that go unchased each month. If
 
 ### The middle option most small businesses skip
 Many businesses don't need a CRM yet. They need the spreadsheet to stop relying on memory. A simple workflow can add each new enquiry as a row, remind you when a quote has had no reply after a set number of days, and draft a polite follow-up email for you to approve. The sheet stays the sheet; it just stops forgetting.
+If you're staying on a spreadsheet for now, start from a good one. The free [customer tracker template](https://mikeautomations.github.io/en/customer-tracker-template/) gives you the columns that matter (source, status, value, next follow-up date), with follow-ups due today turning red and a summary of where your best customers come from. It downloads for Excel or Google Sheets.
 If you're not sure which route fits, the free [plan builder](https://mikeautomations.github.io/en/plan/) walks you through your workflows and suggests what to automate first.
 
 ### How Mike Automations would help
@@ -25340,6 +25341,177 @@ Most businesses waive it the first time and say so kindly: "No charge this time,
 ### Where should the cancellation policy go?
 On your booking page before people confirm, on your website, in the booking confirmation, and as one short line in the reminder message.
 
+## How to track business income and expenses without an accountant's software
+Source: https://mikeautomations.github.io/en/blog/track-business-income-and-expenses/ (2026-11-24)
+
+Record every sale and every business cost in one place, with the date, who it was with, the amount, a category, and whether you have the receipt. Do it once a week from your bank app, invoices and receipts, then check the monthly totals. Keep the records and receipts for as long as your tax office requires: in the UK that's at least 5 years after the 31 January filing deadline.
+
+Most small business owners don't fall behind on bookkeeping because it's hard. They fall behind because it piles up: a shoebox of receipts in January, a bank statement nobody has looked at since summer, and a panicked call to the accountant before the deadline.
+A simple income and expenses record, kept up every week, fixes that. Here's what to record, which categories to use, a routine that takes ten minutes, and when a spreadsheet stops being enough.
+
+### What to record for every transaction
+| Column | Why it matters | Example |
+| --- | --- | --- |
+| Date | Puts it in the right month, quarter and tax year | 14/03/2026 |
+| Customer or supplier | Lets you find the invoice or receipt later | Screwfix |
+| Description | What it was, in plain words | Copper pipe and fittings |
+| Category | Shows where money goes and maps to your tax return | Materials |
+| Amount | Gross amount paid or received | £84.00 |
+| VAT (if registered) | VAT you charged or can reclaim | £14.00 |
+| Receipt kept? | Missing receipts are what accountants chase | Yes |
+
+### Categories that keep it simple
+Use the categories your tax return uses, so your totals drop straight in. For UK sole traders, HMRC's allowable expenses are grouped into things like office costs, travel, clothing (uniforms only), staff, things you buy to resell, financial costs, premises, and marketing. In the US, Schedule C has similar lines: advertising, car and truck expenses, supplies, utilities, and so on.
+Eight to twelve categories is plenty. If you're unsure where something goes, put it in "Other" with a clear description and ask your accountant once, then use the same category every time after that.
+
+### A 10-minute weekly routine
+1. Pick a fixed slot, like Friday afternoon. Little and often beats a weekend in January.
+2. Open your business bank account and add every new payment in and out since last week.
+3. Match each expense to a receipt. Photograph paper receipts straight away and file them in one folder.
+4. Mark any expense where the receipt is missing, and ask the supplier for a copy while it's fresh.
+5. Once a month, look at the totals: income, expenses, profit, and VAT to set aside if you're registered.
+
+### How long to keep records
+Digital copies are fine in both countries as long as they're clear and complete. If you're not sure which period applies to you, keep everything for 7 years and ask your accountant.
+| Where | Rule of thumb | Source |
+| --- | --- | --- |
+| UK, self-employed | At least 5 years after the 31 January Self Assessment deadline for that tax year | GOV.UK |
+| UK, VAT-registered | VAT records for at least 6 years | GOV.UK |
+| US | Generally 3 years from filing, longer in some cases (for example 7 years for bad debt or worthless securities claims) | IRS |
+
+### Making Tax Digital: when a spreadsheet isn't enough on its own
+From April 2026, UK sole traders and landlords with qualifying income over £50,000 must keep digital records and send quarterly updates to HMRC using Making Tax Digital compatible software. The threshold drops to £30,000 from April 2027 and £20,000 from April 2028.
+You can still keep your records in a spreadsheet, but you'll need bridging software that connects it to HMRC to send the updates. If you're close to the threshold, check with your accountant which software they use before you start the year.
+
+### Free tool: a ready-made spreadsheet
+The free [income and expenses spreadsheet](https://mikeautomations.github.io/en/income-and-expenses-spreadsheet/) sets this up for you: income and expense sheets with your own categories and year, VAT worked out by formula if you're registered, a monthly summary with profit and your biggest costs, and missing receipts highlighted in red. It downloads for Excel or Google Sheets.
+To keep the paperwork that feeds it tidy, use the [invoice generator](https://mikeautomations.github.io/en/free-invoice-generator/) and [receipt generator](https://mikeautomations.github.io/en/receipt-generator/), and read [what to put on a receipt](https://mikeautomations.github.io/en/blog/what-to-put-on-a-receipt/).
+
+### Do I need accounting software as a small business?
+Not always. A tidy spreadsheet kept up weekly works for many sole traders. You'll want software once you have staff, stock, lots of invoices, or once Making Tax Digital applies to you.
+
+### Should I use a separate bank account for the business?
+Yes, if you can. It makes the weekly routine much faster, because every payment in the account is a business one, and it keeps personal spending out of your records.
+
+### What if I've lost a receipt?
+Ask the supplier for a copy, or find the order email. If that fails, record what you can (date, supplier, amount, what it was) and keep the bank statement line as evidence. Ask your accountant whether the cost can still be claimed.
+
+### Is income the same as profit?
+No. Income is everything customers paid you. Profit is income minus allowable business expenses, and it's profit that income tax is worked out on.
+
+## How to make business announcement posts people actually read
+Source: https://mikeautomations.github.io/en/blog/business-announcement-posts/ (2026-11-24)
+
+Put one idea on the image: a short headline people can read in a second, one line of detail, and what to do next, with the dates, price or phone number. Use the same colours every time, include your business name, and make it 1080 x 1350 for the Instagram feed and 1080 x 1920 for stories and WhatsApp status. Post it a week ahead, then again the day before.
+
+Most small business posts aren't ignored because they're ugly. They're ignored because they try to say five things at once, in small text, to people scrolling past on a phone.
+Announcement posts, like a sale, holiday opening hours, a new service or a closure, are the easiest to get right, because they have one job. Here's how to write and size them, and when to post them so the people who need to see them do.
+
+### What goes on the image
+Everything else (terms, the full menu, the story behind it) goes in the caption, not on the image.
+| Part | Keep it to | Example |
+| --- | --- | --- |
+| Headline | 3-6 words | 20% off all treatments |
+| Detail | One line | Monday 1 to Sunday 7 December |
+| Action | What to do and how | Book: 07700 900123 |
+| Your name | Logo or business name | Studio Noa |
+
+### Five posts every local business needs
+- Holiday opening hours: one changed day per line, posted a week before
+- Sale or offer: the discount, the dates and how to claim it
+- New service or product: what it is, the price, and how to book
+- Closure or change: the date, why in a few words, and what customers should do instead
+- Thank you or milestone: short and human, with a reason to come back
+
+### Sizes for each place
+| Where | Size (pixels) | Shape |
+| --- | --- | --- |
+| Instagram feed | 1080 x 1350 | Portrait 4:5, takes up the most space |
+| Facebook and Instagram, anywhere | 1080 x 1080 | Square, safe everywhere |
+| Stories and WhatsApp status | 1080 x 1920 | Tall 9:16, keep text away from the top and bottom edges |
+
+### Make it readable on a phone
+1. Big text, few words. If you have to zoom in, it's too small.
+2. Strong contrast between the text and the background: dark on light, or light on dark.
+3. The same two or three colours every time, so people recognise you before they read your name.
+4. One image, one message. A second announcement gets its own post.
+
+### When to post
+For anything with a date, post twice: about a week before, and again the day before or on the morning. Share the same image to your story on the day. For holiday hours, also update the special hours on your Google Business Profile, so Google Search and Maps show the right times, which is where most people check.
+Keep a folder of last year's posts. Most announcements come round every year, and changing the dates is quicker than starting again.
+
+### Free tool: make the post in a minute
+The free [social post maker](https://mikeautomations.github.io/en/social-post-maker/) has templates for a sale, holiday opening hours, a new service, closed today and we're hiring. Change the words, pick your colours and size, and download it for the Instagram feed, a square post, or a story and WhatsApp status. Nothing is uploaded.
+For a menu or services post, use the [price list maker](https://mikeautomations.github.io/en/price-list-maker/) instead, and read [how to make a price list that sells](https://mikeautomations.github.io/en/blog/how-to-make-a-price-list/). To see which posts actually bring people to your website, read [how to track which post brings visitors](https://mikeautomations.github.io/en/blog/track-which-post-brings-website-visitors/).
+
+### How much text can I put on a post?
+As little as you can. A headline, one line of detail and how to act. Anything longer belongs in the caption, where people who want more will read it.
+
+### Should I use a template or design from scratch?
+A template, made once in your colours and reused. Consistency matters more than variety: people learn to recognise your posts.
+
+### What's the best time to post?
+When your customers scroll, usually early morning, lunchtime and evening. Instagram and Facebook insights show when your followers are online. For dated announcements, timing relative to the date matters more than the hour.
+
+### Can I use the same image on Instagram and Facebook?
+Yes. A square or 4:5 portrait image works on both. Make a separate tall version for stories and WhatsApp status.
+
+## How to write an FAQ page that Google and AI assistants can quote
+Source: https://mikeautomations.github.io/en/blog/how-to-write-an-faq-page/ (2026-11-24)
+
+Collect the questions customers really ask, write each one in their words, and answer it in the first sentence with the specific fact: the price, the yes or no, the area, the time. Add one useful detail, keep the same answers on your site, Google profile and price list, and put them in plain text on the page. FAQ schema can still help machines read it, but since 2023 Google only shows FAQ rich results for well-known government and health sites.
+
+A good FAQ page does two jobs. It saves you answering the same five questions on the phone every day, and it gives search engines and AI assistants like ChatGPT, Gemini and Google's AI Overviews a clear, quotable answer when someone asks about a business like yours.
+Most FAQ pages do neither, because they're written as marketing. Here's how to write one that works.
+
+### Where to find the right questions
+- Your WhatsApp, email and DM history: the questions you answer most
+- Notes from phone calls, or ask whoever answers the phone for their top ten
+- Reviews: what people praise or complain about tells you what others want to know
+- The "People also ask" box when you search your service and town on Google
+- Questions people ask just before they book or buy, about price, timing, area and what's included
+
+### How to write each answer
+Answer in the first sentence, then add one detail that helps: what's included, an exception, or what to do next. Two to four sentences per answer is enough. AI assistants pick up short, specific, self-contained answers far more often than vague ones.
+| Do | Instead of |
+| --- | --- |
+| "How much is a call-out?" | "Pricing information" |
+| "£65 for the first hour, including VAT." | "Our prices are competitive and vary by job." |
+| "Yes, we cover Sheffield, Rotherham and Barnsley." | "We serve the wider region." |
+| "Usually within 2 working days." | "We aim to respond promptly." |
+
+### Eight questions almost every service business should answer
+1. How much does it cost? (a real price or a typical range)
+2. Which areas do you cover?
+3. How soon can you come, or what's your next free slot?
+4. What are your opening hours?
+5. How do I book, and do you need a deposit?
+6. What's your cancellation policy?
+7. Which payment methods do you take?
+8. Are you insured, qualified or registered? (with the body's name)
+
+### FAQ schema in 2026: still worth adding?
+FAQ schema (FAQPage structured data) is code that marks up your questions and answers. In August 2023 Google announced it would only show FAQ rich results, the expandable questions under a search result, for well-known, authoritative government and health websites. For a plumber or a salon, adding the schema no longer gets you that extra space in Google.
+It's still harmless and helps some tools read your page clearly, as long as the questions and answers in the code are exactly the ones visible on the page. What matters most is the visible text: clear questions and direct answers that any search engine or AI assistant can read.
+
+### Keep it in step everywhere
+AI assistants compare what different sources say about you. If your website says you open at 8, your Google profile says 9 and your Facebook page says 8:30, they're less likely to state any of them. Use the same prices, hours and areas on your site, your [Google Business Profile](https://mikeautomations.github.io/en/blog/business-details-in-google-and-ai-search/), your price list and your social profiles, and update them all at once.
+
+### Free tool: write the FAQ section and the code
+The free [FAQ generator](https://mikeautomations.github.io/en/faq-generator/) suggests the questions customers ask in your type of business, helps you write short, specific answers, and gives you the HTML section and matching FAQ schema to paste into your site. Then check how ready your site is with the [AI search visibility checker](https://mikeautomations.github.io/en/ai-search-visibility-checker/).
+
+### How many questions should an FAQ page have?
+Enough to cover what customers really ask, usually 8 to 15. Better ten specific answers than thirty vague ones. Move long topics to their own page and link to it.
+
+### Should FAQs go on a separate page or on each service page?
+Both work. Put general questions (hours, areas, payment) on one FAQ page, and questions about a single service on that service's page, where people are deciding.
+
+### Does FAQ schema still help SEO?
+It no longer gets most businesses FAQ rich results on Google, but it does no harm if it matches the visible page. The visible questions and answers are what search engines and AI assistants mainly use.
+
+### Can I copy FAQs from a competitor?
+No. Copying their text can breach copyright, and their answers aren't yours: different prices, areas and policies. Use their questions as ideas, then answer them for your own business.
+
 ## Is the text on your website hard to read? Colour contrast in plain English
 Source: https://mikeautomations.github.io/en/blog/website-text-hard-to-read-colour-contrast/ (2026-11-21)
 
@@ -25535,7 +25707,7 @@ Source: https://mikeautomations.github.io/he/invoice-payment-reminders/ (2026-11
 תזכורות תשלום אוטומטיות ללקוחות הן תהליך ששולח חשבונית כשהעבודה מסתיימת, מזכיר בנימוס לפני מועד התשלום ואחריו, ומפסיק לבד ברגע שהכסף נכנס. אתם קובעים את הניסוח והמועדים, ורואים פעם בשבוע רק את מי שבאמת צריך שיחה. תהליך כזה עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
 ### מערכת לניהול לקוחות לעסק קטן: מתי מספיקה תוכנה מוכנה, ומתי כדאי לבנות
-Source: https://mikeautomations.github.io/he/crm-small-business/ (2026-11-10)
+Source: https://mikeautomations.github.io/he/crm-small-business/ (2026-11-24)
 
 מערכת לניהול לקוחות לעסק קטן (CRM) היא מקום אחד שבו כל לקוח, פנייה, מסמך ומשימה נמצאים יחד, וכל עובד רואה מה עליו לעשות. תוכנה מוכנה מספיקה כשהתהליך שלכם סטנדרטי. מערכת שבנויה לעסק שווה כשהתהליך ייחודי או כשהצוות כבר חזר לאקסל, והיא מתחילה אצלי מ-9,000 ₪, חד-פעמי.
 
@@ -25678,6 +25850,21 @@ Source: https://mikeautomations.github.io/he/price-list-how-to-build/ (2026-11-2
 Source: https://mikeautomations.github.io/he/cancellation-policy-how-to-write/ (2026-11-22)
 
 מדיניות ביטולים טובה אומרת כמה זמן מראש צריך להודיע (24 שעות זה הכי נפוץ), איך מבטלים, מה קורה עם מקדמה, ומה עולים ביטול מאוחר או אי-הגעה. דמי הביטול צריכים להתאים למה שבאמת מפסידים. מציגים את המדיניות לפני קביעת התור, וחוזרים עליה בשורה אחת באישור ובתזכורת.
+
+### איך עוקבים אחרי הכנסות והוצאות בעסק קטן, בעשר דקות בשבוע
+Source: https://mikeautomations.github.io/he/income-expenses-tracking/ (2026-11-24)
+
+רושמים כל הכנסה וכל הוצאה של העסק במקום אחד: תאריך, ממי או למי, סכום, קטגוריה, והאם נשמרה קבלה. עושים את זה פעם בשבוע מתוך אפליקציית הבנק, החשבוניות והקבלות, ופעם בחודש מסתכלים על הסיכום: הכנסות, הוצאות, רווח, ומע"מ שצריך לשים בצד. את המסמכים שומרים לפחות 7 שנים מתום שנת המס.
+
+### איך עושים פוסט הודעה לעסק שאנשים באמת קוראים
+Source: https://mikeautomations.github.io/he/business-announcement-posts/ (2026-11-24)
+
+שמים על התמונה רעיון אחד: כותרת קצרה שקוראים בשנייה, שורה אחת של פרטים, ומה לעשות עכשיו, עם התאריכים, המחיר או הטלפון. משתמשים באותם צבעים בכל פעם, מוסיפים את שם העסק, ומכינים 1080 על 1350 לפיד באינסטגרם ו-1080 על 1920 לסטורי ולסטטוס בוואטסאפ. מפרסמים שבוע לפני, ושוב יום לפני.
+
+### איך כותבים שאלות ותשובות לאתר שגוגל ו-ChatGPT מצטטים
+Source: https://mikeautomations.github.io/he/faq-page-how-to-write/ (2026-11-24)
+
+אוספים את השאלות שלקוחות באמת שואלים, כותבים כל אחת במילים שלהם, ועונים כבר במשפט הראשון עם העובדה עצמה: המחיר, כן או לא, האזור, השעה. מוסיפים פרט אחד שימושי, ושומרים על אותן תשובות באתר, בפרופיל בגוגל ובמחירון. מאז 2023 גוגל מציג את השאלות כרשימה נפתחת בתוצאות רק לאתרי ממשלה ובריאות מוכרים, אז מה שחשוב הוא הטקסט שרואים בעמוד.
 
 ### ניגודיות צבעים באתר: מה זה 4.5:1, איפה זה נכשל ואיך מתקנים
 Source: https://mikeautomations.github.io/he/website-color-contrast-accessibility/ (2026-11-21)
