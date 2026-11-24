@@ -17822,7 +17822,7 @@ Calendly's pricing page on 11 November 2026 shows Free, Standard at $12 per seat
 No. Calendly's pricing page lists automatic meeting reminders on Standard and above, not on Free.
 
 ## Microsoft Forms vs Google Forms for a small business: which to use for client intake
-Source: https://mikeautomations.github.io/en/blog/microsoft-forms-vs-google-forms-small-business/ (2026-11-11)
+Source: https://mikeautomations.github.io/en/blog/microsoft-forms-vs-google-forms-small-business/ (2026-11-24)
 
 In the Microsoft Forms vs Google Forms choice, a small business should usually pick the one that matches the email and file storage it already uses: Google Forms if you run on Gmail and Google Drive, Microsoft Forms if you run on a Microsoft 365 business plan. Two limits decide most client-intake cases: Microsoft Forms only allows file upload questions when responders are inside your own organisation, and a form made with a free personal Microsoft account stops at 200 responses (Microsoft support, November 2026). Google Forms accepts uploads from outside people, but they must sign in to a Google Account first.
 
@@ -17860,6 +17860,14 @@ A form saves you typing. The real time savings come from what happens next: the 
 - Microsoft Forms: Power Automate has a standard Microsoft Forms connector with a "When a new response is submitted" trigger. Microsoft's connector page says it only works with organisational accounts, so you need a business account, not a personal one. From there a flow can post to Teams, add a row to Excel or a SharePoint list, or draft an Outlook email. Our [Outlook automation guide](https://mikeautomations.github.io/en/blog/outlook-automation-for-accountants/) shows the kind of flows that fit.
 - Google Forms: responses can go into a linked Google Sheet, and Google Apps Script has an installable form submit trigger on both the form and the sheet. That's enough to send a confirmation, create a folder or post a task. See [Google Apps Script for small business](https://mikeautomations.github.io/en/blog/google-apps-script-for-small-business/) for what it can and can't do, and [automating Google Workspace for a small business](https://mikeautomations.github.io/en/google-workspace-automation-services/) for when to hire help.
 - Either one: Zapier, Make and n8n can pick up new responses too, which helps when the next step is in a tool outside Microsoft or Google, such as a CRM or Xero. [Power Automate vs Zapier](https://mikeautomations.github.io/en/blog/power-automate-vs-zapier-small-business/) compares the two most common choices.
+
+### Using Google Forms with Microsoft 365 (and the other way round)
+Plenty of small businesses run email and files on Microsoft 365 but already have Google Forms in use, or the reverse. You don't have to switch tools to make them work together. The usual pattern is to let the form stay where it is and move each response to where your team works.
+1. Decide where responses should end up: an Excel workbook or SharePoint list, a Google Sheet, or a CRM.
+2. Use an automation platform that connects both sides, such as Zapier, Make or n8n, to pick up each new response.
+3. Map each question to a column, and keep the field names the same if you ever change forms.
+4. Send the notification to the place your team actually reads, such as an Outlook inbox or a Teams channel.
+5. Store any uploaded files in one place only, so nobody has to check two drives for a client's documents.
 
 ### How to choose in five steps
 1. Write down where your email, files and spreadsheets live today. If it's all Google, start with Google Forms. If it's all Microsoft 365 business, start with Microsoft Forms.
@@ -17907,6 +17915,9 @@ It starts with a [free 15-minute call](https://mikeautomations.github.io/call/) 
 
 ### Is Microsoft Forms or Google Forms better for a small business?
 Neither is better across the board. Use the one that matches your email and file storage: Google Forms for Gmail and Google Drive, Microsoft Forms for a Microsoft 365 business plan. Check file uploads and response limits before using either for client intake.
+
+### Can Google Forms work with Microsoft 365?
+Yes, through an automation platform such as Zapier, Make or n8n. Each new Google Forms response can add a row to Excel or a SharePoint list and send a notification to Outlook or Teams, so the form stays in Google while your team works in Microsoft 365.
 
 ### Can clients upload files to a Microsoft Form?
 Not if they're outside your organisation. Microsoft's help page says file upload questions are only available when the form is set to "Only people in my organization can respond" or "Specific people in my organization can respond". Send clients a secure upload link instead.
