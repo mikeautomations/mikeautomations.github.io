@@ -17756,7 +17756,7 @@ It's the honest thing to do, and in the EU the AI Act includes transparency rule
 Federal law (18 U.S.C. 2511(2)(d)) allows recording where one party consents, but some states, such as California under Penal Code section 632, require the consent of all parties to a confidential call. Telling every caller at the start is the simplest way to cover both.
 
 ## Google Calendar appointment schedules vs Calendly for a small business
-Source: https://mikeautomations.github.io/en/blog/google-calendar-appointment-schedules-vs-calendly/ (2026-11-11)
+Source: https://mikeautomations.github.io/en/blog/google-calendar-appointment-schedules-vs-calendly/ (2026-11-24)
 
 Google Calendar appointment schedules vs Calendly comes down to what you already pay for. If your business is on a Google Workspace plan such as Business Standard, appointment schedules already give you several booking pages, email reminders and Stripe payments at no extra cost. Calendly is worth paying for when you need things Google doesn't offer, such as PayPal payments, bookings shared out across a team, or ready-made links to tools like HubSpot and Zapier.
 
@@ -17828,6 +17828,12 @@ Online booking set-up checklist:
 ### How Mike Automations would set this up
 Most small businesses don't need a new booking tool. They need what happens after the booking to run by itself: the intake form, the reminder in your words, the CRM record and the follow-up. We'd build that on the calendar you already use, Google appointment schedules or Calendly, and a person always approves anything AI prepares. You can sketch your own version in the [plan builder](https://mikeautomations.github.io/en/plan/) first.
 We start with a [free 15-minute call](https://mikeautomations.github.io/call/) about how bookings work today. Within 48 hours you get a written plan with a fixed price. It's built on the tools you already use, it's live in 2-3 days, and it costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, as set out in our [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/).
+
+### Calendly vs Google Calendar: which should a small business use?
+Start with Google Calendar appointment schedules if you already pay for an eligible Google plan such as Workspace Business Standard: you get several booking pages, reminders and Stripe payments at no extra cost. Choose Calendly when you need PayPal, bookings shared out across a team, or its ready-made HubSpot and Zapier connections.
+
+### Can I use Calendly with Google Calendar?
+Yes. Calendly connects to your Google Calendar to check when you're busy and to add each booking to it. The Free plan connects one calendar; Standard connects up to six.
 
 ### Is Google Calendar appointment scheduling free?
 Partly. Google says a personal Google Account or Workspace Business Starter can create a single booking page. More than one schedule, automatic email reminders, payments, email verification and checking several calendars need an eligible plan such as Business Standard, Workspace Individual or Google One Premium.
