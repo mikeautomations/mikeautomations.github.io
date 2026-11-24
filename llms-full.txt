@@ -6720,6 +6720,23 @@ Your practitioner decides the questions. Most clinics include:
 - Separate consent for photos: clinical records is one question, using photos on your website or social media is another
 - Marketing permission as its own tick box, never bundled into treatment consent
 
+### A spa consent form: what it usually records
+Day spas offering massages, facials or body treatments use a simpler form than a med spa, but the structure is the same. Your insurer or a qualified adviser should check the wording for your treatments.
+- The client's name, date of birth and contact details
+- The treatment booked, in plain words
+- Health questions relevant to that treatment, such as pregnancy, skin conditions, recent surgery, allergies to products
+- A statement that the client has read what the treatment involves and any common reactions
+- Agreement to tell the therapist if anything changes before or during the treatment
+- Photo consent and marketing permission as separate tick boxes, if you use either
+- Signature and date, saved with the version of the form they signed
+
+### How digital consent and intake records stay organised
+1. The booking triggers one link to the right form for that treatment, so nobody picks the wrong one on the day.
+2. Answers and the signed consent are saved to the client's record with the date and form version.
+3. Any answer that needs a practitioner's review, such as a new medication, is flagged before the appointment.
+4. On the day, the practitioner sees a single summary, confirms it with the client and records their own notes.
+5. Returning clients get a short update form instead of the full history, and the full form again at the interval your clinic sets.
+
 ### What stays with your practitioner
 The consultation, the consent conversation, the decision to treat and every answer to a clinical question. The workflow moves forms, flags answers and sends aftercare the practitioner wrote. It never gives medical advice, never answers a worry about swelling or a reaction, and never decides who is suitable. Every reply goes to a person. If AI drafts any message, a person approves it before it's sent.
 
@@ -6736,6 +6753,9 @@ A [free 15-minute call](https://mikeautomations.github.io/call/) about how booki
 
 ### Free tools for clinics
 The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the appointment reminders, and the [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes your deposit and missed-appointment terms.
+
+### What should a spa consent form include?
+Client details, the treatment booked, health questions relevant to it, confirmation the client has read what it involves, agreement to report changes, separate photo and marketing consent if you use them, and a dated signature saved with the form version. Ask your insurer or adviser to check the wording.
 
 ### Can a consent form sent by email replace the consultation?
 No. The form collects history and records that the client has read the information. Your practitioner still goes through the treatment, risks and consent with the client before treating, as their professional body and insurer require.
