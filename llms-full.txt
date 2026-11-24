@@ -16551,6 +16551,182 @@ The attorney sees it on the monthly list and decides what to do: a call, or a le
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Fire risk assessment review reminders: every premises reviewed on the date you set
+Source: https://mikeautomations.github.io/en/fire-risk-assessment-review-reminders/
+
+A fire risk assessment review reminder workflow keeps one row per premises with the date of the last assessment and the review date the assessor set. Weeks before that date it emails the client with visit dates and asks what has changed in the building, books the reply into the assessor's diary and reminds the site the day before. Between visits it asks the client about the open actions from the last report and records each answer.
+
+In England and Wales, the Fire Safety Order says a fire risk assessment must be reviewed regularly to keep it up to date, and again when there is reason to think it is no longer valid or the premises have changed. It sets no fixed interval. Many assessors recommend a review about once a year, and sooner for higher-risk buildings, and they write that date in the report. Then the report is filed. A year later nobody at the client remembers the date, and the assessor's own list is a folder of PDFs. The assessment is the skilled part. The part that slips is knowing who is due, reaching the right person and finding out what happened to last year's actions.
+
+### Where reviews get lost
+- The review date is on page two of a report, and nobody looks at it again
+- The person who ordered the assessment has left, and the reminder goes to an old inbox
+- The client changed the layout, the use of a floor or the number of staff, and did not think to say
+- Last year's action plan had twelve items, and nobody knows which were done
+- A managing agent has forty blocks with different dates and asks for them all in one week
+- The assessor arrives and the plant room, the roof space or a flat is locked
+
+### What the list holds for each premises
+One row per premises, with a link to the last report. The report is the assessor's record. The row is what the office needs to book the next review well.
+| On the row | Why it is there |
+| --- | --- |
+| Address and type of premises | A care home or a block of flats may be on a shorter review date than a small office |
+| Client contact and a second contact | So a reminder still lands when the first person has moved on |
+| Date of the last assessment and the review date | The assessor sets the review date. The workflow only counts back from it |
+| Open actions from the last report | So the client can be asked about them before the visit, not at it |
+| Access notes | Keys, escorts, areas that need notice and the best days to visit |
+| Changes the client has reported | A refit or a change of use is flagged to the assessor straight away |
+
+### How the workflow runs
+1. Every premises you assess goes on one list with the date of the last assessment, the review date from the report and its contacts.
+2. Eight weeks before the review date, the client gets an email in plain words: the review of your fire risk assessment is due, here are three dates for the visit.
+3. The same email asks a short set of questions: has the layout changed, has the use of any area changed, have there been building works, a fire or a false alarm problem since last time?
+4. It also lists the open actions from the last report and asks which are done.
+5. The reply books the visit into the assessor's diary. Answers about changes go to the assessor before the visit, so the time allowed can be checked.
+6. No reply brings a reminder after a week and another a week later, to the second contact too. After that, the premises goes on a call list for the office.
+7. The day before the visit, the site gets a reminder with the assessor's name, the arrival time and the areas that need to be open.
+8. The assessor carries out the review and writes the report. The workflow never judges a risk.
+9. The office marks the visit done. The report goes to the client, the new review date is copied onto the row and the new actions replace the old list.
+10. Three months after the report, the client is asked about the open actions again, and each answer is recorded with its date.
+11. If a client writes at any time to say the building has changed, the message goes to the assessor the same day.
+12. Once a month, the owner gets the list: reviews due in the next quarter, premises not yet booked and clients who have not answered.
+13. If AI drafts a message to a client, a person checks it before it is sent.
+
+### What stays with the assessor
+The assessment, every finding, the priority of each action and the review date. The workflow asks the client what they have done. It does not check that an action was done properly, and it does not tell a client what the law requires of them: that is the assessor's advice to the responsible person. For test and service rounds on the same buildings, see [fire door inspection reminders](https://mikeautomations.github.io/en/fire-door-inspection-reminders/) and [fire alarm service reminders](https://mikeautomations.github.io/en/fire-alarm-service-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many premises you assess and where the review dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email, a calendar and your report folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your assessment software already books reviews and follows up actions, you don't need this, and we'll say so on the call.
+
+### How often should a fire risk assessment be reviewed?
+The Fire Safety Order sets no fixed interval. It says the assessment must be reviewed regularly to keep it up to date, and when there is reason to think it is no longer valid or things have changed. A review about once a year is common practice. The assessor and the responsible person set the date for each premises.
+
+### Does the workflow assess anything?
+No. The assessor carries out the review and writes the report. The workflow keeps the dates, books the visit, asks about changes and open actions, and sends the report.
+
+### What if the building changes between reviews?
+The booking email asks about changes, and a client can write at any time. Either way the message goes to the assessor, who decides whether the review should be brought forward.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## DOT annual inspection reminders: every customer truck and trailer booked before its date
+Source: https://mikeautomations.github.io/en/dot-annual-inspection-reminders-truck-repair-shops/
+
+A DOT annual inspection reminder workflow keeps one row per truck and trailer with the date of its last periodic inspection. About six weeks before the 12 months are up, it texts and emails the fleet's contact with bay times, books the reply into the shop calendar and reminds them the day before. After the inspection it sends the report, sets the next date and keeps asking about any repair estimate that is still open.
+
+FMCSA rules say every commercial motor vehicle, including each unit of a combination, must pass a periodic inspection at least once every 12 months. For a shop that does these inspections, every truck and trailer you have ever stickered is a repeat job with a known date. Most small fleets and owner-operators don't track that date well. They remember when a driver notices the sticker, or at a roadside stop. The inspection is the skilled part. The part that slips is the office work: knowing which units are due, reaching the person who schedules them and getting the truck into a bay while it is still in date.
+
+### Where repeat inspections get lost
+- The due date is on a sticker and a paper report, and nobody at the shop has a list
+- Trailers are forgotten because they sit in a yard and nobody drives them to the shop
+- A fleet has eight units due across the year and wants them done in two visits, not eight
+- The customer bought two more trucks, and the shop finds out when one is already out of date
+- An inspection found defects, the estimate went out, and nobody asked about it again
+- The owner-operator is on the road for three weeks and can't answer a phone call in shop hours
+
+### What the list holds for each unit
+One row per truck or trailer, grouped by customer. Your inspection reports stay where they are today. The row is what the front desk needs to book the next one.
+| On the row | Why it is there |
+| --- | --- |
+| Customer, contact and a second contact | So the message reaches whoever schedules the trucks now |
+| Unit number, type and plate | The customer knows the truck by its unit number, not by your invoice |
+| Last inspection date | The next date is counted from it |
+| Where the unit is usually parked | A yard trailer may need a mobile visit or a driver to bring it in |
+| Open repair estimate | So it is followed up before the next inspection, not at it |
+| Other units for the same customer due soon | So one visit can cover several |
+
+### How the workflow runs
+1. Every unit you inspect goes on one list with its customer, unit number and last inspection date. The next date is calculated on the row.
+2. Six weeks before the date, the customer's contact gets a text and an email: unit 14 is due for its annual inspection by this date, here are three bay times.
+3. If the same customer has other units due in the next two months, the message lists them and offers to do them together.
+4. The message also asks one question: have you added or sold any trucks or trailers since last time?
+5. The reply books the bay time into the shop calendar. New units are added to the list for the front desk to confirm.
+6. No reply brings a reminder after a week and another a week later, to the second contact too. After that, the unit goes on a call list.
+7. The day before, the customer gets a reminder with the drop-off time and what to bring.
+8. Your qualified inspector does the inspection and signs the report. The workflow never decides whether a unit passes.
+9. The front desk marks the job done. The report is sent to the customer, the next date is set and any defects are noted on the row.
+10. If the inspection led to a repair estimate, the customer is asked about it after three days and again after ten, and the answer is recorded.
+11. Two weeks before a date with no booking, the unit is flagged in red on the owner's list.
+12. Once a month, the owner gets the list: units due in the next quarter, units not yet booked and estimates still open.
+13. If AI drafts a message to a customer, a person checks it before it is sent.
+
+### What stays with the shop and the carrier
+The inspection, every pass and fail, the report and the repair work stay with your inspector. Keeping each vehicle in date is the motor carrier's job, and the reminder doesn't move that to the shop: it is a service to your customers, and the messages say so. This page doesn't cover state inspection programs or record-keeping rules. For the driver side of a fleet's paperwork, see [driver qualification file expiry tracking](https://mikeautomations.github.io/en/driver-qualification-file-expiry-tracking/), and for car customers, see [following up declined services](https://mikeautomations.github.io/en/auto-repair-declined-services-follow-up/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many units you inspect and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email, text messages and the shop calendar). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your shop software already sends inspection reminders by unit and follows up estimates, you don't need this, and we'll say so on the call.
+
+### How often is a DOT annual inspection due?
+FMCSA rules say every commercial motor vehicle, including each unit of a combination, must have a periodic inspection at least once every 12 months. The workflow counts from the date of the last inspection on your report.
+
+### Does the workflow decide anything about the inspection?
+No. Your qualified inspector does the inspection and signs the report. The workflow keeps the dates, books bay time, sends the report and follows up the estimate.
+
+### Can it handle trailers and trucks on different dates?
+Yes. Every unit has its own row and its own date. When several units for one customer are due close together, one message offers to do them in one visit.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## HUD annual recertification reminders: every notice on time, every household's file complete
+Source: https://mikeautomations.github.io/en/hud-annual-recertification-reminders-property-managers/
+
+An annual recertification reminder workflow keeps one row per household with its recertification anniversary date. It prepares each reminder notice on the day your program calls for it, puts it in front of the site manager to approve and serve, books the tenant's interview, lists the documents still missing and asks for them until the file is complete. Staff verify income and do every calculation. The workflow only keeps the dates and the checklist.
+
+In HUD-assisted housing, each household is recertified every year, and the notices leading up to it run on a calendar. HUD's sample reminder notices in Handbook 4350.3 are dated at least 120, 90 and 60 days before the anniversary date. With 30 units, a site manager can keep that in a binder. With 200 units and anniversaries in every month, a notice goes out late, an interview is missed, or a file sits for weeks waiting for one pay stub. The income work is the skilled part. The part that slips is the calendar and the follow-up.
+
+### Where recertifications slip
+- The anniversary dates are in the software, but nobody pulls the list until the month is half gone
+- The first notice went out on time and the second was forgotten
+- A tenant came to the interview without half the documents, and nobody asked again
+- A verification request went to an employer and no one noticed it never came back
+- The site manager was out for two weeks and the notices for that month waited
+- The regional manager learns about late files at the next review, not while there is time to fix them
+
+### What the list holds for each household
+One row per household, filled from a report out of your property software. The tenant file stays in your software and your folders. The row holds dates and a checklist, not income figures.
+| On the row | Why it is there |
+| --- | --- |
+| Unit, head of household and how they prefer to be contacted | So interview reminders go by letter, email or text as the tenant chose |
+| Recertification anniversary date | Every notice date is counted back from it |
+| Notice dates and the day each was served | So a missed notice shows up the same week |
+| Interview date | So it can be reminded and rebooked |
+| Checklist of documents and verifications | Each one is marked asked, received or still waiting |
+| Who is handling the file | So a colleague can pick it up when someone is out |
+
+### How the workflow runs
+1. Once a month, the list is refreshed from your property software's report of anniversary dates.
+2. On the day each notice is due under your program's rules, the workflow fills your own notice template with the household's details and sends it to the site manager.
+3. The site manager checks the notice, signs it and serves it the way your program requires. They mark the date served on the row.
+4. If a notice is not marked as served within two working days, the site manager is reminded and the regional manager sees it on their list.
+5. The tenant is offered interview times. A reminder goes out two days before and on the morning of the interview.
+6. A missed interview is flagged the same day so it can be rebooked.
+7. After the interview, staff tick what was received. The tenant gets a short list of what is still missing and a date to bring it by.
+8. Missing documents are asked for again after a week. Verification requests sent to employers or agencies are flagged if nothing has come back in two weeks.
+9. Staff verify income, do the calculation and complete the certification in your software. The workflow takes no part in that.
+10. Every Monday, each site manager gets their list: notices due this week, interviews booked and files still waiting.
+11. The regional manager gets one page: households inside 60 days with an incomplete file.
+12. If AI drafts a message to a tenant, a person checks it before it is sent.
+
+### What stays with your staff
+Serving the notices, verifying income, every calculation, every decision about a household and anything to do with ending assistance. Notice dates and wording come from your program's current rules and your own templates, and your compliance staff set them in the workflow. This page is not compliance advice. Tenant documents go straight to your own folders and are not passed through AI. For the same kind of checklist at move-in, see [rental application document collection](https://mikeautomations.github.io/en/rental-application-document-collection/), and for another deadline that runs on a calendar, see [security deposit return deadline tracking](https://mikeautomations.github.io/en/security-deposit-return-deadline-tracking/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many units you manage and how notices are tracked today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a report from your property software, a spreadsheet, email and your notice templates). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your property software already prepares each notice on time and follows up missing documents, you don't need this, and we'll say so on the call.
+
+### When do recertification reminder notices go out?
+HUD's sample reminder notices in Handbook 4350.3 are dated at least 120, 90 and 60 days before the recertification anniversary date. Programs differ, so the workflow uses the dates your compliance staff set from your program's current rules.
+
+### Does the workflow calculate income or rent?
+No. Staff verify income, do every calculation and complete the certification in your software. The workflow keeps the dates, prepares the notices for a person to approve and follows up what is missing.
+
+### Does it send notices to tenants by itself?
+No. Each notice is prepared from your template and goes to the site manager, who checks it, signs it and serves it. Interview reminders and document requests are sent the way each tenant chose to be contacted.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 

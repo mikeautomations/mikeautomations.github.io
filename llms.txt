@@ -343,6 +343,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Fire damper testing reminders](https://mikeautomations.github.io/en/fire-damper-testing-reminders/): For fire damper testing firms: every building on one list with its next test date, visits offered weeks ahead and failed or unreached dampers followed up.
 - [Charity annual return reminders](https://mikeautomations.github.io/en/charity-annual-return-reminders-accountants/): For accountants with charity clients: every charity on one list with its 10-month deadline, records and trustee sign-off chased in time to file.
 - [Trust funding follow-up](https://mikeautomations.github.io/en/trust-funding-follow-up-estate-planning-attorneys/): For estate planning firms: every signed trust gets a funding checklist, clients are reminded asset by asset, and files close only with proof.
+- [Fire risk assessment review reminders](https://mikeautomations.github.io/en/fire-risk-assessment-review-reminders/): For fire risk assessors: every client premises on one list with its review date, visits offered weeks ahead and open actions asked about until answered.
+- [DOT annual inspection reminders](https://mikeautomations.github.io/en/dot-annual-inspection-reminders-truck-repair-shops/): For truck repair shops: every customer truck and trailer on one list with its next annual inspection, bay time offered weeks ahead and repairs followed up.
+- [HUD annual recertification reminders](https://mikeautomations.github.io/en/hud-annual-recertification-reminders-property-managers/): For managers of HUD-assisted housing: every household on one list with its anniversary date, each notice prepared on time and missing documents asked for.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
