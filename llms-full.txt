@@ -5937,6 +5937,22 @@ Weekly check-in questions (edit to suit your clients):
 Optional, only if you agreed to it: upload this week's progress photos (front, side, back).
 ```
 
+### Monthly check-in questions for a bigger picture
+Once a month, swap the weekly form for a slightly longer one. It shows you trends the weekly answers miss, and gives you a reason to adjust the plan.
+- What's the biggest change you've noticed since we started?
+- Which sessions or exercises do you look forward to, and which do you dread?
+- Has anything changed at work or at home that affects your training time?
+- How confident do you feel about reaching your goal by the date we set? [1 to 5]
+- Is there anything you'd like me to do differently?
+
+### Anniversaries and milestones that still feel personal
+Automated milestone messages feel personal when they carry something only you would know. The workflow sends them on the right date, and you add one line before they go.
+1. The client record holds the start date, the goal and any milestones they've told you about, such as a race date or a wedding.
+2. A week before a training anniversary or milestone, you get a task with the draft message and their numbers since the start.
+3. You add one personal line, for example the first session they found hard and now breeze through.
+4. The message goes out on the day, by the channel the client prefers.
+5. If a client has paused or left, the milestone message doesn't send.
+
 ### A session and renewal timeline
 This assumes clients buy sessions in packages and do a weekly check-in. Adjust the days to your own week:
 | When | Channel | What happens |
@@ -5981,6 +5997,12 @@ The free [hourly rate calculator](https://mikeautomations.github.io/en/hourly-ra
 
 ### Can I use Google Forms or Microsoft Forms for check-ins?
 Yes. Either works. The workflow sends the link, notices who hasn't answered and collects the answers into one sheet or summary for you.
+
+### What questions should a personal trainer ask in a client check-in?
+Weekly: workouts done, energy, sleep, how closely they followed the food plan, any pain or worries, and one thing to work on next week. Monthly: the biggest change since starting, what they enjoy or dread, life changes affecting training, and confidence about reaching the goal.
+
+### How do I automate client check-ins and anniversaries while keeping them personal?
+Let the workflow handle the timing and the draft, and add one line of your own before each milestone message goes out. A task reaches you a week before, with the client's numbers since they started, so the personal part takes a minute.
 
 ### Do I need consent to collect progress photos?
 Get it, separately from everything else. Photos are personal data, and any health details alongside them are special category data in the UK, where the ICO lists explicit consent as one of the conditions for using it. Make photos optional.
