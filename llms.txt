@@ -346,6 +346,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Fire risk assessment review reminders](https://mikeautomations.github.io/en/fire-risk-assessment-review-reminders/): For fire risk assessors: every client premises on one list with its review date, visits offered weeks ahead and open actions asked about until answered.
 - [DOT annual inspection reminders](https://mikeautomations.github.io/en/dot-annual-inspection-reminders-truck-repair-shops/): For truck repair shops: every customer truck and trailer on one list with its next annual inspection, bay time offered weeks ahead and repairs followed up.
 - [HUD annual recertification reminders](https://mikeautomations.github.io/en/hud-annual-recertification-reminders-property-managers/): For managers of HUD-assisted housing: every household on one list with its anniversary date, each notice prepared on time and missing documents asked for.
+- [Trust Registration Service declaration reminders](https://mikeautomations.github.io/en/trust-registration-service-annual-declaration-reminders/): For UK accountants and solicitors: every client trust on one list, trustees asked what changed, and the 31 January declaration made on time by a person.
+- [Form 990 deadline reminders](https://mikeautomations.github.io/en/form-990-deadline-reminders-nonprofit-accountants/): For CPAs and bookkeepers with nonprofit clients: every fiscal year end and Form 990 due date on one list, records requested early and board review tracked.
+- [IFTA and Form 2290 filing reminders](https://mikeautomations.github.io/en/ifta-and-form-2290-filing-reminders-trucking-clients/): For trucking bookkeepers and permit services: every client's IFTA quarters and Form 2290 on one list, mileage and fuel records requested early and chased.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

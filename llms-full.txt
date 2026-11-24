@@ -16747,6 +16747,185 @@ No. Each notice is prepared from your template and goes to the site manager, who
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Trust Registration Service annual declaration reminders: every client trust checked before 31 January
+Source: https://mikeautomations.github.io/en/trust-registration-service-annual-declaration-reminders/
+
+A Trust Registration Service reminder workflow keeps one row per client trust with its lead trustee, whether it is taxable and when the register was last confirmed. In the autumn it asks each lead trustee a short set of questions about what has changed, reminds until they answer and gives the practice a list of trusts ready to declare. A person at the practice signs in, makes any changes and makes the declaration.
+
+GOV.UK guidance says a taxable trust must be declared up to date on the trust register every year by 31 January, and that changes must be reported within 90 days. For a practice that looks after trusts, the declaration itself takes minutes. The slow part is finding out whether anything has changed. A trustee has retired, a beneficiary has moved abroad, an address is out of date, and nobody told the practice. The question goes out in January with the tax return, the answer comes back late, and the declaration is made in a rush. The skilled work is knowing what has to be reported. The part that slips is asking every trust in time and keeping track of who has answered.
+
+### Where trust declarations slip
+- The list of trusts lives in the tax return software, and it only shows trusts with a return this year
+- The lead trustee is elderly, and the person who really deals with the paperwork is a son or daughter
+- A trustee died or retired in the summer, and the practice hears about it in January
+- A beneficiary changed their name or moved abroad, and nobody thought it mattered
+- The agent authorisation for the trust has lapsed, and nobody notices until someone tries to sign in
+- Non-taxable trusts have no January deadline, so their changes are never asked about at all
+
+### What the list holds for each trust
+One row per trust. The trust deed, the tax return and your working papers stay where they are today. The row is what the team needs to ask the right person and know what is still open.
+| On the row | Why it is there |
+| --- | --- |
+| Trust name and your reference | So the trustee recognises which trust the message is about |
+| Lead trustee and a second contact | So the question reaches the person who actually answers |
+| Taxable or non-taxable | A taxable trust has the 31 January declaration; both kinds have changes to report |
+| Date the register was last confirmed | So nobody has to sign in to find out |
+| Agent authorisation in place | A lapsed authorisation is found in October, not in January |
+| Changes reported and the date they happened | The 90 days run from the change, not from when you were told |
+| Who at the practice makes the declaration | So every trust has a named person |
+
+### How the workflow runs
+1. Every client trust goes on one list with its lead trustee, a second contact and whether it is taxable.
+2. In October, each lead trustee gets a short email with a form. It asks about trustees, beneficiaries, names, addresses and countries of residence, in plain words, with a "nothing has changed" button.
+3. The form shows the names the practice holds today, so the trustee corrects a list. They don't have to write one from memory.
+4. No reply brings a reminder after two weeks and another two weeks later, to the second contact too. After that, the trust goes on a call list.
+5. An answer that reports a change goes to the person named on the row, with the date of the change. A change older than 60 days is marked urgent.
+6. Your adviser decides what has to be reported. The workflow never decides whether a change matters.
+7. Because part-finished updates can't be saved on the register, the workflow checks that every detail needed is on the row before the trust is marked "ready".
+8. A person at the practice signs in, makes the changes and makes the declaration. Changes that need a letter to HMRC are listed separately for that person.
+9. They mark the row done with the date. The trustee gets a short confirmation.
+10. From 1 December, the partner gets a weekly list: trusts not yet answered, trusts with changes waiting and trusts ready to declare.
+11. During the year, a trustee can use the same form to report a change when it happens. Non-taxable trusts get the same question once a year.
+12. If AI drafts a message to a trustee, a person checks it before it is sent.
+
+### What stays with the practice
+Deciding whether a trust is taxable, what has to be reported, and everything entered on the register stay with your adviser. The workflow doesn't sign in to HMRC and doesn't make a declaration. This page doesn't cover which trusts have to register or penalties: check the current GOV.UK guidance for those. For the trust's tax return records, see [Self Assessment document chasing](https://mikeautomations.github.io/en/self-assessment-document-chasing/), and for the similar yearly check on companies, see [confirmation statement reminders](https://mikeautomations.github.io/en/confirmation-statement-client-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many trusts you look after and where the list lives today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email and an online form). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already asks trustees about changes and tracks the declarations, you don't need this, and we'll say so on the call.
+
+### When is the Trust Registration Service annual declaration due?
+GOV.UK guidance says a taxable trust must be declared up to date every year by 31 January. Changes to the trust's details must be reported within 90 days. Check the current GOV.UK guidance for your clients' trusts.
+
+### Does the workflow sign in to HMRC or make the declaration?
+No. It asks trustees what has changed, reminds them and keeps the list. A person at your practice signs in, makes the changes and makes the declaration.
+
+### What about non-taxable trusts?
+HMRC's guidance says they have no annual declaration, but changes still have to be reported within 90 days. The workflow asks those trustees once a year too, so changes are not missed.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Form 990 deadline reminders: every nonprofit client's records, review and filing on one list
+Source: https://mikeautomations.github.io/en/form-990-deadline-reminders-nonprofit-accountants/
+
+A Form 990 reminder workflow keeps one row per nonprofit client with its fiscal year end, the due date counted from it and any extension. When the year closes it asks the treasurer or director for the records, reminds until they arrive and asks when the board will review the return. Two weeks before the due date it tells the preparer which clients are not ready, so a person can decide about an extension.
+
+The IRS says Form 990-series returns are due on the 15th day of the fifth month after the organization's fiscal year ends. For a firm with nonprofit clients, that means due dates spread across the year: May for calendar-year clients, November for a June year end, and others in between. The contact is often a volunteer treasurer who changes every couple of years. The board meets a few times a year and wants to see the return before it is filed. The return is the skilled part. The part that slips is the office work: knowing whose year has just closed, asking the right person and fitting the review into a board calendar.
+
+### Where nonprofit returns run late
+- The firm's calendar is built around April, and a June or September year end is easy to miss
+- The treasurer changed in the spring, and the records request goes to someone who has left
+- The records arrive in pieces: bank statements now, the donor list later, board minutes never
+- The board wants to review the return, and its next meeting is after the due date
+- An extension was filed, and the new date lives in one preparer's head
+- A very small client files the e-Postcard itself, forgets, and nobody notices for two years
+
+### What the list holds for each client
+One row per organization. Your tax software and working papers stay where they are today. The row is what the team needs to ask on time and see what is waiting.
+| On the row | Why it is there |
+| --- | --- |
+| Organization, treasurer and a second contact | Volunteers change, so every row has two people |
+| Fiscal year end | The due date is counted from it |
+| Which return the preparer expects to file | Your preparer sets it; an e-Postcard can't be extended |
+| Due date, and the extended date if one was filed | One place for both, with the confirmation |
+| Records still missing | Reminders ask only for what is open |
+| Next board meeting date | So a review that falls too late is seen months ahead |
+| Who files, the firm or the client | Clients who file their own e-Postcard still get a reminder and a check |
+
+### How the workflow runs
+1. Every nonprofit client goes on one list with its fiscal year end. The due date is calculated on the row and your preparer confirms it.
+2. In the week after the year closes, the treasurer gets an email with a checklist of the records you need and a link to upload them.
+3. The same message asks two questions: has the treasurer or any officer changed, and when is the next board meeting?
+4. Each item that arrives is filed in the client's folder and ticked off. Reminders after two and four weeks list only what is still missing, and go to the second contact too.
+5. If the board meeting falls after the due date, the row is flagged for the preparer straight away.
+6. Your preparer prepares the return. The workflow never decides which form applies or what goes on it.
+7. The draft goes to the client for review with a plain cover note. The contact is reminded a week before the board meeting and the day after it.
+8. Two weeks before the due date, the preparer gets a list of clients that are not ready. A person decides whether to file an extension and files it.
+9. When an extension is filed, the preparer adds the new date and the confirmation to the row. The reminders move to the new date.
+10. A person at the firm files the return and adds the acceptance to the row. The client gets a copy and the date of next year's request.
+11. Clients who file their own e-Postcard get a reminder a month before the date and are asked to send the confirmation. No confirmation puts them on the partner's list.
+12. Once a month, the partner gets the list: returns due in the next 90 days, records still missing and extensions running.
+13. If AI drafts a message to a client, a person checks it before it is sent.
+
+### What stays with the firm
+Which return applies, everything on it, the decision to extend and the filing itself stay with your preparer. The IRS says an organization that doesn't file for three consecutive years loses its exempt status automatically, so the monthly list also shows any client with a year that has no filing recorded. This page doesn't cover state charity registrations, penalties or filing thresholds. For funder deadlines, see [grant reporting deadline reminders](https://mikeautomations.github.io/en/grant-reporting-deadline-reminders/), and for state filings, see [state annual report reminders](https://mikeautomations.github.io/en/state-annual-report-reminders-llc-clients/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many nonprofit clients you have and where their dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email and shared folders, or your practice software). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already requests records by fiscal year end and tracks board review, you don't need this, and we'll say so on the call.
+
+### When is Form 990 due?
+The IRS says Form 990-series returns are due on the 15th day of the fifth month after the organization's fiscal year ends. For a calendar-year organization that is May 15. Your preparer confirms the date on each client's row.
+
+### Can the due date be extended?
+IRS instructions say Form 8868, filed by the original due date, gives an automatic 6-month extension. The e-Postcard (Form 990-N) can't be extended. A person at your firm decides and files; the workflow only records the new date.
+
+### Does the workflow prepare or file anything?
+No. It asks for records, reminds, tracks the board review and keeps the dates. Your preparer prepares the return, and a person files it.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## IFTA and Form 2290 filing reminders: every trucking client's records in before the due date
+Source: https://mikeautomations.github.io/en/ifta-and-form-2290-filing-reminders-trucking-clients/
+
+An IFTA and Form 2290 reminder workflow keeps one row per trucking client with its trucks, its filings and their due dates. When a quarter closes it texts and emails the client for mileage and fuel records, reminds for what is missing and tells your preparer who is ready. Before Form 2290 season it asks each client to confirm their truck list. A person at your firm prepares and files every return.
+
+State IFTA offices list the same four due dates: quarterly returns are due on the last day of the month after each quarter, so April 30, July 31, October 31 and January 31. IRS instructions say Form 2290 is due by the last day of the month after the month a vehicle is first used on a public highway, which is August 31 for trucks used in July. For a bookkeeper or permit service with trucking clients, the return is rarely the hard part. The hard part is the records. The owner-operator is on the road, the fuel receipts are in the cab, and the mileage report comes on the 29th. Then every client is late in the same week.
+
+### Where trucking filings run late
+- The client drives all day and answers email once a week, so the request has to go by text
+- Fuel receipts arrive as phone photos, a few at a time, with some months missing
+- The mileage report from the ELD or the trip sheets comes without the state breakdown
+- A client bought a truck in October, and nobody at your firm knew a Form 2290 was due for it
+- A client sold a truck, and it is still on the list you file from
+- All the quarterly work lands in the last week of the month because nobody asked earlier
+
+### What the list holds for each client
+One row per client, with its trucks listed under it. Your tax and bookkeeping software stay where they are today. The row is what the team needs to ask early and see who is ready.
+| On the row | Why it is there |
+| --- | --- |
+| Client, cell phone and email | Drivers answer a text before an email |
+| Trucks, with the month each was first used | A truck added mid-year has its own Form 2290 date |
+| Which filings you do for this client | Some clients file their own IFTA and only want the 2290 |
+| Where mileage comes from | An ELD report, a fuel card report or trip sheets need different requests |
+| Records received for the quarter | Reminders ask only for what is open |
+| Due date and the confirmation after filing | So anyone can answer the client's question |
+| Other renewals, with dates you enter | Permits and registrations your firm handles sit on the same list |
+
+### How the workflow runs
+1. Every trucking client goes on one list with its trucks and the filings you do for it. Your preparer sets the due dates, and the list moves a weekend date to the next business day.
+2. On the first working day after a quarter closes, each IFTA client gets a text and an email asking for miles by state and fuel receipts, with a link to upload photos or reports.
+3. The message also asks one question: have you added or sold a truck since last quarter?
+4. Each file that arrives goes into the client's folder for the quarter and is ticked off the row.
+5. Reminders after one and two weeks list only what is still missing. After that, the client goes on a call list.
+6. A reported new truck goes to your preparer the same day, with the month it was first used, so a Form 2290 for it isn't missed.
+7. Your preparer prepares the return. The workflow never calculates miles, fuel or tax.
+8. The client gets the amount due to approve, with one reminder. A person at your firm files, and adds the confirmation to the row.
+9. In June, every client gets their truck list and is asked to confirm it for the new Form 2290 period. Changes go to your preparer.
+10. When a Form 2290 is filed, the stamped Schedule 1 is saved to the client's folder and sent to the client.
+11. Ten days before any due date, your preparer gets a list of clients whose records are still missing.
+12. Once a month, the owner gets the list: filings due in the next 60 days, clients not ready and renewals coming up.
+13. If AI drafts a message to a client, a person checks it before it is sent.
+
+### What stays with your firm
+Every calculation, every return, the filing and any advice stay with your preparer. The workflow doesn't sign in to a state portal or to the IRS. This page gives no tax rates or penalties, and it names no dates for UCR, IRP or state permits: those go on the list as dates your firm enters. For the driver side of a fleet's paperwork, see [driver qualification file expiry tracking](https://mikeautomations.github.io/en/driver-qualification-file-expiry-tracking/), and for clients in other trades, see [sales tax filing reminders](https://mikeautomations.github.io/en/sales-tax-filing-reminders-bookkeepers/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many trucking clients you have and how their records reach you today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, email, text messages and shared folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your clients' ELD or fuel card system already sends you state mileage and fuel reports on a schedule, you may not need this, and we'll say so on the call.
+
+### When are IFTA quarterly returns due?
+State IFTA offices list the last day of the month after each quarter: April 30, July 31, October 31 and January 31. A date on a weekend or holiday moves to the next business day. Your preparer confirms the dates on the list.
+
+### When is Form 2290 due?
+IRS instructions say it is due by the last day of the month after the month the vehicle was first used on a public highway. For trucks first used in July, that is August 31. A truck added later in the year has its own date.
+
+### Does the workflow calculate or file anything?
+No. It asks for records, reminds, files what arrives and keeps the dates. Your preparer prepares every return, and a person files it.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
