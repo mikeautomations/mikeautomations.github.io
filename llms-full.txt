@@ -17458,6 +17458,182 @@ No. The list can be a spreadsheet or can read from the pest control software you
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Fall arrest testing: every building's next date on one list, access arranged and the certificate sent
+Source: https://mikeautomations.github.io/en/fall-arrest-system-testing-reminders/
+
+A fall arrest testing workflow keeps one row per building with each system, its last examination and the interval you set. Eight weeks before the next date it emails the site contact with visit dates and access questions, books the reply into the diary, sends the certificate you issue and follows up any remedial quote. Each week you see what is due, booked and overdue.
+
+A roof safety line or a set of anchor points is tested, tagged and certified, and then nobody looks at the date until someone needs to go on the roof. The building manager has changed. The certificate is in an inbox that no longer exists. The roofer or window cleaner arrives, sees an out-of-date tag and can't clip on. You tested that system last year, and the repeat visit should be yours. The examination is your trade. Remembering every building's date and getting an answer about roof access is office work.
+
+### Why repeat tests are missed
+- Dates are spread across the year and sit in last year's job folders
+- The site contact left, and the reminder went to an address nobody reads
+- Nobody asked about roof access, keys or permits until the engineers arrived
+- One building has several systems with different dates
+- A failed anchor was quoted for, and the quote was never chased
+- The customer only calls when a contractor refuses to use the system
+
+### What the list holds for each building
+One row per building and system. Your job software stays as it is, and the list can read from it. Many systems are examined by a competent person at least every 12 months, and some need it more often. The interval for each system comes from the standard you work to, the manufacturer's instructions and your own judgement, so that field is yours.
+| On the row | Why it is there |
+| --- | --- |
+| Building, site contact and who pays | The person who books is often not the person who approves the cost |
+| Each system: line, anchors, eyebolts or rail, and where it is | The engineers know what to bring and how long it takes |
+| Last examination date and result | The date the next one is counted from |
+| Interval you set, and the next date | The date every message works back from |
+| Access: keys, permits, induction, who meets the engineers | A wasted visit costs more than the test |
+| Visit: offered, booked, done | You see at a glance what is waiting for an answer |
+| Certificate sent, and remedial quote: sent, accepted or waiting | A system that failed isn't finished until the work is done |
+
+### How the workflow runs
+1. Eight weeks before a system's next date, the site contact gets an email with two or three visit dates and your access questions.
+2. They pick a date and answer the questions in one reply. With no answer, a reminder goes a week later.
+3. After two reminders with no answer, your office gets a task to phone the site.
+4. The agreed date goes into the engineers' diary with the access notes.
+5. Two days before the visit, the site contact gets a reminder with the arrival time and what you need on the day.
+6. After the examination, your engineer writes the report and the certificate, and a person at your office approves them.
+7. The certificate goes to the site contact and the person who pays, and the next date is set on the row.
+8. If a system failed or needs work, the quote you wrote goes with the report, and is followed up until someone answers.
+9. An email that bounces is flagged, so you can find the new contact before the date and not after.
+10. A system that passes its date with no visit booked is flagged that day.
+11. Every week you get the list: tests due in the next eight weeks, visits booked, quotes waiting and systems overdue.
+12. If AI drafts a message or a summary of a report, a person checks it before it is sent.
+
+### What stays with you
+The examination, the result, the certificate and any advice about whether a system can be used stay with your competent person. The workflow repeats your dates and your wording. It makes no statement about safety and doesn't decide an interval. If a system is out of date or has failed, the message says what your engineer wrote and nothing more. For another test that needs roof access, see [lightning protection testing reminders](https://mikeautomations.github.io/en/lightning-protection-testing-reminders/). For lifting equipment on the same sites, see [LOLER thorough examination reminders](https://mikeautomations.github.io/en/loler-thorough-examination-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many buildings you test and how repeat visits are booked today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your job software or a spreadsheet, your own email and the engineers' calendar). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your job software already reminds customers and books repeat visits, and you use it, you don't need this, and we'll say so on the call.
+
+### How often does a fall arrest system need testing?
+Many systems are examined by a competent person at least every 12 months, and some need it more often. The interval for each system is set by you, from the standard you work to and the manufacturer's instructions. The workflow uses the interval on the row.
+
+### Does the workflow issue certificates?
+No. Your engineer writes the report and the certificate, and your office approves them. The workflow sends them and records the date.
+
+### Do we need new software?
+No. The list can be a spreadsheet or can read from the job software you use today. Emails go from your own address.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## FBAR season: every client asked, every account listed and every filing confirmed on one list
+Source: https://mikeautomations.github.io/en/fbar-deadline-reminders-for-clients/
+
+An FBAR workflow asks every client one question each January: did you have a foreign account last year? Clients who say yes get a short form for each account. Reminders go out until the details are in, the accountant reviews and files, and the confirmation is saved. Each week you see who hasn't answered, whose details are missing and what is filed.
+
+The FBAR is easy to miss because it isn't part of the tax return. It is filed with FinCEN, on its own form, and the client who opened an account abroad three years ago doesn't think to mention it. The question sits on page six of the organizer, ticked "no" out of habit. The client who does say yes sends a photo of one statement and nothing about the other two accounts. The IRS says the report is due April 15, with an automatic extension to October 15. Deciding who has to file is your work. Asking everyone, every year, and chasing the account details is office work.
+
+### Where FBARs go wrong
+- The question is asked once, at onboarding, and never again
+- A client inherits or opens an account abroad and tells nobody
+- The client sends a year-end balance when you need the highest value in the year
+- A joint account or an account the client only signs on is left off
+- The return is filed in March and the FBAR is forgotten until fall
+- The filing confirmation is never saved to the client's file
+
+### What the list holds for each client
+One row per client, and one line per account for clients who answer yes. Your tax software and client files stay where they are. The IRS says a US person files when the combined value of their foreign financial accounts was over $10,000 at any time in the calendar year, and the test is made again every year. Whether a client meets it, and which accounts count, is the accountant's decision.
+| On the row | Why it is there |
+| --- | --- |
+| Client and the accountant responsible | Someone owns each answer |
+| This year's answer: yes, no, or not answered | A missing answer is not a no |
+| Each account: bank, country, account number and type | The form needs every account, not only the largest |
+| Highest value in the year, and the currency | The year-end balance is not the figure asked for |
+| Joint owners, or signing authority only | These change who reports and how |
+| Signed authorization for you to file | You can't file for the client without it |
+| Date filed and the confirmation saved | If a question comes later, you can show the day |
+
+### How the workflow runs
+1. In January, every client gets a short message with one question about foreign accounts in the past year, in the plain words you approved.
+2. A client who answers no is recorded with the date of the answer.
+3. A client who answers yes gets a form with one section per account, already filled with last year's accounts to confirm or change.
+4. A client who hasn't answered is reminded after a week and again after two. After that, the accountant is told.
+5. Missing details are asked for by name: the highest value for one account, the country for another.
+6. When the details are complete, the accountant gets a task to review them and decide whether a report is due.
+7. The client gets the authorization to sign electronically, and is reminded until it is signed.
+8. The accountant files with FinCEN and saves the confirmation. The row is marked filed with the date.
+9. Every week from February you get the list: no answer, details missing, ready to review, filed.
+10. On April 1, anything not filed is listed for the accountant, with what is still missing for each.
+11. Clients still open after April 15 stay on the list through the extension, with a reminder schedule you set, until October.
+12. If AI drafts a message to a client, a person checks it before it is sent.
+
+### What stays with you
+Whether a client is a US person, which accounts count, how values are converted, whether a report is due and what to do about a missed year stay with the accountant. The workflow asks questions, collects answers and counts days. It gives no tax advice and files nothing with FinCEN. Account details are private, so the form and the list live in the accounts you already use, and only the people you choose can open them. Other foreign asset forms have their own rules and are steps you add. For other forms clients wait on, see [K-1 tracking](https://mikeautomations.github.io/en/k1-tracking-tax-preparers/). For the payments that follow the return, see [quarterly estimated tax payment reminders](https://mikeautomations.github.io/en/quarterly-estimated-tax-payment-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many clients you have and how the foreign account question is asked today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software or a spreadsheet, a secure form, your e-signature tool and your own email). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If only two or three of your clients have accounts abroad, a note in their files is enough, and we'll say so on the call.
+
+### When is the FBAR due?
+The IRS says April 15 of the year after the calendar year reported, with an automatic extension to October 15. You don't need to ask for the extension. Check the date each year, because it moves when April 15 falls on a weekend or holiday.
+
+### Is the FBAR filed with the tax return?
+No. It is filed electronically with FinCEN, separately from the return. That is one reason it gets missed, and why the workflow tracks it on its own row.
+
+### Does the workflow decide who has to file?
+No. It asks every client and collects the details. The accountant decides whether a report is due and files it.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Immunization records: every child's file on one list, parents reminded and nothing missing on inspection day
+Source: https://mikeautomations.github.io/en/daycare-immunization-record-tracking/
+
+An immunization record workflow keeps one row per child with each record your state asks for and the date the next one is due. A month ahead it asks the parent for the updated record, with a link to upload a photo of it. A person at the center checks the record and marks it received. Each week the director sees what is due, missing and overdue.
+
+A child's file is complete on the first day and out of date a few months later. Children grow into the next record, and the binder doesn't tell anyone. The director finds out during a file check the week before a licensing visit, and spends that week calling parents at pick-up. Parents mean to bring the form and forget, or the doctor's office gave them one that is missing a date. Every state sets its own rules for what a center has to hold. Reading a record and deciding whether it is complete is your staff's job. Knowing whose record is due next month and asking for it is office work.
+
+### Why files fall behind
+- Records are checked at enrollment and not looked at again
+- Due dates depend on each child's age, so every file has its own calendar
+- The reminder is a note in a cubby, and it goes home in a lunch bag
+- A parent hands over a record and nobody marks it in the file
+- A record arrives with a date or a signature missing and sits in a tray
+- The full file check happens only when a licensing visit is close
+
+### What the list holds for each child
+One row per child. Your child care software stays as it is, and the list can read from it. Which records you must hold, when each is due and how exemptions are recorded come from your state's rules and your licensing office, so you set those dates and the workflow follows them.
+| On the row | Why it is there |
+| --- | --- |
+| Child, classroom and date of birth | Due dates follow the child's age |
+| Parent or guardian and the best way to reach them | A text gets read sooner than a paper note |
+| Each record your state asks for, and whether it is on file | The gap is visible before an inspector finds it |
+| Next date a record is due | The date every reminder works back from |
+| Record received, and who checked it | Received is not the same as checked |
+| What is wrong with a record that was sent back | The parent is told exactly what to fix |
+| Exemption or other status, as your state records it | These children are not chased by mistake |
+
+### How the workflow runs
+1. At enrollment, the child's row is opened with the records you hold and the dates you set for the next ones.
+2. A month before a record is due, the parent gets a text and an email, in the words you approved, saying which record is needed and by when.
+3. The message has a link to upload a photo or a PDF of the record. A parent can also hand in paper, and the front desk marks it.
+4. A staff member checks the record against your checklist and marks it complete, or sends it back with the reason.
+5. A parent who hasn't answered is reminded two weeks before the date and again a week before.
+6. If nothing has arrived by the date, the director gets a task to talk to the parent. What happens next follows your policy.
+7. The checked record is saved to the child's file, and the next due date is set.
+8. A child with an exemption or other status on file gets no reminders for those records, and the row shows why.
+9. Every Monday the director gets the list: records due in the next month, sent but not checked, and overdue.
+10. Before a licensing visit, the list shows every child's file on one page, with what is missing.
+11. If AI drafts a message to a parent, a person checks it before it is sent.
+
+### What stays with you
+What your state requires, whether a record is complete, how exemptions are handled and what happens when a record is late stay with the director. The workflow asks parents for the records you tell it to ask for. It gives no medical advice and doesn't read a record for you. Children's health records are private, so they are stored where you keep them today, and only the staff you choose can open them. Texts go only to parents who agreed to get them. For enrollment and waiting lists, see [nursery enrolment and waiting list](https://mikeautomations.github.io/en/nursery-enrolment-and-waiting-list/), written for UK nurseries. For staff files, see [new hire paperwork collection](https://mikeautomations.github.io/en/new-hire-paperwork-collection-small-business/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many children you have enrolled and how records are checked today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your child care software or a spreadsheet, your own email, text messages and the folder where files are kept). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your child care software already tracks records and reminds parents, and you use it, you don't need this, and we'll say so on the call.
+
+### Which records does it track?
+The ones you tell it to. Every state sets its own requirements for child care, so the list of records and the due dates come from you and your licensing office.
+
+### Does it decide whether a record is acceptable?
+No. A staff member checks each record against your checklist and marks it. The workflow only asks, reminds and keeps the list.
+
+### Where are the records stored?
+Where you keep them today, such as your child care software or a folder only chosen staff can open. Nothing is stored with Mike Automations.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
