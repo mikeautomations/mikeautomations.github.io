@@ -17278,6 +17278,180 @@ No. The list can be a spreadsheet or can read from the field service software yo
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## R&D claim notification: every client's six-month date on one list, and a question asked before it passes
+Source: https://mikeautomations.github.io/en/rd-claim-notification-deadline-tracking-accountants/
+
+A claim notification workflow keeps one row per company client with its period end and the date six months later. Soon after each year end it asks the director a short question about new development work. A yes reaches the adviser, who decides whether a notification is needed and submits it. Each week you see whose date is close and who hasn't answered.
+
+Some companies have to tell HMRC that they plan to claim R&D tax relief before they claim it. GOV.UK sets the limit at six months after the end of the period of account. The companies caught by this are the ones you are least likely to think of: clients who have never claimed, or who last claimed years ago. Their accounts are often prepared seven or eight months after the year end, when the date has already gone. Deciding whether a client's work counts is the adviser's job. Asking every client the question in time is office work, and it can run on its own.
+
+### Why the notification date is missed
+- The date falls before most clients send their year-end records
+- The client has never claimed, so nobody thinks to ask
+- A client who claimed years ago is assumed to be covered
+- The director doesn't call the work research, so never mentions it
+- A changed year end moves the date and the diary isn't updated
+- The question is asked at the accounts meeting, months too late
+
+### What the list holds for each client
+One row per company, with dates counted from the period end you already hold. Your practice software stays as it is. Whether a company needs to notify depends on its claim history, and the test has details that the adviser applies. The list only shows what is known and what is still open.
+| On the row | Why it is there |
+| --- | --- |
+| Company, director and the adviser responsible | So the question and the answer reach the right people |
+| End of the period of account | The six months are counted from this date |
+| Notification date, six months later | The date everything else works back from |
+| Last R&D claim, if any, and the period it covered | The adviser needs this to decide if a notification is needed |
+| The director's answer to the question | Yes, no, not sure, or no answer yet |
+| Adviser's decision and the date the form was submitted | A decision closes the row for that period |
+
+### How the workflow runs
+1. Each month, companies whose period has just ended go on the list with their notification date.
+2. The director gets a short email in plain words: did the company try to build or improve a product, process or software this year, and was the outcome uncertain?
+3. They answer with one click: yes, no or not sure.
+4. A yes or a not sure goes to the adviser the same day, with the client's claim history from the row.
+5. A no is recorded with the date, and the row is closed for that period.
+6. With no answer, a reminder goes after two weeks and again a month later.
+7. The adviser decides whether a notification is needed, submits the form and records the date and reference.
+8. Two months before the date, clients who still haven't answered go on a call list.
+9. Every week the partners get the list: dates in the next 60 days, answers waiting for an adviser and clients who are silent.
+10. If AI drafts an email to a client, a person checks it before it is sent.
+
+### What stays with you
+Whether the work qualifies, whether a notification is needed, what goes on the form and the claim itself stay with the adviser. The workflow asks a question and counts dates. It gives no tax advice and submits nothing to HMRC. The rules change, so the wording of the question and the six-month count are yours to set and review against GOV.UK. For the tax payment that follows the same period end, see [Corporation Tax payment reminders](https://mikeautomations.github.io/en/corporation-tax-payment-reminders-for-clients/). For getting the year-end records in, see [limited company year-end records](https://mikeautomations.github.io/en/limited-company-year-end-records/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many company clients you have and where their period ends are held today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software or a spreadsheet, and your own email). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your practice software already asks this question at each year end and you use it, you don't need this, and we'll say so on the call.
+
+### When is the claim notification deadline?
+GOV.UK sets the end of the claim notification period at six months after the end of the period of account. Check the current guidance for each client, because the detail for long periods needs care.
+
+### Which companies need to notify?
+In general, companies claiming for the first time and companies that haven't claimed in the last three years. The exact test is in the GOV.UK guidance, and the adviser applies it to each client.
+
+### Does the workflow submit the form to HMRC?
+No. The adviser submits it. The workflow asks the question, counts the dates and records the decision and the submission date.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## S corp elections: every client's Form 2553 date, every owner's signature and the IRS letter on one list
+Source: https://mikeautomations.github.io/en/s-corp-election-deadline-tracking-accountants/
+
+An S corp election workflow keeps one row per client with the tax year the election is for and the last day to file. It asks you which clients to review, collects each owner's signature on the form, records the day it was filed and waits for the IRS acceptance letter. Each week you see what is unsigned, what is filed and what has no letter yet.
+
+An S corporation election has a short window. The IRS instructions for Form 2553 say it must be filed no more than two months and 15 days after the start of the tax year it takes effect, or any time during the year before. For a calendar-year business that lands in the middle of March, the busiest weeks of the year. The talk with the client happens in the fall, the form needs every owner's signature, and the new client who formed an LLC in January calls in April. Whether to elect is your advice. Tracking the date, the signatures and the acceptance letter is office work.
+
+### Where elections go wrong
+- The client agreed in a November call and nobody opened a task
+- One owner's signature is missing and the form sits in a folder
+- A new business has its own date, counted from the day it started
+- The form was sent, and nobody kept proof of the day
+- The acceptance letter went to the client, who never forwarded it
+- Payroll was never set up, because nobody told the payroll provider
+
+### What the list holds for each election
+One row per client and election. Your tax software and client files stay where they are. The last day to file is worked out from the start of the tax year, and you check it for each client, because a new business or a fiscal year changes the count.
+| On the row | Why it is there |
+| --- | --- |
+| Client, entity type and the accountant responsible | An LLC and a corporation start from different places |
+| Tax year the election is for, and its first day | The filing window is counted from this day |
+| Last day to file | The date every reminder works back from |
+| Each owner who has to sign, and whether they have | One missing signature holds the whole form |
+| Date filed, how it was sent and proof of sending | If the IRS has no record, you can show the day |
+| IRS acceptance letter: received or not | The election isn't finished until the letter is on file |
+| Next steps: payroll set up, client told what changes | The election is the start of the work, not the end |
+
+### How the workflow runs
+1. Each fall, you get the list of business clients that are not S corporations, to mark the ones you want to review.
+2. For each marked client, a task opens for the accountant, and the client is offered a time to talk.
+3. When a client decides to elect, the row opens with the tax year and the last day to file.
+4. The accountant prepares Form 2553 and approves it.
+5. Each owner gets the form to sign electronically, with a plain note on what it is.
+6. An owner who hasn't signed is reminded after three days and again after a week. After that, the accountant is told.
+7. When all signatures are in, the accountant files the form and records the date and the proof of sending.
+8. A new business client is added the day they sign up, with the date counted from when the business started.
+9. If no acceptance letter is recorded after the time you set, the accountant gets a task to follow up.
+10. When the letter arrives, it is filed, and the client and your payroll contact get the next-steps message you approved.
+11. Every week from January you get the list: unsigned forms, forms ready to file and days left for each.
+12. If AI drafts a message to a client, a person checks it before it is sent.
+
+### What stays with you
+Whether a client should elect, whether the business is eligible, what goes on the form and what to do about a late election stay with the accountant. The IRS has a procedure for relief when an election is late, with conditions, and that call is yours too. The workflow counts days and chases signatures. It gives no tax advice and files nothing with the IRS. State rules differ, so any state election is a step you add. For the payments that follow, see [quarterly estimated tax payment reminders](https://mikeautomations.github.io/en/quarterly-estimated-tax-payment-reminders/). For a filing that comes back rejected, see [e-file rejection follow-up](https://mikeautomations.github.io/en/e-file-rejection-client-follow-up/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many business clients you have and how elections are tracked today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your practice software or a spreadsheet, your e-signature tool and your own email). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If you handle two or three elections a year, a calendar entry is enough, and we'll say so on the call.
+
+### When is Form 2553 due?
+The IRS instructions say no more than two months and 15 days after the start of the tax year the election takes effect, or any time during the tax year before. For a calendar-year business that is mid-March. Check the date for each client.
+
+### What if an election is late?
+The IRS has a procedure for late election relief, with conditions. Whether a client qualifies and how to ask is the accountant's decision. The workflow only shows which rows are past their date.
+
+### Does the workflow file the form?
+No. The accountant files it. The workflow collects signatures, counts the days and records the filing date and the acceptance letter.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Termite renewals: every plan's date on one list, the inspection booked and the customer asked before it lapses
+Source: https://mikeautomations.github.io/en/termite-renewal-and-annual-inspection-reminders/
+
+A termite renewal workflow keeps one row per protected home with the plan's renewal date. Six weeks ahead it offers the customer a day for the annual inspection, sends the renewal notice with a way to pay, and reminds until they renew or say no. A lapsed plan is flagged the day it lapses. Each week you see what is due, booked, paid and at risk.
+
+A termite plan is paid once a year by a customer who hasn't thought about termites since the last payment. The renewal letter arrives with a price and nothing else. The annual inspection, the one visit that shows them what they are paying for, was never booked, or happened after the letter. Some customers pay out of habit. Others let it lapse, and nobody at your office notices until the home is sold and a buyer asks for the paperwork. The inspection is your trade. Keeping each home's date and asking in the right order is office work.
+
+### Why termite plans lapse
+- Renewal dates are spread across the year, so no month feels urgent
+- The notice goes out by mail, once, and a missed letter ends it
+- The inspection isn't booked before the notice, so the customer sees only a bill
+- The customer wasn't home, the inspection was skipped and nobody rebooked
+- A card on file expired and the failed payment went unnoticed
+- The home was sold, and the new owner was never told there is a plan
+
+### What the list holds for each home
+One row per protected home. Your pest control software stays as it is, and the list can read from it. What the plan covers and what happens when it lapses come from your own agreement, so those words are yours.
+| On the row | Why it is there |
+| --- | --- |
+| Customer, address and best way to reach them | A text gets an answer sooner than a letter |
+| Plan type and what was installed or treated | The inspector knows what to check before arriving |
+| Renewal date and renewal price | The date every message works back from |
+| Annual inspection: booked, done, or not yet | The inspection should come before the bill |
+| Inspection report sent to the customer | It shows what the plan paid for this year |
+| Payment: paid, card failed, or waiting | A failed card needs a different message from silence |
+| Answer: renewed, later, sold the home, no thanks | A no stops the reminders for that home |
+
+### How the workflow runs
+1. Six weeks before a plan's renewal date, the customer gets a text and an email offering days when an inspector is in their area.
+2. They pick a day with one reply. With no answer, a reminder goes a week later.
+3. The day before the visit, the customer gets a reminder with the time window.
+4. After the inspection, the inspector's report goes to the customer the same day, once a person at your office has approved it.
+5. The renewal notice follows the report, with the price you set and a link to pay.
+6. A customer who hasn't paid is reminded two weeks before the date and again three days before.
+7. A failed card gets its own message asking the customer to update it.
+8. Payment marks the row renewed and sets next year's dates.
+9. A reply that the home was sold closes the row. If you choose, a letter goes to the address telling the new owner about the plan.
+10. A plan that passes its date unpaid is flagged that day, and the customer goes on a call list for the office.
+11. Every week you get the list: renewals due in the next six weeks, inspections booked, payments waiting and plans that lapsed.
+12. If AI drafts a message or a report summary, a person checks it before it is sent.
+
+### What stays with you
+What the inspector finds, what the report says, the renewal price and what your plan covers stay with you. The workflow repeats your dates and your wording and makes no promise about termites or damage. State rules for inspection reports and plan terms differ, so the forms you use and the wording of every notice are yours to set. Texts go only to customers who agreed to get them, and each message has a way to opt out. For recurring visits on commercial contracts, see [pest control contract visits and reports](https://mikeautomations.github.io/en/pest-control-contract-visits-and-reports/). For another yearly plan that works the same way, see [maintenance agreement renewals](https://mikeautomations.github.io/en/hvac-maintenance-agreement-renewals/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many termite plans you have and how renewals go out today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your pest control software or a spreadsheet, email, text messages, your calendar and your payment link). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your pest control software already books the inspection and sends renewal reminders, and you use them, you don't need this, and we'll say so on the call.
+
+### Should the inspection come before the renewal notice?
+That is your choice. Many companies prefer it, because the customer sees the report before the bill. The workflow can run either order.
+
+### What happens when a plan lapses?
+It is flagged the day it passes its date unpaid, and the customer goes on your call list. What a lapse means for coverage comes from your agreement, and your office explains it.
+
+### Do we need new software?
+No. The list can be a spreadsheet or can read from the pest control software you use today. Messages go from your own email and text number.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 

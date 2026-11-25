@@ -355,6 +355,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [EICR renewal reminders](https://mikeautomations.github.io/en/eicr-renewal-reminders-electricians/): For UK electricians: every report's next inspection date on one list, with reminders to the landlord or agent and a link to book before it's due.
 - [Law firm file closing and retention](https://mikeautomations.github.io/en/law-firm-file-closing-and-retention-tracking/): For small law firms: a closing checklist for every finished matter, the closing letter sent, and each file's review and destruction dates on one list.
 - [Filter change reminders for water treatment dealers](https://mikeautomations.github.io/en/water-filter-change-reminders-water-treatment-dealers/): For water treatment dealers: every installed system's next filter change on one list, with a reminder to the customer and a simple way to book or order.
+- [R&D claim notification deadline tracking](https://mikeautomations.github.io/en/rd-claim-notification-deadline-tracking-accountants/): For UK accountants: every company client's R&D claim notification deadline on one list, a short question to the director and an alert before the date.
+- [S corp election deadline tracking](https://mikeautomations.github.io/en/s-corp-election-deadline-tracking-accountants/): For US accountants: every client's Form 2553 date on one list, signatures collected from each owner, and proof of filing and IRS acceptance kept on file.
+- [Termite renewal and annual inspection reminders](https://mikeautomations.github.io/en/termite-renewal-and-annual-inspection-reminders/): For pest control companies: every termite plan's renewal date on one list, the annual inspection booked ahead and reminders until the customer renews.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
