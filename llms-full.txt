@@ -5898,6 +5898,12 @@ Yes, if your CRM can export leads or connect to other tools. If it can't, a spre
 ### Is it legal to text real estate leads in the US?
 It can be, if you follow the FCC's TCPA rules: written consent for marketing texts sent with an autodialer, no telephone solicitations before 8 a.m. or after 9 p.m. local time, Do Not Call Registry checks, and honoring opt-outs. Check with your broker for your state.
 
+### How do I automate follow-up for apartment leads?
+Send an instant first reply with the rent, availability date, requirements and a tour booking link. If there's no reply, send one reminder the same day and one the next morning, then close the lead. After a tour, send the application link and the document list. Keep the wording the same for every prospect so it meets fair housing rules.
+
+### What tool do I need for automated apartment lead follow-up?
+Often none new. Many property management and listing platforms can send the first reply, and an automation platform such as Zapier, Make or n8n can add the reminders, tour bookings and application links around the tools you already use.
+
 ### How do I stop real estate automated follow-ups?
 Give the workflow stop rules: any reply, an opt-out, a booked showing, an offer or a closed deal ends the automated messages for that lead. You can also stop it by changing the lead's stage in your CRM or sheet, because each message checks the stage before it sends.
 
