@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Updated: 2026-11-24. Facts summary: https://mikeautomations.github.io/llms.txt
+Updated: 2026-11-25. Facts summary: https://mikeautomations.github.io/llms.txt
 
 ## Home: Mike Automations
 Source: https://mikeautomations.github.io/en/
@@ -17100,6 +17100,180 @@ HSE says it strongly recommends annual refresher training during the three years
 
 ### Who gets the reminders?
 The person at the employer who books training, with a second contact copied in later. A learner is contacted directly only if they gave their own email and agreed to it.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## EICR renewal reminders: every report's next inspection date, and a booking before it's due
+Source: https://mikeautomations.github.io/en/eicr-renewal-reminders-electricians/
+
+An EICR renewal workflow keeps one row per property with the date of the last report and the next inspection date you wrote on it. Months before that date it tells the landlord or agent which properties are due and gives them a way to book. It reminds until they book or say no. Each week you see what is due and who hasn't answered.
+
+Every EICR you issue carries a date for the next inspection. For private rented homes in England, the regulations say the fixed installation must be inspected and tested at least every five years, or sooner if the report says so. So each report is a likely booking years later. Most electricians lose it for a plain reason: five years is a long time, the landlord has changed agent, and whoever is searching in the last month books the first electrician who answers. The inspection is your skill. Keeping the dates and asking on time is office work.
+
+### Where repeat inspections are lost
+- The next inspection date is on the report, and the report is a PDF in a folder
+- A landlord with eight properties has eight different dates
+- The agent who booked the last inspection no longer manages the property
+- A report with a shorter interval than five years is remembered as five
+- The landlord asks with two weeks left, in your busiest month
+- You only find out the job went elsewhere when you see another firm's label on the board
+
+### What the list holds for each property
+One row per property. Your reports and certificates stay in the software you issue them from. The row is what you need to ask on time and see who has answered.
+| On the row | Why it is there |
+| --- | --- |
+| Property address and type of let | One landlord's properties are grouped in one message |
+| Date of the last report and its result | So you know what the customer already has |
+| Next inspection date, as written on the report | Reminders are counted back from this date, not from a fixed five years |
+| Landlord, and the agent if there is one | The reminder goes to whoever books the work |
+| How to get access: tenant contact or key holder | Most delays are about access, not about the price |
+| Answer: booked, later, sold, no thanks | A no stops the reminders for that property |
+
+### How the workflow runs
+1. After each inspection, the property goes on the list with the next inspection date from the report.
+2. Your past reports are loaded once, so older customers are on the list too.
+3. Six months before the date, the landlord or agent gets one message listing their properties that are due, by address and date.
+4. The message has a link to choose a week, and a reply is enough for customers who prefer email.
+5. With no answer, reminders go at four months and at two months.
+6. A booking is marked on the row and stops the reminders for that property.
+7. Once a date is agreed, the tenant gets a message with the day, the time window and how long the power will be off.
+8. The tenant is reminded the day before, and a reply that the time doesn't work comes to you.
+9. A reply that the property was sold or is no longer let closes the row.
+10. With six weeks left and no answer, the row comes to you for a phone call.
+11. After the inspection, the new date goes on the row and the count starts again.
+12. Every week you get the list: properties due in the next six months, who hasn't answered and what is booked.
+13. If AI drafts a message to a customer, a person checks it before it is sent.
+
+### What stays with you
+The inspection, the codes, the result and the next inspection date are yours to decide and to write on the report. The workflow only repeats the date you set. Whether a property needs a report, and by when, is the landlord's responsibility, and the rules differ between England, Scotland, Wales and Northern Ireland, so the messages say only what you decide they should say. Messages go to customers about a service they already bought, and every message has a way to opt out. For what happens after an unsatisfactory report, see [EICR remedial work follow-up](https://mikeautomations.github.io/en/eicr-remedial-work-follow-up-electricians/). Agents who track every certificate for a portfolio can see [compliance certificate reminders for letting agents](https://mikeautomations.github.io/en/letting-agent-compliance-certificate-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many reports you issue a year and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your job software, email, text messages and a booking link). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your certificate software already reminds customers before the next inspection date, you don't need this, and we'll say so on the call.
+
+### How often does a rented home need an EICR?
+For private rented homes in England, the regulations say the fixed electrical installation must be inspected and tested at least every five years, or sooner if the report says so. Other parts of the UK have their own rules.
+
+### Which date do the reminders use?
+The next inspection date you wrote on the report. If you gave a property a shorter interval, the reminders follow that date.
+
+### Who gets the reminders?
+Whoever books the work: the landlord, or the agent if there is one. The tenant is only contacted about access once a date is agreed.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Law firm file closing: a checklist for every finished matter, and a date for every closed file
+Source: https://mikeautomations.github.io/en/law-firm-file-closing-and-retention-tracking/
+
+A file closing workflow starts when a matter is marked finished. It gives the fee earner a short checklist, drafts the closing letter for a person to approve, and records the review and destruction dates your policy sets for that matter type. Each month it lists matters that finished but were never closed, and closed files whose dates are coming up.
+
+Opening a file has a process. Closing one usually doesn't. The work ends, the last bill goes out, and the file stays "open" for years because nobody had a reason to close it. Checklists published by bar associations follow the same pattern: check nothing is left to do, return the client's original documents, send a closing letter, and set a destruction date at the moment the file is closed. None of it is legal work, and all of it is easy to skip on a busy day. This page shows how a small firm can make closing happen every time, with the decisions left to its lawyers.
+
+### What goes wrong without a closing step
+- Matters finished two years ago still show as open, so the list of live work can't be trusted
+- The client never got a letter saying the firm's work has ended
+- Original wills, deeds and certificates sit in a file nobody will open again
+- A small balance is left in the client account with no instruction about it
+- No destruction date was set, so boxes and folders are kept forever, or cleared out by guesswork
+- When a former client asks for their file, nobody knows if it still exists
+
+### The closing checklist, and who answers each line
+The lines below are the ones most published checklists share. Yours will follow your own policy, your regulator's rules and your insurer's guidance.
+| Line on the checklist | Who answers it |
+| --- | --- |
+| Nothing is left to do, and no date is still running | The lawyer who ran the matter |
+| Final bill sent and paid, or the balance written off | Accounts |
+| No money left in the client account for this matter | Accounts, with a lawyer's sign-off |
+| Original documents returned, or stored with the client's agreement | The lawyer or their assistant |
+| Closing letter sent | Drafted for you, approved by the lawyer |
+| Matter type, review date and destruction date recorded | Filled in from your policy, confirmed by a person |
+
+### How the workflow runs
+1. A matter is marked finished in your case software, or the final bill is paid. Either can be the start.
+2. The lawyer who ran the matter gets the checklist as a short form, with the matter's details already filled in.
+3. Accounts get their two lines at the same time, so nobody waits for anybody.
+4. The closing letter is drafted from your template: the work has ended, what is being returned, how long the file is kept and how to ask for it.
+5. The lawyer reads the letter, changes what needs changing and approves it. Nothing goes to a client without that.
+6. The review and destruction dates are worked out from your own policy for that matter type, and a person confirms them.
+7. When every line is answered, the matter is marked closed and the dates go on the closed-file list and the firm's calendar.
+8. A checklist that is still open after two weeks is sent again, and after four weeks it goes to the partner in charge.
+9. Every month the partners get two lists: matters with no activity that were never closed, and closed files whose review date is in the next three months.
+10. At the review date, a lawyer decides: destroy, keep longer, or return to the client. The decision and its date are recorded.
+11. A record is kept of every file destroyed: which file, when, how, and who approved it.
+
+### What stays with your lawyers
+Whether a matter is really finished, what the closing letter says, how long each type of file is kept, and whether a file is destroyed are all decisions for a lawyer. The workflow asks the questions on time and records the answers. It destroys nothing and sends nothing by itself. Retention periods differ by matter type and by jurisdiction, so the dates come from your written policy, never from us. The closed-file list holds matter names and dates, not the documents. For the other end of a matter, see [law firm client intake](https://mikeautomations.github.io/en/law-firm-client-intake/). For dates that can't be missed while a matter is live, see [statute of limitations tracking](https://mikeautomations.github.io/en/statute-of-limitations-tracking-law-firms/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how matters are closed today and what your retention policy says. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your case software or a spreadsheet, email, a form and the firm's calendar). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your case software already runs a closing checklist and reminds you of destruction dates, you don't need this, and we'll say so on the call.
+
+### How long should a law firm keep closed files?
+It depends on the type of matter and on where you practise. Your regulator's rules, your insurer's guidance and your own written policy set the periods. The workflow uses the periods in your policy and a person confirms each date.
+
+### Does the workflow destroy files?
+No. At the review date it asks a lawyer to decide and records the answer. Destroying a file is done by your people, and the record shows who approved it.
+
+### Who writes the closing letter?
+It is drafted from your own template with the matter's details filled in. The lawyer who ran the matter reads it, edits it and approves it before it is sent.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Filter change reminders: every installed system's next service date, and a customer who hears from you first
+Source: https://mikeautomations.github.io/en/water-filter-change-reminders-water-treatment-dealers/
+
+A filter change workflow keeps one row per installed system with what was installed, when, and the schedule you set for it. Before each date it tells the customer what is due and lets them book a visit or order the filter with one reply. It reminds until they answer. Each week you see what is due, what is booked and who has gone quiet.
+
+A water treatment sale is the start of a long relationship: filters, membranes, lamps and a yearly check, for as long as the system is in the house. Most dealers know this and still lose the work. The install is finished, the paperwork is filed, and nobody is told when the first filter is due. A year later the customer buys a filter online, or calls whoever shows up in a search. The service is your trade. Remembering each home's dates and asking on time is office work, and it can run without a new system to learn.
+
+### Where service work is lost after the install
+- The install date is on an invoice, and nobody looks at old invoices
+- Each system has several parts on different schedules
+- The customer doesn't know which filter they have, so they don't know what to order
+- Reminder cards are mailed when someone has a quiet week
+- A customer who skipped one change is never asked again
+- The house was sold, and the new owner has never heard of you
+
+### What the list holds for each system
+One row per part that needs changing, grouped by home. Your invoices and job history stay in the software you use today. The schedule for each part is the one you set, from the manufacturer's instructions and what you know about the water at that address.
+| On the row | Why it is there |
+| --- | --- |
+| Customer, address and best way to reach them | Texts get answered faster than letters |
+| System and model installed, and the install date | So the customer is told exactly what they have |
+| Each part that needs changing, and its schedule | A prefilter and a membrane are not due together |
+| Date of the last change and who did it | The next date is counted from the last change, not the install |
+| How they like it done: a visit, or a filter shipped | Some customers change their own filters |
+| Answer: booked, ordered, later, moved, no thanks | A no stops the reminders for that system |
+
+### How the workflow runs
+1. After each install, the system goes on the list from the job record, with its parts and the schedule you set.
+2. The customer gets a short message a week later: what was installed, when the first change is due and how you'll remind them.
+3. Three weeks before a part is due, the customer gets a text and an email naming the part, in plain words.
+4. They reply 1 to book a visit or 2 to have the filter shipped. A visit request offers the days your technicians are in that area.
+5. With no answer, one reminder goes a week later and one more on the due date.
+6. A booking or an order is marked on the row and stops the reminders for that part.
+7. Parts due within a few weeks of each other are offered as one visit.
+8. After the change, the technician marks it done, and the next date is set from that day.
+9. A reply that the customer has moved closes the row. If you choose, a card goes to the address introducing you to the new owner.
+10. A customer who hasn't answered three reminders goes on a call list for the office.
+11. Every week you get the list: parts due in the next month, visits booked, filters to ship and customers on the call list.
+12. If AI drafts a message to a customer, a person checks it before it is sent.
+
+### What stays with you
+How often each part is changed, what you charge and what you tell a customer about their water stay with you. The workflow repeats the schedule you set and makes no claims about water quality or health. Messages go to your own customers about equipment they bought from you, texts are sent only to people who agreed to get them, and every message has a way to opt out. If you also sell a yearly plan, see [maintenance agreement renewals](https://mikeautomations.github.io/en/hvac-maintenance-agreement-renewals/) for how renewals can be handled. For the report a customer gets after each visit, see [pool service visit reports](https://mikeautomations.github.io/en/pool-service-visit-reports/), which works the same way for water treatment visits.
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many systems you have installed and where the install records live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or your field service software, email, text messages and your calendar). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your field service software already sends filter reminders and you use them, you don't need this, and we'll say so on the call.
+
+### How often should filters be changed?
+It depends on the system, the part and the water at that address. The schedule on each row is the one you set from the manufacturer's instructions. The workflow only reminds on the dates you chose.
+
+### Can customers who change their own filters be included?
+Yes. Their row is marked "ship", and the reminder offers to send the right filter. You still hear from them once per change.
+
+### Do we need new software?
+No. The list can be a spreadsheet or can read from the field service software you already use. Messages go from your own email and text number.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.

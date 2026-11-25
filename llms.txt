@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-24.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-25.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
@@ -352,6 +352,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [60-day CGT property returns](https://mikeautomations.github.io/en/cgt-60-day-property-return-tracking-accountants/): For UK accountants: hear about a client's property sale before completion, collect the figures early and track every 60-day return on one list.
 - [1031 exchange deadline tracking](https://mikeautomations.github.io/en/1031-exchange-deadline-tracking/): For exchange companies, real estate attorneys and CPAs: every 1031 exchange on one list, with the 45-day and 180-day dates and reminders to the client.
 - [First aid certificate renewal reminders](https://mikeautomations.github.io/en/first-aid-certificate-renewal-reminders-training-providers/): For UK first aid training providers: every learner's certificate expiry on one list, with reminders to the employer and a link to book before it runs out.
+- [EICR renewal reminders](https://mikeautomations.github.io/en/eicr-renewal-reminders-electricians/): For UK electricians: every report's next inspection date on one list, with reminders to the landlord or agent and a link to book before it's due.
+- [Law firm file closing and retention](https://mikeautomations.github.io/en/law-firm-file-closing-and-retention-tracking/): For small law firms: a closing checklist for every finished matter, the closing letter sent, and each file's review and destruction dates on one list.
+- [Filter change reminders for water treatment dealers](https://mikeautomations.github.io/en/water-filter-change-reminders-water-treatment-dealers/): For water treatment dealers: every installed system's next filter change on one list, with a reminder to the customer and a simple way to book or order.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
