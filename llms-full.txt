@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Updated: 2026-11-25. Facts summary: https://mikeautomations.github.io/llms.txt
+Updated: 2026-11-27. Facts summary: https://mikeautomations.github.io/llms.txt
 
 ## Home: Mike Automations
 Source: https://mikeautomations.github.io/en/
@@ -17630,6 +17630,180 @@ No. A staff member checks each record against your checklist and marks it. The w
 
 ### Where are the records stored?
 Where you keep them today, such as your child care software or a folder only chosen staff can open. Nothing is stored with Mike Automations.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Driver CPC: every driver's hours, courses and card date on one list, months ahead
+Source: https://mikeautomations.github.io/en/driver-cpc-periodic-training-tracking/
+
+A Driver CPC tracking workflow keeps one row per driver with the card expiry date, the hours done so far and the courses booked. It asks each driver for their hours record, reminds them and the transport manager when hours are short, and warns you months before a card runs out, while there is still time to book courses.
+
+Nobody forgets that Driver CPC exists. What goes wrong is the timing. A driver did four courses in their first two years and none since, and the oldest is about to stop counting. An agency driver's card expires in three weeks and nobody in the office has seen it. A new starter says their hours are "all done" and the proof never arrives. GOV.UK says lorry, bus and coach drivers must do 35 hours of periodic training every 5 years. Booking the right courses is your decision. Knowing where every driver stands, every month, is office work.
+
+### Where Driver CPC tracking goes wrong
+- Card dates live in a spreadsheet that was last updated when the driver started
+- A course taken more than five years ago is still counted in the total
+- Drivers are asked in a group message, and the ones who are short don't reply
+- Courses are booked in the last month, when the only places left are far away
+- A driver who now does European work has only done National courses
+- A new card arrives and nobody records the new expiry date
+
+### What the list holds for each driver
+One row per driver. Your transport software and driver files stay where they are. GOV.UK says a course counts for 5 years from the day it was taken, and only approved courses with approved centres count. It also says drivers who work in the UK and Europe need International courses, while UK-only work can use National courses or a mix. Which courses each driver needs is the operator's decision.
+| On the row | Why it is there |
+| --- | --- |
+| Driver and the depot or manager responsible | Someone owns each driver's date |
+| Card expiry date, and a photo of the card | The date everything else counts back from |
+| Each course: date, hours, provider and type | Old courses drop out of the total on their own date |
+| Hours that count today, and hours still needed | The number the driver and the manager both see |
+| Courses booked, with dates | Booked is not the same as done |
+| UK only, or UK and Europe | It changes which courses count for that driver |
+| Date the hours were last checked against the driver's record | A list nobody checks goes stale |
+
+### How the workflow runs
+1. Every driver is added once, with the card date and the courses already done.
+2. Twice a year each driver gets a short message asking for a screenshot of their hours record from GOV.UK, with the link.
+3. A person in the office checks the screenshot against the row and corrects it.
+4. Twelve months before a card date, a driver who is short of hours gets a message with the number still needed. The transport manager gets the same list.
+5. The manager chooses and books the courses. The booking is added to the row.
+6. The driver is reminded a week before each course and the day before.
+7. After the course the driver is asked to confirm it was done. The hours are added when the office has checked.
+8. Three months before a card date, anyone still short is listed for the manager every week until booked.
+9. When the new card arrives, the driver sends a photo and the row gets the new date.
+10. Every month you get one list: on track, short of hours, booked, and cards due in the next year.
+11. If AI drafts a message to a driver, a person checks it before it is sent.
+
+### What stays with you
+Which courses to book, whether a course is approved, whether a driver may drive and what an exemption covers stay with the operator and the transport manager. The workflow keeps dates, asks drivers and counts hours. It doesn't log in to any government service, and it gives no legal advice. The rules here are the ones on GOV.UK for Great Britain, and Northern Ireland has its own process. GOV.UK also describes changes to Driver CPC, so check the current guidance before you rely on a date. For the vehicles, see [HGV safety inspection and MOT reminders](https://mikeautomations.github.io/en/hgv-safety-inspection-and-mot-reminders/) and [tachograph calibration reminders](https://mikeautomations.github.io/en/tachograph-calibration-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many drivers you have and where their card dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your email, text messages and your calendar). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If you have five drivers and their dates are a year apart, a calendar entry for each is enough, and we'll say so on the call.
+
+### How many hours of Driver CPC training are needed?
+GOV.UK says 35 hours of periodic training every 5 years for lorry, bus and coach drivers. A driver who drives both lorries and buses does one set of training, not two.
+
+### How does a driver check their hours?
+GOV.UK has a service where drivers check their own periodic training hours. The workflow asks each driver for a screenshot twice a year, and a person in your office compares it with the list.
+
+### Does the workflow book the courses?
+No. It shows who needs hours and when. The transport manager chooses the provider and the course, and the booking is added to the driver's row.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## AED pads and batteries: every customer's dates on one list, with the reorder asked for in time
+Source: https://mikeautomations.github.io/en/aed-pad-and-battery-expiration-reminders/
+
+An AED expiration reminder workflow keeps one row per device with the pad and battery dates from the labels. It writes to each customer about two months before a date, offers the right replacement for that model, follows up until they answer, and records the new dates when the parts are fitted. Each week you see what expires next and who hasn't replied.
+
+You sold the AED three years ago and it has hung on the customer's wall since. The pads have a date printed on the pouch and the battery has one too. The person who bought it has left the company. The device may chirp when the battery is low, but nobody walks past that hallway. You have the sale in your accounting software and the dates nowhere. Manufacturers print the dates so the parts are replaced before them. Finding every device you sold, and writing to the right person in time, is office work.
+
+### Where AED follow-up goes wrong
+- The dates were on the box, and the box went in the customer's trash
+- The reminder goes to a buyer who left the company two years ago
+- A customer has six devices in four buildings and one line on your list
+- Pads were used in an emergency and nobody ordered a new set
+- The reminder names the wrong pads for that model
+- The customer says yes, and the order waits in an inbox for a month
+
+### What the list holds for each AED
+One row per device, not per customer. Your accounting and order systems stay where they are. How long pads and batteries last differs by brand and model, so the list holds the date printed on each part, not a rule of thumb. Pads are single-use, so a set that has been used is replaced whatever its date.
+| On the row | Why it is there |
+| --- | --- |
+| Customer, building and where the AED hangs | Six devices need six answers |
+| Brand, model and serial number | The replacement parts depend on the model |
+| Adult pads: expiration date | The date printed on the pouch |
+| Child pads or key, if the site has them | Often forgotten, with their own date |
+| Battery: expiration or install-by date | Taken from the label or the manual |
+| The person on site, and a second contact | People change jobs faster than batteries run out |
+| Last reply and what was ordered | You can see who is waiting on whom |
+
+### How the workflow runs
+1. Every device you have sold or look after is added once, from your sales records and a short form the customer fills in with a photo of each label.
+2. About two months before a pad or battery date, the customer gets an email that names the device, where it hangs and the part that expires.
+3. The email offers the right replacement for that model, with your price, and one button to say yes.
+4. A yes creates the order for your team to confirm. A person checks the part against the model before it ships.
+5. No answer after a week brings a reminder. After two, the second contact is asked. After three, your team gets a task to call.
+6. When the parts ship, the customer gets a short note on how to send back a photo of the new labels.
+7. The photo arrives, a person reads the new dates, and the row is updated.
+8. Once a year each customer is asked to confirm the contact person and whether any device has moved or been used.
+9. A customer who reports that pads were used gets a replacement offer the same day.
+10. Every week you get one list: expiring in 60 days, waiting for an answer, shipped and waiting for a photo.
+11. If AI drafts a message to a customer, a person checks it before it is sent.
+
+### What stays with you
+Which parts fit which device, your prices, and any advice about whether an AED is ready for use stay with you and the manufacturer's instructions. The workflow keeps dates, writes messages and follows up. It doesn't inspect a device, and it gives no medical advice. Some states and some customers have their own rules for AED programs, such as regular checks or a medical director. Those are steps you add for the customers who need them. For other equipment on a service date, see [fire extinguisher service reminders](https://mikeautomations.github.io/en/fire-extinguisher-service-reminders/) and [test equipment calibration reminders](https://mikeautomations.github.io/en/test-equipment-calibration-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many devices you have sold and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your email, an online form and your order system). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If the manufacturer's own program already tracks every device you sell, you may not need this, and we'll say so on the call.
+
+### How often do AED pads and batteries need replacing?
+It depends on the brand and model. Each pad pouch and battery has a date printed by the manufacturer, and pads are replaced after any use. The workflow follows the printed dates, not a general rule.
+
+### Doesn't the AED warn you itself?
+Many devices show a status light or make a sound. That helps only if someone is near enough to notice. A dated reminder to a named person doesn't depend on that.
+
+### Does the workflow place the order?
+It prepares the order when the customer says yes. A person on your team checks the part against the model and confirms it.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Guardianship annual reports: every file's due dates on one list, with the guardian's records asked for early
+Source: https://mikeautomations.github.io/en/guardianship-annual-report-deadline-tracking/
+
+A guardianship report workflow keeps one row per file with the dates the court set for the annual report and the accounting. Weeks before each date it asks the guardian for the year's records, chases what is missing, gives the attorney a review task, and records the filing. Each week you see what is due, what is waiting on a guardian and what is filed.
+
+The hearing was two years ago. The daughter was appointed, the letters were issued, and the file went quiet. The annual report is due again next month and nobody at the firm is watching the date, because nothing has happened on the file since the last one. The guardian thinks the court will send a form. When the notice comes, she has a shoebox of bank statements and no list of what was spent. The court sets when the report is due. Knowing the date for every open file, and asking for the records in time, is office work.
+
+### Where annual reports go wrong
+- The due date is in the order, and the order is in a closed-looking file
+- Each file has its own date, so there is no "report season" to remember
+- The report on the person and the accounting are due on different days
+- The guardian is asked for records two weeks before the date
+- Statements arrive for eleven months, and the missing one holds everything
+- The guardian has moved, and the firm's letter goes to the old address
+
+### What the list holds for each file
+One row per guardianship or conservatorship. Your case management software stays where it is. The due date comes from your state's law and the court's order. Utah's courts, for one, say reports are due within 60 days after each anniversary of the appointment. Nebraska's say no later than 30 days after the anniversary of the letters. Other states use other periods, and some count from the calendar year. So the dates on each row are the ones your attorney reads from the order.
+| On the row | Why it is there |
+| --- | --- |
+| Protected person, court and case number | Every filing needs them |
+| Guardian, with phone, email and mailing address | Checked every year, because people move |
+| Date of appointment or letters | Many courts count the year from it |
+| Report on the person: due date | Entered by the attorney from the order |
+| Accounting: period covered and due date | Often a different date from the report |
+| Records asked for and received | You see what is missing by name |
+| Date filed, and the court's approval if it gives one | The row closes for this year and opens for next |
+
+### How the workflow runs
+1. Every open file is added once, with the dates your attorney confirms from the order.
+2. About ten weeks before a due date, the guardian gets a message in plain words: the report is coming up, and here is what we need from you.
+3. The message links to a short form about the person's health, home and care, and a list of the records for the accounting, with a place to upload each one.
+4. Each record that arrives is ticked off. What is still missing is asked for by name after a week and again after two.
+5. A guardian who hasn't answered after three weeks is put on a call list for the paralegal.
+6. When everything is in, the paralegal gets a task to prepare the report and the attorney gets a task to review it.
+7. The guardian gets the report to sign, and is reminded until it is signed.
+8. The firm files with the court. The filing date is recorded and next year's dates are set for the attorney to confirm.
+9. Two weeks before a due date, any file not ready is listed for the attorney, with what it is waiting for.
+10. Every week you get one list: due in the next ten weeks, waiting on the guardian, ready for review, filed.
+11. If AI drafts a message to a guardian, a person checks it before it is sent.
+
+### What stays with you
+What the court requires, what the report says, whether an expense was proper, and what to do when a guardian can't or won't provide records stay with the attorney. The workflow keeps dates, asks for records and counts days. It files nothing with any court and it gives no legal advice. The records are private, so the form and the list live in the accounts you already use, and only the people you choose can open them. For hearings, see [court date reminders](https://mikeautomations.github.io/en/court-date-reminders-law-firms/). For the paperwork at the start of an estate, see [probate document collection](https://mikeautomations.github.io/en/probate-document-collection/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many open guardianship files you have and where their dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your case management software or a spreadsheet, a secure form, your e-signature tool and your own email). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If you have a handful of files, a calendar entry for each is enough, and we'll say so on the call.
+
+### When is a guardianship annual report due?
+It depends on your state and the court's order. Many courts count from the anniversary of the appointment, and the number of days differs. Some use the calendar year. The workflow uses the dates your attorney enters for each file.
+
+### Are the report and the accounting due together?
+Not always. In some states the report on the person and the accounting of the property have different dates, so the list holds a date for each.
+
+### Does the workflow prepare or file the report?
+No. It collects the guardian's answers and records and tracks the dates. Your paralegal prepares the report, the attorney reviews it and the firm files it.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.

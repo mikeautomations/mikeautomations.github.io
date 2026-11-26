@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-25.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-27.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
@@ -361,6 +361,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Fall arrest system testing reminders](https://mikeautomations.github.io/en/fall-arrest-system-testing-reminders/): For UK fall protection companies: every building's next test date on one list, visits and roof access arranged ahead, and remedial quotes followed up.
 - [FBAR deadline reminders for clients](https://mikeautomations.github.io/en/fbar-deadline-reminders-for-clients/): For US accountants: ask every client about foreign accounts each year, collect the account details, and track each FBAR to its filing confirmation.
 - [Daycare immunization record tracking](https://mikeautomations.github.io/en/daycare-immunization-record-tracking/): For US child care centers: one list of every child's immunization and health records, parent reminders before a record is due and a file ready to show.
+- [Driver CPC periodic training tracking](https://mikeautomations.github.io/en/driver-cpc-periodic-training-tracking/): For UK transport operators: one row per driver with card expiry, hours done and courses booked, and reminders months before a Driver CPC runs out.
+- [AED pad and battery expiration reminders](https://mikeautomations.github.io/en/aed-pad-and-battery-expiration-reminders/): For US AED dealers and CPR trainers: one row per AED with pad and battery dates, a reminder to each customer in time, and the reorder followed up.
+- [Guardianship annual report deadline tracking](https://mikeautomations.github.io/en/guardianship-annual-report-deadline-tracking/): For US elder law and probate firms: one row per guardianship with each report date, and the guardian's records asked for and chased weeks before filing.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
