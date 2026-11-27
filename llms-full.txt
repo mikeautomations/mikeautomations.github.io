@@ -27265,6 +27265,172 @@ It no longer gets most businesses FAQ rich results on Google, but it does no har
 ### Can I copy FAQs from a competitor?
 No. Copying their text can breach copyright, and their answers aren't yours: different prices, areas and policies. Use their questions as ideas, then answer them for your own business.
 
+## How to set your hourly rate as a freelancer or sole trader
+Source: https://mikeautomations.github.io/en/blog/how-to-set-your-hourly-rate/ (2026-11-27)
+
+Add what you want to take home in a year, the tax on it, and your yearly business costs. Divide that by the hours you can really bill in a year: weeks you work, times days a week, times the hours you invoice each day (usually 4 to 6, not 8). That's your minimum rate. Then check it against what others charge and what the work is worth to the client.
+
+Most people who start out on their own set their rate by looking at what someone else charges, or by dividing an old salary by 40 hours a week. Both usually come out too low, because they forget holidays, business costs, and the hours that go on quoting, admin and chasing payments.
+Here's the sum that gives you a floor you shouldn't go under, with a worked example, and how to decide where to price above it.
+
+### The four numbers you need
+| Number | What goes in it | Example |
+| --- | --- | --- |
+| Take-home pay | What you want to earn in a year, after tax | £40,000 |
+| Tax set-aside | Income tax and National Insurance (UK) or self-employment tax (US) on that pay | Ask your accountant |
+| Business costs | Software, phone, insurance, equipment, vehicle, accountant, marketing, training | £6,000 |
+| Billable hours | Hours a year you actually invoice | 1,150 |
+
+### Billable hours are fewer than you think
+Start with 52 weeks and take off holidays, bank holidays and a few sick days: 6 weeks off is realistic for most people. Then count only the hours you can invoice on a normal day. Quoting, travel between jobs, emails, invoicing and learning are real work, but no client pays for them directly.
+For most freelancers and trades that leaves 4 to 6 billable hours in an 8-hour day. If you're not sure, track your time for two normal weeks. Guessing 8 is the most common reason a rate comes out too low.
+
+### Worked example
+1. Take-home pay plus business costs: £40,000 + £6,000 = £46,000 the business must bring in (before tax, for simplicity).
+2. Working weeks: 52 - 6 = 46.
+3. Billable days: 46 x 5 = 230.
+4. Billable hours: 230 x 5 = 1,150.
+5. Minimum hourly rate: £46,000 / 1,150 = £40 an hour. Minimum day rate: £46,000 / 230 = £200.
+
+### Tax: set it aside, don't guess it
+In the UK, sole traders pay Income Tax and Class 4 National Insurance on their profit through Self Assessment. In the US, self-employed people pay self-employment tax (15.3% for Social Security and Medicare, on most net earnings) plus income tax. The right figure depends on your profit, allowances and location, so ask an accountant once and use their percentage. Add that set-aside to your take-home figure and the rate in the example goes up, which is why a £40,000 salary and a £40-an-hour rate are not the same thing.
+If you're VAT-registered in the UK, your rate to clients is your minimum plus VAT. Don't let VAT eat into the number you worked out.
+
+### Pricing above the minimum
+- Check what others in your area and trade charge. If you're far below, you're probably leaving money on the table
+- Price the result, not just the hours, for work where you're quick because you're experienced
+- Use a day rate or a fixed price for whole jobs, so clients don't watch the clock
+- Charge more for urgent, out-of-hours or very small jobs, where the admin costs the same as a big one
+- Review the rate once a year, and raise it when costs or demand go up
+
+### Free tool: work it out in a minute
+The free [hourly rate calculator](https://mikeautomations.github.io/en/hourly-rate-calculator/) does the sum: enter your take-home pay, tax set-aside, business costs, weeks off, days a week and billable hours a day, and it shows your minimum hourly and day rates. If the answer means you need to charge more, the [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) writes the message to your clients, and the [profit margin calculator](https://mikeautomations.github.io/en/profit-margin-calculator/) shows what the change does to your margin.
+Losing a lot of hours to admin? The [admin time calculator](https://mikeautomations.github.io/en/admin-time-calculator/) shows what those hours cost you in a year.
+
+### Should I charge hourly or a fixed price?
+Hourly suits work that's hard to scope. Fixed prices suit jobs you know well, and they reward you for being quick. Many people quote a fixed price worked out from their hourly rate.
+
+### Is my old salary divided by hours a fair rate?
+No, it's usually far too low. An employer paid for your holidays, equipment, pension and the hours you weren't productive. On your own, your rate has to cover all of that.
+
+### What if my minimum rate is higher than the market?
+Look at costs you can cut and admin you can remove to bill more hours, then check whether you can specialise or add value that justifies a higher price. Pricing below your minimum means working for less than you need.
+
+### How often should I raise my rate?
+Review it every year. Small regular increases, given with notice, are easier for clients to accept than a big jump after several years.
+
+## How to tell customers about a price increase without losing them
+Source: https://mikeautomations.github.io/en/blog/how-to-tell-customers-about-a-price-increase/ (2026-11-27)
+
+Tell customers personally and early, a month ahead is a common choice. Say the old price, the new price and the date it starts, give one short honest reason, and thank them. Send it by email so there's a record, with a short WhatsApp or text version for people who don't read email. Check your contract or terms first in case they set a notice period or let the customer cancel.
+
+Most small business owners put off raising prices for years, then do it all at once and feel awkward about it. The customers who leave over a fair, well-explained increase are usually fewer than you fear, and the ones who stay keep paying the new price every month.
+Here's what to say, how much notice to give, and examples you can adapt.
+
+### What a good price increase message contains
+| Part | Example |
+| --- | --- |
+| Thanks | Thank you for being a regular customer. |
+| The change | From 1 February, fortnightly cleaning goes from £60 to £66. |
+| A short reason | Our costs for products and travel have gone up this year. |
+| What stays the same | Same cleaner, same day, same checklist. |
+| What to do | Nothing needs to change. Any questions, just reply. |
+
+### How much notice to give
+First check your contract, terms or subscription agreement. It may set a notice period or a way prices can change. If it says nothing, give enough time for customers to plan: a month is common for regular services, and more for business clients who budget ahead.
+In the UK, for consumers, the Consumer Rights Act 2015 lists a term that lets a trader raise the price without giving the consumer the right to cancel among the terms that may be unfair. If you sell ongoing services or subscriptions to consumers, the safest route is clear notice before the new price applies, and letting them cancel if they don't want to continue.
+
+### Reasons that work
+- Rising costs: materials, fuel, wages, software. Honest and easy to understand
+- More value: a new service, longer appointments, better products
+- A yearly review: you look at prices every year, and this is this year's change
+- No reason at all is fine too. Never invent one
+
+### Example: short WhatsApp or text version
+"Hi Sarah, a quick note from Bright Clean: from 1 February your fortnightly clean will be £66 (currently £60). Same cleaner, same day. Thanks so much for being with us, and any questions just reply. Emma"
+Send the full email as well for anyone on a written agreement, so there's a clear record of what was said and when.
+
+### Mistakes that lose customers
+1. Surprising them on the invoice. A higher bill with no warning feels like a trick.
+2. Apologising too much. Say it clearly and kindly, once.
+3. A different message for every customer. Use one wording, then personalise the name and price.
+4. Not updating the price list, website and Google profile on the same day, so new customers see old prices.
+5. Waiting years and then jumping 30%. Smaller yearly increases are easier to accept.
+
+### Free tool: write the message
+The free [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) writes it for you: enter your business, the service, the old and new price and the start date, choose a warm, brief or formal tone and a reason, and copy the email with its subject line plus a short WhatsApp or SMS version. It works out the percentage too.
+Not sure what the new price should be? Work it out with the [hourly rate calculator](https://mikeautomations.github.io/en/hourly-rate-calculator/) and read [how to set your hourly rate](https://mikeautomations.github.io/en/blog/how-to-set-your-hourly-rate/). Then update your [price list](https://mikeautomations.github.io/en/price-list-maker/) everywhere at once.
+
+### Should I tell new customers the old price?
+No. New customers simply get the new price from the date it starts. The notice is for existing customers who are used to the old one.
+
+### Can I keep the old price for my best customers?
+Yes, for a while if you like. A common approach is to hold the old price for a few months for long-standing customers, then move everyone to the same price.
+
+### What if a customer complains?
+Thank them, restate the reason briefly, and remind them of the value they get. If they leave, part on good terms. Many come back later.
+
+### Is a price increase letter legally required?
+It depends on your contract and who your customers are. For ongoing consumer services in the UK, clear notice before the change is the safe approach. This article isn't legal advice: check your terms or ask a solicitor if you're unsure.
+
+## Privacy policy for a small business website: what it must say
+Source: https://mikeautomations.github.io/en/blog/privacy-policy-small-business-website/ (2026-11-27)
+
+If your website collects any personal information, through a contact form, bookings, a newsletter, payments or analytics cookies, you need a privacy policy. In the UK it must say who you are, what you collect and why, your lawful basis, who you share it with, how long you keep it, people's rights and how to complain to the ICO. In the US, California's law requires one for most sites with California visitors. Link it in your footer and next to every form.
+
+A privacy policy sounds like something only big companies need. But a small business website that takes bookings, has a contact form or runs Google Analytics is collecting personal data, and the rules apply to you too.
+The good news: for most small businesses, a clear, honest policy fits on one page. Here's what it has to cover, in plain English.
+
+### Do you need one?
+- Contact or enquiry form: yes, you collect names, emails and phone numbers
+- Online booking or payments: yes, and your booking or payment provider will usually ask you to link one
+- Newsletter or mailing list: yes
+- Google Analytics, a Facebook pixel or other tracking: yes, and in the UK and EU you also need consent for those cookies
+- A one-page site with only your phone number and no tracking: arguably not, but it's still good practice
+
+### What a UK privacy policy must include
+UK GDPR Article 13 sets this list for data you collect directly from people, and the ICO's guidance explains each item. The ICO notes its guidance on the right to be informed is being reviewed after the Data (Use and Access) Act 2025, so check its current page.
+| Section | In plain words |
+| --- | --- |
+| Who you are | Business name, address and how to contact you about data |
+| What you collect | Names, emails, phone numbers, booking details, payment records, cookies |
+| Why | To reply to enquiries, manage bookings, send invoices, send a newsletter |
+| Lawful basis | For example contract, legitimate interests or consent, for each purpose |
+| Who you share it with | Your website host, booking system, email tool, accountant |
+| Transfers abroad | If any provider stores data outside the UK, and how it's protected |
+| How long you keep it | For example enquiries for 12 months, invoices for 6 years |
+| People's rights | Access, correction, deletion, objection, and how to ask |
+| Complaints | The right to complain to the ICO |
+
+### If you have US customers
+There's no single federal privacy law for small websites. California's Online Privacy Protection Act (CalOPPA) requires commercial websites that collect personal information from California residents to post a privacy policy saying what they collect, who they share it with and how they respond to "do not track" signals. Since almost any site can have California visitors, most US small businesses treat a privacy policy as required.
+Several other states now have their own privacy laws, mostly for larger businesses or those selling data. If you handle health, financial or children's information, get legal advice.
+
+### Cookies: the policy explains, the banner asks
+In the UK, the Privacy and Electronic Communications Regulations (PECR) say you must get consent before setting non-essential cookies, like analytics or advertising pixels. Your privacy policy (or a separate cookie policy) explains which cookies you use and why. A cookie banner asks for consent before they load. Most website builders have a banner setting.
+
+### Where to put it
+1. A link in the footer of every page, called "Privacy policy".
+2. A short line next to every form: "We use your details to reply to you. See our privacy policy."
+3. In your booking confirmation and newsletter sign-up emails.
+4. On your Google Business Profile or booking page, if they ask for one.
+
+### Free tool: write it in a few minutes
+The free [privacy policy generator](https://mikeautomations.github.io/en/privacy-policy-generator/) writes a plain-English policy for you. Tick what your site does (contact form, bookings, payments, emails, analytics), add your details and providers, choose the UK and EU (GDPR) or US version, and copy it as text or HTML. Sections only appear when they apply, so it stays short. Nothing is sent to us.
+Automating how you handle client data? Read the [GDPR checklist for automating client data](https://mikeautomations.github.io/en/blog/gdpr-checklist-automating-client-data/).
+
+### Can I copy another business's privacy policy?
+No. It wouldn't match what you actually do, and copying the text can breach copyright. A policy has to describe your own data, providers and retention periods.
+
+### How often should I update it?
+Whenever you add a new tool that handles customer data, like a new booking system or email platform, and check it once a year. Put the date of the last update at the top.
+
+### Do I need to register with the ICO?
+Most UK businesses that process personal data must pay the data protection fee to the ICO, unless they're exempt. The ICO has a short self-assessment to check.
+
+### Is a generated policy legal advice?
+No. It's a solid starting point for a typical small business. Read it, make sure it matches what you do, and get advice if you handle sensitive data or do anything unusual.
+
 ## Is the text on your website hard to read? Colour contrast in plain English
 Source: https://mikeautomations.github.io/en/blog/website-text-hard-to-read-colour-contrast/ (2026-11-21)
 
@@ -27618,6 +27784,21 @@ Source: https://mikeautomations.github.io/he/business-announcement-posts/ (2026-
 Source: https://mikeautomations.github.io/he/faq-page-how-to-write/ (2026-11-24)
 
 אוספים את השאלות שלקוחות באמת שואלים, כותבים כל אחת במילים שלהם, ועונים כבר במשפט הראשון עם העובדה עצמה: המחיר, כן או לא, האזור, השעה. מוסיפים פרט אחד שימושי, ושומרים על אותן תשובות באתר, בפרופיל בגוגל ובמחירון. מאז 2023 גוגל מציג את השאלות כרשימה נפתחת בתוצאות רק לאתרי ממשלה ובריאות מוכרים, אז מה שחשוב הוא הטקסט שרואים בעמוד.
+
+### כמה לגבות לשעה? ככה מחשבים תעריף לעצמאי
+Source: https://mikeautomations.github.io/he/hourly-rate-how-to-set/ (2026-11-27)
+
+מחברים כמה אתם רוצים להכניס הביתה בשנה, את המס וביטוח לאומי על זה, ואת הוצאות העסק השנתיות. מחלקים בשעות שאפשר באמת לחייב בשנה: שבועות עבודה, כפול ימים בשבוע, כפול השעות שמחייבים ביום (בדרך כלל 4 עד 6, לא 8). זה התעריף המינימלי. אחר כך בודקים מול מה שאחרים גובים ומה העבודה שווה ללקוח.
+
+### איך מודיעים ללקוחות על העלאת מחירים, בלי לאבד אותם
+Source: https://mikeautomations.github.io/he/price-increase-how-to-tell-customers/ (2026-11-27)
+
+מודיעים אישית ומוקדם, חודש מראש זה מקובל. כותבים את המחיר הקודם, המחיר החדש ומאיזה תאריך, נותנים נימוק קצר ואמיתי, ומודים ללקוח. שולחים במייל כדי שיהיה תיעוד, עם גרסה קצרה לוואטסאפ למי שלא קורא מיילים. לפני כן בודקים בחוזה או בתנאים אם נקבעה תקופת הודעה מוקדמת.
+
+### מדיניות פרטיות לאתר של עסק קטן: מה חייב להיות בה
+Source: https://mikeautomations.github.io/he/privacy-policy-business-website/ (2026-11-27)
+
+אם האתר אוסף מידע אישי, דרך טופס יצירת קשר, קביעת תורים, דיוור, תשלום או גוגל אנליטיקס, צריך מדיניות פרטיות. חוק הגנת הפרטיות מחייב ליידע אנשים כשמבקשים מהם מידע: למה הוא נאסף, למי הוא יועבר, והאם חובה למסור אותו. תיקון 13 לחוק, שנכנס לתוקף ב-14 באוגוסט 2025, הרחיב את החובות ואת האכיפה. שמים קישור בתחתית כל עמוד וליד כל טופס.
 
 ### ניגודיות צבעים באתר: מה זה 4.5:1, איפה זה נכשל ואיך מתקנים
 Source: https://mikeautomations.github.io/he/website-color-contrast-accessibility/ (2026-11-21)
