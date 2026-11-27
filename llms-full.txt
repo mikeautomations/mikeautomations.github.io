@@ -17982,6 +17982,179 @@ Yes. The phone form follows your template or the one your permit requires, and e
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Clearinghouse annual queries: every CDL driver queried before the 12 months run out
+Source: https://mikeautomations.github.io/en/clearinghouse-annual-query-tracking/
+
+A Clearinghouse annual query workflow keeps one row per CDL driver with the date of the last query and the consent on file. It reminds the office weeks before a driver's 12 months end, asks for a missing consent form, and records the new date once your team has run the query. Your team runs every query and makes every decision.
+
+Under 49 CFR 382.701, an employer of CDL drivers queries the FMCSA Drug and Alcohol Clearinghouse at least once a year for each driver it employs. FMCSA counts this on a rolling 12 months, and a pre-employment query starts the clock. That means every driver has a different date. A fleet of fourteen drivers hired across six years has fourteen dates, and most small fleets try to fix that by querying everybody in one week each winter. Then a driver hired in March is forgotten, or the consent form for a limited query can't be found.
+
+### Where annual queries slip
+- Everyone is queried in one batch, and drivers hired later in the year fall outside it
+- The date of the last query lives in one person's memory or in an old email
+- The driver's consent for limited queries was signed on paper and nobody can find it
+- A limited query shows that information exists, and the full query needs the driver to log in and consent from the road
+- The query plan has run out and nobody noticed until the day of the batch
+- A driver leaves and comes back, and nobody knows which date counts
+
+### What the list holds for each driver
+One row per CDL driver. A person on your team enters the dates from your Clearinghouse query history, and the workflow follows the row.
+| On the row | Why it is there |
+| --- | --- |
+| Driver, hire date and status | Only current drivers are reminded |
+| Last query date and type (pre-employment, limited or full) | The 12 months run from this date |
+| Next query due | The reminders follow this |
+| Limited query consent: on file, and until when | A limited query needs it first |
+| Where the signed consent is saved | So anyone can find it in an audit |
+| Who runs queries, and a back-up | One person on vacation shouldn't stop it |
+| Result recorded by your team: done, or full query needed | The row shows what still has to happen |
+
+### How the workflow runs
+1. Each CDL driver is added once, with the last query date taken from your Clearinghouse history.
+2. A new hire's row starts from the pre-employment query date your team enters.
+3. About six weeks before a driver's date, the office gets a reminder with the driver's name and the consent status.
+4. If no consent for limited queries is on file, or it is about to end, the driver gets the form to sign and a reminder until it is back.
+5. The signed consent is saved in the driver's folder and the row is updated.
+6. Your team runs the query in the Clearinghouse and enters the date. The workflow sets the next one.
+7. If your team marks that a full query is needed, the driver gets a plain message asking them to log in and respond to the consent request. It says nothing about why.
+8. If a date is two weeks away and no query is recorded, the back-up and the owner are told.
+9. Every month you get one list: queries due in the next 60 days, consents missing, and anything overdue.
+10. If AI drafts a message to a driver, a person checks it before it is sent.
+
+### What stays with you
+Running the query, reading the result, and every decision about whether a driver can drive stay with you or your consortium. The workflow never logs in to the Clearinghouse and never sees a result beyond the word your team enters. It keeps dates, asks for forms and reminds people. It is not compliance advice: the rules are in 49 CFR Part 382, and they change from time to time. If you also keep medical cards and motor vehicle records by hand, see [driver qualification file tracking](https://mikeautomations.github.io/en/driver-qualification-file-expiry-tracking/). For fuel tax and heavy vehicle use tax dates, see [IFTA and Form 2290 filing reminders](https://mikeautomations.github.io/en/ifta-and-form-2290-filing-reminders-trucking-clients/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many drivers you have and where the query dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your email, text messages, an e-signature tool and shared folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your consortium already tracks every driver's date and tells you in time, you may not need this, and we'll say so on the call.
+
+### How often must an employer query the Clearinghouse for a CDL driver?
+At least once a year for each CDL driver it employs, under 49 CFR 382.701. FMCSA counts a rolling 12 months from the last query, and a pre-employment query starts the clock.
+
+### Is a limited query enough for the annual check?
+Yes, with the driver's general consent, which is obtained outside the Clearinghouse and may cover more than one year. If the limited query shows that information exists, a full query must follow within 24 hours.
+
+### Does the workflow run the query for us?
+No. Your team or your consortium runs it in the Clearinghouse. The workflow reminds you, collects the consent form and records the date you enter.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Renters insurance tracking: proof from every resident, and a reminder before each policy ends
+Source: https://mikeautomations.github.io/en/renters-insurance-proof-tracking-property-managers/
+
+A renters insurance tracking workflow keeps one row per lease with the policy's end date and the proof on file. It asks each new resident for proof before move-in, reminds residents before a policy ends, flags a cancellation notice from an insurer, and gives your team a weekly list of units with no current proof.
+
+Your lease says every resident must carry renters insurance. At move-in most of them send a declarations page, and it goes into the lease folder. Then nobody looks again. A policy that started in June ends the next June, or it is cancelled in September after a missed payment. You manage 160 doors, and you learn that a unit has no cover on the day a kitchen fire or a burst supply line makes it matter. The requirement is in the lease. What is missing is a list of dates and somebody to ask.
+
+### Where renters insurance tracking slips
+- Proof is collected at move-in and never checked again
+- The policy's end date is inside a PDF, not on any list
+- Policy terms don't match lease terms, so every resident has a different date
+- A cancellation notice from an insurer lands in a shared inbox and nobody acts on it
+- The resident sends a quote or a payment receipt, not a declarations page
+- A lease renews and nobody asks for the new policy
+- A roommate is added to the lease but not to the policy
+
+### What the list holds for each lease
+One row per lease. Your team sets what the lease requires, and the workflow follows the dates.
+| On the row | Why it is there |
+| --- | --- |
+| Property, unit and residents on the lease | Every adult on the lease is checked against the policy |
+| What your lease requires, in your words | Staff check proof against one clear line |
+| Insurer and policy number | A cancellation notice can be matched to a unit |
+| Policy start and end dates | The reminders follow the end date |
+| Your company named as interested party: yes or no | So the insurer tells you about a cancellation |
+| Where the proof is saved | Anyone can find it when there is a claim |
+| Status: current, due soon, no proof, sent to manager | The weekly list is built from this |
+
+### How the workflow runs
+1. When a lease is signed, the resident gets a message asking for proof before move-in, with a plain list of what counts.
+2. The resident uploads the declarations page or certificate through a form. It is saved in the lease folder.
+3. A person on your team reads it, checks it against the lease and enters the end date. If AI reads the dates from the document first, a person confirms them.
+4. If the proof is wrong or incomplete, the resident gets a short note saying exactly what is missing.
+5. Thirty days before a policy ends, the resident is asked for the renewed proof. A second reminder goes a week before.
+6. If nothing arrives by the end date, the unit is marked "no proof" and goes to the property manager.
+7. A cancellation notice forwarded to one inbox is matched to its row by policy number, and the manager is told the same day.
+8. What happens next (a call, a notice under the lease, a charge your lease allows) is the manager's decision. The workflow sends no notices by itself.
+9. Every week you get one list: policies ending in 30 days, units with no proof, and how long each has been open.
+
+### What stays with you
+What your lease requires, whether a document is good enough, and what you do when a resident doesn't comply stay with you. Some states and cities have their own rules about what a landlord may require or charge, so check with your attorney before you change a lease or send a notice. The workflow doesn't sell insurance, doesn't recommend an insurer and doesn't read a policy for you. For other lease paperwork, see [rental application document collection](https://mikeautomations.github.io/en/rental-application-document-collection/) and [security deposit return deadline tracking](https://mikeautomations.github.io/en/security-deposit-return-deadline-tracking/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many units you manage and where the proof lives today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet or an export from your property management software, your email, text messages, an online form and shared folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your property management software already tracks policy dates and chases residents the way you want, you may not need this, and we'll say so on the call.
+
+### What counts as proof of renters insurance?
+Most managers ask for the policy's declarations page or a certificate of insurance. It shows the insured names, the address, the cover and the dates. A quote or a payment receipt is not proof.
+
+### How do we find out when a policy is cancelled mid-lease?
+Ask residents to have your company listed as an interested party, so the insurer sends you a notice. The workflow matches each notice to its unit and tells the manager the same day.
+
+### Does the workflow send lease violation notices?
+No. It reminds residents and tells your manager which units have no proof. Any notice under the lease is written and sent by a person on your team.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Medicare Annual Wellness Visit recall: every eligible patient invited when the date comes
+Source: https://mikeautomations.github.io/en/medicare-annual-wellness-visit-recall/
+
+An Annual Wellness Visit recall workflow keeps one row per Medicare patient with the date of the last wellness visit and the first date the next one can be booked. It sends a plain invitation to book, follows up with patients who don't reply, sends the pre-visit questionnaire, and shows the front desk who is still open.
+
+Medicare Part B covers a yearly wellness visit once every 12 months. A patient's first one can't take place within 12 months of their Part B enrollment or their "Welcome to Medicare" visit, and Medicare Advantage plans may count the year differently. So every patient becomes eligible on a different day. In a practice with 900 Medicare patients, the visit is usually offered only when the patient happens to come in for something else. Patients who feel well don't come in, and they are the ones nobody invites.
+
+### Where wellness visit recall slips
+- The visit is offered only when a patient is already in the building
+- Eligibility dates differ for every patient, and nobody keeps a list of them
+- A recall letter goes out once, and nobody follows up when there is no reply
+- The patient books too early, and the front desk finds out at check-in
+- The patient thinks it is a full physical and arrives expecting one
+- The health questionnaire is handed over in the waiting room and takes up the visit
+- A patient had the visit somewhere else this year and nobody recorded it
+
+### What the list holds for each patient
+One row per Medicare patient, built from a report out of your practice software. It holds dates and booking status only. No diagnoses, results or notes are copied into it.
+| On the row | Why it is there |
+| --- | --- |
+| Patient, and how they prefer to be contacted | Some patients read texts and some want a letter or a call |
+| Plan type: Original Medicare or a Medicare Advantage plan | Plans may count the year differently, so staff check before booking |
+| Last wellness visit date, or Part B start date for a first visit | The next date is counted from this |
+| Earliest date for the next visit, confirmed by your staff | Nobody is booked too early |
+| Invitation sent, reminder sent, call list | You can see where each patient is |
+| Appointment date | The row closes when the visit is booked |
+| Questionnaire sent and returned | The visit starts with the answers ready |
+
+### How the workflow runs
+1. Each month your team exports the Medicare patient list with last visit dates. The workflow updates the rows.
+2. About six weeks before a patient's earliest date, the patient gets a short invitation to book, by text, email or printed letter.
+3. The message says what the visit is: a yearly conversation about staying well and a plan for screenings. It is not a full physical. It contains nothing about the patient's health.
+4. The patient books by phone or through your booking link. Your front desk checks the date against the plan before confirming.
+5. No reply after ten days: one reminder. No reply after that: the patient goes on a call list for your staff.
+6. A week before the appointment, the patient gets the questionnaire your practice uses, as a secure form or on paper.
+7. The day before, the patient gets a reminder with the time and what to bring.
+8. After the visit, your team enters the date and the next row date is set.
+9. A patient who says they had the visit elsewhere, or asks not to be contacted, is marked by your staff and the messages stop.
+10. Every week the practice manager gets one list: invited, booked, no reply, and on the call list.
+11. If AI drafts a message, a person at the practice approves the wording before it is used.
+
+### What stays with you
+Eligibility, billing, what happens in the visit and every clinical decision stay with your practice. The workflow doesn't check a patient's coverage with Medicare and gives no billing advice. Messages go through tools your practice has approved for patient contact, and your compliance lead decides which those are. If your practice software already has a recall feature that staff use and patients answer, you may not need this. For other front-desk follow-up, see [patient referral tracking](https://mikeautomations.github.io/en/patient-referral-tracking-medical-practices/) and [insurance claim denial follow-up](https://mikeautomations.github.io/en/insurance-claim-denial-follow-up-medical-practices/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many Medicare patients you have and how recall works today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a report from your practice software, a spreadsheet, your approved email and text tools, and an online form). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/).
+
+### How often does Medicare cover the Annual Wellness Visit?
+Once every 12 months under Part B. The first one can't take place within 12 months of Part B enrollment or the "Welcome to Medicare" visit. Medicare Advantage plans may count the year differently.
+
+### Does the workflow check a patient's eligibility?
+No. It counts the date from what your team enters and reminds you. Your front desk confirms eligibility with the plan before booking, as it does today.
+
+### What do the messages say about the patient's health?
+Nothing. They invite the patient to book a yearly wellness visit and explain what the visit is. No results, diagnoses or medication names are included.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 

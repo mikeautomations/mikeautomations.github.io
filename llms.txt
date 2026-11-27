@@ -367,6 +367,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Respirator fit test annual reminders](https://mikeautomations.github.io/en/respirator-fit-test-annual-reminders/): For US fit testing services and safety consultants: every wearer's annual fit test date on one list, customers reminded in time and visits booked.
 - [Health surveillance recall reminders](https://mikeautomations.github.io/en/health-surveillance-recall-reminders-occupational-health/): For UK occupational health providers: every worker's next surveillance date on one list, employers reminded in time and clinic days filled.
 - [SWPPP inspection reminders and reports](https://mikeautomations.github.io/en/swppp-inspection-reminders-and-reports/): For US site contractors and stormwater inspectors: every site's inspection on schedule, a rain check after storms, and each report and fix on file.
+- [Clearinghouse annual query tracking](https://mikeautomations.github.io/en/clearinghouse-annual-query-tracking/): For small fleets with CDL drivers: every driver's last Clearinghouse query and consent on one list, with reminders before the 12 months run out.
+- [Renters insurance proof tracking](https://mikeautomations.github.io/en/renters-insurance-proof-tracking-property-managers/): For small US property managers: proof of renters insurance collected at move-in, expiry dates on one list, and residents reminded before a policy ends.
+- [Medicare annual wellness visit recall](https://mikeautomations.github.io/en/medicare-annual-wellness-visit-recall/): For US primary care practices: every Medicare patient's next wellness visit date on one list, a plain invitation to book, and follow-up for no replies.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
