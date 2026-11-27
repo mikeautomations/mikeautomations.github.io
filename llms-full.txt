@@ -19215,6 +19215,58 @@ No. The IRS instructions say card payments and third-party network payments are 
 ### Can clients collect W-9s themselves?
 They can, but they usually forget until January. A workflow can do it on their behalf, from your address or theirs, with wording you approve.
 
+## Small business tax and admin deadlines: the UK and US rules in one table
+Source: https://mikeautomations.github.io/en/blog/small-business-tax-admin-deadlines-uk-us/ (2026-11-27)
+
+Most small business deadlines are a rule, not a fixed date. In the UK, a VAT return is due one calendar month and 7 days after the period ends, PAYE is due by the 22nd, and Corporation Tax is due 9 months and 1 day after the year end. In the US, partnership and S corporation returns are due on the 15th day of the third month after the year end. Work out your own dates from your year end, then put them in a calendar.
+
+This page lists the recurring deadlines a small business owner or bookkeeper has to track in the UK and the US, as the rule that sets each one, with a worked example and the official source. It is a reference, not tax advice: I'm a software engineer, not an accountant, so confirm your own dates with your accountant or the official page before you rely on them.
+Every fact below was checked against gov.uk or irs.gov on 27 November 2026. Where a date depends on your year end, the table gives the rule and the example shows how to work it out.
+
+### UK: the rule behind each deadline
+If a deadline falls on a weekend or bank holiday, make sure money reaches HMRC on the last working day before it, unless you pay by Faster Payments.
+| What | The rule | Worked example |
+| --- | --- | --- |
+| VAT return and payment | One calendar month and 7 days after the end of the accounting period. Payments on account: one month. Annual Accounting Scheme: two months. | Period ends 30 June: return and payment due 7 August. |
+| PAYE and National Insurance | Cleared payment by the 22nd of the month after the tax month (19th if you pay by cheque). The Full Payment Submission is sent on or before each payday. | Tax month ending 5 March: electronic payment by 22 March. |
+| Self Assessment: register | By 5 October after the end of the tax year in which you first needed to file. | Started trading in 2025-26: tell HMRC by 5 October 2026. |
+| Self Assessment: file and pay | Online return and balancing payment by 31 January after the tax year ends. Paper returns by 31 October. Second payment on account by 31 July. | Tax year 2025-26: file and pay by 31 January 2027. |
+| Corporation Tax: pay | 9 months and 1 day after the end of the accounting period. | Year end 31 December 2026: pay by 1 October 2027. |
+| Corporation Tax: return | 12 months after the end of the accounting period. | Year end 31 December 2026: file by 31 December 2027. |
+
+### US: the rule behind each deadline
+The IRS dates above assume a calendar tax year. If your business has a different year end, count the same number of months from your own year end. For the full 1099 routine see the [1099-NEC checklist for bookkeepers](https://mikeautomations.github.io/en/blog/1099-season-checklist-bookkeepers/).
+| What | The rule | Worked example |
+| --- | --- | --- |
+| Partnership return (Form 1065) | 15th day of the third month after the tax year ends. Moves to the next business day if it falls on a weekend or holiday. | Calendar year 2026: Monday, March 15, 2027. |
+| S corporation return (Form 1120-S) | 15th day of the third month after the tax year ends. | Calendar year 2026: Monday, March 15, 2027. |
+| C corporation return | 15th day of the fourth month after the tax year ends. | Calendar year 2026: April 15, 2027. |
+| Extension (Form 7004) | Gives six more months to file. It does not extend the time to pay any tax due. | Partnership or S corporation, calendar year: September 15 to file, but tax due is still March 15. |
+| Form 1099-NEC | To the IRS and the contractor by January 31. If that is a weekend or holiday, the next business day. The reporting threshold is $2,000 for payments made from January 1, 2026. | Tax year 2026: Monday, February 1, 2027, because January 31 is a Sunday. |
+
+### How to turn the rules into your own calendar
+Accountants and bookkeepers who track many clients can subscribe to the [UK accounting practice deadline calendar 2026-27](https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/), which has downloadable calendar files.
+1. Write down your year end and, in the UK, your VAT period ends.
+2. For each rule above, count the months and days from that date, using the worked examples as a guide.
+3. Add each date to a calendar with a reminder two weeks before. A reminder on the day itself is too late to gather records.
+4. Add the recurring ones (VAT, PAYE) as repeating events.
+5. Check the official page once a year, because dates and thresholds do change. The 1099 threshold rose in 2026.
+
+### Where the date is only half the job
+The deadline is when HMRC or the IRS needs the return. The real work is getting your own records, or your clients' records, in before it. A reminder for the filing date does not chase the missing receipts that come first. That earlier chasing is the part worth automating, with a person approving what goes out.
+
+### When is a UK VAT return due?
+One calendar month and 7 days after the end of the accounting period, and payment is due on the same date. For a period ending 30 June that is 7 August. Businesses on payments on account have one month, and Annual Accounting Scheme users have two months.
+
+### When is Corporation Tax due for a limited company?
+Payment is due 9 months and 1 day after the end of the accounting period, and the company tax return is due 12 months after it ends. For a 31 December 2026 year end, pay by 1 October 2027 and file by 31 December 2027.
+
+### When are S corporation and partnership returns due in the US?
+On the 15th day of the third month after the tax year ends, which is March 15 for a calendar year. Form 7004 extends the filing date by six months but not the date to pay any tax.
+
+### What is the PAYE payment deadline?
+Electronic payments must be cleared by the 22nd of the month following the tax month. Cheques must arrive by the 19th. The Full Payment Submission is separate and is sent on or before each payday.
+
 ## What to automate first in a small service business
 Source: https://mikeautomations.github.io/en/blog/what-to-automate-first-small-business/ (2026-11-27)
 
