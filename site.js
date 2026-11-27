@@ -31,6 +31,23 @@
     status.textContent = ok ? f.dataset.ok : f.dataset.err;
     if (ok) email.value = "";
   }));
+  // "Free 1-page automation plan" (planBox in tool-skin.ts): sent to Michael's script as a lead, so he gets an email.
+  document.querySelectorAll("form[data-plan]").forEach((f) => f.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const el = f.elements, status = f.querySelector(".plan-status"), btn = f.querySelector("button");
+    for (const k of ["name", "email", "business"]) if (!el[k].checkValidity()) { el[k].reportValidity(); return; }
+    if (el.website && el.website.value) return;
+    btn.disabled = true;
+    let ok = false;
+    try {
+      const r = await fetch(endpoint, { method: "POST", headers: { "Content-Type": "text/plain;charset=utf-8" }, body: JSON.stringify({ name: el.name.value.trim(), email: el.email.value.trim(), business: el.business.value.trim(), pain: el.pain.value.trim(), prefs: "Free 1-page automation plan request", page: location.pathname, lang }) });
+      const j = await r.json().catch(() => ({}));
+      ok = j.ok === true;
+    } catch {}
+    btn.disabled = false;
+    status.textContent = ok ? f.dataset.ok : f.dataset.err;
+    if (ok) f.reset();
+  }));
   // One page view to Michael's own visits sheet (apps-script/lead-booking.gs): page, referring site, language and
   // phone or desktop. No cookies, nothing stored on the device, nothing personal. Only on the live site.
   try {
