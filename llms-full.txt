@@ -19089,10 +19089,13 @@ They can, but they usually forget until January. A workflow can do it on their b
 ## What to automate first in a small service business
 Source: https://mikeautomations.github.io/en/blog/what-to-automate-first-small-business/ (2026-11-27)
 
-What to automate first in a small business: the job that happens every week, follows the same steps each time, and costs you money or a client when someone forgets it. Usually that is chasing something: documents, quotes, unpaid invoices or replies to new enquiries. Start with one process, define what "working" means in one sentence, and only then pick the tool.
+How to automate a small business, and what to automate first: the job that happens every week, follows the same steps each time, and costs you money or a client when someone forgets it. Usually that is chasing something: documents, quotes, unpaid invoices or replies to new enquiries. Start with one process, define what "working" means in one sentence, and only then pick the tool.
 
 What to automate first in a small business is a question about your week, not about software. Most small firms don't need "AI transformation". They need one annoying, repetitive job to stop depending on someone remembering it. For the bigger picture of what can run on its own, see our [small business automation guide](https://mikeautomations.github.io/en/small-business-automation/).
 Picking the right first process matters more than picking the right tool. A good first automation [pays for itself quickly](https://mikeautomations.github.io/en/blog/automation-roi-worksheet/), is easy to check, and teaches you what to automate next. A bad one takes weeks, breaks often and puts you off the whole idea. Below is a simple test you can run on your own business in half an hour, a scorecard to fill in, and the jobs that usually win. Before you build, it's worth reading the [mistakes that sink small business automations](https://mikeautomations.github.io/en/blog/small-business-automation-mistakes/).
+
+### How to automate a small business: the short version
+Automation for a small business works best in five moves. List the jobs that repeat. Score each on how often it happens, how consistent the steps are and what forgetting it costs. Pick the top one. Write one sentence that says what "working" means. Only then choose the tool, and build it on what you already use, such as your email, a form, a spreadsheet and an automation platform like Zapier, Make or n8n. Do one process at a time and add the next once the first one is trusted. The steps below take each move in turn.
 
 ### Step 1: list the jobs that repeat
 Take a sheet of paper or a blank spreadsheet and write down every job you or your team did in the last two weeks that felt like admin. Don't judge them yet. Typical entries: sending the same email to a new client, asking for missing documents, typing enquiry details into a spreadsheet, chasing a customer who hasn't replied to a quote, sending appointment reminders, reminding people to pay.
@@ -19150,6 +19153,12 @@ For illustration only, here is how a small plumbing business might score three j
 
 ### How we would build your first one
 If you'd rather not build it yourself, book a [free 15-minute call](https://mikeautomations.github.io/call/) and tell me which job scored highest. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use, so nobody learns a new system. Live in 2-3 days. [Workflow automation is $2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), and you pay once it's running and you're happy with it.
+
+### How do I automate a small business?
+One process at a time. List the jobs that repeat, score each on frequency, consistency and the cost of forgetting, pick the highest, define what working means in one sentence, then build it on the tools you already use. Start with chasing jobs such as documents, quotes, invoices or new enquiries.
+
+### What is the best automation for a small business to start with?
+Usually a chasing job: reminders for missing documents, quotes that went quiet, unpaid invoices or replies to new enquiries. They repeat every week, follow the same steps, and cost real money when someone forgets.
 
 ### How do I know if a process is worth automating?
 If it happens weekly, follows the same steps, and forgetting it costs you a job, a client or a penalty, it's worth automating. If it happens a few times a year or needs your judgement at every step, leave it manual for now.
