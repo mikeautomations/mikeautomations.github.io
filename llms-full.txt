@@ -17808,6 +17808,180 @@ No. It collects the guardian's answers and records and tracks the dates. Your pa
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Respirator fit test reminders: every wearer retested before the annual date
+Source: https://mikeautomations.github.io/en/respirator-fit-test-annual-reminders/
+
+A fit test reminder workflow keeps one row per wearer with the respirator they were fitted for and the date of the test. It writes to each customer about six weeks before the first dates come up, lists who is due, books the visit and files the new records. A trained person does every fit test.
+
+OSHA's respiratory protection standard, 29 CFR 1910.134, says an employee who wears a tight-fitting respirator must be fit tested before first use, whenever a different facepiece is used, and at least annually after that. You tested forty people at a customer's shop last March. Since then six have left, nine have joined, and the customer changed to another brand of half mask in the paint booth. The customer's safety contact thinks the tests are good "for a year or so". Your records are a stack of forms per visit. Nobody has one list of who is due when.
+
+### Where annual fit tests slip
+- The records are filed by visit, so nobody can see one person's date
+- New hires join after your visit and wear a respirator untested until next year
+- The customer changes the make or model of mask, and the old tests no longer match
+- The reminder goes to a safety contact who left the company
+- A wearer has no medical evaluation on file, and you find out on the day
+- Half the crew is on another site on test day, and nobody books a second visit
+
+### What the list holds for each wearer
+One row per wearer, not per customer. The medical questionnaire is a confidential medical record, so the list holds only whether the wearer is cleared and the date, never the answers.
+| On the row | Why it is there |
+| --- | --- |
+| Customer, site and supervisor | So the reminder reaches the person who can release the wearer |
+| Wearer's name and job | People move between jobs with different masks |
+| Make, model and size of the facepiece | A test covers the facepiece that was tested |
+| Date and type of the last fit test | The annual date is counted from here |
+| Medical clearance: yes or no, and the date | The evaluation comes before the fit test |
+| Status: due, booked, tested, left the company | You can see what is open at each customer |
+
+### How the workflow runs
+1. Your past test records are added once, one row per wearer, from your forms or your testing software's export.
+2. About six weeks before the first dates at a customer come up, the safety contact gets an email with the list of wearers who are due.
+3. The email asks three things: who has left, who has joined, and whether any mask has changed.
+4. New wearers and changed masks are added to the same visit, so they don't wait a year.
+5. The customer picks a date from the times you offer. Your team confirms it.
+6. A week before the visit, the customer gets the list again, with a note on who still needs medical clearance.
+7. Wearers get a short reminder the day before, with your instructions for the day.
+8. After the visit, your tester's records are filed against each row and the next date is set.
+9. Anyone who missed the visit goes on a short list, and the customer is offered a catch-up date.
+10. No answer after a week brings a reminder. After two, your team gets a task to call.
+11. Every week you get one list: due in 60 days, booked, missed, and customers who haven't replied.
+12. If AI drafts a message to a customer, a person checks it before it is sent.
+
+### What stays with you
+The fit test itself, the choice of test method, and any advice on which respirator suits a job stay with your trained people. Medical clearance stays with the licensed health care professional. The workflow keeps dates, writes messages and files records. It doesn't decide who may wear a respirator. A test is also needed when a wearer's face changes in a way that could affect the fit, and the customer has to tell you about that. Some states run their own OSHA-approved plans and can add rules, so check the ones your customers work under. For other dated safety records, see [forklift operator evaluation reminders](https://mikeautomations.github.io/en/forklift-operator-evaluation-reminders/) and [bloodborne pathogens training reminders](https://mikeautomations.github.io/en/osha-bloodborne-pathogens-training-reminders-dental-offices/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many wearers you test and where the records live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your email, your calendar and your testing software's export). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your testing software already sends these reminders the way you want, you may not need this, and we'll say so on the call.
+
+### How often is a respirator fit test required?
+Under OSHA's standard, before first use of a tight-fitting respirator, whenever a different facepiece is used, and at least annually. Some states with their own plans add rules, so check yours.
+
+### How long do we keep the fit test record?
+The standard says the record is kept until the next fit test is given. The workflow files each new record against the wearer's row and keeps the older ones unless you choose to remove them.
+
+### Does the workflow hold medical information?
+No. It holds only whether a wearer is cleared and the date. The questionnaire and the evaluation stay with the health care professional.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Health surveillance recalls: every worker seen by the date your clinicians set
+Source: https://mikeautomations.github.io/en/health-surveillance-recall-reminders-occupational-health/
+
+A health surveillance recall workflow keeps one row per worker with the checks they are on and the next date your clinician set. It writes to each employer about six weeks ahead with the list of who is due, books the clinic day, chases changes to the list, and records who attended. Clinical findings stay in your clinical system.
+
+You run health surveillance for sixty employers: hearing checks, hand-arm vibration, skin and breathing checks. Each worker has their own next date, set by your clinician after the last appointment. One employer has 140 workers on four checks at three sites. The dates are in your clinical system, the contact names are in a spreadsheet, and the clinic diary is somewhere else. An employer who isn't reminded doesn't call. They find out a year later, usually when someone asks to see the health records.
+
+### Where recalls go wrong
+- The recall is run once a year per employer, but workers' dates are spread over the year
+- The employer's list of who is exposed to what is two years old
+- New starters wait for the next annual visit, with no first check on file
+- A clinician asks to see someone again in six months, and it's written only in the notes
+- Twelve people miss the clinic day and nobody books a second one
+- The reminder goes to an HR contact who has left
+
+### What the list holds, and what it doesn't
+One row per worker and check. The list is for booking, so it holds dates and attendance only. Clinical findings and anything confidential stay in your clinical system. HSE's guidance says the employer keeps a health record of the outcome of surveillance, for the period the relevant regulations set, for example 40 years under COSHH. Your outcome reports to the employer go out the way they do today.
+| On the row | Why it is there |
+| --- | --- |
+| Employer, site and contact | So the reminder reaches someone who can release people |
+| Worker and job | The employer's risk assessment decides who is on which check |
+| Check: hearing, vibration, skin, breathing or other | One worker can be on several, with different dates |
+| Last appointment date | So you can see what was done |
+| Next date, as set by your clinician | The workflow follows it and never works it out |
+| Status: due, booked, attended, missed, left | You can see what is open at each employer |
+
+### How the workflow runs
+1. Next dates are read from an export of your clinical system, or entered by your team after each clinic day.
+2. About six weeks before the first dates at an employer, the contact gets an email with the names that are due and the checks they are on.
+3. The email asks who has left, who has started, and whether anyone's job has changed.
+4. New starters are added to the same clinic day. Your clinician decides which checks they need.
+5. The employer picks a clinic day from the dates you offer, and your team confirms it.
+6. A week before, the employer gets the final list with a time for each worker.
+7. Where a programme starts with a questionnaire, each worker gets a link to your own secure form, and the list shows only that it came back.
+8. After the day, your team marks who attended and enters each next date the clinician set.
+9. Workers who missed go on a short list, and the employer is offered a catch-up date.
+10. No answer after a week brings a reminder. After two, your team gets a task to call.
+11. Every week you get one list: due in 60 days, booked, missed, and employers who haven't replied.
+12. If AI drafts a message to an employer, a person checks it before it is sent.
+
+### What stays with you
+Which checks a worker needs, how often, what the results mean and what goes in the report to the employer are clinical decisions. They stay with your clinicians. Who is exposed, and so who should be on the programme, comes from the employer's risk assessment. The workflow books, reminds and records attendance. It gives no clinical advice, and it sends no results. For related reminders, see [LEV testing reminders](https://mikeautomations.github.io/en/lev-testing-reminders/) and [hearing care recall reminders](https://mikeautomations.github.io/en/hearing-care-recall-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many employers you look after and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your email, your diary and an export from your clinical system). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your occupational health software already runs recalls the way you want, you may not need this, and we'll say so on the call.
+
+### How often should workers be recalled for health surveillance?
+That depends on the hazard and on your clinician's judgement, so this page gives no interval. The workflow follows the next date your clinician sets for each worker.
+
+### Does the workflow hold clinical results?
+No. It holds names, checks, dates and attendance. Results, questionnaires and notes stay in your clinical system.
+
+### Can it send the health record to the employer?
+No. Your outcome reports go out the way they do today, written and checked by your clinicians. The workflow can remind your team that a report is still to be sent.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## SWPPP inspections: every site inspected on its schedule, with the report and the fixes on file
+Source: https://mikeautomations.github.io/en/swppp-inspection-reminders-and-reports/
+
+A SWPPP inspection workflow keeps one row per site with the schedule from its permit. It reminds the inspector before each routine inspection, asks for a rain check after a storm, collects the report from a phone form with photos, and follows each problem until someone marks it fixed. Each week you see what is late.
+
+A construction stormwater permit sets how often a site must be inspected and what goes in the report. Under EPA's Construction General Permit, the standard choice is at least every 7 calendar days, or every 14 days plus an inspection within 24 hours of a storm of 0.25 inches or more. Most states issue their own permit with their own schedule. You have nine open sites under two superintendents. The inspections happen, mostly. The reports are on paper in the trucks, the silt fence that was down on Tuesday is still down, and the rain on Saturday is nobody's job.
+
+### Where stormwater inspections slip
+- The routine inspection is on one person's calendar, and that person is on vacation
+- It rains over the weekend and nobody checks whether the storm counts
+- The report is filled in on paper and reaches the binder two weeks later
+- A problem is written on the report and nobody is told to fix it
+- The fix is done, but no date or photo shows it
+- A site is stabilized, the notice to end coverage isn't filed, and the inspections quietly stop
+
+### What the list holds for each site
+One row per site. The schedule comes from that site's own permit and its SWPPP, and a person on your team enters it. The workflow follows the row and never guesses the rule.
+| On the row | Why it is there |
+| --- | --- |
+| Site, permit and permit number | State and EPA permits set different schedules |
+| Routine schedule, as your permit states it | The reminders follow this |
+| Rain rule: how much rain, and how soon to inspect | Taken from the permit, not from memory |
+| Inspector, and a back-up | Vacations happen every year |
+| Last inspection and next one due | You can see a late site at a glance |
+| Open problems and who must fix them | A report with no follow-up fixes nothing |
+| Status: active, stabilized, coverage ended | So inspections stop only when a person says so |
+
+### How the workflow runs
+1. Each open site is added once, with the schedule and the rain rule from its permit.
+2. The inspector gets a reminder the day before each routine inspection, with a link to the report form.
+3. The form follows your report template: date, weather, each control checked, problems found, photos and a signature.
+4. A submitted report is filed in the site's folder as a PDF, and the next date is set.
+5. If no report arrives by the end of the due day, the back-up and the superintendent are told the next morning.
+6. After rain, the inspector is asked to enter the reading from the site's rain gauge. If it reaches the amount on the row, a rain inspection is opened with its own deadline.
+7. Each problem on a report becomes a task for the named crew or subcontractor, with the photo and a due date you set.
+8. The task stays open until someone sends a photo of the fix. A person on your team checks it and closes it.
+9. When a site is stabilized, a person changes its status. The workflow never ends inspections by itself.
+10. Every week you get one list: late inspections, open problems and how old they are, and sites close to the end.
+11. If AI drafts a message to a subcontractor, a person checks it before it is sent.
+
+### What stays with you
+Reading the permit, deciding who is qualified to inspect, judging whether a control is working and choosing the fix stay with you and your inspector. The rain reading comes from your own gauge or the source your permit allows. The workflow reminds, files and follows up. It doesn't inspect a site, and it gives no legal advice about your permit. Permits are reissued and changed from time to time, so check the current version for each site. For other site paperwork, see [construction daily site reports](https://mikeautomations.github.io/en/construction-daily-site-reports/) and [building permit and inspection tracking](https://mikeautomations.github.io/en/building-permit-inspection-tracking-contractors/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many sites you have open and where the reports live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your email, text messages, an online form and shared folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your project software already tracks these inspections the way you want, you may not need this, and we'll say so on the call.
+
+### How often does a construction site need a SWPPP inspection?
+It depends on your permit. Under EPA's Construction General Permit the standard choice is every 7 days, or every 14 days plus within 24 hours of a storm of 0.25 inches or more. State permits differ, so follow your own.
+
+### Does the workflow decide when a rain inspection is needed?
+It compares the reading your inspector enters with the amount on the site's row and opens the inspection. The amount and the source of the reading come from your permit.
+
+### Can we keep our own report form?
+Yes. The phone form follows your template or the one your permit requires, and each report is saved as a PDF in the site's folder.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 

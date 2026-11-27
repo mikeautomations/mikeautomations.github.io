@@ -364,6 +364,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Driver CPC periodic training tracking](https://mikeautomations.github.io/en/driver-cpc-periodic-training-tracking/): For UK transport operators: one row per driver with card expiry, hours done and courses booked, and reminders months before a Driver CPC runs out.
 - [AED pad and battery expiration reminders](https://mikeautomations.github.io/en/aed-pad-and-battery-expiration-reminders/): For US AED dealers and CPR trainers: one row per AED with pad and battery dates, a reminder to each customer in time, and the reorder followed up.
 - [Guardianship annual report deadline tracking](https://mikeautomations.github.io/en/guardianship-annual-report-deadline-tracking/): For US elder law and probate firms: one row per guardianship with each report date, and the guardian's records asked for and chased weeks before filing.
+- [Respirator fit test annual reminders](https://mikeautomations.github.io/en/respirator-fit-test-annual-reminders/): For US fit testing services and safety consultants: every wearer's annual fit test date on one list, customers reminded in time and visits booked.
+- [Health surveillance recall reminders](https://mikeautomations.github.io/en/health-surveillance-recall-reminders-occupational-health/): For UK occupational health providers: every worker's next surveillance date on one list, employers reminded in time and clinic days filled.
+- [SWPPP inspection reminders and reports](https://mikeautomations.github.io/en/swppp-inspection-reminders-and-reports/): For US site contractors and stormwater inspectors: every site's inspection on schedule, a rain check after storms, and each report and fix on file.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)
