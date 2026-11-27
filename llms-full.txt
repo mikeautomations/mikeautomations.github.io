@@ -7362,6 +7362,16 @@ Date: [date]   Filled in by: [name]
 6. If no report has arrived for a live job by a set time, the site lead gets one reminder, then the office is told.
 7. Once a week, the reports for each job are turned into a short client update: progress, photos, anything the client needs to decide. A person reads and approves it before it's sent.
 
+### Multi-site reporting: several sites, one daily report
+If you run more than one site, the problem is not writing the reports, it is reading them. Every site fills in the same short form on a phone, and the answers land in one shared list instead of several inboxes. Each morning the office gets one summary across all sites: which reports are in, which are missing, and anything flagged, such as an incident, a delay, a delivery problem or a safety issue. Missing reports are chased by a message to that site's lead, so the office is not the one chasing.
+| What the office sees | Where it comes from |
+| --- | --- |
+| Which sites have submitted today's report | The submitted forms, matched to the list of live sites |
+| Which sites are late | A reminder time per site, then a nudge to the site lead |
+| Flags: incidents, delays, missing deliveries | Tick boxes on the form that trigger an alert |
+| Hours and people on site | The headcount and hours fields in the form |
+| One weekly pack per client or per site | The same records, filtered by site and date |
+
 ### Incidents can't wait for the end of the day
 In Great Britain, HSE's RIDDOR guidance (checked November 2026) says deaths, specified injuries to workers and dangerous occurrences must be reported to the enforcing authority without delay, and a report must be received within 10 days of the incident. Injuries that keep a worker off their normal duties for more than seven days must be reported within 15 days. In the US, OSHA says an employer must report a work-related fatality within 8 hours, and an in-patient hospitalization, amputation or loss of an eye within 24 hours (29 CFR 1904.39). That's why the incident question sends an alert at once rather than waiting for the evening summary. The workflow doesn't decide whether something is reportable or file the report: a competent person on your side does that.
 
@@ -7378,6 +7388,9 @@ The site lead writes what happened, in their own words. You decide what goes to 
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how your site reports work today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (a phone form, Google Drive or OneDrive, a spreadsheet, email, WhatsApp or your job software), so your crews don't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your jobs first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=construction-daily-site-reports). More ideas for building firms are on the [contractors page](https://mikeautomations.github.io/en/contractors/).
+
+### How do you do multi-site reporting for construction?
+Give every site the same short daily form, collect the answers in one shared list, and send the office a single morning summary: reports received, reports missing and anything flagged. Late reports trigger a reminder to the site lead, so the office does not chase them by hand.
 
 ### Is a daily site report the same as a site diary?
 Mostly, yes. Both are a daily record of labour, work done, deliveries, weather, delays, instructions and incidents. Some firms keep a site diary for internal use and send a shorter report to the client: the same form can feed both.
@@ -20570,6 +20583,9 @@ Companies of every size prevent automation errors the same way: they assume some
 Most of this list is about the work around the build, so that's where we start. On a [free 15-minute call](https://mikeautomations.github.io/call/) we talk through one job and how it's done today. Within 48 hours you get a written plan with a fixed price, built on the tools you already use. Anything a client sees goes through your approval, it runs in your accounts, and you get a one-page guide with the off switch.
 It's live in 2-3 days and costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), paid only once it's running and you're happy with it, as set out in our [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If you'd like to sketch the job first, the [plan builder](https://mikeautomations.github.io/en/plan/) walks you through it.
 
+### What are common mistakes in sales automation?
+Leads arriving with no owner and no next step, follow-up sequences that keep going after the person replies, the same message sent to everyone, and nobody checking the list of leads the automation could not handle. Give every lead an owner and a dated task, stop on any reply, and review exceptions weekly.
+
 ### What is the most common business automation mistake?
 Automating a process before it's written down and agreed. The automation copies one version of the job, the team keeps doing the others, and you end up with the automation plus the old manual work.
 
@@ -27889,10 +27905,10 @@ Usually not. Most rules point to level AA. AAA is a higher bar that's worth reac
 
 ## Hebrew site (Israel): direct answers
 
-### אוטומציה למשרד רואי חשבון: פחות רדיפה אחרי מסמכים, יותר עבודה מקצועית
-Source: https://mikeautomations.github.io/he/automation-accountants/ (2026-11-10)
+### אוטומציה למשרד רואי חשבון: קליטת לקוחות, תזכורות ודוחות בלי רדיפה
+Source: https://mikeautomations.github.io/he/automation-accountants/ (2026-11-27)
 
-אוטומציה למשרד רואי חשבון מעבירה למערכת את העבודה שמסביב לראיית החשבון: בקשת מסמכים חודשית, תזכורות ללקוחות, תיוק קבלות וקליטת לקוח חדש. הצוות בודק ומאשר, והמערכת אוספת, מסדרת ומזכירה. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
+אוטומציה למשרד רואי חשבון היא מערכת שמבצעת לבד את העבודה שמסביב לראיית החשבון: קליטת לקוח חדש, איסוף ייפוי כוח וטפסים, תזכורות חודשיות ומעקב מי מוכן לדוח השנתי. הצוות בודק ומאשר, והמערכת אוספת ומזכירה. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים. אם תוכנת הנהלת החשבונות שלכם כבר כוללת פורטל ללקוחות, ייתכן שזה מספיק.
 
 ### אוטומציה לסוכנות ביטוח: כל ליד, חידוש ותביעה במקום אחד
 Source: https://mikeautomations.github.io/he/automation-insurance-agency/ (2026-11-10)
@@ -27909,15 +27925,15 @@ Source: https://mikeautomations.github.io/he/automation-property-management/ (20
 
 אוטומציה לחברת ניהול נכסים הופכת כל דיווח של דייר על תקלה לקריאת שירות עם מספר, שולחת אותה לספק המתאים, ומעדכנת את הדייר עד שהקריאה נסגרת. מנהל הבניין רואה בלוח אחד מה פתוח ומה מתעכב. תהליך אחד עולה החל מ-5,500 ₪, ומערכת לכל החברה החל מ-9,000 ₪.
 
-### איסוף מסמכים מלקוחות באופן אוטומטי: בלי לרדוף ובלי לחפש בוואטסאפ
-Source: https://mikeautomations.github.io/he/document-collection-automation/ (2026-11-10)
+### איסוף מסמכים מלקוחות: איך עושים את זה מסודר, מאובטח ובלי לרדוף
+Source: https://mikeautomations.github.io/he/document-collection-automation/ (2026-11-27)
 
-איסוף מסמכים מלקוחות באופן אוטומטי הוא תהליך ששולח לכל לקוח רשימת מסמכים אישית, מזכיר לו עד שהכול מגיע, ושומר כל קובץ בתיק שלו, בלי שמישהו במשרד ירדוף. אתם רואים במקום אחד מה הגיע ומה חסר, ומקבלים הודעה כשהתיק מוכן לעבודה. תהליך כזה עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
+איסוף מסמכים מלקוחות בצורה מסודרת עובד כך: כל לקוח מקבל רשימה אישית וקישור העלאה, כל קובץ נשמר בתיק שלו, והוא מקבל תזכורת רק על מה שחסר. כך לא נשארים תעודות זהות ותלושים מפוזרים בוואטסאפ ובמייל. הקמה של תהליך כזה אצלי עולה החל מ-5,500 ₪ ומוכנה תוך יום-יומיים.
 
-### בוט וואטסאפ לעסק: כל פנייה נענית, כל לקוח במעקב
-Source: https://mikeautomations.github.io/he/whatsapp-business-automation/ (2026-11-10)
+### בוט וואטסאפ לעסק: מה זה, מה עולה, ומתי באמת צריך אחד
+Source: https://mikeautomations.github.io/he/whatsapp-business-automation/ (2026-11-27)
 
-בוט וואטסאפ לעסק הוא תהליך שעונה מיד לכל פנייה חדשה בוואטסאפ, שואל כמה שאלות קצרות, שומר את הפרטים ברשימת הלקוחות ומעביר את השיחה לאדם ברגע שצריך. הוא נבנה דרך הממשק הרשמי של Meta (WhatsApp Business Platform), מה שמקטין מאוד את הסיכון לחסימת המספר, כל עוד שומרים על כללי השימוש של Meta. הקמה של תהליך כזה מתחילה מ-5,500 ₪, ולהודעות עצמן יש עלות נפרדת מול Meta.
+בוט וואטסאפ לעסק הוא תהליך אוטומטי שעונה מיד לכל פנייה חדשה בוואטסאפ, שואל כמה שאלות קצרות, שומר את הפרטים ברשימת הלקוחות ומעביר את השיחה לאדם כשצריך. הוא עובד דרך הממשק הרשמי של Meta (WhatsApp Business Platform), ש-Meta גובה עליו לפי הודעה. אם יש לכם מעט פניות, אפליקציית WhatsApp Business החינמית עם הודעת פתיחה ותשובות מהירות כנראה מספיקה. אצלי הקמה של בוט כזה מתחילה מ-5,500 ₪.
 
 ### אוטומציה למשרד עורכי דין: פחות ניירת סביב התיק, יותר זמן לעבודה המשפטית
 Source: https://mikeautomations.github.io/he/automation-law-office/ (2026-11-10)
@@ -28034,10 +28050,10 @@ Source: https://mikeautomations.github.io/he/automation-cost/ (2026-11-27)
 
 כמה עולה אוטומציה לעסק? אצלי, אוטומציה לתהליך אחד עולה החל מ-5,500 ₪, מערכת שבנויה לעסק החל מ-9,000 ₪, וליווי חודשי (לא חובה) החל מ-900 ₪ לחודש. המחיר הסופי כתוב בהצעה אחרי שיחת מיפוי של 15 דקות, ולפעמים מתווספת עלות חודשית קטנה לכלים עצמם.
 
-### תזכורות תשלום אוטומטיות ללקוחות: הכסף נכנס בלי לרדוף
-Source: https://mikeautomations.github.io/he/invoice-payment-reminders/ (2026-11-10)
+### תזכורות תשלום ללקוחות: מה כותבים, מתי שולחים ומתי מתקשרים
+Source: https://mikeautomations.github.io/he/invoice-payment-reminders/ (2026-11-27)
 
-תזכורות תשלום אוטומטיות ללקוחות הן תהליך ששולח חשבונית כשהעבודה מסתיימת, מזכיר בנימוס לפני מועד התשלום ואחריו, ומפסיק לבד ברגע שהכסף נכנס. אתם קובעים את הניסוח והמועדים, ורואים פעם בשבוע רק את מי שבאמת צריך שיחה. תהליך כזה עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
+תזכורות תשלום ללקוחות כדאי לשלוח בשלושה שלבים: תזכורת ידידותית 3 ימים לפני המועד, הודעה עניינית יום אחרי, ופנייה תקיפה יותר כעבור שבוע, ואז שיחת טלפון. אם התוכנה שלכם שולחת תזכורות לפני ואחרי המועד ועוצרת כשהתשלום נרשם, היא לרוב מספיקה. אוטומציה מותאמת עולה החל מ-5,500 ₪ ונדרשת רק כשיש מה שהתוכנה לא עושה.
 
 ### מערכת לניהול לקוחות לעסק קטן: מתי מספיקה תוכנה מוכנה, ומתי כדאי לבנות
 Source: https://mikeautomations.github.io/he/crm-small-business/ (2026-11-24)
@@ -28054,10 +28070,10 @@ Source: https://mikeautomations.github.io/he/ai-agent-for-business/ (2026-11-10)
 
 סוכן AI לעסק הוא תוכנה שקוראת טקסט או מסמכים, מבינה מה כתוב ומכינה פעולה: ממיינת פנייה, מנסחת טיוטת תשובה או שולפת פרטים מקבלה. הוא שווה כשיש הרבה טקסט חופשי שצריך להבין, ומיותר כשהתהליך תמיד הולך באותה דרך. בכל מה שאני בונה, הסוכן מכין ואדם מאשר לפני שמשהו יוצא.
 
-### מעקב אחרי הצעות מחיר: אף הצעה לא נשכחת
-Source: https://mikeautomations.github.io/he/quote-follow-up/ (2026-11-10)
+### מעקב אחרי הצעת מחיר: מתי, מה כותבים ואיך לא שוכחים
+Source: https://mikeautomations.github.io/he/quote-follow-up/ (2026-11-27)
 
-מעקב אחרי הצעות מחיר הוא תהליך שרושם כל הצעה שיצאה, שולח ללקוח הודעה קצרה אחרי כמה ימים, ומזכיר לכם להתקשר למי שלא ענה. כשהלקוח מאשר או מסרב, המעקב נעצר לבד. מעקב אוטומטי כזה עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
+מעקב אחרי הצעת מחיר הוא הודעה קצרה ללקוח כמה ימים אחרי ששלחתם הצעה, ואז עוד אחת או שתיים במרווחים הולכים וגדלים, ובסוף הודעת סגירה מנומסת. רוב ההצעות לא נדחות, הן פשוט נתקעות בשתיקה. אוטומציה שרושמת כל הצעה ושולחת תזכורות עולה אצלי החל מ-5,500 ₪, ואת התבניות אפשר להעתיק מכאן בחינם.
 
 ### Make, n8n או Zapier: איך בוחרים כלי אוטומציה לעסק
 Source: https://mikeautomations.github.io/he/make-n8n-zapier/ (2026-11-10)
