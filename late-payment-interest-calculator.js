@@ -165,7 +165,13 @@
     out.append(el("p", "ft-hint", "The fixed sum is charged once per late payment. Reasonable recovery costs above it can be claimed too. A guide only, not legal advice."));
   }
 
-  box.append(h, debt.wrap, due.wrap, paid.wrap, base.wrap, err, out);
+  // Faster first use: one tap fills a sample invoice and shows the full working.
+  const sample = el("button", "try-btn", "Try an example");
+  sample.type = "button";
+  sample.addEventListener("click", () => { debt.input.value = "2500"; due.input.value = "2026-08-01"; paid.input.value = "2026-09-15"; render(); });
+  const acts = el("div", "try-controls");
+  acts.append(sample);
+  box.append(h, debt.wrap, due.wrap, paid.wrap, base.wrap, acts, err, out);
   [debt, due, paid, base].forEach((f) => { f.input.addEventListener("input", render); f.input.addEventListener("change", render); });
 
   app.textContent = "";

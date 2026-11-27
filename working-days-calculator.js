@@ -243,5 +243,16 @@
 
   app.textContent = "";
   app.append(box);
+  // Faster first use: open with today and a date 30 days on, and 10 working days, so an answer shows before anyone types.
+  (function prefill() {
+    const pad = (n) => String(n).padStart(2, "0");
+    const iso = (d) => d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate());
+    const t = new Date();
+    const later = new Date(t.getFullYear(), t.getMonth(), t.getDate() + 30);
+    const inRange = (d) => d.getFullYear() >= DATA.years[0] && d.getFullYear() <= DATA.years[1];
+    if (!start.value && inRange(t)) start.value = iso(t);
+    if (!end.value && inRange(later)) end.value = iso(later);
+    if (!nIn.value) nIn.value = "10";
+  })();
   render();
 })(typeof globalThis !== "undefined" ? globalThis : this);

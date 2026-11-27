@@ -386,8 +386,14 @@
     [inc, end, cs].forEach((f) => f.input.addEventListener("keydown", (ev) => { if (ev.key === "Enter") run(); }));
     const dl = downloads(() => last, "company-deadlines");
     dl.hidden = true;
+    // Faster first use: one tap fills a sample company and shows every date; typing a valid date updates the answer by itself.
+    const sample = button("Try an example");
+    sample.addEventListener("click", () => { inc.input.value = "2025-04-06"; end.input.value = ""; cs.input.value = ""; run(); });
+    inc.input.addEventListener("change", () => { if (parseDate(inc.input.value)) run(); });
+    end.input.addEventListener("change", () => { if (parseDate(inc.input.value)) run(); });
+    cs.input.addEventListener("change", () => { if (parseDate(inc.input.value)) run(); });
     const actions = el("div", "try-controls");
-    actions.append(go);
+    actions.append(go, sample);
     box.append(h, inc.wrap, end.wrap, cs.wrap, err, actions, out, dl);
     return box;
   }
