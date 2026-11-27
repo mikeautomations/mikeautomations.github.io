@@ -92,6 +92,21 @@
 
   const mode = el("select");
   DATA.modes.forEach((m) => { const o = el("option", null, m.label); o.value = m.id; mode.append(o); });
+  mode.hidden = true;
+  // Plain buttons instead of a drop-down: one tap picks the sum, and each one opens with a worked example already filled in.
+  const tabs = el("div", "ft-tabs");
+  tabs.setAttribute("role", "group");
+  tabs.setAttribute("aria-label", T.mode);
+  const tabBtns = DATA.modes.map((m) => {
+    const b = el("button", "try-btn", m.label);
+    b.type = "button";
+    b.addEventListener("click", () => { mode.value = m.id; dirty = false; labels(); prefill(); update(); });
+    tabs.append(b);
+    return b;
+  });
+  let dirty = false;
+  const eg = (t) => (t || "").replace(/[^0-9.,]/g, "");
+  function prefill() { if (dirty) return; const c = cfg(); aIn.value = eg(c.aPlaceholder); bIn.value = eg(c.bPlaceholder); }
   const aIn = numInput();
   const bIn = numInput();
   const aLab = el("label");
@@ -99,8 +114,8 @@
 
   const form = el("div", "ft-box");
   const grid = el("div", "ft-grid");
-  grid.append(field("pc-mode", el("label", null, T.mode), mode), field("pc-a", aLab, aIn), field("pc-b", bLab, bIn));
-  form.append(grid);
+  grid.append(field("pc-a", aLab, aIn), field("pc-b", bLab, bIn));
+  form.append(el("p", "ft-hint", T.mode), tabs, mode, grid);
 
   const error = el("p", "ft-error");
   error.setAttribute("role", "alert");
@@ -117,6 +132,7 @@
     bLab.textContent = c.b;
     aIn.placeholder = c.aPlaceholder || "";
     bIn.placeholder = c.bPlaceholder || "";
+    tabBtns.forEach((b, i) => { const on = DATA.modes[i].id === c.id; b.setAttribute("aria-pressed", on ? "true" : "false"); b.style.background = on ? "var(--lx-blue)" : ""; b.style.color = on ? "#fff" : ""; b.style.borderColor = on ? "var(--lx-blue)" : ""; });
   }
 
   function update() {
@@ -139,20 +155,21 @@
     if (c.id === "change") map.V = num(Math.abs(r.value));
     const head = el("p", null, fill(c.result, map));
     head.style.fontWeight = "700";
-    head.style.fontSize = "1.2rem";
+    head.style.fontSize = "1.7rem";
     head.style.margin = "0";
     result.append(head);
     if (r.extra != null && c.extra) result.append(el("p", "ft-hint", fill(c.extra, map)));
     if (c.formula) result.append(el("p", "ft-hint", c.formula));
   }
 
-  [aIn, bIn].forEach((n) => n.addEventListener("input", update));
-  mode.addEventListener("change", () => { labels(); update(); });
+  [aIn, bIn].forEach((n) => n.addEventListener("input", () => { dirty = true; update(); }));
+  mode.addEventListener("change", () => { dirty = false; labels(); prefill(); update(); });
 
   app.textContent = "";
   const intro = el("p");
   intro.append(el("span", "try-label", T.tag), document.createTextNode(" " + T.intro));
   app.append(intro, form, error, result);
   labels();
+  prefill();
   update();
 })(typeof globalThis !== "undefined" ? globalThis : this);

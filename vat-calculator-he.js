@@ -86,6 +86,7 @@
   amount.dir = "ltr";
   amount.autocomplete = "off";
   amount.placeholder = T.amountPlaceholder;
+  amount.value = "1000";
   const rate = el("input");
   rate.type = "text";
   rate.inputMode = "decimal";
@@ -96,7 +97,17 @@
   const form = el("div", "ft-box");
   const grid = el("div", "ft-grid");
   grid.append(field(T.mode, null, mode), field(T.amount, T.amountHint, amount), field(T.rate, T.rateHint, rate));
-  form.append(grid);
+  // Quick amounts: one tap fills the sum, so the first answer needs no typing.
+  const chips = el("div", "try-controls");
+  chips.setAttribute("role", "group");
+  chips.setAttribute("aria-label", T.quick);
+  [100, 500, 1000, 5000, 10000, 50000].forEach((n) => {
+    const b = el("button", "try-btn", n.toLocaleString("en-US") + " ₪");
+    b.type = "button";
+    b.addEventListener("click", () => { amount.value = String(n); update(); });
+    chips.append(b);
+  });
+  form.append(grid, chips);
 
   const error = el("p", "ft-error");
   error.setAttribute("role", "alert");
@@ -129,6 +140,11 @@
       row(T.gross, formatIlsHe(r.grossCents), mode.value === "remove"),
     );
     table.append(body);
+    const big = el("p", "ft-big ft-ltr", formatIlsHe(mode.value === "add" ? r.grossCents : r.netCents));
+    big.style.cssText = "font-size:2rem;font-weight:800;margin:0;line-height:1.2";
+    const cap = el("p", "ft-hint", mode.value === "add" ? T.gross : T.net);
+    cap.style.margin = "0";
+    result.append(cap, big);
     const how = r.mode === "remove"
       ? T.howRemove.replace("{G}", formatIlsHe(r.grossCents)).replace("{F}", String(1 + r.pct / 100)).replace("{N}", formatIlsHe(r.netCents))
       : T.howAdd.replace("{N}", formatIlsHe(r.netCents)).replace("{F}", String(1 + r.pct / 100)).replace("{G}", formatIlsHe(r.grossCents));
