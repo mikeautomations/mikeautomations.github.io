@@ -4479,6 +4479,12 @@ To see the steps for your business first, [build your plan here](https://mikeaut
 5. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), or $1,500 for the first 3 clients, and you pay only once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). A custom system is from $5,000. Optional support is $150 a month.
 6. You get a written handover, using our [automation handover checklist](https://mikeautomations.github.io/en/blog/automation-handover-checklist/), so anyone can take it over later.
 
+### What is the difference between an Airtable consultant and an Airtable developer?
+A consultant starts from how your business works and designs the tables, views and forms to fit it, then sets up the automations. A developer is more likely to write custom scripts or build apps on top of Airtable. Most small businesses need the first. Ask for the base to be built in your own Airtable account.
+
+### When should I hire an Airtable expert instead of using a spreadsheet?
+When your data is several linked things, such as clients, jobs and invoices, and the spreadsheet has become hard to trust or share. If you track one simple list, a spreadsheet is still fine.
+
 ### What does an Airtable consultant do?
 Designs the tables, linked records, views and forms, imports and cleans your data, and sets up automations and connections to your other tools. A good one also writes down how it all works so you aren't dependent on them.
 
@@ -4815,6 +4821,12 @@ If you are unsure what to automate first, read [what to automate first](https://
 3. Built in your own Make organization with your app connections, so you own every scenario.
 4. Instant triggers where possible, filters early, error handlers and an alert to a named person when a run fails. Any AI step drafts; a person approves.
 5. Live in 2-3 days, with a written handover. Workflow automation is [$2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), paid once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). Optional support is $150 a month. Make's subscription is billed to you by Make.
+
+### What is the difference between a Make.com consultant and a Make.com expert?
+In practice the words mean the same thing: someone who plans, builds and fixes Make scenarios. What matters is what you get: scenarios built in your own organization, error alerts, a written description and a fixed price for a defined job.
+
+### How do I find a good Make.com consultant?
+Ask what they would build for your job and what happens when a run fails, ask to see a scenario they built or a short test on your own example, and check that the work will sit in your own Make organization.
 
 ### Is Make.com hard to learn for a small business owner?
 Simple scenarios are manageable with Make's templates. Branches, error handling and reshaping data take longer to learn, which is the point where many owners ask for help.
@@ -6212,6 +6224,15 @@ A [free 15-minute call](https://mikeautomations.github.io/call/) about how claim
 
 ### Free tools for claim updates
 The free [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes the instant reply when a client reports a claim, and the [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts working days between updates.
+
+### How often should a broker update a client on their claim?
+Whenever something changes, and at an agreed interval when nothing has, such as every week or two. A short message saying the claim is still with the insurer, what you are waiting for and when you will chase it stops most worried calls.
+
+### What should a claims update to a client include?
+The claim reference, the current stage, what the insurer or you are waiting for, anything the client needs to send and by when, and the next date you will update them. Leave cover and settlement opinions to a broker's own message.
+
+### How do brokers chase insurers without it taking over the day?
+Give every open claim a next-chase date, send the same short email with the claim number and what is outstanding when it falls due, and show the office one daily list of claims past their chase date.
 
 ### Does this replace our broker software or claims system?
 No. It reads the claims log you already keep and does the requesting, reminding and updating around it. If your software can't be connected, a spreadsheet or a daily export can be the claims log.
