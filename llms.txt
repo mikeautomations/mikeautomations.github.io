@@ -510,7 +510,7 @@ The Hebrew site serves businesses in Israel, in shekels: יצירת פעולות
 - [כל המדריכים](https://mikeautomations.github.io/he/guides/)
 - [אוטומציה למשרד רואי חשבון](https://mikeautomations.github.io/he/automation-accountants/): אוטומציה למשרד רואי חשבון: קליטת לקוח חדש, ייפוי כוח, תזכורות חודשיות ומוכנות לדוח שנתי. תהליך אחד החל מ-5,500 ₪, מוכן תוך יום-יומיים.
 - [אוטומציה לסוכנות ביטוח](https://mikeautomations.github.io/he/automation-insurance-agency/): כל ליד מהאתר ומפייסבוק נקלט, תזכורת לפני כל חידוש, ומסמכי תביעה נאספים לתיק אחד. מה אפשר לבנות לסוכנות קטנה ומה המחיר.
-- [אוטומציה לקליניקה](https://mikeautomations.github.io/he/automation-clinic/): תזכורת לתור בוואטסאפ עם אישור בלחיצה, טופס קליטה לפני הביקור ומענה לפניות חדשות. לקליניקה קטנה, על הכלים שכבר יש לה.
+- [אוטומציה לקליניקה](https://mikeautomations.github.io/he/automation-clinic/): אוטומציה לקליניקה קטנה: תזכורת לתור בוואטסאפ עם אישור בלחיצה, טופס קליטה לפני הביקור, ומה נכון לא לשלוח בהודעה. מ-5,500 ₪.
 - [אוטומציה לחברת ניהול נכסים](https://mikeautomations.github.io/he/automation-property-management/): כל קריאה מדייר בוואטסאפ נפתחת, מנותבת לספק ונסגרת עם עדכון לדייר. במקום אקסל וטלפונים חוזרים. מה אפשר לבנות ובכמה.
 - [איסוף מסמכים מלקוחות](https://mikeautomations.github.io/he/document-collection-automation/): איך אוספים מסמכים מלקוחות בלי תעודות זהות בוואטסאפ: רשימה אישית, קישור העלאה, תזכורת על מה שחסר. תבניות ומחיר מ-5,500 ₪.
 - [בוט וואטסאפ לעסק](https://mikeautomations.github.io/he/whatsapp-business-automation/): בוט וואטסאפ לעסק: מה אפשר לעשות בחינם באפליקציה, מתי צריך את הממשק הרשמי של Meta ומתי בוט. טבלת החלטה, תבנית מענה ומה זה עולה.
@@ -540,15 +540,15 @@ The Hebrew site serves businesses in Israel, in shekels: יצירת פעולות
 - [תזכורות תשלום ללקוחות](https://mikeautomations.github.io/he/invoice-payment-reminders/): תזכורות תשלום ללקוחות בשוטף+30, 45 ו-60: לוח זמנים, שלוש תבניות (ידידותית, עניינית, תקיפה), מתי מתקשרים, ומתי התוכנה שלכם מספיקה.
 - [מערכת לניהול לקוחות לעסק קטן](https://mikeautomations.github.io/he/crm-small-business/): הצוות חזר לאקסל אחרי ה-CRM? מתי תוכנה מוכנה מספיקה, מתי כדאי מערכת שבנויה לפי איך שהעסק עובד, וכמה כל אפשרות עולה.
 - [בניית מערכת פנימית לעסק](https://mikeautomations.github.io/he/custom-business-system/): מה זו מערכת פנימית שבנויה לעסק, איך עובר תהליך הבנייה מהמיפוי ועד המסירה, מה מקבלים, למי שייכים הנתונים וכמה זה עולה.
-- [סוכן AI לעסק: מתי כן ומתי לא](https://mikeautomations.github.io/he/ai-agent-for-business/): סוכן AI קורא הודעות ומסמכים, ממיין ומכין טיוטה, ואדם מאשר. מתי הוא שווה את זה, מתי אוטומציה רגילה עדיפה, וכמה זה עולה.
+- [סוכן AI לעסק: מתי כן ומתי לא](https://mikeautomations.github.io/he/ai-agent-for-business/): סוכן AI לעסק קורא טקסט ומסמכים ומכין טיוטה, ואדם מאשר. מה ההבדל מאוטומציה רגילה, מתי לא צריך אותו, ומה עם מידע של לקוחות.
 - [מעקב אחרי הצעת מחיר](https://mikeautomations.github.io/he/quote-follow-up/): איך עושים מעקב אחרי הצעת מחיר בלי להציק: מתי לשלוח, 3 הודעות מוכנות לוואטסאפ ולמייל, מה עונים על "יקר לי", ואיך לא שוכחים אף הצעה.
-- [Make, n8n או Zapier: מה לבחור](https://mikeautomations.github.io/he/make-n8n-zapier/): השוואה בעברית פשוטה: מה ההבדל בין Make, n8n ו-Zapier, מי יתחזק את זה ביום-יום, איפה המידע עובר, ומתי לא צריך אף אחד מהם.
+- [Make, n8n או Zapier: מה לבחור](https://mikeautomations.github.io/he/make-n8n-zapier/): Make, n8n או Zapier? מה ההבדל, איך כל אחד מחייב, איפה המידע עובר, מי מתחזק, ומתי לא צריך אף אחד מהם. בעברית פשוטה, בלי מחירים ישנים.
 - [ניהול לידים אוטומטי](https://mikeautomations.github.io/he/lead-management-automation/): לידים מהאתר, מפייסבוק ומוואטסאפ נכנסים לרשימה אחת, מקבלים מענה מיד ונכנסים למעקב. מה זה כולל, איפה זה נשמר וכמה זה עולה.
 - [טופס דיגיטלי עם חתימה לעסק](https://mikeautomations.github.io/he/digital-forms-signature/): הלקוח ממלא וחותם בטלפון, והמסמך החתום נשמר לבד בתיק שלו והפרטים נכנסים למערכת. איך זה בנוי, על איזה כלי חתימה, ומה המחיר.
-- [איך לבקש ביקורות בגוגל מלקוחות](https://mikeautomations.github.io/he/google-reviews-requests/): הודעה אחת לכל לקוח בסוף השירות עם קישור ישיר לביקורת, בזמן הנכון. מה אסור לפי המדיניות של גוגל ואיך בונים את זה אוטומטית.
+- [איך לבקש ביקורות בגוגל](https://mikeautomations.github.io/he/google-reviews-requests/): איך לבקש ביקורות בגוגל מלקוחות: יצירת קישור ישיר, הודעות מוכנות להעתקה, תזמון נכון, מה אסור לפי גוגל ואיך עונים על ביקורת שלילית.
 - [קליטת עובד חדש אוטומטית](https://mikeautomations.github.io/he/employee-onboarding-automation/): רשימת מסמכים לעובד החדש, חוזה לחתימה, תזכורת על טופס 101, משימות לפני היום הראשון ומעקב מה הושלם. קליטת עובד מסודרת בלי לרדוף.
 - [דוח שבועי אוטומטי לעסק](https://mikeautomations.github.io/he/automated-business-reports/): כל יום ראשון בבוקר: כמה פניות נכנסו, כמה הצעות מחיר יצאו, מה שולם ומה מחכה. דוח קצר במייל או בוואטסאפ שנבנה לבד מהמערכות שכבר יש לכם.
-- [קליטת חשבוניות ספקים אוטומטית](https://mikeautomations.github.io/he/supplier-invoices-automation/): חשבוניות ספקים מגיעות למייל ולוואטסאפ ומתפזרות. איך לאסוף אותן למקום אחד, לשלוף את הפרטים, לבדוק כפילויות ולהעביר לרואה החשבון.
+- [חשבוניות ספקים אוטומטי](https://mikeautomations.github.io/he/supplier-invoices-automation/): איך לרכז חשבוניות ספקים אוטומטית ממייל ווואטסאפ, לסמן חשבונית בלי מספר הקצאה ולהעביר תיקייה מסודרת לרואה החשבון. מ-5,500 ₪.
 - [תיאום פגישות אוטומטי](https://mikeautomations.github.io/he/meeting-scheduling-automation/): קישור שבו הלקוח בוחר שעה פנויה ביומן, ומה שקורה מסביב: שאלון לפני הפגישה, תזכורת, עדכון ברשימת הלקוחות ומעקב אחרי פגישה.
 - [שאלות לשאול ספק אוטומציה](https://mikeautomations.github.io/he/questions-before-hiring-automation-vendor/): 18 שאלות לשאול ספק אוטומציה לפני שחותמים: של מי המערכת, מי מתחזק, מה העלויות החודשיות ומה קורה כשמשהו נשבר. ואיך נשמעת תשובה טובה.
 - [WhatsApp Business App או API](https://mikeautomations.github.io/he/whatsapp-business-app-vs-api/): WhatsApp Business API מחיר בישראל: מה עולה כסף, מה בחינם, ומה ההבדל מאפליקציית WhatsApp Business. לפי התעריפון הרשמי של Meta, עם טבלת השוואה.
@@ -574,6 +574,11 @@ The Hebrew site serves businesses in Israel, in shekels: יצירת פעולות
 - [איך מודיעים ללקוחות על העלאת מחירים](https://mikeautomations.github.io/he/price-increase-how-to-tell-customers/): איך מודיעים ללקוחות קבועים על העלאת מחירים: כמה זמן מראש, מה לכתוב, נימוק קצר, דוגמה להודעה בוואטסאפ ובמייל, ומה לבדוק בחוזה. עם כלי חינמי.
 - [מדיניות פרטיות לאתר של עסק](https://mikeautomations.github.io/he/privacy-policy-business-website/): האתר של העסק צריך מדיניות פרטיות? מה חוק הגנת הפרטיות מבקש, מה השתנה בתיקון 13, רשימת סעיפים, עוגיות, ואיפה לשים אותה. עם כלי חינמי.
 - [ניגודיות צבעים ונגישות באתר](https://mikeautomations.github.io/he/website-color-contrast-accessibility/): טקסט אפור בהיר וכפתורים לבן על צהוב פוגעים בקריאות ובנגישות. מה אומרים יחסי הניגודיות של WCAG (4.5:1, 3:1), איפה זה מסתתר ואיך מתקנים.
+- [מענה אוטומטי בוואטסאפ](https://mikeautomations.github.io/he/whatsapp-auto-reply-small-business/): איך מגדירים מענה אוטומטי בוואטסאפ לעסק בחינם: הודעת פתיחה, הודעה מחוץ לשעות ותשובות מהירות. 5 תבניות להעתקה וטבלת מה אפשר ומה אי אפשר.
+- [טופס באתר לגוגל שיטס והתראה](https://mikeautomations.github.io/he/website-form-to-google-sheets-notification/): איך מחברים טופס באתר לגיליון בגוגל שיטס ומקבלים התראה על כל ליד: Google Forms, סקריפט, Make או n8n, טבלת השוואה ומבנה גיליון.
+- [חוק הספאם לעסק קטן](https://mikeautomations.github.io/he/customer-messages-spam-law/): מה מותר לעסק לשלוח ללקוחות: מה נחשב פרסומת, הסכמה מראש, חריג ללקוח קיים, הסרה, פיצוי עד 1,000 ₪ להודעה, ומה נחשב הודעת שירות.
+- [החייאת לידים שנעלמו](https://mikeautomations.github.io/he/revive-old-leads/): החייאת לידים בלי להציק: רצף של 4 הודעות (יום 0, 3, 10, 30), 3 תבניות להעתקה, חלוקה לפי סיבת השתיקה, מתי עוצרים ומתי מוותרים.
+- [מה לאוטמט לפני גיוס עובד](https://mikeautomations.github.io/he/processes-to-automate-before-hiring/): רשימת 10 משימות אדמיניסטרטיביות בעסק שירות שאפשר להפוך לאוטומטיות לפני שמגייסים, עם מבחן קצר לכל אחת, דף חישוב ומתי דווקא כן לגייס.
 
 ## Optional
 - [Terms](https://mikeautomations.github.io/en/terms/)
