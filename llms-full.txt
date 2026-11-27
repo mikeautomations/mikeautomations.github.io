@@ -4827,10 +4827,10 @@ Make deactivates a scenario after a set number of errors in a row, and one that 
 ### Is Make better than Zapier for a small business?
 It depends on the workflow. Make suits steps with branches and data that needs reshaping; Zapier is often quicker for simple straight-line jobs. Our Zapier vs Make vs n8n comparison sets out when each fits.
 
-## Zapier expert for small business: what to hire for, and what to check first
+## Zapier consultant for small business: what to hire for, and what to check first
 Source: https://mikeautomations.github.io/en/zapier-expert-for-small-business/
 
-A Zapier expert for a small business is someone you pay to plan, build and fix Zaps, the automated workflows that pass information between your apps. Hire one when a workflow has several steps, touches money or client data, or keeps breaking. Simple two-app Zaps are fine to build yourself. Ask for the Zaps to be built in your own Zapier account.
+A Zapier consultant, also called a Zapier expert, for a small business is someone you pay to plan, build and fix Zaps, the automated workflows that pass information between your apps. Hire one when a workflow has several steps, touches money or client data, or keeps breaking. Simple two-app Zaps are fine to build yourself. Ask for the Zaps to be built in your own Zapier account.
 
 Searching for a Zapier expert or a Zapier consultant for your small business usually means one of three things: you know what you want automated but not how, you've built a few Zaps and they keep failing, or your task bill has crept up and you're not sure why. Below: the jobs worth paying for, what to ask before hiring, what Zapier costs and the limits in its own help docs. It also says plainly what Mike Automations is: one person who builds automations on the tools you already use, not a certified Zapier partner.
 
@@ -4916,6 +4916,9 @@ To see the steps first, [build your plan](https://mikeautomations.github.io/en/p
 3. The build happens in your own Zapier account and your own apps, so you own everything. On Team you add Michael as a member and remove him afterwards; Professional is a one-user plan, so the written plan sets out how access works without you sharing your password.
 4. Live in 2-3 days, tested with real examples, with written notes on what each Zap does and what to do if one stops.
 5. [Workflow automation is a fixed $2,000 one-off](https://mikeautomations.github.io/en/pricing/), $1,500 for the first 3 clients, and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). Optional support is $150 a month. Your Zapier subscription stays separate and is paid to Zapier.
+
+### What is the difference between a Zapier consultant, a freelancer and an agency?
+The work is the same: planning, building and fixing Zaps. A consultant usually starts with your process and gives a plan and price, a freelancer often works to a task or an hourly rate, and an agency adds account management and usually a larger minimum. Whoever you choose, the Zaps should sit in your own Zapier account.
 
 ### What does a Zapier expert do?
 A Zapier expert plans, builds and fixes Zaps, the automated workflows that move information between your apps. They also set up error alerts, keep task use down and leave written notes so you can see what each Zap does.
@@ -7701,6 +7704,12 @@ This assumes a two-week intro offer. Stretch or shorten the gaps for a 30-day of
 | Day the offer ends, not bought | Office list | A person decides whether to call, have a word after class, or let it go |
 | 2 weeks later, not bought | Email | One last message: the door is open, here's the timetable. Then the messages stop |
 
+### The email before the offer ends
+Four days before the intro offer ends (edit the words in brackets):
+```
+Hi [first name], you've been to [number] classes since you started on [start date], including [class names]. Your intro offer ends on [end date]. If you'd like to keep going, here are the options: [monthly membership, price and what it includes], or [class pack, price and number of classes]. You can choose here: [link]. If neither fits, tell me what you'd like and I'll see what we can do. Either way, thanks for trying [studio name]. [instructor or owner name]
+```
+
 ### A check-in text you can copy
 Day after the first class (edit the words in brackets):
 ```
@@ -7736,6 +7745,12 @@ A [free 15-minute call](https://mikeautomations.github.io/call/) about how you s
 
 ### Free tool: a WhatsApp chat link
 The free [WhatsApp link generator](https://mikeautomations.github.io/en/whatsapp-link-generator/) makes a chat link and website button with a ready message, so people can ask about the intro offer in one tap.
+
+### How do I turn intro offer clients into members?
+Help them come back for a second and third class in the first two weeks, because that is when the habit forms. Send a message after the first class, a nudge if nothing is booked within five days, and one email with the membership and pack options before the offer ends. Stop the moment they buy.
+
+### How many follow-up messages should a studio send after a trial class?
+Four or five across the offer: a welcome, a reminder before the first class, a check-in the day after, a nudge only if they have not booked, and one before the offer ends. After that, one last note and then stop.
 
 ### Doesn't my booking software already do this?
 Many booking apps send a welcome email and booking confirmations. Fewer check who hasn't booked again, stop messages the moment someone buys, or hand you a list of people to speak to. The workflow can start from your app's data and add only what's missing.
@@ -19444,7 +19459,7 @@ Not without a check. Anthropic's own guidance says even the most advanced langua
 Often not. For emails sent by a system, a parser such as Email Parser by Zapier can pick out labelled fields. For bills and receipts, your accounting software's own capture may already do the job.
 
 ## How long does business automation take? Realistic timelines and what slows them down
-Source: https://mikeautomations.github.io/en/blog/how-long-does-business-automation-take/ (2026-11-11)
+Source: https://mikeautomations.github.io/en/blog/how-long-does-business-automation-take/ (2026-11-27)
 
 How long business automation takes depends on the size of the job. One workflow, such as document chasing or invoice reminders on tools you already use, can go from first call to live in under a week: a written plan within 48 hours and a build of 2-3 days. A custom system with its own logins and data takes weeks (at Mike Automations, a first version in 3-4 weeks), and most delays come from waiting for access, decisions and approvals, not from the build itself.
 
@@ -19471,6 +19486,17 @@ Whoever builds it, a well-run project follows roughly the same steps. Knowing th
 5. The build and testing: usually 2-3 days for one workflow, tested on dummy records first and then on a few real ones.
 6. A walkthrough: a short session in plain English on what it does, where to look and how to pause it.
 7. Live on real work: it runs on your actual clients while someone watches it closely and fixes anything that doesn't behave as the plan said.
+
+### A typical week-by-week timeline for one workflow
+For one workflow on tools you already use, this is the shape of a project with Mike Automations. The dates are ours, not an industry standard, and the gaps are mostly waiting for answers and access.
+| When | What happens | Who |
+| --- | --- | --- |
+| Day 0 | Free 15-minute call: how the job works today and what "working" means | You and Michael |
+| Within 48 hours | Written plan with a fixed price | Michael |
+| Day 1 after you say yes | You give access to the tools involved, and one real example to test with | You |
+| Days 1 to 3 | Build, test on your example, fix what breaks | Michael |
+| Day 3 | You watch it run on real work and say whether it's right | You |
+| After it's live | You pay once it's running and you're happy with it | You |
 
 ### What slows an automation project down
 In most small businesses the work waits on people, not on software. These are the usual causes, and almost all of them are in your hands.
@@ -19518,6 +19544,12 @@ Automations also need occasional attention when one of your tools changes. Our g
 ### How Mike Automations keeps it to days, not months
 Mike Automations builds one workflow at a time on the tools you already use, so there's no new software to roll out and no data to migrate. You start with a [free 15-minute call](https://mikeautomations.github.io/call/). Within 48 hours you get a written plan with a fixed price. The build is usually 2-3 days, and then it runs on your real work. It costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, as set out in our [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). No deposit and no hourly billing.
 Not sure what to automate yet? The free [plan builder](https://mikeautomations.github.io/en/plan/) suggests workflows for your type of business, and the [demo](https://mikeautomations.github.io/en/try/) shows one running. If you're comparing quotes, our guide to [business automation cost](https://mikeautomations.github.io/en/blog/business-automation-cost/) explains what you should be paying for, and [how to brief an automation project](https://mikeautomations.github.io/en/blog/how-to-brief-an-automation-project/) gives you a template that cuts planning time.
+
+### How long does it take to set up business automation?
+One workflow on tools you already use is usually live within a week of the call: a written plan within 48 hours, then a build of about 2-3 days. A custom system takes weeks. The biggest delays come from waiting on account access and decisions, not from the build.
+
+### How long does it take to learn Zapier or Make?
+A simple two-app workflow can be built in an evening from a template. Workflows with branches, data clean-up or error handling take longer, often several evenings of learning and testing, so many owners hire help for those.
 
 ### How long does it take to automate one business process?
 For one process on tools you already use, such as document chasing or invoice reminders, the build is usually 2-3 days. With Mike Automations the written plan arrives within 48 hours of a free 15-minute call, so it's usually live in under a week.
@@ -21090,7 +21122,7 @@ Only in tools whose data terms you've checked and approved, with a record of whi
 Usually reminders. Scheduled requests and filing give the biggest time savings with the least risk. AI comes next, for reading documents and drafting replies, with a person approving.
 
 ## How much does business automation cost for a small business?
-Source: https://mikeautomations.github.io/en/blog/business-automation-cost/ (2026-11-22)
+Source: https://mikeautomations.github.io/en/blog/business-automation-cost/ (2026-11-27)
 
 How much does business automation cost? For a small business it has three parts: a one-off build, software subscriptions and optional support. With Mike Automations one process costs $2,000 once ($1,500 for the first 3 clients), and support is optional at $150 a month. The platform underneath often adds little or nothing a month.
 
@@ -21170,6 +21202,9 @@ For illustration only, with made-up inputs you should replace with your own: a f
 
 ### Free tool: what manual admin costs you now
 Before weighing the cost of automation, it helps to know the cost of doing it by hand. The free [admin time and cost calculator](https://mikeautomations.github.io/en/admin-time-calculator/) adds up the hours your repeated tasks take each week and what they cost a year. It shows the current cost only, not a promised saving.
+
+### How much does it cost to automate a small business?
+It depends on the job, not the size of the business. One process end to end is $2,000 one-off with us ($1,500 for the first 3 clients). On top of that you pay for the software you use, such as an automation platform, directly from your own account, and optional support at $150 a month.
 
 ### Why do automation quotes vary so much?
 Providers quote in different ways: hourly, per workflow or as a monthly retainer, and the scope differs. Ask what is included, what counts as done, and who owns the workflow at the end.
