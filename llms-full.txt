@@ -6384,6 +6384,12 @@ A [free 15-minute call](https://mikeautomations.github.io/call/) about how you t
 ### Free tools for report deadlines
 The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts the working days before each report is due, so the first reminder goes out with time to gather the figures.
 
+### How do I track grant reporting deadlines?
+Put every grant in one list with the funder, the report due date, what is needed, who supplies each part and the date you need it internally. Set reminders weeks before the due date for the people who supply the numbers, and show the manager every report due soon.
+
+### How far ahead should I ask staff for grant report data?
+Four to six weeks before the funder's deadline is a safe margin for most reports, with a reminder halfway. Work back from the due date, and allow time for a second person to check the figures.
+
 ### When are grant reports usually due?
 Whenever the grant agreement says. Many funders ask for progress reports during the grant and a final report after it ends. For US federal awards, 2 CFR 200.344 says final reports are due no later than 120 calendar days after the period of performance ends.
 
@@ -7550,6 +7556,12 @@ Every legal judgement: who can apply, whether the estate is excepted, the Inheri
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you open probate matters and collect papers today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your case management software, Outlook or Gmail, OneDrive or Google Drive, an online form), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your firm first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=probate-document-collection). If you also take on wills, the [will writing client questionnaire](https://mikeautomations.github.io/en/will-writing-client-questionnaire/) runs the same way, and new enquiries can start from the [client intake workflow for small law firms](https://mikeautomations.github.io/en/law-firm-client-intake/).
+
+### How do I get executors to send documents faster?
+Send one clear list with an upload link, explain in a sentence why each item is needed, and remind them gently every week or so about only what is missing. A phone call after the second reminder is kinder than a fourth email.
+
+### What should a probate document request include?
+The deceased's details, the documents needed (such as the will, death certificate and details of assets and debts), how to send them securely, and a date. Keep the tone plain and warm, and offer a call.
 
 ### What documents do executors need to provide for probate?
 Gov.uk says the application needs the original will (no photocopies) and the estate values, plus a copy of the death certificate if the death was outside England and Wales or there's an interim certificate from the coroner. To reach those values you also need details of bank accounts, property, pensions, shares, debts and gifts made in the 7 years before death.
@@ -19666,7 +19678,7 @@ Waiting on people: access to accounts, decisions about how the process should wo
 Yes. Write down the current steps, have one real example ready, make sure the account owner can give access the day the plan is accepted, and name one person who signs off message wording.
 
 ## AI receptionist for small business: pros, cons and what to keep human
-Source: https://mikeautomations.github.io/en/blog/ai-receptionist-small-business-pros-and-cons/ (2026-11-11)
+Source: https://mikeautomations.github.io/en/blog/ai-receptionist-small-business-pros-and-cons/ (2026-11-27)
 
 An AI receptionist for a small business is software that answers calls or chats in a natural voice, answers common questions, takes messages and books appointments when nobody is free to pick up. It works well for routine, predictable calls such as opening hours, booking slots and taking a name and number, and badly for emergencies, complaints, price promises and anything it has to guess. Before you switch one on, tell callers they are talking to an AI and whether the call is recorded, check the recording consent rules where you and your callers are, and keep a quick route to a real person.
 
@@ -19760,6 +19772,12 @@ AI then earns its place behind the scenes, drafting replies and summaries you ap
 ### How Mike Automations would approach it
 Most small businesses get further by fixing what happens around the call first: missed-call texts, an enquiry log, a booking link and a summary of each enquiry sent to you. If an AI receptionist still makes sense after that, I'll say which calls it should take and which stay with you. You can map your own process in the [plan builder](https://mikeautomations.github.io/en/plan/) or try the [demo](https://mikeautomations.github.io/en/try/) first.
 Book a [free 15-minute call](https://mikeautomations.github.io/call/). Within 48 hours you get a written plan with a fixed price. It's built on the tools you already use, goes live in 2-3 days, costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). A person always approves anything the AI prepares.
+
+### What are the pros and cons of an AI receptionist?
+Pros: it answers every call, including out of hours, and handles routine questions and bookings. Cons: it can mishear or give a wrong answer with confidence, callers may dislike talking to it, and recording and disclosure rules apply. Keep a clear route to a person for anything urgent or unusual.
+
+### Can an AI receptionist book appointments?
+Yes, if it is connected to your calendar and told which slots and services it may offer. Test it on real calls before relying on it, and make sure a booking it makes appears where your team looks.
 
 ### Is an AI receptionist worth it for a small business?
 It can be if you get many routine calls you can't answer: questions about hours, areas and bookings. If most calls need judgement, such as quotes, complaints or emergencies, a missed-call text back plus a quick call-back from you is often simpler and safer.
@@ -19863,7 +19881,7 @@ Calendly's pricing page on 11 November 2026 shows Free, Standard at $12 per seat
 No. Calendly's pricing page lists automatic meeting reminders on Standard and above, not on Free.
 
 ## Microsoft Forms vs Google Forms for a small business: which to use for client intake
-Source: https://mikeautomations.github.io/en/blog/microsoft-forms-vs-google-forms-small-business/ (2026-11-24)
+Source: https://mikeautomations.github.io/en/blog/microsoft-forms-vs-google-forms-small-business/ (2026-11-27)
 
 In the Microsoft Forms vs Google Forms choice, a small business should usually pick the one that matches the email and file storage it already uses: Google Forms if you run on Gmail and Google Drive, Microsoft Forms if you run on a Microsoft 365 business plan. Two limits decide most client-intake cases: Microsoft Forms only allows file upload questions when responders are inside your own organisation, and a form made with a free personal Microsoft account stops at 200 responses (Microsoft support, November 2026). Google Forms accepts uploads from outside people, but they must sign in to a Google Account first.
 
@@ -19953,6 +19971,9 @@ Confirmation message:
 ### How Mike Automations would set this up
 We don't sell Microsoft or Google licences, so the advice is about your work, not a product. A typical intake workflow takes each new response, adds it to your job list or CRM, sends the client a confirmation and a secure upload link if documents are needed, and tells the right person. A person still reviews every request before anything is promised. You can try a simple version in the [demo](https://mikeautomations.github.io/en/try/), or use the free [plan builder](https://mikeautomations.github.io/en/plan/) to see what to automate first.
 It starts with a [free 15-minute call](https://mikeautomations.github.io/call/) about how enquiries reach you today. Within 48 hours you get a written plan with a fixed price, including which form tool to keep. It's built on the tools you already use, live in 2-3 days, and costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it, under our [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/).
+
+### Is Microsoft Forms or Google Forms better for client intake?
+Use whichever matches your email and file storage: Microsoft Forms if you work in Microsoft 365, Google Forms if you work in Google Workspace. The limits on file uploads and response caps above are the main differences to check before you choose.
 
 ### Is Microsoft Forms or Google Forms better for a small business?
 Neither is better across the board. Use the one that matches your email and file storage: Google Forms for Gmail and Google Drive, Microsoft Forms for a Microsoft 365 business plan. Check file uploads and response limits before using either for client intake.
@@ -20169,7 +20190,7 @@ Yes. Intuit says you can set up to three automatic reminders, up to 90 days befo
 Fixed recurring invoices can. One-off invoices are better created as drafts and approved by a person, because extras, discounts and changes from the quote are where mistakes happen.
 
 ## Airtable vs Google Sheets for a small business: which one to use
-Source: https://mikeautomations.github.io/en/blog/airtable-vs-google-sheets-small-business/ (2026-11-24)
+Source: https://mikeautomations.github.io/en/blog/airtable-vs-google-sheets-small-business/ (2026-11-27)
 
 In the Airtable vs Google Sheets choice, a small business should stay on Google Sheets when the data is one simple list that a few people edit and the main job is sums and sharing, and pick Airtable when the work has linked records (customers, jobs, invoices) and needs proper forms, views per person and built-in automations. Google Sheets is free with a Google account; Airtable's Free plan stops at 1,000 records per base and its Team plan costs $20 per editing seat per month billed annually (Airtable, November 2026).
 
@@ -20263,6 +20284,9 @@ A workflow can watch a Google Sheet, notice a quote that's had no reply for a we
 
 ### How Mike Automations would set this up
 We don't sell Airtable or Google licences, so the advice is about your work, not a product. It starts with a free 15-minute call about how jobs and customers move through your business today. Within 48 hours you get a written plan with a fixed price, including whether to keep the sheet, move to Airtable or do neither. It's built on the tools you already use, live in 2-3 days, and costs $2,000 one-off, paid once it's running and you're happy with it, under our [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If you want to see the options first, the free [plan builder](https://mikeautomations.github.io/en/plan/) suggests what to automate and where.
+
+### Is Airtable better than Google Sheets for a small business?
+Only if your data is several linked things, such as clients, jobs and invoices. For one simple list, Google Sheets is easier and free. The decision table above sets out when each one wins.
 
 ### Is Airtable better than Google Sheets for a small business?
 Only when your data is several linked things, such as customers, jobs and invoices, or when you need forms, per-person views and built-in automations. For one simple list or number-heavy work, Google Sheets is free and does the job.
