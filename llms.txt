@@ -373,6 +373,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [HVAC warranty registration tracking](https://mikeautomations.github.io/en/hvac-equipment-warranty-registration-tracking/): For US HVAC contractors: every install on one list with its registration deadline, serial numbers collected on site, and proof sent to the homeowner.
 - [Exemption certificate tracking](https://mikeautomations.github.io/en/sales-tax-exemption-certificate-tracking/): For US wholesalers and their bookkeepers: a certificate on file for every tax-exempt customer, expiry dates on one list, and renewals requested in time.
 - [Year-end donation receipts](https://mikeautomations.github.io/en/year-end-donation-receipts-nonprofits/): For small US nonprofits, churches and their bookkeepers: giving records checked in December and a year-end statement sent to every donor in January.
+- [AWR 12-week tracking](https://mikeautomations.github.io/en/awr-12-week-qualifying-period-tracking/): For UK temp agencies: a week count for every worker and hirer, a warning before week 12, and the hirer asked for comparable pay details in time.
+- [Contingency deadline tracking](https://mikeautomations.github.io/en/real-estate-contract-contingency-deadline-tracking/): For US agents and transaction coordinators: every contract date on one list, reminders before each deadline, and new dates when an amendment is signed.
+- [Open enrollment reminders](https://mikeautomations.github.io/en/open-enrollment-reminders-benefits-brokers/): For US benefits brokers and small employers: one list of who has enrolled, waived or not started, and reminders only to employees who still need to act.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

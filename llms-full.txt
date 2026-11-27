@@ -18326,6 +18326,174 @@ No. The IRS says letters, postcards and computer-generated statements are accept
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## AWR 12-week tracking: know which temps are about to qualify, before payroll finds out
+Source: https://mikeautomations.github.io/en/awr-12-week-qualifying-period-tracking/
+
+An AWR tracking workflow keeps one row per agency worker, hirer and role, and counts qualifying weeks from the timesheets. It warns the consultant a few weeks before week 12, asks the hirer for comparable pay and conditions in time, and gives a person a short list of breaks and role changes to decide on.
+
+Under the Agency Workers Regulations, a temp who completes a 12-week qualifying period in the same role with the same hirer is entitled to equal treatment on pay and basic working conditions. A week counts whether the worker did five shifts in it or one. Breaks make it harder: some pause the count, some reset it, and a few keep it running. Most agencies know the rule well. What goes wrong is the counting. It lives in a consultant's head or in a payroll report nobody opens until a worker asks why their rate hasn't changed.
+
+### Where the 12-week count goes wrong
+- The count is done by start date, so weeks with no work are counted and short weeks are argued about
+- A worker moves between two sites of the same hirer and is treated as a new starter
+- A worker comes back after a few weeks away and nobody checks whether the count carries on
+- The hirer is asked for comparable pay details in week 12, and answers in week 15
+- A worker placed through a second branch has two counts that nobody adds together
+- Holiday, sickness and shutdown weeks are all treated the same way
+- The first full check happens when a worker or a client complains
+
+### What the list holds for each assignment
+One row per worker, hirer and role. The count comes from approved timesheets, not from the calendar.
+| On the row | Why it is there |
+| --- | --- |
+| Worker, hirer and role | The count belongs to this combination, not to the worker alone |
+| Weeks worked so far, from timesheets | A week with any approved hours is one week |
+| Weeks with no hours, and the reason if known | A person decides whether each gap pauses or resets the count |
+| Expected week-12 date at the current pattern | The warning and the request to the hirer follow this date |
+| Comparable pay and conditions from the hirer | Payroll needs them before the qualifying week, not after |
+| Status: counting, due soon, qualified, break to review | The weekly list is built from this |
+
+### How the workflow runs
+1. Each week the approved timesheets are read and every active assignment gets its week count updated.
+2. At week 8, the consultant gets a short note: who, where, and the expected week-12 date.
+3. The same day, the hirer contact gets a request for the pay and basic conditions of a comparable direct employee, with a simple form to fill in.
+4. If the hirer hasn't answered in a week, they get one reminder. After that the consultant gets a task to call.
+5. When a week has no hours, the row goes on a "break to review" list with the length of the gap so far.
+6. A person in your compliance or payroll team marks each break: pause, reset or keep counting. The workflow never decides that itself.
+7. When a worker changes role or site with the same hirer, the row is flagged for the same person to decide whether it is a new role.
+8. At week 11, payroll gets a list of workers who qualify next week, with the hirer's figures or a clear "still missing".
+9. Every Monday the branch manager gets one page: due in four weeks, missing hirer details, and breaks waiting for a decision.
+
+### What stays with you
+Whether a break pauses or resets the count, whether a new job with the same hirer is substantively different, and what counts as comparable pay are judgements for your team and your adviser, using the official guidance. The workflow doesn't change a pay rate and doesn't tell a worker or a hirer what they are entitled to. It counts weeks from your timesheets, asks the hirer early, and puts the hard cases in front of a person. If the timesheets themselves arrive late, start with [timesheet chasing for recruitment agencies](https://mikeautomations.github.io/en/recruitment-timesheet-chasing/). For documents before a placement, see [candidate compliance document chasing](https://mikeautomations.github.io/en/candidate-compliance-document-chasing/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many temps you have out each week and where timesheets are approved today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your recruitment software or a spreadsheet, your timesheet export, email and an online form). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your recruitment software already has an AWR report that your team trusts, we'll say so on the call and only build the reminders around it.
+
+### What is the AWR 12-week qualifying period?
+An agency worker who completes 12 qualifying weeks in the same role with the same hirer is entitled to equal treatment on pay and basic working conditions. The official guidance for recruiters on GOV.UK sets out the detail.
+
+### Does a part week count as a week?
+Yes. A week in which the worker does any work on the assignment counts as one week, whatever the hours.
+
+### Does the workflow decide whether a break resets the clock?
+No. It lists each gap with its length and the reason, if one was recorded. A person on your team decides, because the rules on breaks have several exceptions.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Contingency deadlines: every date in the contract on one list, with a reminder before each
+Source: https://mikeautomations.github.io/en/real-estate-contract-contingency-deadline-tracking/
+
+A contingency deadline workflow puts every date from a signed purchase contract on one list: earnest money, inspection, appraisal, financing and closing. It reminds the agent and the client before each one, asks for proof that the step is done, and changes the dates when a signed amendment moves them.
+
+A signed purchase contract is a list of dates. Earnest money is due. The inspection period ends. The appraisal and the loan each have their own day, and then there is closing. What happens when a date passes depends on the contract form and your state, and it is rarely good for your client. Most agents track these in a calendar, typed in by hand on the evening the offer is accepted. That works for two deals. With eight under contract, an amendment that moved closing by a week is in the file and not in the calendar.
+
+### Where contract dates slip
+- Dates are typed into a calendar by hand, from a contract signed late at night
+- Days are counted from the wrong starting date, or business days are mixed with calendar days
+- An amendment extends the inspection period and only the closing date gets updated
+- The early dates, earnest money and inspection, come up before the file is even set up
+- The agent knows the date and the client, lender and title company each assume somebody else is watching it
+- A coordinator is on vacation and the calendar is theirs alone
+- Nobody records that a step was done, only that it was due
+
+### What the list holds for each contract
+One row per date, grouped by property. A person enters or confirms every date from the signed contract.
+| On the row | Why it is there |
+| --- | --- |
+| Property, client and side: buyer or seller | The reminders are worded for the side you represent |
+| The date and what it is for | Earnest money, inspection, appraisal, financing, closing and any others in the contract |
+| Who has to act: client, agent, lender, title | The reminder goes to the person who can do something about it |
+| Where the date came from: contract or amendment | So a moved date can be traced to the signed page |
+| Proof it was done: receipt, report, notice sent | A deadline is closed by a document, not by a guess |
+| Status: upcoming, due this week, done, moved | The morning list is built from this |
+
+### How the workflow runs
+1. When a contract is fully signed, the agent or coordinator fills in a short form with the dates, or uploads the contract.
+2. If AI reads the dates from the uploaded contract first, a person checks each one against the signed pages before anything is scheduled.
+3. Each date goes on the list and on the shared calendar, with the person who has to act.
+4. A few days before each date, the agent gets a reminder. The client gets a plain message only if you have approved the wording for that step.
+5. The day before, the agent gets a second reminder with a link to mark the step done and attach the proof.
+6. If a date arrives and nothing is marked, the row goes to the broker or team lead the same morning.
+7. When an amendment is signed, the agent enters the new date. The old reminders are cancelled and new ones are set.
+8. Every morning the team gets one list: dates due in the next seven days, across all open contracts.
+9. After closing, the file gets a one-page record of every date and how it was met.
+
+### What stays with you
+How days are counted, what a missed date means and whether to ask for an extension are questions for the agent, the broker and, where it applies, an attorney. The workflow doesn't read a contract on its own authority, doesn't send a notice to the other side and doesn't give a client legal advice. It holds the dates a person confirmed, reminds the right people and shows what is still open. For new enquiries before there is a contract, see [lead follow-up for real estate agents](https://mikeautomations.github.io/en/real-estate-agent-lead-follow-up/). Investors with exchange dates can use [1031 exchange deadline tracking](https://mikeautomations.github.io/en/1031-exchange-deadline-tracking/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many contracts you have open at a time and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (Google or Outlook calendar, a spreadsheet, your email, text messages and an online form). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your brokerage already pays for transaction software with deadline reminders, we'll say so on the call and you may not need us.
+
+### Which dates should be tracked from contract to close?
+Every date the signed contract sets. That usually includes earnest money, the inspection period, appraisal, financing and closing, plus any that are particular to the deal.
+
+### What happens if a contingency deadline is missed?
+It depends on the contract form and your state. Your broker or a real estate attorney can tell you what applies. The workflow is there so the question doesn't come up.
+
+### Does AI read the dates from the contract?
+It can prepare them, to save typing. A person checks every date against the signed contract before any reminder is set, and a person enters every change.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Open enrollment: reminders only to the employees who haven't finished, and a list of who is left
+Source: https://mikeautomations.github.io/en/open-enrollment-reminders-benefits-brokers/
+
+An open enrollment reminder workflow keeps one row per employee for each employer group, with a status of enrolled, waived or not started. It sends reminders only to employees who still need to act, by email and text, gives each employer a daily count, and hands the last few names to a person before the window closes.
+
+Open enrollment is a short window. The employer sends one email to everyone, the broker holds a meeting, and then it goes quiet. In the last two days the same question comes from every client: who still hasn't done it? Somebody exports a report, compares it with the staff list by hand and starts calling. An employee who misses the window usually has to wait for the next one unless a qualifying life event applies, so the last few names matter. For a broker with thirty small groups renewing in the same month, that is thirty staff lists and thirty rounds of chasing.
+
+### Where open enrollment chasing breaks down
+- Reminders go to everyone, so people who finished stop reading them
+- The staff list is out of date: new hires are missing and leavers are still on it
+- Employees without a work email never see the message
+- Somebody who doesn't want cover ignores the whole thing, and no waiver is on file
+- Employees assume last year's choices carry over, when this year they have to choose again
+- The employer asks for a status on the last day, when it is too late to chase
+- Each account manager tracks their groups in their own spreadsheet
+
+### What the list holds for each employee
+One row per employee, grouped by employer. The row holds a status, not anybody's health details or plan choices.
+| On the row | Why it is there |
+| --- | --- |
+| Employer group and the window's start and end dates | Every reminder is timed from the end date |
+| Employee name, email and mobile number | So people without a work email can be reached by text |
+| Eligible this year: yes or no | The employer confirms the list before the window opens |
+| Status: not started, in progress, enrolled, waived | Reminders go only to the first two |
+| Waiver on file, where one is needed | A record that the employee chose to decline |
+| Date of the last reminder, and who it was passed to | So nobody is chased twice in a day, or not at all |
+
+### How the workflow runs
+1. Two weeks before the window opens, the employer gets their current staff list and is asked to confirm it or send changes.
+2. On opening day, every eligible employee gets the message you and the employer approved, with the link and the end date.
+3. Each day, the enrollment report from the carrier or the benefits system is matched against the list and every status is updated.
+4. Halfway through, employees who haven't finished get a reminder by email and by text. Those who have finished get nothing more.
+5. Employees who want to decline are sent the waiver form, and their row closes when it comes back.
+6. Three days before the end, each remaining employee gets a last reminder, and the employer's contact gets the names.
+7. The day before the end, your account manager gets a call list of whoever is left, with phone numbers.
+8. Throughout, the employer gets a daily count: enrolled, waived, not started.
+9. After the window closes, each employer gets a one-page summary to keep on file.
+
+### What stays with you
+Plan advice, eligibility questions and anything about a late enrollment are for the broker, the employer and the carrier. The workflow doesn't enroll anyone, doesn't choose a plan and doesn't hold medical information. If AI drafts a reminder or an answer to an employee's question, a person on your team approves it before it is sent. For the renewal dates of the policies themselves, see [renewal reminders for insurance brokers](https://mikeautomations.github.io/en/insurance-broker-renewal-reminders/). Employers who also chase new starters for forms can use [new hire paperwork collection](https://mikeautomations.github.io/en/new-hire-paperwork-collection-small-business/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many groups you look after and where the enrollment report comes from today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your benefits system's export, a spreadsheet, your email, text messages and an online form). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your benefits system already sends reminders only to people who haven't enrolled and shows the employer a live count, we'll say so on the call and you may not need us.
+
+### What happens if an employee misses open enrollment?
+In most plans they wait until the next open enrollment unless they have a qualifying life event. The plan's own rules decide, so the employer or broker should check before answering the employee.
+
+### Should employees who don't want cover still respond?
+It is common practice to ask them to sign a waiver, so there is a record that they were offered cover and declined. Whether a waiver is required depends on the employer and the plan.
+
+### Does the workflow see employees' health information?
+No. It holds a status for each employee: not started, in progress, enrolled or waived. Plan choices and any health details stay in the carrier's or benefits system.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
