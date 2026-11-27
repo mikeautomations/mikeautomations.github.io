@@ -6466,6 +6466,12 @@ Writing the questions, reviewing a sub's drawings before they go out, deciding w
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how you handle RFIs and submittals today and where items get lost. Within 48 hours you get a [written plan with a fixed price](https://mikeautomations.github.io/en/how-it-works/) and a clear definition of "working". It's built on the tools you already use (email, a spreadsheet, your job folders), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under a [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your jobs first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=construction-rfi-and-submittal-tracking) or [try the demo](https://mikeautomations.github.io/en/try/).
 
+### How do you track RFIs on a small construction project?
+Keep one log with a number, date sent, question, who must answer, the date an answer is due, the answer and the date it came back. Remind the responder before the due date, and show the project manager every RFI that is overdue.
+
+### What should an RFI log include?
+RFI number, date raised, the drawing or spec reference, the question, who it was sent to, the response due date, the answer, the date answered and any cost or schedule impact. One shared list that everyone can see beats emails.
+
 ### What's the difference between an RFI and a submittal?
 An RFI asks the design team a question about the drawings or specs. A submittal sends something for review before it's built or ordered, such as shop drawings, product data or samples.
 
@@ -6784,6 +6790,12 @@ Day spas offering massages, facials or body treatments use a simpler form than a
 4. On the day, the practitioner sees a single summary, confirms it with the client and records their own notes.
 5. Returning clients get a short update form instead of the full history, and the full form again at the interval your clinic sets.
 
+### An aftercare message you can copy
+Sent the same day as the treatment (your practitioner writes the actual advice):
+```
+Hi [first name], thanks for coming in today for [treatment]. Here is the aftercare advice from [practitioner name]: [paste the advice your practitioner has approved for this treatment]. It is normal to notice [expected reactions your practitioner lists]. If you have [warning signs your practitioner lists], or you are worried about anything, call us on [phone] straight away. Out of hours, [what to do and who to call]. We will check in with you on [date]. [clinic name]
+```
+
 ### What stays with your practitioner
 The consultation, the consent conversation, the decision to treat and every answer to a clinical question. The workflow moves forms, flags answers and sends aftercare the practitioner wrote. It never gives medical advice, never answers a worry about swelling or a reaction, and never decides who is suitable. Every reply goes to a person. If AI drafts any message, a person approves it before it's sent.
 
@@ -6800,6 +6812,15 @@ A [free 15-minute call](https://mikeautomations.github.io/call/) about how booki
 
 ### Free tools for clinics
 The free [appointment reminder generator](https://mikeautomations.github.io/en/appointment-reminder-generator/) writes the appointment reminders, and the [cancellation and no-show policy generator](https://mikeautomations.github.io/en/cancellation-policy-generator/) writes your deposit and missed-appointment terms.
+
+### What aftercare messages should a med spa send?
+One on the day of treatment with the advice your practitioner has approved, what is normal, and who to call if something looks wrong, then a check-in a day or a few days later depending on the treatment. The wording comes from your practitioner, not from the workflow.
+
+### Can clients sign a consent form online before the appointment?
+Yes, as long as the answers and signed consent are saved with the date and form version, and the practitioner still goes through them with the client in person and records their own notes. Online forms collect the history, they do not replace the consultation.
+
+### When should a med spa send the consent form?
+Straight after booking, so clients have time to read it and answer the health questions, then a reminder before the appointment for anyone who has not finished. Anything flagged on the form goes to the practitioner for review before the day.
 
 ### What should a spa consent form include?
 Client details, the treatment booked, health questions relevant to it, confirmation the client has read what it involves, agreement to report changes, separate photo and marketing consent if you use them, and a dated signature saved with the form version. Ask your insurer or adviser to check the wording.
@@ -6877,6 +6898,12 @@ Your screening criteria, the decision on every application, the wording of appro
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how applications reach you today and where they stall. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on the tools you already use (your listing inbox, a form, Google Drive or OneDrive, email and texts, and your property management software where it allows a connection), so your team doesn't learn a new system. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under a [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). To see the steps for your rentals first, [build your plan here](https://mikeautomations.github.io/en/plan/?g=rental-application-document-collection), or [try the demo](https://mikeautomations.github.io/en/try/).
+
+### How do landlords collect rental application documents?
+Send each applicant one list of what is needed and one secure upload link, remind them every couple of days about only what is missing, and save every file to the applicant's record. Review the complete application yourself before deciding.
+
+### How do I chase a rental applicant for missing documents?
+Use a short text or email that names the missing items and repeats the upload link. If there is no reply after two reminders, call. Stop the reminders when the list is complete or the applicant withdraws.
 
 ### What documents should a rental application include?
 Usually a completed application for each adult, photo ID, proof of income such as recent pay stubs, landlord and employer reference contacts, and signed permission for any credit or background check. Ask every applicant for the same list, written down in advance.
@@ -7025,6 +7052,12 @@ A starting point. The timings and the length of a hold are yours to set; what ma
 7. Payment schedule: each instalment and the balance is reminded before its due date, with the same terms every time. Late payers are handled like any [overdue invoice](https://mikeautomations.github.io/en/invoice-payment-reminders/).
 8. Final details: a form for final numbers, dietary needs, timings and suppliers goes out on the date in your contract, with reminders until it's complete. The florist dressing the room needs the same answers by a similar date, as set out in [final details for wedding and event flower orders](https://mikeautomations.github.io/en/florist-wedding-and-event-orders/).
 
+### A first reply to a venue enquiry you can copy
+Within minutes of the enquiry (edit the words in brackets):
+```
+Hi [first name], thanks for asking about [venue name] for [event type] on [date]. That date is [available / currently held, but we can add you to the list]. For [number] guests, the space that suits is [room name], and the starting price is [price or how it is worked out]. Would you like to see the venue? You can pick a time here: [link], or reply with two days that suit and I'll confirm. [name]
+```
+
 ### A hold and payment timeline you can copy
 For illustration. Change the timings and amounts to match your own contract.
 | When | What the client gets | What your team checks |
@@ -7066,6 +7099,12 @@ A [free 15-minute call](https://mikeautomations.github.io/call/) about how enqui
 
 ### Free tools for enquiries
 The free [quote follow-up message generator](https://mikeautomations.github.io/en/quote-follow-up-generator/) writes a follow-up for a proposal that has gone quiet, and the [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes the instant reply for new enquiries outside opening hours.
+
+### How do you follow up on a venue enquiry?
+Reply within minutes with the date's availability, the space that fits and a link to book a visit. If there is no answer, follow up after a day or two, again before the date hold expires, and once more after it lapses. Stop as soon as they reply.
+
+### How long should a venue hold a date for an enquiry?
+That is your policy to set, often a few days to a week for a provisional hold. Write it in the first reply and the reminder so the client knows the date and what turns the hold into a booking, usually a deposit and a signed contract.
 
 ### How fast should a venue reply to an enquiry?
 As fast as you can. The workflow can send the first reply within minutes, at any hour, with availability and prices, and a person picks up from there.
@@ -11320,6 +11359,12 @@ Every finding, every letter that goes out, every fine and every hearing. The wor
 
 ### How Mike Automations would build this
 A [free 15-minute call](https://mikeautomations.github.io/call/) about how your managers log violations today and which communities have their own letters. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your HOA software where it allows a connection, a phone form, a spreadsheet and email), so there's nothing new to learn. Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your HOA software already handles violations the way your boards want, you don't need this, and we'll say so on the call.
+
+### How do you track HOA violations?
+One record per violation with the lot, the rule, the date, a photo, each notice sent and its date, the response and the outcome. A reminder fires when a cure date passes, and the board sees one summary of open cases before each meeting.
+
+### How do you keep HOA violation enforcement consistent?
+Use the same notice wording and the same steps for every owner, apply them from the governing documents, and keep the record of each step. The board decides fines and hearings; the log shows each case was handled the same way.
 
 ### What should an HOA violation log track?
 For each case: the lot, the rule, the date and photo of what was seen, every notice sent and when, the cure date, the owner's replies, any hearing request, and the date and photo of the fix. That's enough for the board to see what's open and to keep enforcement consistent.
@@ -25041,7 +25086,7 @@ For the 2026 to 2027 tax year, yes: P11D and P11D(b) are due by 6 July 2027 for 
 Payment for work benefits must reach HMRC by 22 July after the tax year ends, or 19 July if you pay by post.
 
 ## UK accounting practice deadline calendar 2026-27, with when to ask clients
-Source: https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/ (2026-11-22)
+Source: https://mikeautomations.github.io/en/blog/uk-accounting-practice-deadline-calendar-2026-27/ (2026-11-27)
 
 The next big UK deadline is 31 January 2027: the 2025-26 Self Assessment return, the balancing payment and the first payment on account for 2026-27 are all due. MTD for Income Tax quarterly updates fall on 7 August, 7 November, 7 February and 7 May. VAT is due 1 month and 7 days after each period.
 
@@ -25164,6 +25209,12 @@ It starts with a [free 15-minute call](https://mikeautomations.github.io/call/) 
 
 ### Free tools for deadlines
 The free [working days calculator](https://mikeautomations.github.io/en/working-days-calculator/) counts working days around UK bank holidays for England and Wales, Scotland and Northern Ireland, and the [company deadlines calculator](https://mikeautomations.github.io/en/company-deadlines/) works out accounts, Corporation Tax and confirmation statement dates for a company.
+
+### How do I build a bookkeeping calendar for clients?
+Start with the fixed deadlines that apply to each client (VAT, payroll, Self Assessment, accounts), then work back from each one to the date you need their records. Add the routine tasks in between, such as weekly bank reconciliation and monthly receipts, so the deadline is never the first time you ask.
+
+### How far ahead should an accountant remind clients about a deadline?
+Ask for records weeks before the official date, using your own earlier cut-off, and send a reminder every week or so listing only what is missing. A final notice should go out after your cut-off but before the deadline, so there is still time to act.
 
 ### When is the 2025-26 Self Assessment deadline?
 The online return and the tax owed are due by 11:59pm on 31 January 2027. Paper returns were due by 31 October 2026. To pay through a tax code, the online return must be in by 30 December 2026.
@@ -25813,7 +25864,7 @@ Use what you would bill a client for that hour, or what you would pay someone el
 Yes. Use any currency, as long as every line uses the same one. Our prices are set in US dollars and invoiced in pounds or euros at the equivalent rate.
 
 ## Automation glossary: 35 terms a small business owner meets, explained simply
-Source: https://mikeautomations.github.io/en/blog/automation-glossary-small-business/ (2026-11-17)
+Source: https://mikeautomations.github.io/en/blog/automation-glossary-small-business/ (2026-11-27)
 
 Automation means software does repeated steps for you. A trigger is the event that starts it, an action is what it then does, and an integration connects your apps. An AI agent reads and drafts, and a person approves. This glossary explains 35 such terms in plain words, each readable on its own.
 
@@ -25889,6 +25940,12 @@ The best way to make the words concrete is to write down one of your own process
 
 ### If you'd rather not learn all of this
 You don't have to. Mike Automations maps how your process works and builds the automation on the tools you already use. After a [free 15-minute call](https://mikeautomations.github.io/call/) you get a [written plan](https://mikeautomations.github.io/en/how-it-works/) with a fixed price within 48 hours, and the workflow is live in 2-3 days. It costs $2,000 one-off, and you pay only once it's running and you're happy with it. A person always approves anything AI prepares.
+
+### What does workflow automation mean?
+It means software carries out the steps of a repeated job in the same way each time, for example sending a reminder when a document is missing. A person decides the rules and handles the exceptions.
+
+### What is an automation trigger?
+The event that starts a workflow, such as a form being submitted, an email arriving or a date being reached. The actions that follow, like sending a message or adding a row, run after the trigger fires.
 
 ### What is the difference between a trigger and an action?
 A trigger is the event that starts an automation, such as a new form submission. An action is a step the automation carries out after that, such as sending an email or creating a record. Each workflow has one starting trigger and usually several actions.
@@ -27797,7 +27854,7 @@ Source: https://mikeautomations.github.io/he/automation-mortgage-advisors/ (2026
 אוטומציה ליועצי משכנתאות אוספת מכל לווה את המסמכים לפי רשימה אישית, מזכירה על מה שחסר, ומעדכנת את הלקוח בכל פעם שהתיק עובר שלב. היועץ רואה בתמונה אחת אילו תיקים מחכים למסמכים, לבנק או לחתימה. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
 ### אוטומציה למתווכי נדל"ן: כל מתעניין מקבל מענה, וכל סיור בזמן
-Source: https://mikeautomations.github.io/he/automation-real-estate-agents/ (2026-11-10)
+Source: https://mikeautomations.github.io/he/automation-real-estate-agents/ (2026-11-27)
 
 אוטומציה למתווכי נדל"ן עונה מיד לכל פנייה על נכס, מתאמת סיור לפי היומן, שולחת למתעניין הזמנת תיווך לחתימה דיגיטלית לפני הסיור, ומעדכנת את בעל הנכס. כל מתעניין נכנס לרשימה עם התקציב והאזור, כך שאפשר לחזור אליו כשנכנס נכס מתאים. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
@@ -27832,22 +27889,22 @@ Source: https://mikeautomations.github.io/he/automation-cleaning-company/ (2026-
 אוטומציה לחברת ניקיון מכינה טיוטת הצעת מחיר מכל פנייה לפי המחירון שלכם, עוקבת אחרי הצעות שלא נענו, שולחת לכל עובדת את השיבוץ שלה, מודיעה ללקוח לפני הגעה ומכינה סיכום חודשי לחיוב. אתם מאשרים כל הצעה וכל שיבוץ. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
 ### אוטומציה לצלמים ולספקי אירועים: מהפנייה הראשונה ועד מסירת הגלריה
-Source: https://mikeautomations.github.io/he/automation-photographers/ (2026-11-12)
+Source: https://mikeautomations.github.io/he/automation-photographers/ (2026-11-27)
 
 אוטומציה לצלמים מטפלת לבד בשלבים שחוזרים בכל הזמנה: מענה מיידי לפנייה עם זמינות ומחירון, שליחת חוזה לחתימה ובקשת מקדמה, תזכורת ללקוח לפני האירוע עם שאלון פרטים, ועדכון כשהגלריה מוכנה. אתם רואים ברשימה אחת איפה כל הזמנה עומדת. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
 ### אוטומציה לחוגים ומרכזי העשרה: הרשמה ותשלומים בלי ערימת הודעות
-Source: https://mikeautomations.github.io/he/automation-classes-courses/ (2026-11-12)
+Source: https://mikeautomations.github.io/he/automation-classes-courses/ (2026-11-27)
 
 אוטומציה לחוגים מסדרת את מה שקורה בכל תחילת שנה ובכל חודש: טופס הרשמה אחד שאוסף את פרטי ההורה והילד והאישורים הנדרשים, רשימת המתנה שמזמינה את הבא בתור כשמתפנה מקום, תזכורת תשלום למי שלא שילם, והודעה לכל הקבוצה כשיש שינוי או ביטול. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
 ### אוטומציה למשרד אדריכלים: פחות מרדפים אחרי מסמכים ואישורים
-Source: https://mikeautomations.github.io/he/automation-architects/ (2026-11-12)
+Source: https://mikeautomations.github.io/he/automation-architects/ (2026-11-27)
 
 אוטומציה למשרד אדריכלים מסדרת את מה שחוזר בכל פרויקט: רשימת מסמכים שהלקוח צריך להעביר עם תזכורות עד שהכול מגיע, אישור כתוב של הלקוח על כל שלב תכנון לפני שממשיכים, דרישת תשלום שיוצאת כשנסגר שלב לפי ההסכם, ועדכון קבוע ללקוח איפה הפרויקט עומד. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
 ### אוטומציה לעמותות: פחות עבודה משרדית, יותר זמן לפעילות
-Source: https://mikeautomations.github.io/he/automation-nonprofits/ (2026-11-12)
+Source: https://mikeautomations.github.io/he/automation-nonprofits/ (2026-11-27)
 
 אוטומציה לעמותה מטפלת לבד בעבודה המשרדית שחוזרת כל חודש: הודעת תודה וקבלה לכל תורם, התראה כשהוראת קבע נכשלת, שיבוץ ותזכורות למתנדבים, ותזכורות לפני מועדי דיווח לקרנות. הכול נשמר ברשימה אחת שכל הצוות רואה. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
@@ -27897,7 +27954,7 @@ Source: https://mikeautomations.github.io/he/business-automation/ (2026-11-27)
 אוטומציה לעסקים היא הגדרה של משימות שחוזרות על עצמן, כמו מענה לפנייה חדשה, תזכורות, בקשת מסמכים ומעקב אחרי הצעות מחיר, כך שיקרו לבד בלי שמישהו יזכור לעשות אותן. מתחילים מתהליך אחד שחוזר כל שבוע, רואים שהוא עובד, ורק אז מרחיבים. זה מתאים כמעט לכל סוג עסק: קבלנים, קליניקות, סלונים, משרדי עורכי דין, מתווכים, רואי חשבון ועוד.
 
 ### כמה עולה אוטומציה לעסק? המחירים, בלי לחכות להצעה
-Source: https://mikeautomations.github.io/he/automation-cost/ (2026-11-10)
+Source: https://mikeautomations.github.io/he/automation-cost/ (2026-11-27)
 
 כמה עולה אוטומציה לעסק? אצלי, אוטומציה לתהליך אחד עולה החל מ-5,500 ₪, מערכת שבנויה לעסק החל מ-9,000 ₪, וליווי חודשי (לא חובה) החל מ-900 ₪ לחודש. המחיר הסופי כתוב בהצעה אחרי שיחת מיפוי של 15 דקות, ולפעמים מתווספת עלות חודשית קטנה לכלים עצמם.
 
@@ -27932,7 +27989,7 @@ Source: https://mikeautomations.github.io/he/make-n8n-zapier/ (2026-11-10)
 Make, n8n ו-Zapier הם כלי אוטומציה שמחברים בין מערכות כך שמידע עובר לבד, למשל מטופס באתר לגיליון ולוואטסאפ. Zapier הכי פשוט להתחלה, Make מאפשר תהליכים מורכבים יותר בעורך חזותי, ו-n8n הכי גמיש ואפשר להריץ אותו על שרת משלכם. ברוב העסקים הקטנים השאלה החשובה יותר היא מי יתחזק את האוטומציה, לא איזה כלי.
 
 ### ניהול לידים אוטומטי: כל פנייה נקלטת, נענית ונכנסת למעקב
-Source: https://mikeautomations.github.io/he/lead-management-automation/ (2026-11-10)
+Source: https://mikeautomations.github.io/he/lead-management-automation/ (2026-11-27)
 
 ניהול לידים אוטומטי הוא תהליך שאוסף פניות מכל הערוצים (אתר, פייסבוק, וואטסאפ, טלפון) לרשימה אחת, שולח לכל פונה מענה ראשון מיד, משייך אותו לאחראי ומזכיר לחזור אליו בזמן. כך אף ליד לא נשכח, ורואים מאיזה ערוץ מגיעים הלקוחות שסוגרים. תהליך כזה עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
