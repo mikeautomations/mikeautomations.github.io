@@ -29,6 +29,7 @@
     } catch {}
     btn.disabled = false;
     status.textContent = ok ? f.dataset.ok : f.dataset.err;
+    if (ok && window.formSubmitted) window.formSubmitted(f);
     if (ok && f.dataset.pdf) { const a = document.createElement("a"); a.href = f.dataset.pdf; a.textContent = f.dataset.pdfLink; a.download = ""; a.className = "tool-sub-pdf"; status.append(" ", a); }
     if (ok) email.value = "";
   }));
@@ -47,6 +48,7 @@
     } catch {}
     btn.disabled = false;
     status.textContent = ok ? f.dataset.ok : f.dataset.err;
+    if (ok && window.formSubmitted) window.formSubmitted(f);
     if (ok) f.reset();
   }));
   // One page view to Michael's own visits sheet (apps-script/lead-booking.gs): page, referring site, language and
@@ -56,8 +58,17 @@
       let from = "";
       try { from = document.referrer ? new URL(document.referrer).hostname : ""; } catch {}
       if (from === location.hostname) from = "(this site)";
-      const q = "?hit=1&p=" + encodeURIComponent(location.pathname) + "&r=" + encodeURIComponent(from) + "&l=" + lang + "&d=" + (innerWidth < 768 ? "m" : "d");
-      fetch(endpoint + q, { mode: "no-cors", keepalive: true }).catch(() => {});
+      const hit = (path, r) => fetch(endpoint + "?hit=1&p=" + encodeURIComponent(path) + "&r=" + encodeURIComponent(r) + "&l=" + lang + "&d=" + (innerWidth < 768 ? "m" : "d"), { mode: "no-cors", keepalive: true }).catch(() => {});
+      hit(location.pathname, from);
+      // Form funnel, as extra rows in the same sheet: "/form-view/<plan|sub>/<page>" once a form is half on screen,
+      // "/form-submit/<plan|sub>/<page>" when it goes through. Real page rows are unchanged.
+      const kind = (f) => f.hasAttribute("data-plan") ? "plan" : "sub";
+      const seen = new Set();
+      if ("IntersectionObserver" in window) {
+        const io = new IntersectionObserver((es) => es.forEach((en) => { const k = kind(en.target); if (en.isIntersecting && !seen.has(k)) { seen.add(k); hit("/form-view/" + k + location.pathname, from); io.unobserve(en.target); } }), { threshold: 0.5 });
+        document.querySelectorAll("form[data-plan], form[data-subscribe]").forEach((f) => io.observe(f));
+      }
+      window.formSubmitted = (f) => hit("/form-submit/" + kind(f) + location.pathname, from);
     }
   } catch {}
   document.querySelectorAll("dialog form").forEach((f) => f.addEventListener("submit", async (e) => {
