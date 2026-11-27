@@ -201,11 +201,15 @@ You owe nothing for that build, and I remove anything you don't want to keep. Th
 ## About (Mike Automations): Hi, I'm Michael Gershman.
 Source: https://mikeautomations.github.io/en/about/
 
-I'm Michael Gershman, and Mike Automations is me: one person who maps how a small firm works, then builds and supports the automations, custom systems and AI agents that take its repetitive admin off its plate. I'm a native English speaker. I'm based in Haifa, Israel, and I work remotely with small firms in the UK, US, Ireland, Canada, Australia, New Zealand and Europe, on UK hours. Every build has a fixed price, and you pay only once it's running and you're happy with it.
+I'm Michael Gershman, and Mike Automations is me: one person who maps how a small firm works, then builds and supports the automations, custom systems and AI agents that take its repetitive admin off its plate. I'm a software engineer and a native English speaker. I'm based in Haifa, Israel, and I work remotely with small firms in the UK, US, Ireland, Canada, Australia, New Zealand and Europe, on UK hours. Every build has a fixed price, and you pay only once it's running and you're happy with it.
 
 ### The short version
 Mike Automations is one person, Michael, who builds one workflow automation for a fixed $2,000 ($1,500 for the first 3 firms), live in 2-3 days, and you pay only once it's running and you're happy with it.
 No account managers and no hand-offs. The person you talk to on the first call is the person who builds your workflow and looks after it.
+
+### How I write the guides on this site
+I write them myself, from the way these jobs actually run: what gets chased, which tool does it, where it goes wrong. Any deadline, threshold or rule comes from an official source (HMRC, the IRS, gov.uk and similar), and the page says which one and the year. If I can't check a fact, I leave it out.
+I don't have client case studies to quote yet, so I don't quote any. Examples on the site are marked as illustrations. I'm not an accountant or a lawyer: the guides cover the process side, and for tax or legal questions you should ask a qualified professional.
 
 ### Where I work
 I'm based in Haifa, Israel, and I work remotely with small firms in the UK, US, Ireland, Canada, Australia, New Zealand and Europe, on UK hours. Calls are Monday to Thursday, 2-6 PM UK time (usually 9 AM-1 PM in New York). Everything else is by email, and you'll usually hear back the same working day.
@@ -7057,6 +7061,24 @@ Date change: Hi [first name], the target date for your car has moved from [old d
 Ready: Hi [first name], your [make model] is ready to collect. We're open [hours]. Please bring [ID / keys / excess payment]. [Shop name], [phone]
 ```
 
+### When a repair is delayed, or the insurer approves less
+These are the two messages that cause most of the angry calls, so write them once and reuse them. Say what changed, why, the new target date and who is chasing it. Name the stage in plain words, not repair jargon, as collision-repair trade press (FenderBender) advises. If the insurer approves less than your supplement asks for, tell the customer the difference before the work goes on, and let them choose: approve it themselves, or wait while you query the figure. A large supplement is better handled by a phone call, with the text as the written record afterwards. If you let customers approve work before the insurer replies, say plainly that they may owe the difference if the insurer approves less.
+Supplement or lower approval (edit the words in brackets):
+```
+Hi [first name], we found [what was found] on your [make model] while taking it apart. Photo: [link]. The extra work costs [amount]. [Insurer] has approved [amount] so far, which leaves [difference] still to be agreed. Reply YES to approve the work now, or NO and we'll hold the job while we speak to [insurer]. Either way, [estimator] will call you today. Job [job no].
+```
+
+### How often to message, and who gets what
+- One message per change of stage, not a daily text. If nothing has changed, say nothing, except once a week on a job waiting for parts or approval.
+- Hold anything that would land overnight until the morning.
+- Give every customer one named person and one number. A text that says "reply here" should reach someone who can answer.
+- Offer email as well as text, and save the customer's chosen channel on the job.
+- Keep insurer chasers separate from customer texts: different wording, different dates, one shared job record.
+- Give the office a morning list: jobs waiting on approval, jobs waiting on parts, jobs promised for today. That list is what stops the phone ringing.
+
+### Consent for repair texts
+A text about a job the customer has asked you to do is a service message. A review request or an offer for their next service is marketing, and marketing has stricter rules. In the US, the FCC's rules in 47 CFR 64.1200 cover autodialled and prerecorded calls and texts to mobile phones, and marketing ones need written consent. In the UK, the Privacy and Electronic Communications Regulations cover electronic marketing, and the ICO publishes guidance on what counts as marketing. Collect consent on the drop-off form, save it on the job, and honour a STOP reply at once. This is a summary, not legal advice.
+
 ### Why extra work needs a written yes first
 Rules differ by state and country, so take advice for your own shop. In California, the Bureau of Automotive Repair (BAR) says a shop must give the customer a paper or electronic estimate and get the customer's authorisation before work starts. If more work is needed than the original estimate, BAR says the shop must prepare a revised work order and get and record the customer's authorisation first. BAR's spring 2022 newsletter lists what a recorded oral or electronic authorisation includes: the date, the time and the name of the person who authorised it, plus the phone number or email address used. In the UK, the Consumer Rights Act 2015 says a service must be carried out with reasonable care and skill (section 49), and that what you say or write to the customer about the service can become part of the contract if they rely on it (section 50). So send dates as targets, with the reason when one moves, not as promises. With a workflow, the approval is a reply or a tap on a link, and the date, time, name and number are saved on the job.
 
@@ -7084,6 +7106,24 @@ Yes. They get what was found, a photo and the price, and approve or decline with
 
 ### Will it message the insurer for us?
 It sends the chase emails you have written, on the dates you set, with the claim and job numbers. Anything about the claim itself stays with your estimator.
+
+### What should a body shop text a customer during a repair?
+One short message at each stage change: car received with the job number, estimate sent to the insurer, waiting on approval, parts ordered or delayed, in repair or paint, and ready to collect. Each says what happened and what happens next, with a target date rather than a promise.
+
+### How do I tell a customer their repair is delayed?
+Send the new target date, the reason in one plain sentence (for example a late part or a supplement waiting on the insurer), and who is chasing it. Say sorry once. Then message again only when the date moves or the car is ready.
+
+### What if the insurer approves less than the supplement?
+Tell the customer the difference before more work goes on, and let them either approve it themselves or have you query the figure with the insurer. Save their answer on the job with the date, time and name.
+
+### Should big supplements be handled by text or by phone?
+Both. Call the customer to talk it through, then send a text with the photo, the price and an approve link, so the written record exists. A text alone can feel cold when the number is large.
+
+### Do I need consent to text customers about their repair?
+Texts about the job itself are service messages, but marketing texts such as offers need proper consent, and review requests may count as marketing. In the US the FCC's TCPA rules apply to autodialled texts; in the UK, PECR applies to electronic marketing. Collect consent on the drop-off form and honour STOP at once.
+
+### Can the workflow work with my shop software?
+Often yes. If your system can export the job stage, send an email or connect to other tools, an automation can watch for the stage change and send your texts. If not, a shared spreadsheet or job board is enough to start. We check this on the free 15-minute call.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
@@ -7522,6 +7562,9 @@ These come from gov.uk's grounds for possession guidance for landlords and letti
 ### If the tenant gets Universal Credit
 Gov.uk's private renting page says that if a tenant on Universal Credit is at least 2 months late on rent, the tenant or the landlord can ask for the rent to be paid straight to the landlord (an Alternative Payment Arrangement). The DWP's Universal Credit guide for landlords (updated 10 June 2026) says a private landlord asks through the Apply for a Direct Rent Payment service, that the tenant has up to 14 days to object, and that deductions for arrears can be up to 15% of the tenant's standard allowance. Your workflow can flag a tenancy when it reaches 2 months behind and the tenant is known to claim, so a person decides whether to apply.
 
+### Can you charge interest or a late fee on unpaid rent?
+Only interest, and only after 14 days. GOV.UK's guidance on the Tenant Fees Act 2019 says a landlord or agent may charge for a payment that has been outstanding for 14 days or more, and the daily interest must not exceed an annual rate of 3% above the Bank of England base rate. The tenancy agreement must also say that interest on arrears is payable. A flat "late fee" is not allowed. The Act was amended by the Renters' Rights Act 2025 from 1 May 2026, so check the current GOV.UK wording before you put a figure in a letter. A workflow can calculate the interest from the due date, but whether to charge it is your decision, not the system's.
+
 ### A chasing schedule you can copy
 The legal points come from gov.uk above. The timings below are suggestions to agree with each landlord, not rules. Each step stops the moment the rent is paid or a repayment plan is agreed.
 | When | Who | What happens |
@@ -7623,6 +7666,15 @@ Yes. It works out the running balance from what was due and what came in, and tr
 
 ### What about properties in Wales or Scotland?
 The rules on this page are for England. Wales and Scotland have their own tenancy laws, so the legal steps differ. The reminder and record-keeping steps work the same way, with the legal wording set for each country.
+
+### How soon should a letting agent chase late rent?
+The day after the due date, with a short, friendly text or email, then a formal letter around day 14 if it's still unpaid. Early contact often finds a simple cause, such as a changed bank detail or a delayed benefit payment.
+
+### Can a letting agent charge a late fee on rent in England?
+Not a flat fee. GOV.UK says interest can be charged only once rent is 14 days overdue, at no more than 3% above the Bank of England base rate a year, and only if the tenancy agreement allows it. Check the current Tenant Fees Act guidance before charging.
+
+### What should an arrears reminder letter include?
+The property address, the amount owed with the dates it was due, how to pay, a date to pay or get in touch by, and who to contact. Keep it firm and factual, and add where the tenant can get help if they are struggling.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
@@ -7726,6 +7778,13 @@ Therapy practice client intake is mostly admin, and that's where small counselli
 5. The therapist gets a note that the forms are in and reads them before the first session. Nothing in the answers triggers an automatic message to the client.
 6. Each booked session gets a reminder. A missed session puts a task on the therapist's list instead of sending anything.
 
+### What a therapy intake form should and shouldn't ask
+- Ask for what you need before the first session: name, contact details and preferred channel, date of birth, an emergency contact, their GP or doctor if you work with them, and the main reason they're coming.
+- Add the agreements in the same pack: consent to treatment, your privacy notice, fees, and the cancellation policy, each signed or ticked with a date.
+- Leave the detailed history for the first session. A long clinical questionnaire sent cold, by email, puts people off and puts more sensitive data in more places.
+- State plainly that the form is not monitored around the clock and is not an emergency service, and give the local crisis number for the countries you work in.
+- Send it as a secure link rather than an email attachment, and let the client save and come back to it.
+
 ### One workflow instead of five: forms, consent, scheduling, payments and notes
 In many small practices, intake forms, consent, scheduling, payments and session notes live in five places, and someone copies details between them. The fix is one client record that everything else points to. The booking creates the record. The forms, the signed consent and the cancellation policy attach to it. Session reminders and payment requests read the dates and fees from it. Notes stay in your clinical system, linked to the same client, and are never sent anywhere by the workflow. If your practice software already holds most of this, the workflow only fills the gaps. If it doesn't, a secure, access-restricted folder and a simple client list can be the record, as long as the tools meet the privacy rules below.
 
@@ -7778,6 +7837,15 @@ Yes. Each client's chosen channel is recorded and followed.
 
 ### Do we need a business associate agreement in the US?
 HHS says a vendor that handles protected health information for a covered practice needs one. We only use tools that will sign one, or keep client data out of the tools that won't.
+
+### What should a therapy intake form include?
+Contact details and preferred channel, an emergency contact, the main reason for coming, and the signed agreements: consent to treatment, privacy notice, fees and cancellation policy. Keep the detailed history for the first session, and say clearly that the form isn't an emergency service.
+
+### How far ahead should a therapy session reminder go out?
+Most practices send one 24 to 48 hours before, and some add a short one on the day. Use the client's chosen channel, keep the wording neutral and ask for a reply only if they need to change the time.
+
+### How do I stop clients missing the first session?
+Send the intake pack straight after booking, remind them once before the session with the address or video link, and say what happens if they can't come. Tell them how to rebook in one reply.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
@@ -7992,6 +8060,22 @@ If anything isn't right when you arrive, reply here and we'll sort it. Enjoy you
 [your name]
 ```
 
+### The five messages every host needs
+If you only write five messages, write these: booking confirmation, check-in instructions, a first-evening check, checkout instructions and a review request. The two templates below cover the ones not shown elsewhere on this page. Keep each to what the guest needs at that moment, with the most practical detail first. Send access codes on the day of arrival rather than at booking, so a code isn't sitting in a message for weeks.
+Booking confirmation (edit the words in brackets):
+```
+Hi [first name], thanks for booking [property name] from [arrival date] to [departure date]. You're all set. Check-in is from [time] and checkout is by [time]. I'll send the address details and check-in instructions on the morning you arrive. If you'd like to arrive earlier or leave later, or have any questions before then, reply here. [your name]
+```
+
+### A checkout message template
+Day before checkout (edit the words in brackets):
+```
+Hi [first name], a quick note for tomorrow. Checkout is by [time]. Before you go: [leave the key in the key safe / lock the door and post the key through the letterbox], put rubbish in the [bin location], and load any dishes into the dishwasher. No need to strip the beds. If you need a later checkout, reply here and I'll tell you if it's possible. Thanks for staying with us. [your name]
+```
+
+### Early check-in, late checkout and other requests
+These are the questions guests ask most, so decide the answer in advance and let the workflow reply the same way every time. For early arrival and late departure, check the turnover list: if the previous guest leaves that morning, or the next guest arrives that afternoon, the answer is no, and the message can say what time the property is genuinely ready. If the gap is free, the answer can be yes, ideally confirmed by you. Luggage drop-off, parking, bed set-up and arrival times outside your hours work the same way: one agreed answer per property, saved once, used everywhere.
+
 ### Keeping the cleaner in step
 The turnover is where things usually go wrong, because the cleaning schedule lives somewhere other than the bookings. The workflow keeps one list of every stay across your properties and builds the cleaning rota from it.
 1. Every new booking, from any channel, adds a turnover to the rota: the property, when the previous guest leaves and when the next one arrives.
@@ -8039,6 +8123,18 @@ Yes. The cleaner gets the rota and reminders by text or WhatsApp and replies "do
 
 ### Will AI answer my guests?
 Only as drafts, if you want them. AI can draft a reply to a guest's question, but a person approves it before it's sent. Complaints, refunds and damage stay with you.
+
+### What messages should I send to short-term rental guests?
+Five cover most stays: a booking confirmation straight after booking, check-in instructions on the morning of arrival, a short check on the first evening, checkout instructions the day before leaving, and one review request the day after. Add a cleaner message for every booking and cancellation.
+
+### When should I send the access code?
+On the morning of arrival, or when the guest's check-in time is close, rather than at booking. That keeps the code out of a message that sits in the guest's inbox for weeks. Each property needs its own code in its own message.
+
+### How do I handle early check-in and late checkout requests?
+Check the turnover list first. If the property is free either side of the stay, you can say yes. If the previous guest leaves that morning or the next one arrives that afternoon, say no and give the earliest time it's ready. Decide the rule once per property so every reply is consistent.
+
+### How many messages is too many?
+Send one message per moment the guest actually needs: booking, arrival, a check, checkout and a review request. Skip anything that repeats what the listing already says. If a guest replies, the automated messages should pause so you can answer in person.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
@@ -18739,7 +18835,7 @@ Many firms include a fee for urgent work in their engagement letter and mention 
 Thank them for what arrived and send a short list of only what's left, with the same upload link. Don't start the work until the list is complete unless you've agreed otherwise.
 
 ## Email templates for chasing client documents (copy and paste)
-Source: https://mikeautomations.github.io/en/blog/document-chasing-email-templates/ (2026-11-10)
+Source: https://mikeautomations.github.io/en/blog/document-chasing-email-templates/ (2026-11-27)
 
 Email templates for chasing client documents work best as a short sequence: a first request with a personal list and one upload link, a friendly reminder 7 to 10 days later, a "send what you have" nudge, a deadline reminder, a final notice that names the real deadline, and a thank-you that stops the chase. Every message should list only what's still missing, keep the same upload link and quote your internal cut-off, which sits weeks before the official deadline.
 
@@ -18756,6 +18852,18 @@ Replace the parts in [brackets], keep each message to what the client needs to d
 | 5 | Final notice | After your cut-off, before the official deadline | Client is complete |
 | 6 | Thank-you | The day the list is complete | Sent once |
 | 7 | Something doesn't apply | When a client replies that an item isn't relevant | Sent once |
+
+### The same sequence, day by day
+If you prefer to see it on a calendar, this is the sequence for a client with a cut-off 6 weeks away. Adjust the days to your own cut-off. The rule behind every row: each message lists only what is still missing, and the chasing stops the moment the list is complete.
+| Day | What goes out | What a person does |
+| --- | --- | --- |
+| 0 | First request: personal list and one upload link | Nothing |
+| 7 | Friendly reminder with the short list of what's still missing | Nothing |
+| 14 | Second reminder, now with the date you need it by | Nothing |
+| 21 | Third reminder: "send what you have" | Call or text the client after this one, because three emails with no reply usually means the emails are being missed |
+| 28 | Deadline reminder: two weeks to your cut-off | Note who is still silent |
+| 35 | Final notice naming the real deadline and what happens if the records are late | Decide who gets a personal call |
+| Any day it's complete | Thank-you, and all further reminders stop | Start the work |
 
 ### 1. The first request
 Subject: Your [tax year] documents: what we need:
@@ -18882,6 +18990,12 @@ Sending these by hand works for a handful of clients. For dozens, a workflow can
 ### How we would build it for you
 It starts with a [free 15-minute call](https://mikeautomations.github.io/call/) about how you chase documents today. Within 48 hours you get a written plan with a fixed price. It's built on the tools you already use (your email, practice software and cloud storage, where they allow a connection) and is usually live in 2-3 days. [Workflow automation is $2,000 one-off](https://mikeautomations.github.io/en/pricing/) ($1,500 for the first 3 clients), and you pay only once it's running and you're happy with it. For more ideas, [our free guide, 25 AI automations for accountants](https://mikeautomations.github.io/en/guide/), is a quick read.
 
+### How many reminders should I send before phoning a client?
+Three. If a client hasn't replied to a first request and two reminders, the next step is a call or a text, because email is probably not reaching them. Keep every email to a short list of only what's still missing.
+
+### When should the reminders stop?
+The day the list is complete, or when the client tells you an item doesn't apply. Each reminder should check the client's status first, so a client who has sent everything never gets another one.
+
 ### How many reminders should I send?
 Four or five emails over the request cycle is typical: a first request, one or two reminders, a deadline reminder and a final notice. Each one should list only what's still missing, and all of them stop when the client is complete.
 
@@ -18973,7 +19087,7 @@ No. The IRS instructions say card payments and third-party network payments are 
 They can, but they usually forget until January. A workflow can do it on their behalf, from your address or theirs, with wording you approve.
 
 ## What to automate first in a small service business
-Source: https://mikeautomations.github.io/en/blog/what-to-automate-first-small-business/ (2026-11-10)
+Source: https://mikeautomations.github.io/en/blog/what-to-automate-first-small-business/ (2026-11-27)
 
 What to automate first in a small business: the job that happens every week, follows the same steps each time, and costs you money or a client when someone forgets it. Usually that is chasing something: documents, quotes, unpaid invoices or replies to new enquiries. Start with one process, define what "working" means in one sentence, and only then pick the tool.
 
@@ -19010,6 +19124,17 @@ In most small service businesses, the top score lands on one of the jobs below. 
 - Decisions that need your judgement: pricing, advice, hiring, complaints. Automate the steps around them instead, such as gathering the information and putting it in front of you.
 - Anything where one wrong message would do real damage, unless a person approves each message. If AI drafts something, a person should approve it before it goes out.
 - Your whole business at once. One process, live and trusted, beats five half-built ones.
+
+### The five-minute version of the test
+Short on time? Take your top three jobs and ask five yes or no questions of each. Does it happen every week? Are the steps the same each time? Does forgetting it cost money or a client? Can I do it without judgement? Is the information already digital? The job with the most yeses goes first. The full scorecard above just adds a middle answer.
+Then do one more check: write the steps as if you were training a new hire who has never seen your business. If you can't write them in plain steps, the job isn't ready to automate. If you can, you have the brief for the build, and a new hire could follow it just as well as a machine.
+
+### What stays manual, even after you automate
+- Anything that needs your judgement: pricing, advice, complaints, hiring.
+- The first conversation with a new client, and any message to someone upset.
+- Approving anything that refuses, charges or cuts off a customer.
+- Checking the weekly list of what the automation did and what it couldn't finish.
+- Fixing the process itself when the business changes. An automation repeats today's steps, so it needs a person to say when they should change.
 
 ### Step 4: define "working" in one sentence
 Before anything is built, write one sentence that says what the automation must do and how you'll know it's doing it. It keeps the build focused and gives you a clear test. Some examples:
@@ -20245,7 +20370,7 @@ Not at first. Let the automation gather information and draft the message, and h
 One. Pick a job that repeats often and follows the same steps, get it working and trusted, then move to the next. It's cheaper, easier to judge and easier for staff to adjust to.
 
 ## ChatGPT for small business admin: what to use it for, and what never to paste in
-Source: https://mikeautomations.github.io/en/blog/chatgpt-for-small-business-admin/ (2026-11-11)
+Source: https://mikeautomations.github.io/en/blog/chatgpt-for-small-business-admin/ (2026-11-27)
 
 ChatGPT for small business admin works best as a drafting assistant: first drafts of emails, policies, checklists and replies to common questions, plus tidying rough notes. Write prompts with placeholders such as [customer name] instead of real customer details, never paste in passwords, card or bank details, ID numbers or health information, and read every draft before it goes out. On individual ChatGPT plans (Free, Plus, Pro), OpenAI says your content may be used to train its models unless you turn off "Improve the model for everyone" in Settings > Data controls.
 
@@ -20352,6 +20477,15 @@ If you're not sure which admin job to start with, the [plan builder](https://mik
 If one admin job keeps eating your week, I'll map how it works today and build it into the tools you already use: your inbox, your spreadsheet or CRM, your accounting software. Rules handle the predictable steps, AI drafts only where it genuinely helps, and a person always approves anything the AI prepares.
 It starts with a [free 15-minute call](https://mikeautomations.github.io/call/). Within 48 hours you get a written plan with a fixed price. It's live in 2-3 days, costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, as set out in the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/).
 
+### What admin tasks can ChatGPT help a small business with?
+First drafts: replies to common customer questions, late-payment reminders, procedures written from your rough notes, policies, and summaries of long email threads. It is weakest at anything that needs your real figures or records, so check every number and name yourself.
+
+### Can I put customer names and details into ChatGPT?
+Better not. Use placeholders such as [client] and [amount] in the chat and add the real details yourself afterwards. If you must use personal data, read your plan's data settings first, and in the UK or EU check your data protection duties.
+
+### Should I use ChatGPT for invoices and bookkeeping?
+Use it to word a payment reminder, not to produce figures. Amounts, dates and tax treatment should come from your accounting software, and a person should check anything that reaches a client.
+
 ### Is it safe to use ChatGPT for small business admin?
 It can be, for drafting work with no personal data in it. Use placeholders instead of customer details, check your account's data settings, and read every draft before sending. Never paste in passwords, payment details, ID numbers, health information or staff records.
 
@@ -20365,7 +20499,7 @@ They stay out of your chat history and aren't used to train OpenAI's models whil
 Not safely on its own. For repeated admin jobs, it's better to build a workflow where rules handle the predictable steps, AI drafts where it helps, and a person approves anything before it reaches a customer.
 
 ## Google Apps Script for small business: what it can do, its limits, and when to skip it
-Source: https://mikeautomations.github.io/en/blog/google-apps-script-for-small-business/ (2026-11-11)
+Source: https://mikeautomations.github.io/en/blog/google-apps-script-for-small-business/ (2026-11-27)
 
 Google Apps Script for small business is Google's built-in way to automate Sheets, Gmail, Calendar, Drive, Docs and Forms with short JavaScript programs that run on Google's servers, with nothing to install. It suits small, internal jobs such as drafting reminder emails from a spreadsheet or filing form responses, but Google's daily quotas apply: a gmail.com account can email 100 recipients a day from a script and a Google Workspace account 1,500, and one run stops after 6 minutes.
 
@@ -20433,6 +20567,30 @@ function draftOverdueReminders() {
 }
 ```
 
+### A second script: email yourself a weekly list of what's overdue
+This one sends you, not a client, a short email each Monday listing every row that is not marked Done and is past its date. Use it for overdue tasks, documents still missing or quotes with no reply. It uses the same kind of sheet: a column of names, a date column and a status column. Pair it with a weekly time-driven trigger, as in the steps below.
+Apps Script: weekly overdue list to your own inbox (columns: Item, Due date, Status):
+```
+function emailWeeklyOverdueList() {
+  const sheet = SpreadsheetApp.getActive().getSheetByName('Tasks');
+  const rows = sheet.getDataRange().getValues();
+  const today = new Date();
+  const lines = [];
+
+  for (let i = 1; i < rows.length; i++) {
+    const [item, due, status] = rows[i];
+    if (status !== 'Done' && due instanceof Date && due < today) {
+      lines.push(item + ' (due ' + due.toDateString() + ')');
+    }
+  }
+
+  if (lines.length > 0) {
+    MailApp.sendEmail(Session.getEffectiveUser().getEmail(), 'Overdue this week: ' + lines.length, lines.join('
+'));
+  }
+}
+```
+
 ### How to set it up in 7 steps
 1. Make a copy of your invoice sheet and name the tab Invoices. Put the seven column headings in row 1, in the order above, and use real dates in the Due date column.
 2. In the copy, open Extensions, then Apps Script. Delete the empty function and paste the script.
@@ -20463,6 +20621,12 @@ Apps Script is a good tool with a narrow sweet spot. Pick something else when:
 ### How Mike Automations would set this up
 If your work already lives in Google Sheets and Gmail, Apps Script is often the cheapest way to run it, and it's one of the options we look at alongside no-code tools. We pick whichever is easier for you to keep running, set triggers up on an account the business owns, and write down how it works. Anything that goes to a client starts as a draft or waits for your approval. Our page on [Google Workspace automation services](https://mikeautomations.github.io/en/google-workspace-automation-services/) covers what else can run inside Gmail, Sheets, Forms and Drive.
 We start with a [free 15-minute call](https://mikeautomations.github.io/call/) about the job you want off your plate. Within 48 hours you get a written plan with a fixed price. It's built on the tools you already use, it's live in 2-3 days, and it costs [$2,000 one-off](https://mikeautomations.github.io/en/pricing/), paid once it's running and you're happy with it. If you'd like to map the job yourself first, try the [plan builder](https://mikeautomations.github.io/en/plan/).
+
+### What is Google Apps Script used for?
+Small internal automations in Google Workspace: drafting or sending emails from a spreadsheet, filing form responses into Drive folders, creating documents from templates, adding calendar events and sending yourself summaries. It suits jobs that start and end inside Google's own apps.
+
+### Is Apps Script better than Zapier or Make?
+For jobs entirely inside Sheets, Gmail and Drive, Apps Script is free and quick if you can read a little JavaScript. For jobs that connect several outside apps, or that someone without coding skills must maintain, a no-code tool is usually easier. The comparison section above covers the trade-off.
 
 ### Is Google Apps Script free?
 There's no separate charge: it comes with a Google account, and Google's overview says scripts are saved to Drive and run on Google's servers. What changes with a paid Google Workspace account is the daily quotas, for example 1,500 email recipients a day instead of 100 on a gmail.com account.
@@ -24562,7 +24726,7 @@ No. A table in a document or spreadsheet is enough for a small business. Boxes a
 For one process with a clear start and end, about half an hour with a real recent case open in front of you, plus a few minutes for the person who does the work to check it.
 
 ## A GDPR checklist before you automate anything with client data
-Source: https://mikeautomations.github.io/en/blog/gdpr-checklist-automating-client-data/ (2026-11-10)
+Source: https://mikeautomations.github.io/en/blog/gdpr-checklist-automating-client-data/ (2026-11-27)
 
 Before you automate anything with client data in the UK, check seven things under the UK GDPR: your lawful basis for each use, a processor contract (Article 28) with every tool that touches the data, that you only move the fields you need, how long each copy is kept, how it is secured, whether it leaves the UK, and whether the work is high risk enough to need a DPIA. If the automation sends emails or texts, the PECR marketing rules apply too.
 
@@ -24625,6 +24789,16 @@ A simple reminder or invoice workflow rarely needs a full DPIA. An AI tool that 
 
 ### 8. Keep a person on significant decisions
 Since February 2026 the UK GDPR has Articles 22A to 22D on automated decision-making. Article 22C says that where a significant decision is based solely on automated processing, you must have safeguards that tell the person about the decision, let them make representations, let them get human intervention, and let them contest it. The simplest way to stay on the right side of this: a person approves anything that refuses, charges or cuts off a client.
+
+### Using AI tools with client data: a plain checklist
+The ICO's generative AI questions, published in 2023 for organisations using generative AI that processes personal data, are a good test before you paste client details into any AI tool. In plain words:
+- What is your lawful basis for putting this person's data into the tool? A new tool is a new use of the data.
+- Is the tool a processor acting on your instructions, or does it use your data for its own purposes? Read its terms on training and retention, and use the business version of a tool where one exists.
+- Have you told clients that AI is involved, in your privacy notice?
+- Does the tool need the personal details at all? Draft the reply from the question, not from the client's date of birth and address.
+- Do you need a DPIA? An AI tool that reads client documents is the kind of new technology the ICO's DPIA list points to.
+- Can you still answer a client who asks what you hold about them, or asks you to delete it, once the data has passed through the tool?
+- Does a person check the output before anything is sent or decided? Rule of thumb: AI drafts, a person sends.
 
 ### 9. Emails and texts: PECR, not only GDPR
 Marketing by email or text to individuals falls under the Privacy and Electronic Communications Regulations (PECR). Regulation 22 allows it with consent, or under the "soft opt-in": you got the contact details while selling, or negotiating to sell, something to that person; the marketing is about your own similar products or services; and they were given a simple way to refuse at the time and in every message since.

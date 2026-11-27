@@ -29,6 +29,7 @@
     } catch {}
     btn.disabled = false;
     status.textContent = ok ? f.dataset.ok : f.dataset.err;
+    if (ok && f.dataset.pdf) { const a = document.createElement("a"); a.href = f.dataset.pdf; a.textContent = f.dataset.pdfLink; a.download = ""; a.className = "tool-sub-pdf"; status.append(" ", a); }
     if (ok) email.value = "";
   }));
   // "Free 1-page automation plan" (planBox in tool-skin.ts): sent to Michael's script as a lead, so he gets an email.
