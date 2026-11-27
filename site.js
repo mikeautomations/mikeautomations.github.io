@@ -60,13 +60,13 @@
       if (from === location.hostname) from = "(this site)";
       const hit = (path, r) => fetch(endpoint + "?hit=1&p=" + encodeURIComponent(path) + "&r=" + encodeURIComponent(r) + "&l=" + lang + "&d=" + (innerWidth < 768 ? "m" : "d"), { mode: "no-cors", keepalive: true }).catch(() => {});
       hit(location.pathname, from);
-      // Form funnel, as extra rows in the same sheet: "/form-view/<plan|sub>/<page>" once a form is half on screen,
-      // "/form-submit/<plan|sub>/<page>" when it goes through. Real page rows are unchanged.
-      const kind = (f) => f.hasAttribute("data-plan") ? "plan" : "sub";
+      // Form funnel, as extra rows in the same sheet: "/form-view/<plan|sub|book>/<page>" once a form is half on screen,
+      // "/form-submit/<plan|sub|book>/<page>" when it goes through. Real page rows are unchanged.
+      const kind = (f) => f.hasAttribute("data-plan") ? "plan" : f.hasAttribute("data-book") ? "book" : "sub";
       const seen = new Set();
       if ("IntersectionObserver" in window) {
         const io = new IntersectionObserver((es) => es.forEach((en) => { const k = kind(en.target); if (en.isIntersecting && !seen.has(k)) { seen.add(k); hit("/form-view/" + k + location.pathname, from); io.unobserve(en.target); } }), { threshold: 0.5 });
-        document.querySelectorAll("form[data-plan], form[data-subscribe]").forEach((f) => io.observe(f));
+        document.querySelectorAll("form[data-plan], form[data-subscribe], form[data-book]").forEach((f) => io.observe(f));
       }
       window.formSubmitted = (f) => hit("/form-submit/" + kind(f) + location.pathname, from);
     }

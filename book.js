@@ -92,6 +92,7 @@
       err.append(a);
       return;
     }
+    if (window.formSubmitted) window.formSubmitted(form);
     for (const fs of form.querySelectorAll("fieldset")) fs.hidden = true;
     done.hidden = false;
     done.textContent = res.booked ? t.okBooked.replace("{when}", picked ? picked.dataset.label : res.booked) : t.okNoSlot;
