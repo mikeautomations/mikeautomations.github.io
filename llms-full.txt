@@ -1073,6 +1073,13 @@ If you mostly need an instant "Sorry we missed you, how can we help?" text, a st
 - Follows up once if the caller goes quiet, and stops when they book, say no or reply STOP
 - Skips texting numbers that are already customers with an open job, such as a [body shop customer whose car is already in for repair](https://mikeautomations.github.io/en/body-shop-repair-updates/), and tells you instead
 
+### How to set up missed-call text back, in five steps
+1. Decide which calls count: missed calls and voicemails left while you are on a job or outside your opening hours.
+2. Write one short text from a named person that says you saw the missed call, asks what the job is, and tells them when you will ring back.
+3. Send it within a minute or two, because that is when the caller is still holding the phone and may ring the next contractor on the list.
+4. Stop the moment you call back or the customer replies, so they never get an automated text after you are already talking.
+5. Log every missed call with its number, time and outcome on one list, and check it each morning.
+
 ### Missed call texts you can copy
 Three messages (edit the wording; you approve each one before it goes live):
 ```
@@ -1107,6 +1114,12 @@ A [free 15-minute call](https://mikeautomations.github.io/call/) about how calls
 
 ### Free tools for missed calls
 The free [auto-reply message generator](https://mikeautomations.github.io/en/auto-reply-message-generator/) writes the text that goes out after a missed call, and the [quote generator](https://mikeautomations.github.io/en/free-quote-generator/) builds the quote once the job is clear.
+
+### What is missed call text back?
+A text that goes to a caller automatically when you miss their call, saying you saw it and will get back to them. For a contractor on a job it catches the customer before they ring the next firm. It should be short, come from a named person, and stop when you reply.
+
+### Does missed call text back work for UK tradespeople?
+Yes, the idea is the same. The registration rules on this page are for US business texting, so a UK business should ask its provider what sender registration and consent rules apply to it. Keep the message a reply to the customer's own call, not marketing.
 
 ### Will the texts sound like a robot?
 The wording is yours. You approve every message before it goes live. If AI drafts a reply to a customer, a person always approves it first.
@@ -6896,6 +6909,20 @@ These come from gov.uk, checked in November 2026. Gov.uk says parents of childre
 7. The returned form is checked against the EYFS list below, and only missing items are chased. If funded hours are expected, the parent is asked for the code, their National Insurance number and the child's date of birth well before the first session.
 8. Settling-in sessions are booked, the parent gets the key person's name, and a member of staff checks the allergy and dietary details and shares them with the staff who need them.
 
+### What a nursery waiting list should record
+- The child's name and date of birth, and the parent's contact details and preferred channel.
+- The date they joined the list, because a clear, written order of offers is what makes the list fair.
+- The start date they want, the days or sessions, and whether they expect to use funded hours.
+- Siblings already at the nursery, if your admissions policy gives them priority.
+- The date of every message sent and every reply, so anyone in the office can see where a family stands.
+- A review date. Remove or refresh entries when a family tells you they no longer need a place, and keep personal details no longer than you need them.
+
+### A waiting list update email you can copy
+Update to a family still waiting (edit the words in brackets):
+```
+Hi [parent name], a quick update on [child's name]'s place at [nursery name]. You joined our waiting list on [date] for [days or sessions] from [start date]. We don't have a place for those days yet, and we'll contact you as soon as one opens up. If your plans have changed, or you'd like to add or drop days, just reply here. If you no longer need a place, let us know and we'll take you off the list. [name], [nursery name]
+```
+
 ### A place offer email you can copy
 Place offer (edit the words in brackets):
 ```
@@ -6926,6 +6953,15 @@ A [free 15-minute call](https://mikeautomations.github.io/call/) about how your 
 
 ### Free tools for nursery fees
 The free [payment reminder email generator](https://mikeautomations.github.io/en/payment-reminder-email-generator/) writes polite fee reminders, and the [price increase letter generator](https://mikeautomations.github.io/en/price-increase-letter-generator/) writes the notice when fees change.
+
+### What should a nursery waiting list include?
+The child's name and date of birth, parent contact details, the date they joined the list, the start date and days wanted, whether they expect funded hours, any sibling priority under your admissions policy, and a log of every message sent. Add a review date so the list stays accurate.
+
+### How do I keep a nursery waiting list fair?
+Write your admissions policy down, record the date each family joined, and make offers in the order the policy sets out. A workflow can sort the list and show who is next, but a person decides the offer and sends it.
+
+### How often should a nursery update families on the waiting list?
+Every few months is enough for most settings, or when something changes. One short email asking them to confirm they still want a place keeps the list accurate and saves offering a place to someone who has moved on.
 
 ### Can a waiting list workflow decide who gets a place?
 No. It sorts the list by start date, days and funding and shows you who fits. You decide who is offered the place and in what order.
@@ -21231,7 +21267,7 @@ Only for software you choose to use, such as an automation platform, paid direct
 Prices are set in US dollars and invoiced in pounds or euros at the equivalent rate.
 
 ## How to stop chasing clients for VAT records every quarter
-Source: https://mikeautomations.github.io/en/blog/vat-quarter-records-chasing/ (2026-11-22)
+Source: https://mikeautomations.github.io/en/blog/vat-quarter-records-chasing/ (2026-11-27)
 
 A UK VAT return and payment are usually due 1 month and 7 days after the VAT period ends, so a quarter ending 31 December is due by 7 February. To stop chasing, set your own cut-off two weeks after the quarter, send each client a personal list of what is missing the next day, and remind weekly until it is complete.
 
@@ -21323,6 +21359,12 @@ It starts with a [free 15-minute call](https://mikeautomations.github.io/call/) 
 
 ### Free tool: UK VAT calculator
 For quick checks while you chase records, the free [UK VAT calculator](https://mikeautomations.github.io/en/uk-vat-calculator/) adds or removes VAT at 20%, 5% or any rate and shows the formula.
+
+### How do I stop chasing clients for VAT records every quarter?
+Stop chasing by hand and set a schedule that runs itself: a personal list the day after the quarter ends, a reminder every week listing only what is missing, a phone call after the third unanswered reminder, and a stop when the records are complete. You only see the list of clients still missing items.
+
+### How many reminders should I send a client for VAT records?
+Three written reminders a week apart is a good rule, then a phone call. Each one lists only what is still missing and repeats the same upload link and the date you need it by.
 
 ### When is a quarterly VAT return due?
 Usually one calendar month and 7 days after the end of the VAT period, for both the return and the payment. A quarter ending 31 March is due by 7 May. Check the client's online VAT account for their exact dates.
@@ -27829,7 +27871,7 @@ Source: https://mikeautomations.github.io/he/automation-driving-school/ (2026-11
 אוטומציה למורה נהיגה מאפשרת לתלמידים לקבוע שיעור בקישור לפי השעות שפתחתם, שולחת תזכורת יום לפני עם השעה ונקודת האיסוף, מראה כמה שיעורים כל תלמיד שילם ועשה, ושולחת רשימת הכנה לפני הטסט. שיעור שבוטל מוצע אוטומטית לתלמיד הבא ברשימת ההמתנה. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
 ### אוטומציה לעסקים: מאיפה מתחילים, ומה כדאי שיעבוד לבד
-Source: https://mikeautomations.github.io/he/business-automation/ (2026-11-12)
+Source: https://mikeautomations.github.io/he/business-automation/ (2026-11-27)
 
 אוטומציה לעסקים היא הגדרה של משימות שחוזרות על עצמן, כמו מענה לפנייה חדשה, תזכורות, בקשת מסמכים ומעקב אחרי הצעות מחיר, כך שיקרו לבד בלי שמישהו יזכור לעשות אותן. מתחילים מתהליך אחד שחוזר כל שבוע, רואים שהוא עובד, ורק אז מרחיבים. זה מתאים כמעט לכל סוג עסק: קבלנים, קליניקות, סלונים, משרדי עורכי דין, מתווכים, רואי חשבון ועוד.
 
