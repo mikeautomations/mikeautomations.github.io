@@ -370,6 +370,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Clearinghouse annual query tracking](https://mikeautomations.github.io/en/clearinghouse-annual-query-tracking/): For small fleets with CDL drivers: every driver's last Clearinghouse query and consent on one list, with reminders before the 12 months run out.
 - [Renters insurance proof tracking](https://mikeautomations.github.io/en/renters-insurance-proof-tracking-property-managers/): For small US property managers: proof of renters insurance collected at move-in, expiry dates on one list, and residents reminded before a policy ends.
 - [Medicare annual wellness visit recall](https://mikeautomations.github.io/en/medicare-annual-wellness-visit-recall/): For US primary care practices: every Medicare patient's next wellness visit date on one list, a plain invitation to book, and follow-up for no replies.
+- [HVAC warranty registration tracking](https://mikeautomations.github.io/en/hvac-equipment-warranty-registration-tracking/): For US HVAC contractors: every install on one list with its registration deadline, serial numbers collected on site, and proof sent to the homeowner.
+- [Exemption certificate tracking](https://mikeautomations.github.io/en/sales-tax-exemption-certificate-tracking/): For US wholesalers and their bookkeepers: a certificate on file for every tax-exempt customer, expiry dates on one list, and renewals requested in time.
+- [Year-end donation receipts](https://mikeautomations.github.io/en/year-end-donation-receipts-nonprofits/): For small US nonprofits, churches and their bookkeepers: giving records checked in December and a year-end statement sent to every donor in January.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

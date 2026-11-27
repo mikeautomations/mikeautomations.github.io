@@ -18155,6 +18155,177 @@ Nothing. They invite the patient to book a yearly wellness visit and explain wha
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## HVAC warranty registration: every install registered before the manufacturer's window closes
+Source: https://mikeautomations.github.io/en/hvac-equipment-warranty-registration-tracking/
+
+An HVAC warranty registration workflow keeps one row per installed system with the install date, the serial numbers and the manufacturer's registration deadline. It collects the serial numbers from the installer on the day, reminds the office before the window closes, and sends the homeowner the confirmation once a person has registered the equipment.
+
+You install a furnace and a condenser on a Tuesday. The crew moves to the next house, and the serial numbers are on a photo in somebody's phone. Many manufacturers give the longer parts warranty only if the equipment is registered within a set window after installation, often 60 or 90 days. In July nobody in the office has a spare hour. Four years later a compressor fails, the homeowner calls, and you both learn the unit was never registered. The registration takes five minutes. What is missing is a list that says which installs are still open and how many days each one has left.
+
+### Where warranty registration slips
+- Serial numbers are on a phone photo or a paper job sheet, not in the office
+- The installer thinks the office registers, and the office thinks the homeowner does
+- Busy season: installs go in faster than anyone can register them
+- Each brand has its own portal, its own window and its own rules
+- A system has two or three serial numbers and only one gets registered
+- The homeowner's email address was never collected, so the portal can't send a confirmation
+- Nobody can show the homeowner proof when a part fails years later
+
+### What the list holds for each install
+One row per installed system. Your office sets the registration window for each brand you sell, taken from that brand's warranty document.
+| On the row | Why it is there |
+| --- | --- |
+| Customer, address, email and phone | The registration needs them, and so does the confirmation |
+| Install date | The window starts here |
+| Brand and the window your office set for it | The deadline is worked out from these two |
+| Model and serial number of each unit | Outdoor unit, indoor unit and coil are registered separately |
+| Photo of each data plate | A person can check a serial number that looks wrong |
+| Who registers: your office or the homeowner | No install is left between two people |
+| Status: waiting for serials, ready, registered, proof sent | The weekly list is built from this |
+
+### How the workflow runs
+1. When a job is marked as installed, a row is opened with the install date and the deadline for that brand.
+2. The installer gets a short form on their phone: a photo of each data plate and the serial numbers.
+3. If the form isn't filled in by the next morning, the installer is reminded, and after that the service manager is told.
+4. The office gets a daily list of installs that are ready to register, with everything needed on one screen.
+5. A person on your team registers the equipment on the manufacturer's site and saves the confirmation. If AI reads the serial numbers from the photos first, a person checks them before anything is submitted.
+6. The homeowner gets an email with the confirmation and a plain line about what the warranty covers, in wording you approved.
+7. Two weeks before a window closes, any install that is still open goes to the service manager.
+8. Every week you get one list: installs waiting for serial numbers, installs ready to register, and days left on each.
+
+### What stays with you
+The registration itself is done by a person on your team, on the manufacturer's own site. The workflow doesn't log in to a manufacturer portal, doesn't decide what a warranty covers and doesn't promise that a claim will be accepted. Warranty terms and registration windows differ by brand and product line, and some states don't allow a registration requirement at all, so take the window from each manufacturer's warranty document. If you also sell maintenance plans, see [HVAC maintenance agreement renewals](https://mikeautomations.github.io/en/hvac-maintenance-agreement-renewals/), and for the photos your crew takes at the end of a job, see [job sign-off and completion photos](https://mikeautomations.github.io/en/job-sign-off-and-completion-photos/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many systems you install in a month and where the serial numbers go today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your field service software or a spreadsheet, your email, text messages, a phone form and shared folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your field service software already collects serial numbers and tracks registrations the way you want, you may not need this, and we'll say so on the call.
+
+### How long do we have to register HVAC equipment?
+It depends on the manufacturer. Several give the longer registered warranty only when the equipment is registered within a set window after installation, often 60 or 90 days. Take the window from each brand's warranty document.
+
+### Does the workflow register the equipment for us?
+No. It collects the serial numbers, shows your office what is ready and counts the days. A person on your team registers on the manufacturer's site and saves the confirmation.
+
+### What if the homeowner is supposed to register?
+The row says so. The homeowner gets the serial numbers, the link and a plain reminder, and the row stays open until they send back the confirmation or your office registers for them.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Sales tax exemption certificates: one on file for every exempt customer, and renewed before it runs out
+Source: https://mikeautomations.github.io/en/sales-tax-exemption-certificate-tracking/
+
+An exemption certificate tracking workflow keeps one row per tax-exempt customer and state, with the certificate on file and its end date where there is one. It asks new customers for a certificate before their first untaxed invoice, requests a new one before an old one runs out, and lists customers who are invoiced without tax and have no current certificate.
+
+A customer says they buy for resale, so you invoice them without sales tax. Somebody asked for the certificate once. Maybe it arrived, maybe it is in an inbox from 2022. Rules on how long a certificate lasts differ by state and by type of certificate, and your customers don't track those dates for you. Then a state audit picks a sample of untaxed invoices and asks for the paper behind each one. Whatever you can't show, you may be asked to pay. The fix is plain: one list of exempt customers, the document behind each, and somebody who asks again in time.
+
+### Where exemption certificates slip
+- A customer is set to "exempt" in the accounting software before any certificate arrives
+- Certificates sit in email attachments, a filing cabinet and a salesperson's laptop
+- The end date is on the form, not on any list
+- A customer ships to a new state and nobody asks for that state's form
+- The form is unsigned, or the business name doesn't match the customer on the invoice
+- A customer changes name or is sold, and the old certificate stays on file
+- The only full check happens when an auditor asks
+
+### What the list holds for each customer
+One row per customer and state. Your accountant sets how long each kind of certificate is treated as good, and the workflow follows the dates.
+| On the row | Why it is there |
+| --- | --- |
+| Customer name as it appears on invoices | A person checks it against the name on the form |
+| State the goods ship to | A customer with three states has three rows |
+| Kind of exemption: resale, nonprofit, government, other | Each kind has its own form and its own rules |
+| Date signed and end date, if the form has one | The renewal request follows the end date |
+| Review date set by your accountant | So forms with no end date are still looked at again |
+| Where the certificate is saved | Anyone can pull it in minutes when an auditor asks |
+| Status: current, due soon, missing, sent to accountant | The monthly list is built from this |
+
+### How the workflow runs
+1. A monthly export from your accounting software shows every customer who was invoiced without tax.
+2. Any of them with no row on the list is flagged the same day, and the customer gets a request for a certificate with an upload link.
+3. The customer uploads the form. It is saved in one folder, named by customer and state.
+4. A person on your team checks it: right state, signed, name matches. If AI reads the dates and the registration number from the form first, a person confirms them.
+5. If something is wrong, the customer gets a short note saying exactly what to fix.
+6. Sixty days before an end date or a review date, the customer is asked for a new certificate. A second request goes a month later.
+7. If nothing arrives, the row goes to the person who owns the account, with the open invoices next to it.
+8. Whether to start charging tax on the next invoice is your decision. The workflow changes nothing in your accounting software.
+9. Every month you and your accountant get one list: missing, due soon, and how long each has been open.
+
+### What stays with you
+Whether a certificate is valid, which form a state accepts and whether a sale is exempt are questions for your accountant or the state's department of revenue. The workflow doesn't verify a registration number with a state, doesn't decide to tax a customer and doesn't file anything. It makes sure a document exists for every customer you treat as exempt, and that somebody looks at it again on a date. For the returns themselves, see [sales tax filing reminders for bookkeepers](https://mikeautomations.github.io/en/sales-tax-filing-reminders-bookkeepers/), and for a similar list on the supplier side, see [subcontractor COI tracking](https://mikeautomations.github.io/en/subcontractor-coi-tracking/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many exempt customers you have and where the certificates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (QuickBooks or another accounting package, a spreadsheet, your email, an online form and shared folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If you sell into many states at volume, dedicated certificate software may fit you better, and we'll say so on the call.
+
+### Do sales tax exemption certificates expire?
+It depends on the state and the kind of certificate. Some carry an end date and some don't, and even those need the customer's details kept current. Ask your accountant which dates apply to the states you sell into.
+
+### What happens if we can't show a certificate in an audit?
+The seller is the one asked for it. If you can't show a valid certificate for an untaxed sale, the state may ask you to pay the tax. Your accountant can tell you what your state allows.
+
+### Does the workflow check that a certificate is valid?
+No. A person on your team checks each form against a short list your accountant approved. The workflow collects the form, saves it, tracks the dates and asks again in time.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Year-end donation receipts: every donor's statement checked, sent in January and answered
+Source: https://mikeautomations.github.io/en/year-end-donation-receipts-nonprofits/
+
+A year-end donation receipt workflow builds one giving statement per donor from your records, in wording your accountant approved. It finds donors with a missing address or an unmatched gift in December, has a person approve the statements in January, sends each one by email or prints it for mail, and tracks bounces and donor questions until they are closed.
+
+It is the second week of January. Your bookkeeper is a volunteer, or works one day a week. Giving came in through the online platform, by check, in cash envelopes and as two gifts of stock. Donors start asking for their statement because their tax preparer wants it. A donor needs a written acknowledgment from you for any single gift of $250 or more, and without it they can lose the deduction. Nobody fines the organization for a late statement. The donor is the one who pays for it, and donors remember. Most of the work is not the letter. It is finding the gifts with no name, the donors with no address and the couple who gave under two spellings.
+
+### Where year-end statements slip
+- Gifts sit in three places: the online giving platform, the bank deposits and a spreadsheet
+- The same donor appears twice, under two spellings or two email addresses
+- Checks were recorded as one deposit, with no donor names
+- A donor moved, and the statement goes to the old address
+- Non-cash gifts are in the books with a dollar value and no description
+- A dinner ticket or an auction item is counted as a full gift
+- Statements go out in February, after donors have asked twice
+- Bounced emails are never followed up
+
+### What goes on each donor's row
+One row per donor or household. The statement wording is set once with your accountant, and the workflow fills in the gifts.
+| On the row | Why it is there |
+| --- | --- |
+| Donor or household name, as they want it printed | Couples often give under two names |
+| Email and mailing address, with the date last confirmed | Old addresses are found in December, not in February |
+| Each gift: date, amount and how it was given | The statement lists gifts one by one |
+| Non-cash gifts: a description in words | Your accountant decides how these appear |
+| Anything the donor received in return | Tickets, dinners and auction items need a person's eye |
+| How the statement goes out: email or mail | The print list is built from this |
+| Status: to fix, ready, approved, sent, bounced, question open | You can see what is left on any day |
+
+### How the workflow runs
+1. In early December, exports from your giving platform and your books are put on one list, donor by donor.
+2. Likely duplicates, gifts with no donor and donors with no address are put on a short fix list for your bookkeeper.
+3. Donors whose address hasn't been confirmed this year get a short message asking them to check it.
+4. After the last deposit of the year is recorded, a statement is drafted for each donor from the template your accountant approved. If AI helps match names or tidy descriptions, a person checks the result.
+5. Your treasurer or bookkeeper reads the statements and approves them. Nothing is sent before that.
+6. Approved statements go out by email. Donors who want paper are put on a print list with mailing labels.
+7. A bounced email goes back on the fix list the same day, with the donor's phone number next to it.
+8. Donor replies go to one inbox. Each question is logged against the donor's row and closed by a person.
+9. At the end of January you get one list: sent, bounced, questions open, and statements reissued.
+
+### What stays with you
+What the statement says, how non-cash gifts and benefits to the donor are described, and whether a payment was a gift at all are decided by your treasurer and your accountant. The IRS lists what a written acknowledgment must contain in Publication 1771. The workflow doesn't value a gift, doesn't give tax advice to donors and doesn't send a statement nobody approved. It makes sure every donor's gifts are on one row, that a person has read the statement, and that it reaches the donor. For other nonprofit dates, see [Form 990 deadline reminders](https://mikeautomations.github.io/en/form-990-deadline-reminders-nonprofit-accountants/) and [grant reporting deadline reminders](https://mikeautomations.github.io/en/grant-reporting-deadline-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many donors you have and where giving is recorded today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (your giving platform's exports, QuickBooks or a spreadsheet, your email, an online form and shared folders). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your donor software already produces statements you are happy with and you only need to press send, you may not need this, and we'll say so on the call.
+
+### When should year-end donation receipts go out?
+Most organizations send them in January, usually by January 31, so donors have them before they prepare their tax return. Your accountant can tell you what applies to your donors.
+
+### Which gifts need a written acknowledgment?
+The IRS says a donor needs a written acknowledgment from the organization for any single contribution of $250 or more. Many organizations send every donor a statement of all gifts anyway.
+
+### Is there an official IRS form for the statement?
+No. The IRS says letters, postcards and computer-generated statements are acceptable when they carry the required information. Your accountant sets the wording once, and the workflow reuses it.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
