@@ -71,6 +71,23 @@
       window.formSubmitted = (f) => hit("/form-submit/" + kind(f) + location.pathname, from);
       // The two links under a tool's result: "/tool-cta/<plan|book>/<page>" in the same sheet.
       document.addEventListener("click", (e) => { const a = e.target.closest && e.target.closest("a[data-tl]"); if (a) hit("/tool-cta/" + a.dataset.tl + location.pathname, from); });
+      // Tool use, once per page view: "/tool-use/<page>" on the first edit inside the tool, "/tool-download/<page>" on the
+      // first download, copy or print click. Only on free-tool pages; the sign-up and plan forms don't count.
+      if (document.querySelector(".tool-hero")) {
+        const once = new Set();
+        const mark = (k) => { if (!once.has(k)) { once.add(k); hit("/" + k + location.pathname, from); } };
+        const outsideForms = (el) => !el.closest("form[data-plan], form[data-subscribe], form[data-book], dialog, header, footer, nav");
+        const onEdit = (e) => { const t = e.target; if (t && t.matches && t.matches("input, select, textarea") && outsideForms(t)) mark("tool-use"); };
+        document.addEventListener("input", onEdit, true);
+        document.addEventListener("change", onEdit, true);
+        document.addEventListener("click", (e) => {
+          const el = e.target.closest && e.target.closest("button, a");
+          if (!el || !outsideForms(el) || el.hasAttribute("data-tl")) return;
+          const label = (el.textContent || "") + " " + (el.getAttribute("aria-label") || "");
+          if (el.hasAttribute("download") || /download|print|copy|pdf|png|csv|save|הורד|הדפס|העתק|שמור/i.test(label)) mark("tool-download");
+          else if (el.tagName === "BUTTON") mark("tool-use");
+        }, true);
+      }
     }
   } catch {}
   document.querySelectorAll("dialog form").forEach((f) => f.addEventListener("submit", async (e) => {
