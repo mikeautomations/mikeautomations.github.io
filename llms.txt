@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-27.
+Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מערכות ואוטומציות") is Michael Gershman: one person who maps how a small service business works, then builds and supports workflow automations, custom internal systems and AI agents. A person always approves anything AI prepares. Updated: 2026-11-28.
 
 - Who: Michael Gershman, founder of Mike Automations, a native English speaker. One person maps, builds and supports every workflow; no account managers. About: https://mikeautomations.github.io/en/about/
 - Where: based in Haifa, Israel, and works remotely on UK hours. No office; the Sheffield address below is a UK mailing address for post only.
@@ -396,6 +396,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [AWR 12-week tracking](https://mikeautomations.github.io/en/awr-12-week-qualifying-period-tracking/): For UK temp agencies: a week count for every worker and hirer, a warning before week 12, and the hirer asked for comparable pay details in time.
 - [Contingency deadline tracking](https://mikeautomations.github.io/en/real-estate-contract-contingency-deadline-tracking/): For US agents and transaction coordinators: every contract date on one list, reminders before each deadline, and new dates when an amendment is signed.
 - [Open enrollment reminders](https://mikeautomations.github.io/en/open-enrollment-reminders-benefits-brokers/): For US benefits brokers and small employers: one list of who has enrolled, waived or not started, and reminders only to employees who still need to act.
+- [Right to work follow-up reminders](https://mikeautomations.github.io/en/right-to-work-follow-up-check-reminders-employers/): For UK employers: one list of staff with time-limited right to work, the date each follow-up check is due, and reminders that start months before it.
+- [Food handler card tracking](https://mikeautomations.github.io/en/food-handler-card-expiration-tracking-restaurants/): For US restaurants: one list of every employee's food handler card and manager certificate, the expiry date, and reminders before a card runs out.
+- [Driving licence check reminders](https://mikeautomations.github.io/en/driving-licence-check-reminders-grey-fleet/): For UK employers whose staff drive for work: one list of every driver, the date their next licence check is due, and a request for a DVLA check code.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

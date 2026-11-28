@@ -2,7 +2,7 @@
 
 > Business automation for every kind of small business: enquiry replies, reminders, follow-ups and document chasing. Live in 2-3 days, pay once you're happy.
 
-Updated: 2026-11-27. Facts summary: https://mikeautomations.github.io/llms.txt
+Updated: 2026-11-28. Facts summary: https://mikeautomations.github.io/llms.txt
 
 ## Home: Mike Automations
 Source: https://mikeautomations.github.io/en/
@@ -18728,6 +18728,172 @@ It is common practice to ask them to sign a waiver, so there is a record that th
 
 ### Does the workflow see employees' health information?
 No. It holds a status for each employee: not started, in progress, enrolled or waived. Plan choices and any health details stay in the carrier's or benefits system.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Right to work follow-up checks: a reminder before every expiry date, not after it
+Source: https://mikeautomations.github.io/en/right-to-work-follow-up-check-reminders-employers/
+
+A right to work follow-up check is needed when an employee's first check showed a time-limited right to work. The Home Office employer's guide says it must be done on or before the date the permission expires, and a late check does not give the employer a statutory excuse. A reminder workflow keeps one row per employee with that date, asks the employee for a share code or documents well ahead, and tells a named person when the check itself has to be done.
+
+The first right to work check gets done because nobody starts without it. The follow-up is different. The date can be two or three years after the start date, the person who did the first check may have left, and the copy sits in a personnel file nobody opens. Small employers usually find out in one of two ways: the employee mentions their visa is about to run out, or an audit turns up a date that has already passed. This page is about never missing the date. It isn't legal advice: read the current Home Office employer's guide on gov.uk for the rules.
+
+### Why follow-up dates get missed
+- The date is written on a scanned copy in the personnel file and nowhere else
+- Each site or manager keeps their own list, or none
+- The reminder is one calendar entry in the diary of someone who has since left
+- The employee is asked a week before, and their new permission hasn't come through yet
+- Nobody is sure who does the check: the manager, the office or the owner
+- A check is done but the result and the next date are never saved
+- Staff who joined through a takeover or a transfer were never added to the list
+
+### What the list holds for each employee
+One row per employee whose right to work is time-limited. Employees whose first check showed a continuous right to work need no follow-up and stay off the list.
+| On the row | Why it is there |
+| --- | --- |
+| Employee, site and line manager | So the reminder reaches the people who can act |
+| Date of the last check and how it was done: online or documents | The guide treats the two differently |
+| Follow-up date | For an online check, the date the Home Office service gave. For documents, the date the permission ends |
+| Where the saved result is kept | The copy of the check is your evidence, so it has to be findable |
+| Who does the check | A named person, with a named cover for holidays |
+| Status: not due, asked, evidence received, checked, escalated | So one glance shows what is open this month |
+
+### How the workflow runs
+1. Once, at the start: someone on your team goes through the personnel files and enters the follow-up date for each employee. A second person checks the dates.
+2. Twelve weeks before a date, the employee and their manager are told a follow-up check is coming and what will be needed.
+3. Eight weeks before, the employee gets a message asking for a right to work share code from gov.uk, or their documents if their status is not online.
+4. If nothing arrives, the reminder repeats, and at four weeks the manager is asked to speak to the employee.
+5. When the evidence arrives, the named person does the check on the Home Office service or against the documents, and saves the result.
+6. The new follow-up date goes on the row and the reminders start again from it. If the new check shows a continuous right to work, the row closes.
+7. Two weeks before the date, anything still open goes to the owner or HR lead with the full history.
+8. Every Monday, the office gets a short list: checks due in the next three months and anything waiting on an employee.
+
+### What stays with a person
+The check itself is always done by a person. The workflow doesn't decide whether someone has the right to work, doesn't read a visa, and doesn't contact the Home Office. If an employee says they have an application in progress, or can't show evidence, that is a decision for the employer with the guide open, and often with advice. If AI drafts a reminder or a reply to an employee's question, a person on your team approves it before it is sent. Treat everyone the same: the reminders go by date, not by nationality. Share codes and document copies are personal data, so they are stored where you already keep personnel records and nowhere else. Agencies that collect these documents before a start date can use [candidate compliance document chasing](https://mikeautomations.github.io/en/candidate-compliance-document-chasing/), and care providers with more expiry dates to track can see [carer compliance for home care agencies](https://mikeautomations.github.io/en/home-care-agency-carer-compliance/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many staff are on time-limited permission and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your email, text messages and the folder where personnel records are kept). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your HR or payroll software already holds the follow-up date and reminds a named person well ahead, we'll say so on the call and you may not need us.
+
+### When is a right to work follow-up check due?
+The Home Office employer's guide says on or before the date the employee's permission expires. For an online check, the service shows the date a follow-up is due. A check done late does not give a statutory excuse for the gap.
+
+### Do all employees need a follow-up check?
+No. Only employees whose first check showed a time-limited right to work. If the first check showed a continuous right to work, no follow-up is needed.
+
+### Does the workflow do the check for us?
+No. It tracks the dates, asks the employee for a share code or documents and reminds the person responsible. A person does the check and saves the result.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Food handler cards: know who is expiring before the health inspector asks
+Source: https://mikeautomations.github.io/en/food-handler-card-expiration-tracking-restaurants/
+
+Food handler card tracking keeps one row per employee with the card's expiry date and a copy of the card. New hires are reminded before their deadline to get one, employees are reminded before their card runs out, and the manager gets a monthly list. How long a card lasts and how soon a new hire needs one depend on the state and sometimes the county, so the dates come from the card and your local health department.
+
+Most restaurants know their cards are in order on the day they open. A year later the binder in the office is out of date. Turnover is high, new hires promise to bring the card next shift, and cards issued in different years expire in different months. The gap shows up when an inspector asks to see the cards, or when a manager with the food protection manager certificate leaves and nobody else on that shift has one. Card rules differ from place to place: commonly a card lasts two to three years and a manager certificate about five, but your local health department has the answer for your location.
+
+### Where card tracking breaks down
+- Cards are photocopies in a binder, filed in the order people were hired
+- Nobody writes down the deadline for a new hire to get a card, so it slips past
+- Expiry dates are spread through the year and nobody has them in date order
+- An employee renews online but never brings in the new card
+- A group with three locations has three binders and three ways of doing it
+- The only certified manager on the closing shift leaves, and the gap isn't noticed
+- Leavers stay in the binder, so the list never matches the schedule
+
+### What the list holds for each employee
+One row per employee, grouped by location. The row is filled from the card itself, not from memory.
+| On the row | Why it is there |
+| --- | --- |
+| Employee, location and role | Some roles need a card and some may not, depending on local rules |
+| Hire date and the deadline to hold a card | Many places give a new hire a set number of days |
+| Card or certificate type: food handler or food protection manager | The two last for different lengths of time |
+| Issue date and expiry date, as printed | Every reminder is timed from the expiry date |
+| A photo or PDF of the card | So it can be shown at an inspection without the binder |
+| Status: valid, due soon, expired, not yet received | So the manager sees the open ones first |
+
+### How the workflow runs
+1. Once, at the start: a manager photographs every card in the binder and the dates are entered. Each location's manager checks their own list.
+2. When someone is hired, they get a text with what they need, where your approved course is, and the date they must have the card by.
+3. The new hire sends a photo of the card by text or uploads it through a form. A manager confirms the name and dates before the row is marked valid.
+4. Sixty days before a card expires, the employee gets a reminder with the renewal link. It repeats at thirty days and at two weeks.
+5. If a card is still not renewed a week before the date, the location manager gets the name so they can plan the schedule.
+6. Manager certificates get a longer run-up, because the course and exam take more planning.
+7. On the first of each month, each manager gets one list: cards expiring in the next ninety days, new hires still without a card, and anything expired.
+8. When someone leaves, their row is closed, so the list always matches the people on the schedule.
+
+### What stays with you
+Which roles need a card, which courses your health department accepts and whether someone can work a shift while their card is pending are your decisions, based on local rules. The workflow doesn't check a card with the issuing body and doesn't decide who works. If AI drafts a reminder, a manager approves the wording before it is used. Restaurants that also want reminders for the equipment side can see [kitchen hood cleaning reminders](https://mikeautomations.github.io/en/kitchen-hood-cleaning-reminders/), and the same hire-day message can start [new hire paperwork collection](https://mikeautomations.github.io/en/new-hire-paperwork-collection-small-business/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many locations and employees you have and where the cards are kept today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, text messages, your email, an online form and a shared folder for the card photos). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your scheduling or HR software already tracks certificate expiry dates and reminds employees, we'll say so on the call and you may not need us.
+
+### How long is a food handler card valid?
+It depends on the state and sometimes the county. Two to three years is common. For example, California cards last three years, and Texas treats a card with no printed date as valid for two years. Check the date on the card and your local health department.
+
+### How soon does a new hire need a card?
+That is also set locally. California, for example, gives 30 days from the hire date. Some states have no statewide requirement and leave it to counties or cities.
+
+### Is a food manager certificate the same thing?
+No. A food protection manager certificate is a separate, longer course and exam. Certificates from accredited providers typically last five years, so they go on the same list with a different date.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Driving licence checks for staff who drive for work: asked for on time, recorded in one place
+Source: https://mikeautomations.github.io/en/driving-licence-check-reminders-grey-fleet/
+
+A licence check reminder workflow keeps one row per employee who drives for work, in a company vehicle or their own car. When a check is due under your policy, it asks the driver for a DVLA check code, reminds them until it arrives, and tells a named person to do the check while the code still works. The result and the next date are saved, so you can show who was checked and when.
+
+Most small employers check a driving licence once, on the day someone joins. After that it depends on memory. Drivers of company vans tend to be on somebody's list. Grey fleet drivers, the staff who use their own cars for work, often aren't on any list at all: carers driving between visits, an estimator going to site, someone doing the bank run. Points, a ban or a medical restriction can appear at any time, and the employer only hears about it if the driver says so. No fixed interval for rechecks was found in the sources for this page. Fleet guidance ranges from every six months to once a year, and more often for drivers with more points, so the interval is your policy to set.
+
+### Where licence checking breaks down
+- The licence was photocopied at induction and never looked at again
+- Nobody has a list of who drives their own car for work
+- The DVLA check code is only valid for 21 days and can be used once, so codes sent early have run out by the time someone looks
+- Drivers are asked by a group email and half don't reply
+- The check is done but the result isn't saved, so there is nothing to show an insurer
+- Drivers with points are checked no more often than drivers with a clean licence
+- New starters begin driving before anyone has asked for a code
+
+### What the list holds for each driver
+One row per employee who drives for work. Your policy decides the interval, and the row holds the dates.
+| On the row | Why it is there |
+| --- | --- |
+| Driver, team and manager | So the request and any escalation go to the right people |
+| Vehicle: company vehicle or own car | Grey fleet drivers are the ones most often left off |
+| Date of the last check and who did it | Your record that the check happened |
+| Points and anything noted at the last check | Under your policy this can shorten the interval |
+| Next check due | Every request is timed from this date |
+| For own-car drivers, if your policy asks: business insurance and MOT dates | Many employers ask for these at the same time |
+| Status: not due, code requested, code received, checked, escalated | So open checks are visible |
+
+### How the workflow runs
+1. Once, at the start: managers confirm who drives for work, including own-car drivers, and the date of each person's last check is entered.
+2. Two weeks before a check is due, the driver gets a text and an email asking for a check code from the gov.uk view driving licence service, with a link to it.
+3. The driver replies with the code and the last eight characters of their licence number, through a form.
+4. The named person in your office is told straight away, with the date the code runs out, and does the check on gov.uk.
+5. They save the result and note points or restrictions. The next date is set from your policy, sooner where the policy says so.
+6. If no code arrives, the driver is reminded after three days and a week, and then the manager is told.
+7. If a code runs out before it is used, the driver is asked for a new one and the office is told why.
+8. On the first of each month, the office gets one list: checks due, codes waiting to be used and drivers who haven't replied.
+
+### What stays with a person
+A person does every check and decides what a result means: whether someone keeps driving, needs a conversation or needs a shorter interval. The workflow doesn't log in to DVLA and doesn't judge a licence. The driver gives the code themselves, which is how they consent to that check. If AI drafts a reminder, a person on your team approves the wording first. Licence details are personal data, so they are kept with your personnel records. Operators with lorry and bus drivers also have [Driver CPC periodic training](https://mikeautomations.github.io/en/driver-cpc-periodic-training-tracking/) to track, and care providers can keep licence checks on the same list as the rest of their [carer compliance](https://mikeautomations.github.io/en/home-care-agency-carer-compliance/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many staff drive for work and how checks are done today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your email, text messages, an online form and the folder where personnel records are kept). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If you already pay a licence checking service that rechecks drivers on a schedule, we'll say so on the call and you may not need us.
+
+### How often should an employer check driving licences?
+No fixed interval was found in the sources for this page. Fleet guidance ranges from every six months to once a year, with more frequent checks for drivers who have more points. Set an interval in your driving policy and follow it.
+
+### How long does a DVLA check code last?
+The code from the view driving licence service can be used once within 21 days. A new code is needed for each check, which is why the workflow asks for it close to the date and tells the office when it runs out.
+
+### Do staff who use their own car need checking?
+They drive for your business, so most fleet guidance says to check them the same way as company vehicle drivers. Many employers also ask own-car drivers for proof of business insurance and a current MOT.
 
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
