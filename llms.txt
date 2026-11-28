@@ -399,6 +399,9 @@ Mike Automations (also "Mike Systems & Automations", in Hebrew "מייק מער�
 - [Right to work follow-up reminders](https://mikeautomations.github.io/en/right-to-work-follow-up-check-reminders-employers/): For UK employers: one list of staff with time-limited right to work, the date each follow-up check is due, and reminders that start months before it.
 - [Food handler card tracking](https://mikeautomations.github.io/en/food-handler-card-expiration-tracking-restaurants/): For US restaurants: one list of every employee's food handler card and manager certificate, the expiry date, and reminders before a card runs out.
 - [Driving licence check reminders](https://mikeautomations.github.io/en/driving-licence-check-reminders-grey-fleet/): For UK employers whose staff drive for work: one list of every driver, the date their next licence check is due, and a request for a DVLA check code.
+- [Taxi and private hire licence expiry](https://mikeautomations.github.io/en/taxi-and-private-hire-licence-expiry-tracking/): For UK private hire operators: one list of every driver badge, vehicle licence, insurance and test date, with reminders sent before each one runs out.
+- [Premises licence annual fee reminders](https://mikeautomations.github.io/en/premises-licence-annual-fee-reminders/): For licensing advisers and operators in England and Wales: one list of every premises licence, its annual fee date, who pays, and proof that it was paid.
+- [UST inspection and testing reminders](https://mikeautomations.github.io/en/ust-inspection-and-testing-reminders/): For UST compliance contractors and fuel site owners: one list of every site's 30-day walkthroughs, annual tests and three-year tests, with records saved.
 
 ## Blog
 - [All articles](https://mikeautomations.github.io/en/blog/)

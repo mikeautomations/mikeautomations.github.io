@@ -18898,6 +18898,176 @@ They drive for your business, so most fleet guidance says to check them the same
 ### How much does it cost?
 Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
 
+## Driver badges, vehicle licences and insurance: every expiry date on one list, chased before it passes
+Source: https://mikeautomations.github.io/en/taxi-and-private-hire-licence-expiry-tracking/
+
+A licence expiry workflow keeps one row per driver and one per vehicle, with every date that can stop them working: the driver's badge, the vehicle licence, hire and reward insurance, the council's vehicle test and anything else your council asks for. Weeks before a date, it reminds the driver, asks for a photo of the new document, and tells your office which jobs are still open.
+
+A private hire operator answers for the drivers and vehicles it sends out. Each one carries several dates, and they don't line up. In England and Wales outside London, a driver licence normally lasts three years and an operator licence five. A vehicle licence is usually issued for a year, and some councils use six months for older vehicles. Insurance renews on its own date, and so does the vehicle test. Most offices keep these in a spreadsheet that someone means to check on Mondays. The date that gets missed is found when a driver is stopped, or when the council asks to see your records.
+
+### Where expiry dates get missed
+- The spreadsheet is only as current as the last time someone had a quiet hour
+- Drivers renew their badge but don't send the office a copy, so the list still shows the old date
+- Insurance is renewed monthly or yearly by each owner-driver, on dates nobody in the office chose
+- A vehicle changes hands or a driver swaps cars, and the dates stay against the wrong person
+- The council takes weeks to process a renewal, so a reminder one week before is too late
+- A driver's dispatch login keeps working after a document has run out
+- The operator licence itself renews so rarely that nobody remembers the date
+
+### What the list holds
+One row per driver and one per vehicle. The dates and lead times come from your own council's licence conditions.
+| On the row | Why it is there |
+| --- | --- |
+| Driver, badge number and licensing council | Drivers licensed by different councils follow different rules |
+| Badge expiry date | The date the driver has to stop taking jobs without a renewal |
+| Other driver dates your council asks for, such as DBS or medical | Each council sets its own, so they are entered from its conditions |
+| Vehicle, plate number and who drives it | So a reminder reaches the person who can act on it |
+| Vehicle licence expiry and next council test or MOT | Often two dates in the same year |
+| Hire and reward insurance expiry | The date that changes most often |
+| Copy of each current document | What you show the council when it asks |
+| Status: current, renewal started, proof received, expired | So open renewals are visible |
+
+### How the workflow runs
+1. Once, at the start: every driver and vehicle is entered with its current dates and a copy of each document.
+2. Eight weeks before a badge or vehicle licence runs out, the driver gets a text with the date and a link to their council's renewal page. You choose the lead time.
+3. Two weeks before an insurance or test date, the driver is asked to send a photo of the new certificate through a form.
+4. When a photo arrives, a named person in your office checks the name, the vehicle and the dates, and saves it.
+5. If nothing arrives, the driver is reminded again at set intervals, and your office is told a week before the date.
+6. On the day a document runs out with no proof on file, your office gets a message so the driver can be taken off dispatch.
+7. Every Monday, the office gets one list: what runs out in the next eight weeks, what is waiting to be checked and what has expired.
+8. The operator licence has its own row, with a reminder months before it ends.
+
+### What stays with a person
+A person checks every document and decides who works. The workflow doesn't apply to the council for anyone, doesn't judge whether a certificate is valid and doesn't block a driver in your dispatch system by itself: it tells your office, and your office acts. If AI drafts a reminder, a person on your team approves the wording first. Licence conditions differ between councils, and London and Scotland have their own systems, so the dates and rules on your list come from your own licensing authority. If you also check drivers' ordinary licences with DVLA, that fits on the same list as [driving licence checks for staff who drive for work](https://mikeautomations.github.io/en/driving-licence-check-reminders-grey-fleet/). Garages that test and service the vehicles can run their own [MOT reminders](https://mikeautomations.github.io/en/garage-mot-reminders/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many drivers and vehicles you have and where the dates live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your email, text messages, an online form and a shared folder for document copies). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your dispatch system already tracks documents and sends reminders, we'll say so on the call and you may not need us.
+
+### How long do taxi and private hire licences last?
+In England and Wales outside London, the standard length since October 2015 is three years for a driver licence and five years for an operator licence. Vehicle licences are usually issued for a year, and some councils use shorter periods. Check your own council's conditions.
+
+### Does the workflow stop a driver from taking jobs?
+No. It tells your office the day a document runs out with no proof on file. A person in your office decides and takes the driver off dispatch.
+
+### Our drivers are licensed by different councils. Does that work?
+Yes. Each row names the licensing council, and the dates and lead times for that driver or vehicle are set from that council's conditions.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Premises licence annual fees: every due date on one list, paid before the council suspends anything
+Source: https://mikeautomations.github.io/en/premises-licence-annual-fee-reminders/
+
+A premises licence fee workflow keeps one row per licence with the date it was granted, the council, and who pays. Weeks before each anniversary, it reminds the person who pays, asks for proof of payment, and tells a named person about any fee still open as the date gets close. It works for an operator with several sites or for a licensing adviser who looks after clients' licences.
+
+Under the Licensing Act 2003, a premises licence in England and Wales carries an annual fee, payable each year on the anniversary of the day the licence was granted. If the fee isn't paid, the licensing authority must suspend the licence, and selling alcohol or carrying on other licensable activities under a suspended licence is an offence. The suspension ends when the fee is paid. The amount is small next to a weekend's lost trade. The fee is missed because the date is different for every site, the invoice goes to an old address or a manager who has left, and nobody is named as the person who pays it.
+
+### Where the annual fee gets missed
+- Every site has a different anniversary, and none of them match the financial year
+- The council's invoice or reminder goes to the premises, where a new manager doesn't know what it is
+- The licence was transferred when the business was bought, and the date stayed in the seller's diary
+- Head office assumes the site pays, and the site assumes head office pays
+- The fee was paid but nobody kept the receipt, so there is nothing to show when the council says it wasn't
+- A licensing adviser handled the application years ago and no one has looked at the licence since
+- Club premises certificates have the same yearly fee and are run by volunteers who change
+
+### What the list holds for each licence
+One row per premises licence or club premises certificate. The date comes from the licence itself.
+| On the row | Why it is there |
+| --- | --- |
+| Premises, licence number and licensing authority | Each council has its own payment page and contact |
+| Date the licence was granted | The fee falls due on this anniversary each year |
+| Licence holder and the address the council writes to | So you can see when the council's letters go somewhere unread |
+| Who pays: site, head office or adviser on the client's behalf | One named person per licence |
+| Amount on last year's invoice | So the payer knows roughly what to expect; the council's invoice sets the amount |
+| Proof of payment for each year | What you send the council if a payment is questioned |
+| Status: not due, reminded, paid, proof saved, escalated | So open fees are visible |
+
+### How the workflow runs
+1. Once, at the start: every licence is entered with its grant date, council and payer, read from the licence document.
+2. Six weeks before the anniversary, the payer gets an email with the premises, the date and a link to that council's payment page.
+3. The payer pays the council in the usual way and replies with the receipt or a screenshot, through a form or by email.
+4. A named person checks the receipt against the licence and saves it on the row.
+5. If no proof arrives, the payer is reminded three weeks and one week before the date.
+6. One week before the date, any fee still open goes to the operations director or the adviser's client contact by name.
+7. If a suspension notice arrives from the council, it is logged on the row and the same person is told the same day.
+8. On the first of each month, you get one list: fees due in the next two months, proof waiting to be checked and anything overdue.
+
+### What stays with a person
+A person pays every fee and checks every receipt. The workflow doesn't pay the council, doesn't hold card details and doesn't decide what to do about a suspension notice. The Act sets a 21-day grace period that applies in limited cases, and a suspension needs written notice of at least two working days. Councils differ on when they send that notice. Whether the grace period applies to you is a question for your licensing adviser and section 55A of the Act, and this page isn't legal advice. If AI drafts a reminder, a person on your team approves the wording first. Scotland and Northern Ireland have their own licensing systems, so this page covers England and Wales only. If your sites are leased, the same list can sit next to your [lease critical dates](https://mikeautomations.github.io/en/commercial-lease-critical-dates-tracking/), and restaurant groups can pair it with [group booking and private dining enquiries](https://mikeautomations.github.io/en/restaurant-group-booking-and-private-dining-enquiries/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many licences you hold or look after and who pays each one today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your email, an online form and a shared folder for receipts). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If you have one licence and one diary, a yearly calendar entry does the job, and we'll say so on the call.
+
+### When is the premises licence annual fee due?
+Each year on the anniversary of the date the licence was granted. The date is on the licence, and it is different for every premises.
+
+### What happens if the annual fee isn't paid?
+The licensing authority must suspend the licence. It gives written notice first, and the suspension ends when the fee is paid. Carrying on licensable activities while suspended is an offence, so ask your licensing adviser straight away if a notice arrives.
+
+### Does the workflow pay the fee for us?
+No. A person pays the council in the usual way. The workflow reminds the payer, collects the receipt and tells a named person about any fee still open a week before the date.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
+## Underground storage tank walkthroughs and tests: every due date on one list, every record in one folder
+Source: https://mikeautomations.github.io/en/ust-inspection-and-testing-reminders/
+
+A UST reminder workflow keeps one row per site with each recurring job on its own date: the 30-day walkthrough, the annual checks and tests, and the three-year tests. It reminds the person who does each job, collects the completed checklist or test report through a form, and shows what is open. When a state inspector asks for records, they are already in one folder per site.
+
+A gas station or fleet fueling site with underground tanks has several inspection clocks running at once. Under EPA's 2015 rule, a walkthrough inspection is due every 30 days, containment sumps are checked once a year, release detection equipment is tested once a year, and spill buckets, some sumps and overfill equipment are tested or inspected at least every three years. Most states run their own UST program, and some differ from the federal schedule. The 30-day job is short, which is why it slips: it sits with a store manager who has other things to do. The three-year job is rare, which is why it's forgotten.
+
+### Where UST schedules break down
+- The 30-day walkthrough is done from memory, and the checklist is filled in later or not at all
+- A store manager leaves and the new one is never told the walkthrough exists
+- Three-year tests were all done together once, and nobody wrote down when the next round is due
+- Test reports stay in the testing company's email and never reach the site's file
+- A contractor with forty client sites keeps the dates in one technician's head
+- A failed test leads to a repair, and the retest date isn't recorded anywhere
+- The inspector asks for a year of walkthrough records and three are missing
+
+### What the list holds for each site
+One row per site, with one line per recurring job. The intervals below are the federal ones. Your state's rules decide what goes on each row.
+| Job | Federal interval under EPA's 2015 rule |
+| --- | --- |
+| Walkthrough: spill prevention and release detection equipment | Every 30 days |
+| Walkthrough: containment sumps | Once a year |
+| Release detection equipment operation test | At least once a year |
+| Spill prevention equipment test | At least every three years, unless double-walled and monitored |
+| Containment sump test, where sumps are used for interstitial monitoring of piping | At least every three years, unless double-walled and monitored |
+| Overfill prevention equipment inspection | At least every three years |
+| Records: walkthroughs | Keep the most recent year |
+| Records: tests | Keep for at least three years |
+
+### How the workflow runs
+1. Once, at the start: each site is entered with its tanks, its state, the last date of every job and who does it.
+2. Five days before a 30-day walkthrough is due, the site contact gets a text with a link to the checklist form.
+3. They walk the site, fill in the form on a phone and add photos. The completed checklist is saved to the site's folder with the date.
+4. If the form isn't in by the due date, the site contact is reminded, and the owner or the contractor's office is told two days later.
+5. Sixty days before an annual or three-year test, the testing company and the site owner are told, so the visit can be booked.
+6. After the visit, the test report is uploaded and a named person checks it and enters the result.
+7. A failed item opens a repair line with its own retest date.
+8. On the first of each month, each owner gets one page per site: jobs done, jobs due and anything open.
+
+### What stays with a person
+A person does every walkthrough and every test, and a person decides what a result means. The workflow doesn't read tank gauges, doesn't decide whether equipment passed, and doesn't report anything to a regulator. Which rules apply to a site, and whether it qualifies for a different schedule, is decided by the owner and their compliance contractor from the state's own rules. This page isn't legal advice. If AI drafts a reminder or a monthly summary, a person on your team approves it before it goes out. Contractors who also inspect construction sites can keep those visits on the same system as their [SWPPP inspections](https://mikeautomations.github.io/en/swppp-inspection-reminders-and-reports/), and plumbing firms use the same pattern for [annual backflow tests](https://mikeautomations.github.io/en/backflow-test-reminders-plumbers/).
+
+### How Mike Automations would build this
+A [free 15-minute call](https://mikeautomations.github.io/call/) about how many sites you run or look after and where the records live today. Within 48 hours you get a written plan with a fixed price and a clear definition of "working". It's built on what you already use (a spreadsheet, your email, text messages, an online form and a shared folder per site). Live in 2-3 days. [Workflow automation is a fixed $2,000](https://mikeautomations.github.io/en/pricing/), and you pay once it's running and you're happy with it, under the [pay-when-happy agreement](https://mikeautomations.github.io/en/agreement/). If your compliance software already schedules these jobs and stores the records, we'll say so on the call and you may not need us.
+
+### How often is a UST walkthrough inspection required?
+Under EPA's 2015 rule, every 30 days for spill prevention and release detection equipment, and once a year for containment sumps. Most states run their own program and some differ, so check your state's rules.
+
+### How long do UST records need to be kept?
+EPA's guidance says to keep the most recent year of walkthrough records and at least three years of test records. Your state may ask for more.
+
+### Does the workflow replace our testing company?
+No. A person does every walkthrough and a qualified tester does every test. The workflow reminds them, collects the checklist or report and shows what is still open.
+
+### How much does it cost?
+Workflow automation is a fixed $2,000, paid once it's running and you're happy with it. The first 3 businesses pay $1,500. Optional support is $150 a month.
+
 ## MTD for Income Tax: a quarterly update workflow for UK practices
 Source: https://mikeautomations.github.io/en/blog/making-tax-digital-income-tax-practice-workflow/ (2026-11-10)
 
