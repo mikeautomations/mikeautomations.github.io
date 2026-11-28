@@ -271,6 +271,7 @@ https://mikeautomations.github.io/en/examples/
 https://mikeautomations.github.io/en/guide/
 https://mikeautomations.github.io/en/terms/
 https://mikeautomations.github.io/en/cookies/
+https://mikeautomations.github.io/en/small-business-automation-statistics/
 https://mikeautomations.github.io/en/guides/
 https://mikeautomations.github.io/en/blog/
 https://mikeautomations.github.io/en/free-tools/

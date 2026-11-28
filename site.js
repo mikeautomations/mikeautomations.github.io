@@ -37,12 +37,12 @@
   document.querySelectorAll("form[data-plan]").forEach((f) => f.addEventListener("submit", async (e) => {
     e.preventDefault();
     const el = f.elements, status = f.querySelector(".plan-status"), btn = f.querySelector("button");
-    for (const k of ["name", "email", "business"]) if (!el[k].checkValidity()) { el[k].reportValidity(); return; }
+    for (const k of ["email", "pain"]) if (!el[k].checkValidity()) { el[k].reportValidity(); return; }
     if (el.website && el.website.value) return;
     btn.disabled = true;
     let ok = false;
     try {
-      const r = await fetch(endpoint, { method: "POST", headers: { "Content-Type": "text/plain;charset=utf-8" }, body: JSON.stringify({ name: el.name.value.trim(), email: el.email.value.trim(), business: el.business.value.trim(), pain: el.pain.value.trim(), prefs: "Free 1-page automation plan request", page: location.pathname, lang }) });
+      const r = await fetch(endpoint, { method: "POST", headers: { "Content-Type": "text/plain;charset=utf-8" }, body: JSON.stringify({ name: el.email.value.trim().split("@")[0], email: el.email.value.trim(), business: el.pain.value.trim().slice(0, 120), pain: el.pain.value.trim(), prefs: "Free 1-page automation plan request", page: location.pathname, lang }) });
       const j = await r.json().catch(() => ({}));
       ok = j.ok === true;
     } catch {}
