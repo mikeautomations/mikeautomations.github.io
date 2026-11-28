@@ -108,6 +108,7 @@
   result.setAttribute("aria-live", "polite");
   result.setAttribute("aria-atomic", "true");
 
+  let dirty = false;
   const cfg = () => DATA.modes.find((m) => m.id === mode.value) || DATA.modes[0];
   const fill = (tpl, map) => tpl.replace(/\{(\w+)\}/g, (_, k) => (k in map ? map[k] : ""));
 
@@ -117,6 +118,7 @@
     bLab.textContent = c.b;
     aIn.placeholder = c.aPlaceholder || "";
     bIn.placeholder = c.bPlaceholder || "";
+    if (!dirty) { aIn.value = ((c.aPlaceholder || "").match(/\d[\d.,]*/) || [""])[0]; bIn.value = ((c.bPlaceholder || "").match(/\d[\d.,]*/) || [""])[0]; }
   }
 
   function update() {
@@ -146,7 +148,7 @@
     if (c.formula) result.append(el("p", "ft-hint", c.formula));
   }
 
-  [aIn, bIn].forEach((n) => n.addEventListener("input", update));
+  [aIn, bIn].forEach((n) => n.addEventListener("input", () => { dirty = true; update(); }));
   mode.addEventListener("change", () => { labels(); update(); });
 
   app.textContent = "";

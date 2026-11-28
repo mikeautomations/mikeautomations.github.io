@@ -159,6 +159,8 @@
   modeInputs.add.addEventListener("change", render);
   modeInputs.remove.addEventListener("change", render);
 
+  if (amt.value.trim() === "") amt.value = "100";
+  render();
   app.textContent = "";
   app.append(box);
 })(typeof globalThis !== "undefined" ? globalThis : this);
