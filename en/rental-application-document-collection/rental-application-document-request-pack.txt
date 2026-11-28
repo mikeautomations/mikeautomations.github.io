@@ -1,0 +1,27 @@
+Rental application document collection for property managers, without the inbox chase
+Free templates from Mike Automations: https://mikeautomations.github.io/en/rental-application-document-collection/
+Edit the words in [brackets] before you send. A person should read every message before it goes out.
+
+----------------------------------------
+Sent the moment an application comes in (edit the words in brackets)
+----------------------------------------
+Hi [first name], thanks for applying for [address, unit]. To review your application we need the items below from each adult who will live there:
+
+1. Photo ID
+2. Proof of income: [your accepted documents]
+3. Current or last landlord: name, phone and email
+4. The signed screening permission form: [link]
+
+Upload everything here: [secure link]. Please don't send ID by text or email. We review complete applications in the order they're finished, using the same criteria for everyone: [link to criteria]. Questions? Reply to this message. [company name], [phone]
+
+----------------------------------------
+Checklist: what to collect from each adult applicant
+----------------------------------------
+[ ] Photo ID (never by text or email)
+[ ] Proof of income, as your written criteria allow (pay stubs, offer letter, benefit letters)
+[ ] Current or last landlord: name, phone, email
+[ ] Employer reference contact, only if your criteria use it
+[ ] Signed permission for screening
+
+----------------------------------------
+Want this running on its own? Book a free 15-minute call: https://mikeautomations.github.io/call/

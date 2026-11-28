@@ -69,6 +69,8 @@
         document.querySelectorAll("form[data-plan], form[data-subscribe], form[data-book]").forEach((f) => io.observe(f));
       }
       window.formSubmitted = (f) => hit("/form-submit/" + kind(f) + location.pathname, from);
+      // The two links under a tool's result: "/tool-cta/<plan|book>/<page>" in the same sheet.
+      document.addEventListener("click", (e) => { const a = e.target.closest && e.target.closest("a[data-tl]"); if (a) hit("/tool-cta/" + a.dataset.tl + location.pathname, from); });
     }
   } catch {}
   document.querySelectorAll("dialog form").forEach((f) => f.addEventListener("submit", async (e) => {

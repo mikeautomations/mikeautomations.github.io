@@ -6865,6 +6865,7 @@ Decide what you need once, write it down and send the same list to every applica
 | Signed permission for screening | Your right to run a credit or background check | The FTC says written permission helps show you have a permissible purpose |
 
 ### A document request message you can copy
+The request message and the document checklist are in one plain text file you can download and reuse. [Download the templates (.txt)](https://mikeautomations.github.io/en/rental-application-document-collection/rental-application-document-request-pack.txt).
 Sent the moment an application comes in (edit the words in brackets):
 ```
 Hi [first name], thanks for applying for [address, unit]. To review your application we need the items below from each adult who will live there:
@@ -7826,6 +7827,7 @@ This assumes a two-week intro offer. Stretch or shorten the gaps for a 30-day of
 | 2 weeks later, not bought | Email | One last message: the door is open, here's the timetable. Then the messages stop |
 
 ### The email before the offer ends
+Both messages below are in one plain text file you can download, edit and paste into your booking app or email. [Download the templates (.txt)](https://mikeautomations.github.io/en/fitness-studio-intro-offer-follow-up/fitness-intro-offer-follow-up-templates.txt).
 Four days before the intro offer ends (edit the words in brackets):
 ```
 Hi [first name], you've been to [number] classes since you started on [start date], including [class names]. Your intro offer ends on [end date]. If you'd like to keep going, here are the options: [monthly membership, price and what it includes], or [class pack, price and number of classes]. You can choose here: [link]. If neither fits, tell me what you'd like and I'll see what we can do. Either way, thanks for trying [studio name]. [instructor or owner name]
@@ -8183,6 +8185,7 @@ Adjust the timings to your own check-in and checkout times. For Airbnb bookings,
 | Any cancellation or date change | Cleaner and you | The turnover is moved or removed, and the cleaner confirms they've seen it |
 
 ### A check-in message template
+All the guest messages on this page (check-in, booking confirmation, checkout, review request) are in one plain text file you can download and edit. [Download the templates (.txt)](https://mikeautomations.github.io/en/short-term-rental-guest-messages/short-term-rental-guest-message-templates.txt).
 Morning of arrival (edit the words in brackets):
 ```
 Hi [first name], we're looking forward to having you at [property name] today. Check-in is from [time].
@@ -21652,7 +21655,7 @@ Only in tools whose data terms you've checked and approved, with a record of whi
 Usually reminders. Scheduled requests and filing give the biggest time savings with the least risk. AI comes next, for reading documents and drafting replies, with a person approving.
 
 ## How much does business automation cost for a small business?
-Source: https://mikeautomations.github.io/en/blog/business-automation-cost/ (2026-11-27)
+Source: https://mikeautomations.github.io/en/blog/business-automation-cost/ (2026-11-28)
 
 How much does business automation cost? For a small business it has three parts: a one-off build, software subscriptions and optional support. With Mike Automations one process costs $2,000 once ($1,500 for the first 3 clients), and support is optional at $150 a month. The platform underneath often adds little or nothing a month.
 
@@ -21723,6 +21726,24 @@ Not sure which process to automate first? Read [what to automate first](https://
 
 ### For illustration: the sum
 For illustration only, with made-up inputs you should replace with your own: a firm spends 5 hours a month chasing documents, and an hour is worth $40 to it. That's $200 a month, or $2,400 a year, before counting any lost clients. Against that: a $2,000 build plus a platform plan of, say, $20 a month ($240 a year). In this example the build pays for itself within the first year, and every year after costs only the subscription.
+
+### A three-year view: what automation costs over time
+The build is a one-off, so the yearly cost falls after the first year. For illustration only, with made-up inputs to replace with your own: one process built for $2,000, an automation platform plan of $20 a month, and no paid support.
+- Over three years that example comes to $2,720 for one process. Add a second process and only the build and any extra platform usage are new costs.
+- If you take our optional support, add $1,800 a year ($150 a month), after the first 60 days of small fixes that are included.
+|  | Year 1 | Year 2 | Year 3 |
+| --- | --- | --- | --- |
+| Build (one process) | $2,000 | $0 | $0 |
+| Platform plan at $20 a month | $240 | $240 | $240 |
+| Support (optional, $150 a month) | $0 if skipped | $0 if skipped | $0 if skipped |
+| Total | $2,240 | $240 | $240 |
+
+### Hidden costs people forget
+- Owner time: a few hours on the call, answering questions and testing with real cases. Plan for it, since it is the one cost nobody invoices.
+- Rework: if the process is not written down before the build, you pay for changes later. A [short brief](https://mikeautomations.github.io/en/blog/how-to-brief-an-automation-project/) avoids most of it.
+- Plan upgrades: some apps only allow connections on higher plans, so check this before you buy.
+- Volume growth: more leads or documents mean more tasks, credits or executions on the platform.
+- Maintenance: apps change and passwords expire. Either someone on your team looks after it or you pay for support.
 
 ### Cost traps to watch for
 - Per-step pricing on a busy workflow: a long workflow that runs thousands of times a month can push you up several plan tiers.
@@ -28267,7 +28288,7 @@ Source: https://mikeautomations.github.io/he/document-collection-automation/ (20
 איסוף מסמכים מלקוחות בצורה מסודרת עובד כך: כל לקוח מקבל רשימה אישית וקישור העלאה, כל קובץ נשמר בתיק שלו, והוא מקבל תזכורת רק על מה שחסר. כך לא נשארים תעודות זהות ותלושים מפוזרים בוואטסאפ ובמייל. הקמה של תהליך כזה אצלי עולה החל מ-5,500 ₪ ומוכנה תוך יום-יומיים.
 
 ### בוט וואטסאפ לעסק: מה זה, מה עולה, ומתי באמת צריך אחד
-Source: https://mikeautomations.github.io/he/whatsapp-business-automation/ (2026-11-27)
+Source: https://mikeautomations.github.io/he/whatsapp-business-automation/ (2026-11-28)
 
 בוט וואטסאפ לעסק הוא תהליך אוטומטי שעונה מיד לכל פנייה חדשה בוואטסאפ, שואל כמה שאלות קצרות, שומר את הפרטים ברשימת הלקוחות ומעביר את השיחה לאדם כשצריך. הוא עובד דרך הממשק הרשמי של Meta (WhatsApp Business Platform), ש-Meta גובה עליו לפי הודעה. אם יש לכם מעט פניות, אפליקציית WhatsApp Business החינמית עם הודעת פתיחה ותשובות מהירות כנראה מספיקה. אצלי הקמה של בוט כזה מתחילה מ-5,500 ₪.
 
@@ -28327,12 +28348,12 @@ Source: https://mikeautomations.github.io/he/automation-classes-courses/ (2026-1
 אוטומציה לחוגים מסדרת את מה שקורה בכל תחילת שנה ובכל חודש: טופס הרשמה אחד שאוסף את פרטי ההורה והילד והאישורים הנדרשים, רשימת המתנה שמזמינה את הבא בתור כשמתפנה מקום, תזכורת תשלום למי שלא שילם, והודעה לכל הקבוצה כשיש שינוי או ביטול. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
 ### אוטומציה למשרד אדריכלים: פחות מרדפים אחרי מסמכים ואישורים
-Source: https://mikeautomations.github.io/he/automation-architects/ (2026-11-27)
+Source: https://mikeautomations.github.io/he/automation-architects/ (2026-11-28)
 
 אוטומציה למשרד אדריכלים מסדרת את מה שחוזר בכל פרויקט: רשימת מסמכים שהלקוח צריך להעביר עם תזכורות עד שהכול מגיע, אישור כתוב של הלקוח על כל שלב תכנון לפני שממשיכים, דרישת תשלום שיוצאת כשנסגר שלב לפי ההסכם, ועדכון קבוע ללקוח איפה הפרויקט עומד. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
 ### אוטומציה לעמותות: פחות עבודה משרדית, יותר זמן לפעילות
-Source: https://mikeautomations.github.io/he/automation-nonprofits/ (2026-11-27)
+Source: https://mikeautomations.github.io/he/automation-nonprofits/ (2026-11-28)
 
 אוטומציה לעמותה מטפלת לבד בעבודה המשרדית שחוזרת כל חודש: הודעת תודה וקבלה לכל תורם, התראה כשהוראת קבע נכשלת, שיבוץ ותזכורות למתנדבים, ותזכורות לפני מועדי דיווח לקרנות. הכול נשמר ברשימה אחת שכל הצוות רואה. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
@@ -28377,12 +28398,12 @@ Source: https://mikeautomations.github.io/he/automation-driving-school/ (2026-11
 אוטומציה למורה נהיגה מאפשרת לתלמידים לקבוע שיעור בקישור לפי השעות שפתחתם, שולחת תזכורת יום לפני עם השעה ונקודת האיסוף, מראה כמה שיעורים כל תלמיד שילם ועשה, ושולחת רשימת הכנה לפני הטסט. שיעור שבוטל מוצע אוטומטית לתלמיד הבא ברשימת ההמתנה. תהליך אחד עולה החל מ-5,500 ₪ ומוכן תוך יום-יומיים.
 
 ### אוטומציה לעסקים: מאיפה מתחילים, ומה כדאי שיעבוד לבד
-Source: https://mikeautomations.github.io/he/business-automation/ (2026-11-27)
+Source: https://mikeautomations.github.io/he/business-automation/ (2026-11-28)
 
 אוטומציה לעסקים היא הגדרה של משימות שחוזרות על עצמן, כמו מענה לפנייה חדשה, תזכורות, בקשת מסמכים ומעקב אחרי הצעות מחיר, כך שיקרו לבד בלי שמישהו יזכור לעשות אותן. מתחילים מתהליך אחד שחוזר כל שבוע, רואים שהוא עובד, ורק אז מרחיבים. זה מתאים כמעט לכל סוג עסק: קבלנים, קליניקות, סלונים, משרדי עורכי דין, מתווכים, רואי חשבון ועוד.
 
 ### כמה עולה אוטומציה לעסק? המחירים, בלי לחכות להצעה
-Source: https://mikeautomations.github.io/he/automation-cost/ (2026-11-27)
+Source: https://mikeautomations.github.io/he/automation-cost/ (2026-11-28)
 
 כמה עולה אוטומציה לעסק? אצלי, אוטומציה לתהליך אחד עולה החל מ-5,500 ₪, מערכת שבנויה לעסק החל מ-9,000 ₪, וליווי חודשי (לא חובה) החל מ-900 ₪ לחודש. המחיר הסופי כתוב בהצעה אחרי שיחת מיפוי של 15 דקות, ולפעמים מתווספת עלות חודשית קטנה לכלים עצמם.
 

@@ -1,0 +1,34 @@
+Short-term rental guest messaging automation, from booking to review
+Free templates from Mike Automations: https://mikeautomations.github.io/en/short-term-rental-guest-messages/
+Edit the words in [brackets] before you send. A person should read every message before it goes out.
+
+----------------------------------------
+Morning of arrival (edit the words in brackets)
+----------------------------------------
+Hi [first name], we're looking forward to having you at [property name] today. Check-in is from [time].
+
+Address: [full address]. [Parking note].
+Getting in: the key safe is [location], code [code]. The code works from [time] today.
+Wi-Fi: [network], password [password].
+House rules: [link]. The most important ones are [quiet hours] and [parties / smoking rule].
+
+If anything isn't right when you arrive, reply here and we'll sort it. Enjoy your stay.
+[your name]
+
+----------------------------------------
+Booking confirmation (edit the words in brackets)
+----------------------------------------
+Hi [first name], thanks for booking [property name] from [arrival date] to [departure date]. You're all set. Check-in is from [time] and checkout is by [time]. I'll send the address details and check-in instructions on the morning you arrive. If you'd like to arrive earlier or leave later, or have any questions before then, reply here. [your name]
+
+----------------------------------------
+Day before checkout (edit the words in brackets)
+----------------------------------------
+Hi [first name], a quick note for tomorrow. Checkout is by [time]. Before you go: [leave the key in the key safe / lock the door and post the key through the letterbox], put rubbish in the [bin location], and load any dishes into the dishwasher. No need to strip the beds. If you need a later checkout, reply here and I'll tell you if it's possible. Thanks for staying with us. [your name]
+
+----------------------------------------
+Review request, the day after checkout
+----------------------------------------
+Hi [first name], thanks for staying at [property name]. We hope the trip went well. If you have a minute, a review would help other guests know what to expect. And if anything wasn't right, please tell us here so we can fix it. [your name]
+
+----------------------------------------
+Want this running on its own? Book a free 15-minute call: https://mikeautomations.github.io/call/

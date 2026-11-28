@@ -175,6 +175,7 @@
     c.addEventListener("input", render);
     c.addEventListener("change", render);
   }
+  miles.value = "100";
   app.textContent = "";
   app.append(box, err, out);
   render();

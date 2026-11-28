@@ -248,6 +248,11 @@
 
   fHourly.input.addEventListener("input", update);
   curSelect.addEventListener("change", update);
+  if (DATA.example) {
+    tasks.length = 0;
+    DATA.example.tasks.forEach((t) => tasks.push({ name: t.name, minutes: String(t.minutes), perWeek: String(t.perWeek) }));
+    fHourly.input.value = String(DATA.example.hourly);
+  }
   renderRows(-1);
   update();
 })(typeof window !== "undefined" ? window : globalThis);
