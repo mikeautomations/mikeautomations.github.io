@@ -6885,6 +6885,39 @@ Day spas offering massages, facials or body treatments use a simpler form than a
 - Photo consent and marketing permission as separate tick boxes, if you use either
 - Signature and date, saved with the version of the form they signed
 
+### A consent form outline you can copy
+This is a structure, not medical or legal wording. Your practitioner fills in the risks and contraindications for each treatment, and a qualified adviser or your insurer should review the finished form before you use it. In the UK, the health answers it collects are special category data, so keep them in a system with restricted access and tell clients how long you keep them.
+Consent form outline (fill in the brackets with your practitioner):
+```
+Consent form outline (a qualified adviser or your insurer should check it before use)
+
+1. Client: name, date of birth, phone, email.
+2. Treatment: [treatment name, in plain words], date, practitioner [name].
+3. Health check: [the questions your practitioner has written for this treatment, for example medication, allergies, pregnancy, skin conditions, recent surgery]. Tick yes or no, and add details.
+4. What the treatment involves: [description written by your practitioner].
+5. Possible effects and risks: [the common reactions and the less common risks your practitioner lists for this treatment].
+6. Who should not have this treatment, or should wait: [contraindications your practitioner lists].
+7. Alternatives, including no treatment: [your practitioner's wording].
+8. I have had the chance to ask questions and they were answered: yes / no.
+9. I will tell my practitioner if my health or medication changes before or during treatment: yes / no.
+10. Signature, date, and form version [number].
+```
+
+### Photo consent and aftercare acknowledgement
+Keep these separate from the treatment consent so that saying no to photos never affects the treatment.
+Photo consent and aftercare acknowledgement (edit the brackets):
+```
+Photo consent (separate from treatment consent; tick one)
+[ ] You may take photos for my clinical record only.
+[ ] You may also use photos on [website / social media / printed material], with my face [visible / not visible].
+I can withdraw this permission at any time by contacting [email or phone]. Saying no does not affect my treatment.
+
+Aftercare acknowledgement
+[ ] I was given the aftercare advice for [treatment] by [practitioner name] on [date].
+[ ] I know who to contact if I am worried: [phone], and out of hours: [what to do].
+Signature and date.
+```
+
 ### How digital consent and intake records stay organised
 1. The booking triggers one link to the right form for that treatment, so nobody picks the wrong one on the day.
 2. Answers and the signed consent are saved to the client's record with the date and form version.
@@ -21040,7 +21073,7 @@ Not at first. Let the automation gather information and draft the message, and h
 One. Pick a job that repeats often and follows the same steps, get it working and trusted, then move to the next. It's cheaper, easier to judge and easier for staff to adjust to.
 
 ## ChatGPT for small business admin: what to use it for, and what never to paste in
-Source: https://mikeautomations.github.io/en/blog/chatgpt-for-small-business-admin/ (2026-11-27)
+Source: https://mikeautomations.github.io/en/blog/chatgpt-for-small-business-admin/ (2026-11-28)
 
 ChatGPT for small business admin works best as a drafting assistant: first drafts of emails, policies, checklists and replies to common questions, plus tidying rough notes. Write prompts with placeholders such as [customer name] instead of real customer details, never paste in passwords, card or bank details, ID numbers or health information, and read every draft before it goes out. On individual ChatGPT plans (Free, Plus, Pro), OpenAI says your content may be used to train its models unless you turn off "Improve the model for everyone" in Settings > Data controls.
 
@@ -21127,6 +21160,11 @@ Prompt:
 ```
 Summarise this email thread in five bullet points: what was asked, what was agreed, what is still open, who needs to do what, and any dates mentioned. Thread: [paste the thread with names replaced by 'Customer', 'Supplier' and 'Me', and all contact details, account numbers and addresses removed]
 ```
+
+### Before and after: what a good prompt changes
+For illustration only. A vague prompt gets a generic answer: "Write an email to a customer about a late invoice." The result is usually stiff and invents details you did not give it.
+A better prompt gives the role, the facts and the limits: "You are the office manager of a small service business. Write a short, polite email reminding a customer that invoice [number] for [amount] was due on [date]. Give the payment link [link]. Keep it under 90 words, no threats, and do not invent any dates or fees." Now the draft uses your facts, the tone is controlled, and you can check it in seconds before sending.
+You are still the editor. Read every draft, fix anything that is wrong, and never paste in anything from the checklist above.
 
 ### A safe routine for using ChatGPT at work
 1. Decide which account you'll use for work, and check its data settings before the first prompt.
@@ -25706,7 +25744,7 @@ The dates above are the deadlines. A bookkeeping calendar is the routine that ke
 | Quarter end | Management figures sent to clients who want them, and a check that MTD software authorisations are still live | No surprises at year end |
 
 ### Add these dates to your own calendar
-The fixed dates above are also free calendar files you can add to Google Calendar, Outlook or Apple Calendar, each with a reminder a week before. Subscribe by URL (in Google Calendar: Other calendars, From URL) to keep them in a separate calendar you can switch off, or download the file and import it.
+The fixed dates above are also free calendar files you can add to Google Calendar, Outlook or Apple Calendar, each with a reminder a week before. Subscribe by URL (in Google Calendar: Other calendars, From URL) to keep them in a separate calendar you can switch off, or download the file and import it. To keep a printed or PDF copy of the whole calendar, use your browser's Print and choose Save as PDF: the page prints without the menu and forms.
 - [All UK practice deadlines 2026-27](https://mikeautomations.github.io/en/calendar/uk-practice-2026-27.ics): Self Assessment, MTD for Income Tax, payroll and CIS
 - [Self Assessment only](https://mikeautomations.github.io/en/calendar/uk-self-assessment-2026-27.ics)
 - [MTD for Income Tax only](https://mikeautomations.github.io/en/calendar/uk-mtd-income-tax-2026-27.ics)
